@@ -29,6 +29,26 @@ body{
 	font-family:'Segoe UI','Roboto',system-ui,-apple-system,Segoe UI,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji";
 	line-height:1.65;
 }
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar{
+	width:8px;
+	height:8px;
+}
+::-webkit-scrollbar-track{
+	background:var(--bg);
+}
+::-webkit-scrollbar-thumb{
+	background:var(--panel-2);
+	border-radius:4px;
+}
+::-webkit-scrollbar-thumb:hover{
+	background:var(--accent);
+}
+* {
+	scrollbar-width:thin;
+	scrollbar-color:var(--panel-2) var(--bg);
+}
 .site-header{
 	display:flex;
 	align-items:center;
@@ -48,7 +68,7 @@ body{
 .search-item:hover{background:var(--panel-2)}
 .theme-toggle{background:var(--panel-2);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:8px;cursor:pointer}
 
-.layout{display:grid;grid-template-columns:260px 1fr 240px;gap:0;min-height:calc(100vh - 66px)}
+.layout{display:grid;grid-template-columns:260px 1fr 240px;gap:0;height:calc(100vh - 66px)}
 .layout.no-toc{grid-template-columns:260px 1fr 0px}
 
 /* Collapsible Sections - BORDERLESS MINIMAL */
@@ -297,18 +317,87 @@ body{
 	box-shadow:0 8px 24px rgba(0,0,0,0.4);
 	border-color:var(--accent);
 }
-.card:hover::before{
-	opacity:1;
+
+/* Discord Widget Button */
+.discord-widget-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #5865F2; /* Discord blurple */
+    color: white;
+    border: none;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    z-index: 1001;
+    transition: all 0.2s ease;
 }
-.card h3{
-	margin:0 0 12px;
-	font-size:1.3em;
-	color:var(--text);
+
+.discord-widget-toggle:hover {
+    transform: scale(1.1);
+    background-color: #4f5bda;
 }
-.card p{
-	margin:0;
-	color:var(--muted);
-	line-height:1.6;
+
+/* Discord Widget Container */
+.discord-widget-container {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+    width: 380px;
+    max-width: 90vw;
+    height: 600px;
+    max-height: 70vh;
+    border-radius: 12px;
+    background: var(--panel);
+    border: 2px solid var(--border);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    animation: modalSlideIn 0.3s ease; /* Reuse existing animation */
+}
+
+.discord-widget-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    background: var(--panel-2);
+    border-bottom: 2px solid var(--border);
+    color: var(--text);
+    font-weight: 500;
+}
+
+.discord-widget-header span {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.discord-widget-close {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 24px;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.discord-widget-close:hover {
+    color: var(--accent);
+}
+
+widgetbot {
+    flex: 1;
+    min-height: 0;
 }
 
 /* Alert/Callout Boxes */
@@ -373,6 +462,136 @@ body{
 	justify-content:center;
 	font-weight:700;
 	font-size:18px;
+}
+
+/* Modal Styling */
+.modal{
+	display:none;
+	position:fixed;
+	z-index:1000;
+	left:0;
+	top:0;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,0.8);
+	align-items:center;
+	justify-content:center;
+	backdrop-filter:blur(4px);
+}
+.modal-content{
+	background:var(--panel);
+	border:2px solid var(--border);
+	border-radius:12px;
+	max-width:500px;
+	width:90%;
+	box-shadow:0 8px 32px rgba(0,0,0,0.6);
+	animation:modalSlideIn 0.3s ease;
+}
+@keyframes modalSlideIn{
+	from{
+		opacity:0;
+		transform:translateY(-20px);
+	}
+	to{
+		opacity:1;
+		transform:translateY(0);
+	}
+}
+.modal-header{
+	display:flex;
+	align-items:center;
+	gap:12px;
+	padding:20px 24px;
+	border-bottom:2px solid var(--border);
+	background:var(--panel-2);
+	border-radius:12px 12px 0 0;
+}
+.modal-header i{
+	font-size:24px;
+	color:var(--accent);
+}
+.modal-header h2{
+	margin:0;
+	flex:1;
+	font-size:1.5em;
+	color:var(--text);
+}
+.modal-close{
+	background:transparent;
+	border:none;
+	color:var(--muted);
+	font-size:32px;
+	cursor:pointer;
+	padding:0;
+	width:32px;
+	height:32px;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	border-radius:4px;
+	transition:all 0.2s ease;
+}
+.modal-close:hover{
+	background:var(--panel);
+	color:var(--accent);
+}
+.modal-body{
+	padding:24px;
+}
+.modal-body p{
+	margin:8px 0;
+	line-height:1.6;
+}
+.email-address{
+	background:var(--panel-2);
+	padding:12px 16px;
+	border-radius:8px;
+	border:1px solid var(--border);
+	font-family:'Consolas','Monaco',monospace;
+	font-size:1.1em;
+	color:var(--accent);
+	user-select:all;
+	cursor:pointer;
+}
+.modal-footer{
+	padding:16px 24px;
+	border-top:1px solid var(--border);
+	display:flex;
+	gap:12px;
+	justify-content:flex-end;
+	background:var(--bg);
+	border-radius:0 0 12px 12px;
+}
+.modal-btn{
+	padding:12px 20px;
+	border-radius:8px;
+	border:none;
+	font-size:14px;
+	font-weight:500;
+	cursor:pointer;
+	display:flex;
+	align-items:center;
+	gap:8px;
+	text-decoration:none;
+	transition:all 0.2s ease;
+}
+.modal-btn-primary{
+	background:var(--accent);
+	color:white;
+}
+.modal-btn-primary:hover{
+	background:#E85555;
+	transform:translateY(-2px);
+	box-shadow:0 4px 12px rgba(198,61,61,0.4);
+}
+.modal-btn-secondary{
+	background:var(--panel-2);
+	color:var(--text);
+	border:1px solid var(--border);
+}
+.modal-btn-secondary:hover{
+	background:var(--panel);
+	border-color:var(--accent);
 }
 
 @media(max-width:1024px){
