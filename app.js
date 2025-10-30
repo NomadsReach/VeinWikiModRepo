@@ -56,7 +56,7 @@ function buildSidebar(){
 		<a href="https://store.steampowered.com/app/1857950/VEIN/" target="_blank" rel="noopener" aria-label="Steam" title="VEIN on Steam">
 			<img src="Media/Icons/steam.png" alt="Steam" class="social-icon">
 		</a>
-		<a href="mailto:veinmodding@protonmail.com" aria-label="Email" title="Contact us via Email">
+		<a href="#" id="emailLink" aria-label="Email" title="Contact us via Email">
 			<img src="Media/Icons/001-mail.png" alt="Email" class="social-icon">
 		</a>
 		</div>
@@ -64,6 +64,12 @@ function buildSidebar(){
 	frag.appendChild(footer);
 	
 	sidebarEl.appendChild(frag);
+	
+	// Add email popup handler
+	document.getElementById('emailLink').addEventListener('click', (e) => {
+		e.preventDefault();
+		alert('Please email all correspondence to: veinmodding@protonmail.com\n\nPlease use this email only for sensitive critical issues and not just general modding support questions. Join the Discord for that instead.');
+	});
 }
 
 function setActiveLink(){
