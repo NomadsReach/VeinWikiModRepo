@@ -48,7 +48,7 @@ body{
 .search-item:hover{background:var(--panel-2)}
 .theme-toggle{background:var(--panel-2);border:1px solid var(--border);color:var(--text);padding:8px 10px;border-radius:8px;cursor:pointer}
 
-.layout{display:grid;grid-template-columns:260px 1fr 240px;gap:0;min-height:calc(100vh - 66px)}
+.layout{display:grid;grid-template-columns:260px 1fr 240px;gap:0;height:calc(100vh - 66px)}
 .layout.no-toc{grid-template-columns:260px 1fr 0px}
 
 /* Collapsible Sections - BORDERLESS MINIMAL */

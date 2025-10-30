@@ -50,15 +50,15 @@ function buildSidebar(){
 	footer.innerHTML = `
 		<div class="footer-title">Community</div>
 		<div class="social-links">
-			<a href="https://discord.gg/nsaPf7wAkP" target="_blank" rel="noopener" aria-label="Discord" title="Join our Discord">
-				<img src="Media/Icons/002-discord.png" alt="Discord" class="social-icon">
-			</a>
-			<a href="https://store.steampowered.com/app/1857950/VEIN/" target="_blank" rel="noopener" aria-label="Steam" title="VEIN on Steam">
-				<i class="fab fa-steam social-icon-fa"></i>
-			</a>
-			<a href="mailto:veinmodding@protonmail.com" aria-label="Email" title="Contact us via Email">
-				<img src="Media/Icons/001-mail.png" alt="Email" class="social-icon">
-			</a>
+		<a href="https://discord.gg/nsaPf7wAkP" target="_blank" rel="noopener" aria-label="Discord" title="Join our Discord">
+			<img src="Media/Icons/002-discord.png" alt="Discord" class="social-icon">
+		</a>
+		<a href="https://store.steampowered.com/app/1857950/VEIN/" target="_blank" rel="noopener" aria-label="Steam" title="VEIN on Steam">
+			<img src="Media/Icons/steam.png" alt="Steam" class="social-icon">
+		</a>
+		<a href="mailto:veinmodding@protonmail.com" aria-label="Email" title="Contact us via Email">
+			<img src="Media/Icons/001-mail.png" alt="Email" class="social-icon">
+		</a>
 		</div>
 		<div class="footer-resources" style="margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);">
 			<a href="https://github.com/Buckminsterfullerene02/UE-Modding-Tools" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: var(--muted); text-decoration: none; padding: 4px 0;">
