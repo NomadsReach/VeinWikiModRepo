@@ -4,7 +4,6 @@ const contentEl = document.getElementById('content');
 const sidebarEl = document.getElementById('sidebar');
 const pageTocEl = document.getElementById('page-toc');
 
-// Renamed sidebar wording
 const NAV = [
 	{ title: 'Start Here', path: 'Pages/start-here.html', icon: 'fas fa-play-circle' },
 	{ title: 'Introduction to Modding', path: 'Pages/Introduction.html', icon: 'fas fa-book-open' },

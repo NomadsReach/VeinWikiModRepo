@@ -1,4 +1,4 @@
-# Node modules (if you ever add npm packages)
+# Node modules
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -58,7 +58,7 @@ temp/
 sw.js
 service-worker.js
 
-# Search index cache (if generated)
+# Search index cache
 search-index.json
 
 # Backup files
@@ -73,7 +73,7 @@ search-index.json
 Thumbs.db
 ehthumbs.db
 
-# Database files (if any)
+# Database files
 *.db
 *.sqlite
 *.sqlite3
