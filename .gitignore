@@ -1,0 +1,102 @@
+# Node modules (if you ever add npm packages)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and deployment files
+dist/
+build/
+public/
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Service worker cache
+sw.js
+service-worker.js
+
+# Search index cache (if generated)
+search-index.json
+
+# Backup files
+*.backup
+*_backup.*
+*.old
+
+# Mac specific
+**/.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# Compressed files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Optional: Uncomment if you want to ignore large media files
+# Media/
+# *.mp4
+# *.avi
+# *.mov
+# *.wmv
+# *.flv
+# *.mkv
+
+# Optional: Uncomment if you want to ignore specific folders
+# Resources/
+

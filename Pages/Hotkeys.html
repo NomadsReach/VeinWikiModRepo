@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotkeys in Blueprint</title>
+</head>
+<body>
+
+<h1>Hotkeys in Blueprint</h1>
+
+<p>For modders, hotkeys in Blueprints provide a way to execute additional logic when specific keys are pressed. This feature allows for the creation of custom in-game actions, shortcuts, and debug commands, enhancing the player's experience and testing efficiency.</p>
+
+<h2>Event Graph</h2>
+<p>The easiest way to monitor if a specific key is pressed is by using the following logic shown:</p>
+
+<p><img src="Pages/Media/HotKeys/1.png" alt="Hotkey Event Graph"></p>
+
+<p>To monitor more keys, use the <code>Sequence</code> flow node.</p>
+
+<p><img src="Pages/Media/HotKeys/2.png" alt="Sequence Node"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Useful for single use or togglable operations, like toggling a flashlight on and off.</p>
+
+<h2>Macro</h2>
+<p>The more keys you monitor, the messier it gets and to prevent "spaghetti code", it is recommended to use a custom Macro.</p>
+
+<ol>
+	<li>Left side panel, under the Macros section, press the <code>+</code> to create a new Macro and name it <code>KeyPressed</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/HotKeys/3.png" alt="Create Macro"></p>
+
+<ol start="2">
+	<li>Create the shown inputs and outputs in the Macro.</li>
+</ol>
+
+<p><img src="Pages/Media/HotKeys/4.png" alt="Macro Inputs/Outputs"></p>
+
+<ol start="3">
+	<li>Create the same logic as in the event graph, and connect the nodes as shown in the image.</li>
+</ol>
+
+<p><img src="Pages/Media/HotKeys/5.png" alt="Macro Logic"></p>
+
+<ol start="4">
+	<li>Now the macro can be used in the event graph. It's much cleaner and easier to read and maintain.</li>
+</ol>
+
+<p><img src="Pages/Media/HotKeys/6.png" alt="Using Macro"></p>
+
+<hr>
+
+<h3>Key press and release</h3>
+<p>If you need to monitor whenever a key is being pressed and released, create the following macro:</p>
+
+<p><img src="Pages/Media/HotKeys/7.png" alt="Press and Release Macro"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Useful for toggling actions while holding the key, like using an in-game tool while a key is being pressed.</p>
+
+<h3>Key down time</h3>
+<p>If you need to monitor the time a certain key is being held down, create the following macro:</p>
+
+<p><img src="Pages/Media/HotKeys/8.png" alt="Key Down Time Macro"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Useful for events where the player needs to hold a key for X amount of seconds, like opening a door or quick-action sequences in cinematics.</p>
+
+</body>
+</html>

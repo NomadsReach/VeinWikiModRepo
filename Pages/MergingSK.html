@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merging SK</title>
+</head>
+<body>
+
+<h1>Merging SK</h1>
+
+<p>Merging SkeletalMesh(SK) is where a specific mesh is merged into an already existing SK without changing its original structure or materials.<br>
+For example, a hat on top of a character, while keeping everything in its original state.</p>
+
+<p><em>This process is similar to SK swap but a bit shorter.</em></p>
+
+<p>This guide requires Blender and a Blender PSK-plugin to be able to import the <code>.psk</code> files which are exported from FModel/UModel.<br>
+Blender is free and available on <a href="https://www.blender.org/" target="_blank">Blender website</a> or on <a href="https://store.steampowered.com/app/365670/Blender/" target="_blank">Steam page (Blender)</a>.</p>
+
+<p>The plugin link: <a href="https://github.com/DarklightGames/io_scene_psk_psa" target="_blank">io_scene_psk_psa</a>.<br>
+<em>(download the correct version, and follow the instructions in that repo readme)</em></p>
+
+<p>For this example, a duck model will be attached onto a spider-mech in a game called AtomicHeart (ue4.27).</p>
+
+<h2>Blender</h2>
+
+<p>Using the PSK plugin, import the model without scaling.</p>
+
+<p>Blender 4: File-&gt;Import-&gt;PSK (scale 1).<br>
+Blender 3: Using the dropdown menu.<br>
+<img src="Pages/Media/MergingSK/blender1.png" alt="Blender import"></p>
+
+<p>Rename the root object to <code>Armature</code> (Important!).</p>
+
+<img src="Pages/Media/MergingSK/blender2.png" alt="Rename to Armature">
+
+<p>Import the new mesh, and align it to suit the model, scale and rotation-wise.</p>
+
+<h3>Preparing the mesh</h3>
+
+<p>Before merging, ensure the UV Map names are <strong>identical</strong>, otherwise the materials will be messed up.</p>
+
+<ol>
+<li>Select the original mesh, go to UV Maps, and copy the name of the first UV map, usually, it's <code>UV_SINGLE</code>.</li>
+<li>Select the new mesh, and go to UV Maps (as shown in the image below).</li>
+<li>Rename the UV Map to match the original mesh UV map name, which in this case is <code>UV_SINGLE</code>.</li>
+</ol>
+
+<img src="Pages/Media/MergingSK/uvmap.png" alt="UV Map settings">
+
+<h3>Merging</h3>
+
+<ol>
+<li>Select the new mesh.</li>
+<li>Select the original mesh.</li>
+<li>Click Ctrl+J to merge</li>
+</ol>
+
+<img src="Pages/Media/MergingSK/blender3.png" alt="Merging meshes">
+
+<h3>Attaching to bone (weight-paint)</h3>
+
+<ol>
+<li>Select the mesh.</li>
+<li>Go to Weight-Paint mode.</li>
+<li>Pick a Vertex Group(also known as a bone), that would be logical for the new mesh to be attached to.</li>
+<li>While the bone is selected, completely paint the new mesh in red.</li>
+</ol>
+
+<p>This will make the new mesh to follow the bone in animations like it's attached to it.</p>
+
+<p><strong>Note:</strong><br>
+If it's a hat, the logical bone will be the <code>head</code> bone, if it's a backpack then the <code>spine_03</code> bone, etc...</p>
+
+<p>For this example, the new mesh should be "attached" to the Pelvis, so the pelvis bone is selected and the new mesh part is completely painted in red.</p>
+
+<img src="Pages/Media/MergingSK/blender4.png" alt="Weight painting">
+
+<h3>Exporting</h3>
+
+<p>Before exporting:</p>
+<ul>
+<li>Change to Pose mode, and move the bones to see if the new merged mesh follows the correct bones.</li>
+<li>Check the textures work.</li>
+<li>Materials are in order (first the original mesh, then followed by the custom ones).</li>
+</ul>
+
+<p>Export into <code>.fbx</code> with <code>0.01</code> scale.</p>
+
+<img src="Pages/Media/MergingSK/blender5.png" alt="Export settings">
+
+<h2>UnrealEngine</h2>
+
+<ol>
+<li>Create the same folder structure as in the game files, of where the SK is located.</li>
+<li>Drag and drop the exported FBX file into the UE content browser, and click Import All.</li>
+</ol>
+
+<img src="Pages/Media/MergingSK/ue1.png" alt="Import to UE">
+
+<h3>Replicating Skeleton, PhysicsAsset, and Materials</h3>
+
+<p>The next step is naming and placing the Skeleton and PhysicsAsset in their original folders.</p>
+
+<ol>
+<li>Using FModel, open the SK and look for the full paths of the Skeleton and PhysicsAsset.</li>
+<li>In UnrealEngine, create those folders.</li>
+<li>Name the Skeleton and the PhysicsAsset the same as shown in FModel.</li>
+<li>Move the two into their corresponding folders (if needed).</li>
+</ol>
+
+<p>Now the same goes with the default materials of the mesh.</p>
+
+<ol>
+<li>Using FModel, double-check the auto-generated materials are named correctly by opening the SK asset and looking at the used materials.</li>
+<li>Move them to their original folders (create those folders if missing).</li>
+</ol>
+
+<img src="Pages/Media/MergingSK/ue2.png" alt="FModel paths">
+
+<h3>Preparing the SK</h3>
+
+<p>The last step is making sure the newly merged mesh looks as expected.<br>
+Import the textures needed for the mesh and adjust the materials.</p>
+
+<img src="Pages/Media/MergingSK/ue2.png" alt="Material setup">
+
+<h2>Pack and test</h2>
+
+<p>Only pack the modified SK and the used materials and textures for the new mesh part (not the original/replicated ones).<br>
+DON'T pack the skeleton, physicsAsset, shadowPhysics(if any), or any of the replicated materials.</p>
+
+<p>UE4 -&gt; using UnrealPak <em>(or by assigning chunks)</em>.<br>
+UE5 -&gt; chunk assigning <em>(unless the game has no IOStore)</em>.</p>
+
+<p>For more information about how to package the mod, view <a href="#Pages/CookingContent.html">Cooking Content guide</a>.<br>
+(don't forget to name the mod with <code>_P</code> in its name)</p>
+
+<h2>Results</h2>
+
+<img src="Pages/Media/MergingSK/result.jpg" alt="Final result">
+
+<p>The mod was showcased in this video at 10:50 mark.<br>
+<a href="https://www.youtube.com/watch?v=udicbk3VMrk" target="_blank">Atomic Heart but ruined by mods 4</a></p>
+
+</body>
+</html>

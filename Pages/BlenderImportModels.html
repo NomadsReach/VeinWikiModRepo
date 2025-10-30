@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importing Models into Blender</title>
+</head>
+<body>
+
+<h1>Importing Models into Blender</h1>
+
+<p>Quick guide on importing both <code>.psk</code> and <code>.gltf</code> files into Blender 3 and 4.</p>
+
+<p class="callout tip"><strong>Tip:</strong> For skeletal meshes and animations, the <code>.psk</code> format is preferred due to its native support in Unreal Engine but requires a plugin for Blender.</p>
+
+<p>We will need Blender, and a Blender PSK-plugin to be able to import the <code>.psk</code> files which are exported from FModel/UModel.<br>
+Blender is free and available on <a href="https://www.blender.org/" target="_blank">Blender website</a> or on <a href="https://store.steampowered.com/app/365670/Blender/" target="_blank">Steam page (Blender)</a>.</p>
+
+<h2>Blender 4</h2>
+
+<p>The plugin link for Blender 4: <a href="https://github.com/DarklightGames/io_scene_psk_psa" target="_blank">io_scene_psk_psa</a>.<br>
+<em>(download the correct version, and follow the instructions in that repo readme)</em></p>
+
+<p>Once installed navigate to File &rarr; Import &rarr; choose PSK or GLTF and provide the file.</p>
+
+<p><img src="Pages/Media/ImportModels/blender4.png" alt="Blender 4 Import"></p>
+
+<p class="callout important"><strong>Important:</strong> For PSK files - <strong>always</strong> import unscaled! (scroll down for more info)</p>
+
+<h2>Blender 3</h2>
+
+<p>The plugin link for Blender 3: <a href="https://github.com/Befzz/blender3d_import_psk_psa" target="_blank">blender3d_import_psk_psa</a>.<br>
+<em>(download the correct version, and follow the instructions in that repo readme)</em></p>
+
+<p>Once installed navigate to File &rarr; Import &rarr; choose PSK or GLTF and provide the file.</p>
+
+<p><img src="Pages/Media/ImportModels/blender3.png" alt="Blender 3 Import"></p>
+
+<p class="callout important"><strong>Important:</strong> For PSK files - <strong>always</strong> import unscaled!</p>
+
+<hr>
+
+<h2>Import unscaled</h2>
+
+<p>When working with skeletal meshes, it's important to import unscaled and export scaled down to <code>0.01</code>. Why? Because it breaks some skeletal bones on import to UE4/5.</p>
+
+<p><img src="Pages/Media/ImportModels/ImportUnscaled.png" alt="Import Unscaled"></p>
+
+<p>It's used for skeletal mesh (character) modding, which is covered in <a href="#Pages/ChangingSK.html">Changing SkeletalMesh</a> guide. So if you're just importing for non-modding purposes, import however you want.</p>
+
+</body>
+</html>

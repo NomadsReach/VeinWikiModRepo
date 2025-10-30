@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creating Classes based on UHT Headers</title>
+</head>
+<body>
+
+<h1>Creating Classes based on UHT Headers</h1>
+
+<p>Once we have UHT headers, we can use them to construct relevant classes in our UE project and then use those classes, variables, methods and data objects in our blueprint mods.</p>
+
+<p class="callout note"><strong>Note:</strong> This guide won't cover all cases, only a basic example of a single class, variable and method.</p>
+
+<p>For this example, I will be making a mod for <a href="https://store.steampowered.com/app/1164940/Trepang2/" target="_blank">Trepang2</a> where player regenerates 25% health on enemy execution.<br>
+Similar to Doom, where the player regenerates health on enemy execution.</p>
+
+<h2>Research</h2>
+
+<p>First thing we need to do is identify the used class and the methods and/or variables that we will use for our mod.</p>
+
+<p><img src="Pages/Media/Headers/1.png" alt="Research"></p>
+
+<p>Looking at the player BP, the health is being called from the parent class, <code>BaseCharacter</code>.</p>
+
+<p><img src="Pages/Media/Headers/2.png" alt="Base Character"></p>
+
+<p>Assuming we already have the UHT headers, look for the class header, in this case it's <code>BaseCharacter.h</code>.</p>
+
+<p class="callout important"><strong>Important:</strong> If you don't have UHT headers, go to <a href="#Pages/GeneratingUHT.html">Dumping UHT</a> guide.</p>
+
+<p>Scrolling down, we can find the health methods, for max health getter and health setter method.</p>
+
+<p><img src="Pages/Media/Headers/3.png" alt="Health Methods"></p>
+
+<h2>Unreal Engine - Creating the Class</h2>
+
+<p class="callout note"><strong>Note:</strong> If you can't see or add C++ classes, you will have to recreate the project with C++ setting enabled.</p>
+
+<ol>
+    <li>Launch the UE project and create a new C++ class by File → New C++ Class.</li>
+    <li>For the Parent class, set it to <code>Character</code> class.
+        <ul>
+            <li>You can see the base class in the header class declaration line.</li>
+            <li>If it's not in the list, go down the class hierarchy until you reach a native UE class.</li>
+        </ul>
+    </li>
+</ol>
+
+<p class="callout tip"><strong>Tip:</strong> Depending on the scale of the project, you can either recreate the whole/full hierarchy structure or directly the base class. Meaning that if you have ClassA → ClassB → Character, with "directly" it means ClassA → Character (skipping any in-between). And full meaning all of it, all three, one by one.</p>
+
+<ol start="3">
+    <li>Click next, and name it <strong>EXACTLY</strong> as the header file.</li>
+    <li>Set it to <code>Public</code> and click Create Class.</li>
+</ol>
+
+<p><img src="Pages/Media/Headers/4.png" alt="Create Class"></p>
+
+<h2>Visual Studio</h2>
+
+<ol>
+    <li>Once a class is created, Visual Studio will be launched, with 2 new objects: <code>.cpp</code> and <code>.h</code> with the given class name (<code>BaseCharacter.cpp</code> and <code>BaseCharacter.h</code>).</li>
+    <li>In the <code>BaseCharacter.cpp</code> file, remove everything besides the <code>#include "BasePlayer.h"</code>.</li>
+    <li>In the <code>BaseCharacter.h</code>, remove any methods and variables that were auto added on creation (we don't care about them).</li>
+</ol>
+
+<p><img src="Pages/Media/Headers/5.png" alt="Visual Studio"></p>
+
+<ol start="4">
+    <li>Add the same class tags as in the dumped header file.</li>
+</ol>
+
+<p><img src="Pages/Media/Headers/6.png" alt="Class Tags"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Pay attention to the declaration fields/tags of each item.</p>
+
+<ol start="5">
+    <li>Now add the methods and variables you're interested in.</li>
+</ol>
+
+<p><img src="Pages/Media/Headers/7.png" alt="Methods and Variables"></p>
+
+<h3>About Methods/Functions</h3>
+
+<p>Each method in the header needs to return its type of a default value.<br>
+A few examples:</p>
+
+<ul>
+    <li>For boolean, add <code>{return false;};</code></li>
+    <li>For floats or integers, add <code>{return 0;};</code></li>
+    <li>For voids, add <code>{};</code></li>
+</ul>
+
+<p class="callout note"><strong>Note:</strong> If it's a custom type then you will need to recreate it, and only then use it.</p>
+
+<h3>Compile</h3>
+
+<p>To compile the project, right-click on the project name in the Solution Explorer and then "Build Solution".</p>
+
+<p><img src="Pages/Media/Headers/8.png" alt="Compile"></p>
+
+<p>If everything was done correctly, the build will be successful.</p>
+
+<p><img src="Pages/Media/Headers/9.png" alt="Build Success"></p>
+
+<p class="callout note"><strong>Note:</strong> It's quite common for the build to fail which can be caused by countless reasons, and I'm afraid I can't cover them in this guide.</p>
+
+<h2>Back to Unreal Engine</h2>
+
+<p>Go back to Unreal Engine editor, into the mod Blueprint.<br>
+You should now be able to access those variables and methods within their corresponding classes.</p>
+
+<p>In this case, it was the player character which I can cast to and access all of its C++ stuff.</p>
+
+<p><img src="Pages/Media/Headers/10.png" alt="Accessing in UE"></p>
+
+<p>Now we can properly use methods and variables from C++ classes in our bp mods.<br>
+And for this example, the player health is set on an enemy execution by a configurable percentage.</p>
+
+<p><img src="Pages/Media/Headers/11.png" alt="Final Blueprint"></p>
+
+<h2>Results</h2>
+
+<p>The final mod can be found here:<br>
+<a href="https://www.nexusmods.com/trepang2/mods/92" target="_blank">Trepang2 - Health Regen on Enemy Execution</a></p>
+
+</body>
+</html>
+

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation Mods</title>
+</head>
+<body>
+
+<h1>Translation Mods</h1>
+
+<p>This guide covers the steps of translating the game's default language (<code>.locres</code>) into any other language.</p>
+
+<p class="callout note"><strong>Note:</strong> This guide assumes you're familiar with FModel (exporting) and UnrealPak/repak (for packaging).</p>
+
+<h2>Preparation</h2>
+
+<p>For this example, the guide demonstrates translating a game called <a href="https://store.steampowered.com/app/1164940/Trepang2/" target="_blank">Trepang2</a> from English to Polish using AI.</p>
+
+<h3>Locres Editor</h3>
+
+<p>Before beginning, the guide uses this <code>.locres</code> editor:<br>
+<a href="https://github.com/Snoozeds/UnrealLocresEditor" target="_blank">UnrealLocresEditor</a> by <a href="https://github.com/Snoozeds" target="_blank">Snoozeds</a>.</p>
+
+<p>Download the <a href="https://github.com/Snoozeds/UnrealLocresEditor/releases" target="_blank">release version</a> and extract the zip file (doesn't matter where).</p>
+
+<h3>Locres File</h3>
+
+<p>Using <a href="https://fmodel.app/" target="_blank">FModel</a>, locate the <code>.locres</code> file you want to translate and export as raw data as shown below.</p>
+
+<p><img src="Pages/Media/locres/locres1.png" alt="Export Locres"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Localization files are usually located in <code>/Content/Localization/...</code> and always inside <code>.pak</code> regardless of whether the game is IoStore or not.</p>
+
+<h2>Locres to CSV</h2>
+
+<ul>
+	<li>Open <code>UnrealLocresEditor.Desktop.exe</code></li>
+	<li>File &rarr; Open locres</li>
+	<li>Select the exported <code>.locres</code> file and click Load</li>
+</ul>
+
+<p><img src="Pages/Media/locres/locres2.png" alt="Open Locres"></p>
+
+<p>If everything is correct, the localization file will be fully loaded into the editor as shown below.</p>
+
+<p><img src="Pages/Media/locres/locres3.png" alt="Loaded Locres"></p>
+
+<p>Next, export it into a <code>.csv</code> file by File &rarr; Save As...</p>
+
+<p>Then, open it with Excel.</p>
+
+<h2>Translating</h2>
+
+<p>The <code>.csv</code> contains 3 columns:</p>
+<ul>
+	<li><code>key</code>: the unique identifier (<strong>don't change</strong>).</li>
+	<li><code>source</code>: the source text (English).</li>
+	<li><code>target</code>: the translated text.</li>
+</ul>
+
+<p class="callout important"><strong>Important:</strong> If you know the language you're translating to - you can skip this part and translate at your own pace within the Excel sheet. Once you're done, continue from <a href="#creating-new-locres">Creating new locres</a>.</p>
+
+<p>For this example, the guide demonstrates translating a game called <a href="https://store.steampowered.com/app/1164940/Trepang2/" target="_blank">Trepang2</a> from English to Polish using AI.</p>
+
+<p class="callout note"><strong>Note:</strong> Alternatively, you can use <a href="https://www.deepl.com/" target="_blank">DeepL</a> or other methods, but this is just an example! You can use AI for bulk translation and then manually double-check.</p>
+
+<h3>Using AI for translating</h3>
+
+<p>As an example, you can bulk translate large amounts of localization files using AI, which both <strong>ClaudeAI</strong> and <strong>OpenAI</strong> are <em>great</em> for these tasks.</p>
+
+<p><img src="Pages/Media/locres/locres4.png" alt="AI Translation"></p>
+
+<p>Once translated, simply copy the results into the <code>.csv</code> and save.</p>
+
+<p><img src="Pages/Media/locres/locres5.png" alt="Copy Results"></p>
+
+<h2>Creating new .locres</h2>
+
+<p>Once translated, an updated <code>.locres</code> file can be created using the locres editor.</p>
+
+<ul>
+	<li>Open the LocresEditor</li>
+	<li>Load the <strong>default</strong> locres by going to File &rarr; Open locres.</li>
+	<li>Open the translated spreadsheet by going to File &rarr; Open Spreadsheet.</li>
+</ul>
+
+<p>If everything was done correctly, you should see the original text and the translated text.</p>
+
+<p><img src="Pages/Media/locres/locres6.png" alt="Verify Translation"></p>
+
+<p>Next, export the locres:</p>
+<ul>
+	<li>File &rarr; Export locres</li>
+</ul>
+
+<h2>Packaging</h2>
+
+<p>Create the mod folder to match the game's original folder structure.</p>
+
+<p>For example, the localization used for this example was located in:<br>
+<code>/Content/Localization/UI_Menus/en</code></p>
+
+<p>Meaning the mod folder should follow this structure:<br>
+<code>/&lt;MOD_NAME&gt;_P/&lt;GAME&gt;/Content/Localization/UI_Menus/en</code></p>
+
+<p>As shown below:</p>
+
+<p><img src="Pages/Media/locres/locres7.png" alt="Mod Folder Structure"></p>
+
+<p>If you're using unrealpak:</p>
+<ul>
+	<li>Drag the mod folder (<code>&lt;MOD_NAME&gt;_P</code>) onto the packaging script.</li>
+	<li>A new <code>.pak</code> file will be created.</li>
+	<li>Copy the <code>.pak</code> file into the game's Paks folder.</li>
+</ul>
+
+<p>For more information about how to package your mod, view <a href="#Pages/CookingContent.html">Cooking Content guide</a>.<br>
+(don't forget to name your mod with <code>_P</code> in its name)</p>
+
+<hr>
+
+<h2>Results</h2>
+
+<p><img src="Pages/Media/locres/locres8.png" alt="Translation Results"></p>
+
+</body>
+</html>

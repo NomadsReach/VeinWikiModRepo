@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FModel and UAssets</title>
+</head>
+<body>
+
+<h1>FModel and UAssets</h1>
+
+<p>FModel has a major advantage of browsing uassets, it can go in-depth with any UE asset such as blueprints, DataTables, Materials, SkeletalMeshes and more.</p>
+
+<ul>
+	<li>Blueprints: get the used variables and their default values, function names, and even bytecode.</li>
+	<li>Materials: get the used material global variables, material instance parent, and the used textures.</li>
+	<li>Skeletal Meshes: get the used Skeleton, PhysicsAssets, ShadowAssets.</li>
+</ul>
+
+<h2>Examples</h2>
+
+<h3>Blueprints (BP)</h3>
+
+<p>Game: Trepang2</p>
+
+<p><img src="Pages/Media/fmodel_bp1.png" alt="Blueprint Example 1"></p>
+
+<p>In this BP, the parent(SuperStruct) of this BP is visible, along with default variable values such as the cost of this weapon and the used image as the thumbnail.</p>
+
+<p><img src="Pages/Media/fmodel_bp2.png" alt="Blueprint Example 2"></p>
+
+<p>This BP holds all the data for the SMG in Trepang2, so you can see all the default variables such as.. damage per bullet, AmmoPerClip, ReloadDuration and many more.<br>
+Can be used in weapon buff mods!</p>
+
+<h3>Materials</h3>
+
+<p>Example of a MaterialInstance(MI) used for the SMG in Trepang2.</p>
+
+<p><img src="Pages/Media/fmodel_mat1.png" alt="Material Instance"></p>
+
+<p>This gives the following info:</p>
+
+<ul>
+	<li>It's a MaterialInstance(MI) and not a plain/simple material.</li>
+	<li>It has 3 texture parameters available.
+		<ul>
+			<li>Albedo.</li>
+			<li>Normal.</li>
+			<li>MRA.</li>
+		</ul>
+	</li>
+</ul>
+
+<p>Very important for using and replicating Material Instances in your mods.</p>
+
+<h3>Skeletal Meshes (SK)</h3>
+
+<p>Here's the SK for the SMG in Trepang2</p>
+
+<p>The used Skeleton is visible, which is useful for replicating it in model swap mods.</p>
+
+<p><img src="Pages/Media/fmodel_sk1.png" alt="Skeletal Mesh 1"></p>
+
+<p>The used PhysicsAssets and a ShadowPhysicsAsset.</p>
+
+<p><img src="Pages/Media/fmodel_sk2.png" alt="Skeletal Mesh 2"></p>
+
+<p>And the assigned materials for the SK.</p>
+
+<p><img src="Pages/Media/fmodel_sk3.png" alt="Skeletal Mesh 3"></p>
+
+<h3>DataAssets</h3>
+
+<p>DataAssets are used to store structural data, and this specific one holds the used materials and mesh details for the default gloves in Ghostrunner.</p>
+
+<p><img src="Pages/Media/fmodel_da1.png" alt="DataAsset"></p>
+
+<p>Can be swapped/modified with custom or any other data and the game will handle it as the "new default".</p>
+
+<h3>UMaps</h3>
+
+<p>UMaps hold all the data of a level/section in the world.<br>
+It holds a reference of any object used and any relevant default information of each object (It doesn't hold the actual mesh, just a reference to it).</p>
+
+<p><img src="Pages/Media/fmodel_umap1.png" alt="UMap"></p>
+
+<p>This <code>.umap</code> holds the data for the first section of the level and this specific StaticMesh(SM) of the road sign is part of it.<br>
+The default location, rotation and the used SM path are visible.</p>
+
+<h2>Verdict</h2>
+
+<p>FModel is a powerful tool when it comes to browsing and going in-depth into any UAsset type, and will quickly become the most used tool in your modding journey.<br>
+Feel free to explore!</p>
+
+</body>
+</html>

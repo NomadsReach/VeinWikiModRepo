@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creating Pak Files</title>
+</head>
+<body>
+
+<h1>Creating Pak Files</h1>
+
+<p class="callout important"><strong>Important:</strong> This only guide applies when there are NOT <code>.ucas</code> or <code>.utoc</code> files inside <code>Content/Paks</code> folder. There may be <code>.pak</code>, <code>.sig</code> or other files or folders.</p>
+
+<p>To ensure your mod is loaded by the game, it needs to be in a <code>.pak</code> file.</p>
+
+<h2>Packer methods</h2>
+
+<p>There are two ways you can pack your mod files into a <code>.pak</code> file:</p>
+<ol>
+	<li>UnrealPak - a commandlet within UE</li>
+	<li>repak - a third party commandlet</li>
+</ol>
+
+<p>UnrealPak and repak are fine to use with any UE version. repak is generally faster and has more advanced features like configurable mount points & pak version, but is not required for the majority of users, and overall ease of use is slightly more difficult than the below UnrealPak scripts. But if one doesn't work for you, you at least can try the other.</p>
+
+<p>UnrealPak is present in every UE install, but can be extracted into a standalone program. You can download the standalone version from here: <a href="https://github.com/Dmgvol/UE_Modding/raw/main/Tools/UnrealPak.zip" target="_blank">UnrealPak by FluffyQuack</a>, which also comes with a couple of batch scripts to make calling the program easier for you.</p>
+
+<p><em>You can also install <a href="https://github.com/Mythical-Github/repak_wrappers/archive/refs/heads/main.zip" target="_blank">repak_wrappers</a>, which has an identical user experience to UnrealPak. If you download this, you can follow the "If using UnrealPak" parts of the guide.</em></p>
+
+<p><strong>If using UnrealPak:</strong></p>
+
+<p>Create a folder that will contain the scripts, raw mod folder and output pak files, similar to this:</p>
+
+<p><img src="Pages/Media/UnrealPak/unrealpak1.png" alt="UnrealPak Folder Structure"></p>
+
+<p><em>(Extract the provided UnrealPak zip file)</em></p>
+
+<p><strong>If using repak:</strong></p>
+
+<p>Follow the installation and usage instructions in the <a href="#Pages/ExtractingCooked.html#installation">Extracting cooked with repak</a> guide.</p>
+
+<h2>Mod Folder</h2>
+
+<p>For every mod, regardless of the packing tool, a mod folder with the exact folder structure is required.</p>
+
+<pre><code>Modname_P\GameName\Content\...
+</code></pre>
+
+<p><strong>Structure</strong></p>
+<ul>
+	<li>Replace the modname with your actual mod name.</li>
+	<li>Ensure the folder ends with <code>_P</code>(important).</li>
+	<li>Replace GameName with the binary name of your game.</li>
+</ul>
+
+<p>Depending on the mod and which files it overrides, it will have the same folder hierarchy followed by the original game folder hierarchy, which is visible in FModel and UModel.</p>
+
+<p><strong>Examples</strong></p>
+
+<p>A mod folder for a mod that replaces textures in Ghostrunner:</p>
+<pre><code>\NewTex_P\Ghostrunner\Content\Visual\Characters\Hero_Swords\Mat\Tex
+</code></pre>
+
+<p>A mod folder for a mod that replaces a weapon model in Trepang2:</p>
+<pre><code>\newPistol_P\CPPFPS\Content\Weapon\Pistol
+</code></pre>
+
+<h2>Folder Contents</h2>
+
+<p>Once the folder structure is created, copy the necessary files, that <strong>needs to be overwritten or added</strong>. If you compiled the project content within UE editor - copy the files you want to be included in the mod.</p>
+
+<p>In order to modify/overwrite the game's files with your custom files, you have to have the same folder structure and the same file names for the files, matching the original file paths/files.</p>
+
+<p><strong>For example</strong></p>
+
+<p>In an example of a texture mod, the following folder stucture is used:</p>
+<pre><code>\modname_P\Ghostrunner\Content\Visual\Characters\Hero_Swords\Mat\Tex\
+</code></pre>
+
+<p>The content of the following folder is:</p>
+
+<p><img src="Pages/Media/UnrealPak/unrealpak2.png" alt="Mod Folder Contents"></p>
+
+<hr>
+
+<h2>Using the tool</h2>
+
+<p><strong>If using UnrealPak:</strong></p>
+
+<p>Simple, just drag the mod folder onto the <code>UnrealPak-With-compression.bat</code> to begin packaging the mod folder. Shortly after, a pak file with the same name will be created.</p>
+
+<p><img src="Pages/Media/UnrealPak/unrealpak3.png" alt="Drag and Drop"></p>
+
+<p><strong>If using repak:</strong></p>
+
+<p>Simply run the command <code>repak pack &lt;mod directory to pack&gt;</code> inside the directory containing your mod folder.</p>
+
+<p>If you wish to see the file paths it is packing, use the <code>-v</code> option.</p>
+
+<p>If you wish to use compression, add the <code>--compression &lt;method&gt;</code> option. You can see supported compression formats with <code>repak pack -h</code>. <code>gzip</code>, <code>zlib</code> and <code>zstd</code> formats are recommended. If the game fails to load the pak file, one of the things to try is to pack without compression.</p>
+
+<p>E.g. <code>repak pack -v --compression Gzip Modname_P</code></p>
+
+<h2>Adding mods to the game</h2>
+
+<ol>
+	<li>Navigate to the Paks folder of the game.</li>
+</ol>
+
+<p>Usually it's following this pattern:</p>
+
+<pre><code>...\GameName\GameName\Content\Paks
+</code></pre>
+
+<p>For example, Ghostrunner game:</p>
+<pre><code>...\Ghostrunner\Ghostrunner\Content\Paks
+</code></pre>
+
+<ol start="2">
+	<li>Copy the generated pak file into the game's Paks folder.</li>
+	<li>Rename the pak file to suit your mod purpose.</li>
+	<li>Make sure the name ends with <code>_P</code> <strong>(IMPORTANT)</strong>.<br>For example: <code>myMod_P.pak</code></li>
+</ol>
+
+<h3>Optional: Sig files</h3>
+
+<p>If your game is running Unreal Engine 4.27 or lower, and there is a <code>.sig</code> file next to the PAK file, you will need to follow these steps to make the game start:</p>
+<ol>
+	<li>Duplicate the sig file</li>
+	<li>rename it to your custom pak file</li>
+</ol>
+
+<h4>Example:</h4>
+
+<p>In the folder structure: <code>Grip\Grip\Content\Paks</code></p>
+
+<p>There are the files:</p>
+<pre><code>Grip-WindowsNoEditor.pak
+Grip-WindowsNoEditor.sig
+</code></pre>
+
+<p>If your modded pak file is called <code>mod_P.pak</code>, you will need to duplicate <code>Grip-WindowsNoEditor.sig</code> and rename it to <code>mod_P.sig</code>. It would then look like this:</p>
+<pre><code>Grip-WindowsNoEditor.pak
+Grip-WindowsNoEditor.sig
+mod_P.pak
+mod_P.sig
+</code></pre>
+
+</body>
+</html>

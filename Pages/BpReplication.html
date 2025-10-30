@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BP Replication/Dummying/Mimicking</title>
+</head>
+<body>
+
+<h1>BP Replication/Dummying/Mimicking</h1>
+
+<p>Blueprint (BP) Replication in Unreal Engine 4/5 involves creating blueprints and other assets that mimic the variables and structures of existing in-game blueprints. This method, also known as creating "dummy blueprints", allows modders to access and manipulate game variables without modifying the original assets.</p>
+
+<p class="callout note"><strong>Note:</strong> This "replicating" is not overlapping with multiplayer replication. It's also known as asset dummying or mimicking process.</p>
+
+<h2>Finding the BP we want to replicate</h2>
+
+<p>For this example, we will replicate a <code>float</code> value within the player character BP.</p>
+
+<p>Using FModel, I found this value.<br>
+<em>(Note for UE5: <code>Double</code> is <code>float</code> in UE5)</em></p>
+
+<p><img src="Pages/Media/replication/replication1.png" alt="Float Value"></p>
+
+<p>And the base class of this blueprint is <code>Character</code> which we can see if we search for <code>SuperStruct</code> of the BP.</p>
+
+<p><img src="Pages/Media/replication/replication2.png" alt="Base Class"></p>
+
+<h2>Unreal Engine</h2>
+
+<ol>
+	<li>In UE, create the <strong>SAME</strong> folder structure as in the folder in FModel.</li>
+	<li>Create a new BP of type <code>Character</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/replication/replication3.png" alt="Create BP"></p>
+
+<ol start="3">
+	<li>Name the blueprint <strong>EXACTLY</strong> as in the game files.</li>
+	<li>Double check the folders are identical.</li>
+</ol>
+
+<p><img src="Pages/Media/replication/replication4.png" alt="Name and Location"></p>
+
+<ol start="5">
+	<li>Create a new variable.</li>
+	<li>Name it <strong>EXACTLY</strong> as shown in FModel, in this case it's <code>NormalJumpVelocity</code>.</li>
+	<li>Set the correct type (in this case, it's <code>float</code>).</li>
+</ol>
+
+<p><strong>Note:</strong> Some variables won't be using native types, so you will need to do more replication to be able to set them.</p>
+
+<p><img src="Pages/Media/replication/replication5.png" alt="Create Variable"></p>
+
+<h2>Using It</h2>
+
+<p>Open your mod bp, and access it directly. In this case, it's a variable within the character bp which we can get by getting the player character object and casting it to the correct BP type, as shown below.</p>
+
+<p><img src="Pages/Media/replication/replication6.png" alt="Access Variable"></p>
+
+<p>This allows modders to directly access and change the value of assets within the game-files without modifying the original ones.</p>
+
+<h3>About Replication</h3>
+
+<p>This is not limited to variables, so you can replicate methods, delegates, any other type of assets, BP components, and even C++ headers.</p>
+
+<h2>Packaging</h2>
+
+<p>We don't package anything that was replicated! As this will result in overwriting the game-files which we don't want.</p>
+
+<p>Only package the BP mod files.</p>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+# GitLab CI/CD configuration for deploying static HTML site to GitLab Pages
+
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -r * public/
+    - rm -rf public/.git
+    - rm -rf public/.gitlab-ci.yml
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
+    - master
+

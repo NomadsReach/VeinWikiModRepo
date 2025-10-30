@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extracting IoStore Cooked Assets</title>
+</head>
+<body>
+
+<h1>Extracting IoStore Cooked Assets</h1>
+
+<p class="callout important"><strong>Important:</strong> This guide only applies when there are <code>.ucas</code>, <code>.utoc</code> & <code>.pak</code> files inside <code>Content/Paks</code> folder.</p>
+
+<p class="callout warning"><strong>Caution:</strong> <a href="#Pages/UsingFModel.html">FModel</a> can open <code>IoStore</code> containers/paks, and can even let you export them. However, these assets are incompatible with <a href="#Pages/UAssetGUI.html">UAssetGUI</a>, but can be edited by manual <a href="#Pages/HexEditing.html">hex editing</a>.</p>
+
+<p>Because some tools out there only support the traditional cooked asset format, such as <a href="#Pages/UAssetGUI.html">UAssetGUI</a>, you need to get the right format of assets first.</p>
+
+<p>The following tools, retoc and Zentools, can be used to extract the traditional cooked assets (<code>.uasset</code>/<code>.uexp</code>) from the <code>IoStore</code> container files, which are <code>.ucas</code>, <code>.utoc</code> & <code>.pak</code>.</p>
+
+<p class="callout tip"><strong>Tip:</strong> It is recommended to try using retoc first as it is generally faster and more reliable. If you encounter any issues, you can try using ZenTools as a backup.</p>
+
+<h2>retoc</h2>
+
+<p><a href="https://github.com/trumank/retoc" target="_blank">retoc</a> is not only able to pack and unpack <code>IoStore</code> containers, but also convert between Zen assets and Legacy assets (found in <code>.pak</code> containers).</p>
+
+<p>To use retoc, you need to download the latest release from the <a href="https://github.com/trumank/retoc/releases" target="_blank">releases page</a>. Download the file you need based on your system or use the powershell script provided at the top if you are on Windows.</p>
+
+<p>Navigate to the directory where you downloaded <code>retoc.exe</code> and open the terminal.</p>
+
+<p>Run <code>retoc.exe --help</code> to see the available commands and options.</p>
+
+<p><code>to-legacy</code> is used to convert from the <code>IoStore</code> format to the cooked asset format you can edit with UAssetGUI.</p>
+
+<p class="callout tip"><strong>Tip:</strong> It is recommended to use <code>--filter</code> to specify which assets you want to convert, especially if you are working with large games. For example: <code>--filter "/Content/MainFolder/saving-loading/customization/progress"</code> will only convert assets inside the <code>progress</code> folder.</p>
+
+<p>Use <code>--aes-key</code> to specify the AES key if your game is encrypted. You can find the AES key in the <a href="#Pages/AesKey.html">Adding AES</a> guide.</p>
+
+<p>Here is an awesome video guide on using retoc as a command line tool:</p>
+
+<p><a href="https://www.youtube.com/embed/2nkhdAREFXI" target="_blank"><img src="https://img.youtube.com/vi/2nkhdAREFXI/0.jpg" alt="UE modding (5.4 w/ IoStore): retoc + UAssetGUI"></a></p>
+
+<h2>ZenTools</h2>
+
+<p>There are two versions of ZenTools that you need to get depending on your game's UE version:</p>
+<ul>
+	<li><a href="https://github.com/Buckminsterfullerene02/UE-Modding-Tools/tree/main/Loose%20Files/ZenTools" target="_blank">ZenTools for UE5</a> (if your game is UE5.1 - UE5.4)</li>
+	<li><a href="https://github.com/WistfulHopes/ZenTools-UE4" target="_blank">ZenTools for UE4</a> (if your game is UE4)</li>
+</ul>
+
+<h3>ZenTools for UE5</h3>
+
+<p>Go to the <a href="https://github.com/LongerWarrior/ZenTools/releases" target="_blank">release page</a> and download the latest release. This can just be the <code>ZenTools.exe</code> file, but you may also want to download the <code>.pdb</code> file alongside it in-case you have errors and want to post the tool output (this is useful for the maintianer).</p>
+
+<p class="callout warning"><strong>Warning:</strong> Do not run <code>ZenTools.exe</code> by clicking on it, it is not meant to be used this way. You would see a window popup then dissapear. This is a tool that is meant to be run from the command line.</p>
+
+<p>Navigate to your modding directory of choice. Then open a command prompt shell. You can do that easily by either right clicking anywhere on the file explorer and clicking "Open in Terminal/command prompt", or by clicking on the file path bar, typing <code>cmd</code> and hitting enter.</p>
+
+<p>Simply follow the <a href="https://github.com/LongerWarrior/ZenTools/tree/5.1-5.2?tab=readme-ov-file#usage" target="_blank">usage guide</a> in the project's README on GitHub and enter your command into cmd.</p>
+
+<p class="callout important"><strong>Important:</strong> If your game is UE5.1, make sure to include the <code>-ZenPackageVersion=Initial</code> option in your command. If your game has an AES key (i.e. is encrypted), you can find it in the <a href="#Pages/AesKey.html">Adding AES</a> guide, then use the <code>-AES=</code> option in your command.</p>
+
+<p class="callout warning"><strong>Caution:</strong> Make sure to use quotation marks <code>""</code> whenever you are specifying file paths if they contain any spaces.</p>
+
+<p class="callout tip"><strong>Tip:</strong> If it is taking a long time to extract, try using package filters to filter certain folders, for example <code>/Game/Content/Blueprints</code>. You can find project folders by opening the pak in FModel</p>
+
+<h4>Example commands</h4>
+
+<p>If your game is UE5.1:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to UE5.1 game/Content/Paks" "Output directory" -ZenPackageVersion=Initial</code></pre>
+
+<p>If your game is UE5.1 and has encryption:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to UE5.1 game/Content/Paks" "Output directory" -ZenPackageVersion=Initial -AES=0x12345678</code></pre>
+
+<p>If your game is UE5.2 and has encryption:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to UE5.2 game/Content/Paks" "Output directory" -AES=0x12345678</code></pre>
+
+<p>If your game is very large (e.g. 100GB+) and you want to only extract certain asset paths, say, weapon blueprints folder:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to game/Content/Paks" "Output directory" -PackageFilter=/Game/Content/Blueprints/Weapons</code></pre>
+
+<h4>Repacking UE5 IoStore files</h4>
+
+<p>Follow <a href="#Pages/IoStorePacking.html#scenario-1-packing-cooked-assets">this guide</a>.</p>
+
+<h3>ZenTools for UE4</h3>
+
+<p>Install ZenTools UE4 in the same way as ZenTools UE5 - <a href="https://github.com/WistfulHopes/ZenTools-UE4/releases" target="_blank">download link</a>.</p>
+
+<p>If your game is encrypted, note that there is no <code>-Aes=</code> or equivalent option, you must supply a <code>keys.json</code> file. This is simply a file that is:</p>
+
+<pre><code>{
+    "00000000-0000-0000-0000-000000000000": "DEADBEEFCAFEDEADBEEFCAFEDEADBEEFCAFEDEADBEEFCAFEDEADBEEFCAFEDEAD"
+}</code></pre>
+
+<p class="callout warning"><strong>Caution:</strong> The keys.json does not support <code>0x</code> at the start of your AES key, so make sure to remove that in the file.</p>
+
+<p class="callout warning"><strong>Caution:</strong> Make sure to use quotation marks <code>""</code> whenever you are specifying file paths if they contain any spaces.</p>
+
+<p class="callout tip"><strong>Tip:</strong> If it is taking a long time to extract, try using package filters to filter certain folders, for example <code>/Game/Content/Blueprints</code>. You can find project folders by opening the pak in FModel</p>
+
+<h4>Example commands</h4>
+
+<p>If game has encryption:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to UE4 game/Content/Paks" "Output directory" -EncryptionKeys="Path to keys.json"</code></pre>
+
+<p>If game has no encryption:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to UE4 game/Content/Paks" "Output directory"</code></pre>
+
+<p>If your game is very large (e.g. 100GB+) and you want to only extract certain asset paths, say, enemy blueprints folder:</p>
+<pre><code>ZenTools.exe ExtractPackages "Path to game/Content/Paks" "Output directory" -PackageFilter=/Game/Content/Blueprints/Enemies</code></pre>
+
+<h4>Repacking UE4 IoStore files</h4>
+
+<p>Follow <a href="#Pages/IoStorePacking.html#scenario-1-packing-cooked-assets">this guide</a>.</p>
+
+</body>
+</html>

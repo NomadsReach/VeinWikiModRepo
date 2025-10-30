@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disabling/Removing Objects</title>
+</head>
+<body>
+
+<h1>Disabling/Removing Objects</h1>
+
+<p>This is an easy trick that can come in handy for some modders. If you want to remove objects such as textures or even blueprints, you can literally erase uasset content, and pack an empty file back into pak file.</p>
+
+<p>It works on models, VFX, textures, sounds, and even blueprints.</p>
+
+<h2>Locating Game Files</h2>
+
+<p>For this example, one of the enemies in Ghostrunner, the spiders, will be removed.</p>
+
+<p>First, locate the character blueprint using FModel.</p>
+
+<p>Which in this case is <code>/Content/ArtificialIntelligence/Characters/BP_EnemySpider</code>.</p>
+
+<p><img src="Pages/Media/RemovingObjects/spider1.png" alt="Locate Blueprint"></p>
+
+<h2>Create Mod Folder</h2>
+
+<p>Create a mod folder with the same folder structure as it is found in FModel.</p>
+
+<p>Every mod folder follows the pattern:<br>
+<code>ModName_P/&lt;Game&gt;/Content/...</code><br>
+And for this example that will be:<br>
+<code>NoSpiders_P/Ghostrunner/Content/...</code> followed the full path.</p>
+
+<p>Which is:<br>
+<code>/NoSpiders_P/Ghostrunner/Content/ArtificialIntelligence/Characters</code></p>
+
+<p><img src="Pages/Media/RemovingObjects/spider3.png" alt="Folder Structure"></p>
+
+<h2>Empty UAssets</h2>
+
+<ol>
+	<li>Create 2 text files, and rename them to match the object/asset to be removed.</li>
+	<li>Change the extension from <code>.txt</code> to <code>.uasset</code> and <code>.uexp</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/RemovingObjects/spider4.png" alt="Empty Files"></p>
+
+<h2>Pack and Test</h2>
+
+<p>Package the mod folder using UnrealPak (Guide: <a href="#Pages/UnrealPak.html">How to Pak</a>).</p>
+
+<p>This mod is available to download here: <a href="https://www.nexusmods.com/ghostrunner/mods/28" target="_blank">No More Spiders for GR1</a></p>
+
+</body>
+</html>

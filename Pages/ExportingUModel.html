@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UModel</title>
+</head>
+<body>
+
+<h1>UModel</h1>
+
+<p>UModel is commonly used to browse, view and export; meshes, skeletal meshes, textures, audio files, and config files.<br>
+For more complex and in-depth assets such as blueprints, and materials, use <a href="#Pages/ExportingFModel.html">FModel</a>.<br>
+UModel will be able to export all files but not browse them properly as FModel does.</p>
+
+<h2>Setting Up</h2>
+
+<p>Download the tool, and launch it.</p>
+
+<p><img src="Pages/Media/umodel_1.png" alt="UModel Setup"></p>
+
+<ul>
+	<li>Specify the full path of the Paks folder of the game.</li>
+	<li>Click the "Override game detection" and specify the exact UE version the game is using.</li>
+	<li>If you want sounds, tick the Sound checkbox.</li>
+	<li>Click OK.</li>
+	<li>If the <code>.pak</code> is encrypted, UModel will ask for the AES key.</li>
+</ul>
+
+<h2>Browsing Assets</h2>
+
+<p>You will be greeted with this window, where the left side contains the hierarchical structure of the pak file, and the right side contains the current selected folder and its content.</p>
+
+<p><img src="Pages/Media/umodel_2.png" alt="Browsing Assets"></p>
+
+<p>This part is where you have to explore a bit to find what you want/need.</p>
+
+<p>Meshes and textures will be previewed when double-clicked.<br>
+Clicking <code>O</code> <em>(as in Omega)</em> in the preview will close the current preview.</p>
+
+<h2>Exporting</h2>
+
+<p>Once you find the correct mesh, texture, blueprint, etc, you have two export options;</p>
+
+<ul>
+	<li>Saving as is, meaning textures will be exported as <code>.uasset</code>.
+		<ul>
+			<li>Do that if you're exporting non-media assets like Blueprints.</li>
+			<li>How? Right-click &rarr; Save Content.</li>
+		</ul>
+	</li>
+	<li>Regular Export, meaning textures will be exported as <code>.png</code> files, and SkeletalMeshes(SK) as <code>.psk</code> files.
+		<ul>
+			<li>Do that if you're exporting media assets like meshes and textures.</li>
+			<li>How? Export Button at the bottom.</li>
+		</ul>
+	</li>
+</ul>
+
+<h3>Exporting Skeletal Mesh(SK)</h3>
+
+<p><img src="Pages/Media/umodel_3.png" alt="Export SK"></p>
+
+<ul>
+	<li>Select the file(s) you want and click Export at the bottom.</li>
+	<li>Specify the export path.</li>
+	<li>Make sure you have <code>.psk</code> for Skeletal Mesh, and <code>.png</code> for textures.</li>
+	<li>Once ready, click OK.</li>
+</ul>
+
+<h2>Extras</h2>
+
+<p>Setting up the UModel can be repetitive, and you can automate this process by creating a simple <code>.bat</code> script to automate it.</p>
+
+<p>For this example, to auto-open the GR2 pak file, create a <code>GR2.bat</code> file within the UModel folder.</p>
+
+<p><em>(open it with a text editor)</em></p>
+
+<p>Syntax:</p>
+
+<pre><code>umodel.exe -game=&lt;version&gt; -path="&lt;paks-folder&gt;" -AES=&lt;AES-key&gt;</code></pre>
+
+<ul>
+	<li>Replace the <code>&lt;version&gt;</code> with the UE4 version, for example <code>-game=4.27</code>.</li>
+	<li>Replace the <code>&lt;paks-folder&gt;</code> with the full path to the game's Paks folder.</li>
+	<li>Optional: If your game contains AES, make sure to add the <code>-AES=</code> tag at the end, followed by the actual AES key (<code>-AES=0x9ED...</code>).</li>
+</ul>
+
+<p>Make sure you save the file.<br>
+And whenever you want to browse that specific game, you double-click the <code>.bat</code> script instead of manually doing it.</p>
+
+<p>Thank me later.</p>
+
+</body>
+</html>

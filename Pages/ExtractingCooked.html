@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extracting Cooked Assets</title>
+</head>
+<body>
+
+<h1>Extracting Cooked Assets</h1>
+
+<p class="callout important"><strong>Important:</strong> This only guide applies when there are NOT <code>.ucas</code> or <code>.utoc</code> files inside <code>Content/Paks</code> folder. There may be <code>.pak</code>, <code>.sig</code> or other files or folders.</p>
+
+<h2>repak</h2>
+
+<p>For this guide, <a href="https://github.com/trumank/repak" target="_blank">repak</a> will be used. This tool is widely used as it:</p>
+<ol>
+	<li>Is very easy to download and use</li>
+	<li>Has very good support of all UE4 and UE5 versions</li>
+	<li>Is actively maintained</li>
+	<li>Is faster than alternatives</li>
+	<li>Is cross-platform</li>
+	<li>Has some useful utilities built-in (but only its most basic functionalities are needed)</li>
+	<li>Guards against malicious pak files that attempt to write to parent directories</li>
+</ol>
+
+<h3>Installation</h3>
+
+<p>To install repak, simply head to the <a href="https://github.com/trumank/repak/releases" target="_blank">releases page</a> and download the latest release. For windows users, you can download the <code>repak_cli-x86_64-pc-windows-msvc.msi</code> to have it installed into your PATH automatically, which allows you to call the <code>repak</code> utility from anywhere in your system.</p>
+
+<p>If you choose the installer (<code>.msi</code>) and double click it to install repak, Windows will likely:</p>
+<ol>
+	<li>Ask if you want to run it. Click yes</li>
+	<li>Show a defender popup saying you shouldn't run this file. Click "More" then "Run anyway". This popup shows because the repak installer is not signed, which costs over $100/year</li>
+</ol>
+
+<p>If you don't feel comfortable running the installer on your computer, you can simply download the <code>.zip</code> version of repak and then in the below usage commands, you can reference to wherever you have the repak.exe (with absolute/relative paths or by adding it to your <code>PATH</code> manually).</p>
+
+<h3>Usage</h3>
+
+<p class="callout warning"><strong>Warning:</strong> Do not run <code>repak.exe</code> by clicking on it, it is not meant to be used this way. You would see a window popup then dissapear. This is a tool that is meant to be run from the command line.</p>
+
+<p>Navigate to the directory of the game's pak files. This will be located at <code>game install path/game name/game project name/Content/Paks/</code>. Then open a command prompt shell. You can do that easily by either right clicking anywhere on the file explorer and clicking "Open in Terminal/command prompt", or by clicking on the file path bar (where it says <code>game &gt; Content &gt; Paks</code>), typing <code>cmd</code> and hitting enter.</p>
+
+<p>In your cmd window, type <code>repak -h</code>. This should list the help menu for repak.</p>
+
+<p class="callout warning"><strong>Caution:</strong> If you get an error like "command repak not found", you did not install repak correctly. If you opened the cmd before installing repak, you must close and re-open cmd.</p>
+
+<p>To view the unpack command options, simply run <code>repak unpack -h</code>.</p>
+
+<p>Unpacking is simple, just follow the help menu.</p>
+
+<p class="callout warning"><strong>Warning:</strong> If your game has an AES key (i.e. is encrypted), you can find it in the <a href="#Pages/AesKey.html">Adding AES</a> guide, then use the <code>--aes-key</code> option in your unpack command.</p>
+
+<h4>Example unpack commands:</h4>
+
+<pre><code>repak unpack MyGameName-WindowsNoEditor.pak</code></pre>
+
+<pre><code>repak unpack MyGameName-WindowsNoEditor.pak --output "F:/Modding/Game/Unpacked"</code></pre>
+
+<pre><code>repak --aes-key 0x12345678 unpack MyEncryptedGame.pak</code></pre>
+
+<h4>Pakchunks</h4>
+
+<p>If the game uses pakchunks (many smaller <code>.pak</code> files instead of one big one), Windows users have to do tiny bit more work.</p>
+
+<p>If you are on Linux, you can simply use the <code>*.pak</code> wildcard.</p>
+
+<p>If you are on Windows, to unpack them all at once, do the following:</p>
+<ol>
+	<li>Open powershell (by similar way as above, such as typing <code>pwsh</code> into file path box)</li>
+	<li>Use your normal command, but instead of specifying your specific <code>.pak</code> file, you can type <code>repak unpack (gci *.pak)</code></li>
+</ol>
+
+<p class="callout tip"><strong>Tip:</strong> If you want to output all files into the same folder, specify your output folder with <code>--output</code>. Alternately, if you want each pak file to have its own unpacked folder, do not specify the <code>--output</code> option.</p>
+
+<p>E.g.</p>
+
+<pre><code>repak --aes-key 0x12345678 unpack (gci *.pak) --output "F:/Modding/Game/Unpacked"</code></pre>
+
+</body>
+</html>
