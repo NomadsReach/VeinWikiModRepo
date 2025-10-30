@@ -29,6 +29,26 @@ body{
 	font-family:'Segoe UI','Roboto',system-ui,-apple-system,Segoe UI,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji";
 	line-height:1.65;
 }
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar{
+	width:8px;
+	height:8px;
+}
+::-webkit-scrollbar-track{
+	background:var(--bg);
+}
+::-webkit-scrollbar-thumb{
+	background:var(--panel-2);
+	border-radius:4px;
+}
+::-webkit-scrollbar-thumb:hover{
+	background:var(--accent);
+}
+* {
+	scrollbar-width:thin;
+	scrollbar-color:var(--panel-2) var(--bg);
+}
 .site-header{
 	display:flex;
 	align-items:center;
