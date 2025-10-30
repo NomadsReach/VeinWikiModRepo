@@ -3,7 +3,8 @@ pages:
   stage: deploy
   script:
     - mkdir -p public
-    - cp -r * public/
+    - shopt -s extglob
+    - cp -r !(public) public/
     - rm -rf public/.git
     - rm -rf public/.gitlab-ci.yml
   artifacts:
