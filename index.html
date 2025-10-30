@@ -29,6 +29,33 @@
 	<aside id="page-toc"></aside>
 </div>
 
+<!-- Email Contact Modal -->
+<div id="emailModal" class="modal" style="display: none;">
+	<div class="modal-content">
+		<div class="modal-header">
+			<i class="fas fa-envelope"></i>
+			<h2>Contact via Email</h2>
+			<button class="modal-close" onclick="document.getElementById('emailModal').style.display='none'">&times;</button>
+		</div>
+		<div class="modal-body">
+			<p><strong>Email Address:</strong></p>
+			<p class="email-address">veinmodding@protonmail.com</p>
+			<div class="callout warning" style="margin-top: 20px;">
+				<p><strong>Important:</strong> This email is reserved for sensitive or critical issues only.</p>
+				<p>For general modding support, questions, or discussions, please join our Discord community instead. You'll get faster responses and connect with other modders!</p>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<a href="mailto:veinmodding@protonmail.com" class="modal-btn modal-btn-primary">
+				<i class="fas fa-paper-plane"></i> Send Email
+			</a>
+			<a href="https://discord.gg/nsaPf7wAkP" target="_blank" class="modal-btn modal-btn-secondary">
+				<i class="fab fa-discord"></i> Join Discord
+			</a>
+		</div>
+	</div>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
 	// Custom renderer for admonition blocks

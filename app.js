@@ -68,7 +68,14 @@ function buildSidebar(){
 	// Add email popup handler
 	document.getElementById('emailLink').addEventListener('click', (e) => {
 		e.preventDefault();
-		alert('Please email all correspondence to: veinmodding@protonmail.com\n\nPlease use this email only for sensitive critical issues and not just general modding support questions. Join the Discord for that instead.');
+		document.getElementById('emailModal').style.display = 'flex';
+	});
+	
+	// Close modal when clicking outside
+	document.getElementById('emailModal').addEventListener('click', (e) => {
+		if (e.target.id === 'emailModal') {
+			document.getElementById('emailModal').style.display = 'none';
+		}
 	});
 }
 
