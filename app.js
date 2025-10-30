@@ -60,12 +60,6 @@ function buildSidebar(){
 			<img src="Media/Icons/001-mail.png" alt="Email" class="social-icon">
 		</a>
 		</div>
-		<div class="footer-resources" style="margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);">
-			<a href="https://github.com/Buckminsterfullerene02/UE-Modding-Tools" target="_blank" rel="noopener" style="display: flex; align-items: center; gap: 6px; font-size: 0.85em; color: var(--muted); text-decoration: none; padding: 4px 0;">
-				<i class="fab fa-github"></i>
-				<span>UE Modding Tools</span>
-			</a>
-		</div>
 	`;
 	frag.appendChild(footer);
 	
@@ -97,23 +91,7 @@ async function loadPage(path){
 			markdownBody.innerHTML = marked.parse(markdownBody.textContent || '');
 			contentEl.innerHTML = markdownContainer.innerHTML;
 		}else{
-			// Fallback: try to fetch and render the matching Markdown from Resources
-			const mdPath = path
-				.replace(/^Pages\//, 'Resources/')
-				.replace(/\.html$/i, '.md')
-				.replace(/GameSpecific\//, 'GameSpecific/')
-				.replace(/TheBasics\//, 'TheBasics/');
-			try{
-				const mdRes = await fetch(mdPath);
-				if(mdRes.ok){
-					const md = await mdRes.text();
-					contentEl.innerHTML = `<div class="markdown-body">${marked.parse(md)}</div>`;
-				}else{
-					contentEl.innerHTML = text;
-				}
-			}catch{
-				contentEl.innerHTML = text;
-			}
+			contentEl.innerHTML = text;
 		}
 		
 		buildToc();
