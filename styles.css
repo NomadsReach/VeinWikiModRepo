@@ -317,18 +317,87 @@ body{
 	box-shadow:0 8px 24px rgba(0,0,0,0.4);
 	border-color:var(--accent);
 }
-.card:hover::before{
-	opacity:1;
+
+/* Discord Widget Button */
+.discord-widget-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #5865F2; /* Discord blurple */
+    color: white;
+    border: none;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    z-index: 1001;
+    transition: all 0.2s ease;
 }
-.card h3{
-	margin:0 0 12px;
-	font-size:1.3em;
-	color:var(--text);
+
+.discord-widget-toggle:hover {
+    transform: scale(1.1);
+    background-color: #4f5bda;
 }
-.card p{
-	margin:0;
-	color:var(--muted);
-	line-height:1.6;
+
+/* Discord Widget Container */
+.discord-widget-container {
+    position: fixed;
+    bottom: 90px;
+    right: 20px;
+    width: 380px;
+    max-width: 90vw;
+    height: 600px;
+    max-height: 70vh;
+    border-radius: 12px;
+    background: var(--panel);
+    border: 2px solid var(--border);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    animation: modalSlideIn 0.3s ease; /* Reuse existing animation */
+}
+
+.discord-widget-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    background: var(--panel-2);
+    border-bottom: 2px solid var(--border);
+    color: var(--text);
+    font-weight: 500;
+}
+
+.discord-widget-header span {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.discord-widget-close {
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 24px;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+}
+
+.discord-widget-close:hover {
+    color: var(--accent);
+}
+
+widgetbot {
+    flex: 1;
+    min-height: 0;
 }
 
 /* Alert/Callout Boxes */

@@ -79,6 +79,18 @@ function buildSidebar(){
 	});
 }
 
+document.addEventListener('DOMContentLoaded', () => {
+    const discordBtn = document.getElementById('discordWidgetBtn');
+    const discordWidget = document.getElementById('discordWidget');
+    
+    if (discordBtn && discordWidget) {
+        discordBtn.addEventListener('click', () => {
+            const isVisible = discordWidget.style.display !== 'none';
+            discordWidget.style.display = isVisible ? 'none' : 'flex';
+        });
+    }
+});
+
 function setActiveLink(){
 	const hash = location.hash;
 	document.querySelectorAll('.nav-link').forEach(a => {

@@ -61,6 +61,26 @@
 	</div>
 </div>
 
+<!-- Discord Widget Button -->
+<button id="discordWidgetBtn" class="discord-widget-toggle" title="Open Discord Chat">
+	<i class="fab fa-discord"></i>
+</button>
+
+<!-- Discord WidgetBot -->
+<div id="discordWidget" class="discord-widget-container" style="display: none;">
+	<div class="discord-widget-header">
+		<span><i class="fab fa-discord"></i> VEIN Modding Discord</span>
+		<button onclick="document.getElementById('discordWidget').style.display='none'" class="discord-widget-close">&times;</button>
+	</div>
+	<widgetbot
+		server="1433388960758894603"
+		channel="1433390868781469746"
+		width="100%"
+		height="600"
+	></widgetbot>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
 	// Custom renderer for admonition blocks
