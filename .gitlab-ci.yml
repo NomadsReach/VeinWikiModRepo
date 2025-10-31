@@ -6,6 +6,8 @@ pages:
     - mkdir -p public
     - cp -r Media public/
     - cp -r Pages public/
+    - cp -r css public/
+    - cp -r js public/
     - cp -r *.html public/ 2>/dev/null || true
     - cp -r *.css public/ 2>/dev/null || true
     - cp -r *.js public/ 2>/dev/null || true
