@@ -104,15 +104,15 @@ document.addEventListener('DOMContentLoaded', () => {
             sidebar.classList.remove('is-open');
             overlay.classList.remove('is-active');
         });
-    }
 
-    // Close mobile menu when a nav link is clicked
-    sidebar.addEventListener('click', (e) => {
-        if (e.target.closest('.nav-link')) {
-            sidebar.classList.remove('is-open');
-            overlay.classList.remove('is-active');
-        }
-    });
+        // Close mobile menu when a nav link is clicked
+        sidebar.addEventListener('click', (e) => {
+            if (e.target.closest('.nav-link')) {
+                sidebar.classList.remove('is-open');
+                overlay.classList.remove('is-active');
+            }
+        });
+    }
 });
 
 function setActiveLink(){
