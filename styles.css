@@ -352,49 +352,55 @@ body{
 
     .title {
         font-size: 16px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
     .header-tools {
-        display: none; /* Hide search and theme toggle on mobile header */
+        display: none;
     }
 
     .content {
-        padding: 16px; /* Reduce padding on mobile */
+        padding: 16px;
     }
     
     #content {
-        overflow-x: hidden; /* Prevent horizontal scroll from overflowing content */
+        overflow-x: hidden;
+    }
+
+    #content h1, #content h2, #content h3 {
+        word-break: break-word;
     }
 
     .menu-toggle {
-        display: block; /* Show hamburger */
+        display: block;
     }
 
     .layout {
         grid-template-columns: 1fr;
-        height: auto; /* Let content determine height */
+        height: auto;
     }
 
     .sidebar {
         position: fixed;
-        left: 0;
+        left: -280px; /* Start hidden off-screen */
         top: 0;
         width: 280px;
-        height: 100vh;
+        height: 100%;
         z-index: 2000;
-        transform: translateX(-100%);
-        transition: transform 0.3s ease-in-out;
+        transition: left 0.3s ease-in-out;
         border-right: 2px solid var(--border);
         box-shadow: 4px 0 15px rgba(0,0,0,0.4);
-        padding-top: 60px; /* Space for a close button if needed */
+        padding-top: 60px;
     }
 
     .sidebar.is-open {
-        transform: translateX(0);
+        left: 0; /* Slide into view */
     }
     
     #page-toc {
-        display: none; /* No room for TOC on mobile */
+        display: none;
     }
 }
 
