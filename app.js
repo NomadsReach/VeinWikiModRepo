@@ -79,6 +79,32 @@ function buildSidebar(){
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Rotate banner logic
+    const rotateBanner = document.getElementById('rotateBanner');
+    const dismissBtn = rotateBanner?.querySelector('.rotate-dismiss');
+    
+    if (rotateBanner && dismissBtn) {
+        // Check if user previously dismissed the banner
+        const bannerDismissed = sessionStorage.getItem('rotateBannerDismissed');
+        
+        if (bannerDismissed) {
+            rotateBanner.style.display = 'none';
+        }
+        
+        dismissBtn.addEventListener('click', () => {
+            sessionStorage.setItem('rotateBannerDismissed', 'true');
+        });
+        
+        // Hide banner when orientation changes to landscape
+        window.addEventListener('orientationchange', () => {
+            setTimeout(() => {
+                if (window.innerWidth > window.innerHeight) {
+                    rotateBanner.style.display = 'none';
+                }
+            }, 100);
+        });
+    }
+
     const discordBtn = document.getElementById('discordWidgetBtn');
     const discordWidget = document.getElementById('discordWidget');
     

@@ -320,6 +320,44 @@ body{
 
 /* --- Responsive Design --- */
 
+.rotate-banner {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: var(--accent);
+    color: white;
+    padding: 10px 16px;
+    z-index: 3000;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.rotate-banner i.fa-mobile-screen-button {
+    font-size: 18px;
+}
+
+.rotate-dismiss {
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 4px 8px;
+    margin-left: auto;
+    font-size: 16px;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+}
+
+.rotate-dismiss:hover {
+    opacity: 1;
+}
+
 .menu-toggle {
     display: none; /* Hidden by default */
     background: transparent;
@@ -343,6 +381,16 @@ body{
 
 .mobile-overlay.is-active {
     display: block;
+}
+
+@media(max-width: 768px) and (orientation: portrait) {
+    .rotate-banner {
+        display: flex;
+    }
+
+    body {
+        padding-top: 44px;
+    }
 }
 
 @media(max-width: 768px) {
