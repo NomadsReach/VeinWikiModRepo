@@ -27,6 +27,14 @@
 	overflow-x:hidden;
 }
 
+body.is-home-page .content{
+	background:transparent !important;
+}
+
+body.is-home-page .layout.hide-sidebar .content{
+	background:transparent !important;
+}
+
 #content{
 	max-width:100%;
 	margin:0;
@@ -36,10 +44,11 @@
 	backdrop-filter:blur(10px);
 }
 
-.is-home-page #content{
-	background:transparent;
-	padding:0;
-	backdrop-filter:none;
+body.is-home-page #content{
+	background:transparent !important;
+	padding:0 !important;
+	border-radius:0 !important;
+	backdrop-filter:none !important;
 }
 
 #page-toc{
