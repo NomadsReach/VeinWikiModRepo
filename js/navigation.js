@@ -5,14 +5,6 @@ const sidebarEl = document.getElementById('sidebar');
 const NAV = [
 	{ title: 'Start Here', path: 'Pages/start-here.html', icon: 'fas fa-play-circle' },
     { title: 'Introduction to Modding', path: 'Pages/Introduction/index.html', icon: 'fas fa-book-open' },
-    { title: 'Core Fundamentals', path: 'Pages/CoreFundamentals/index.html', icon: 'fas fa-cogs' },
-    { title: 'Beginner Mods', path: 'Pages/BeginnerMods/index.html', icon: 'fas fa-seedling' },
-    { title: 'Intermediate Mods', path: 'Pages/IntermediateMods/index.html', icon: 'fas fa-leaf' },
-    { title: 'Blueprint Mods', path: 'Pages/BlueprintMods/index.html', icon: 'fas fa-project-diagram' },
-    { title: 'Advanced Topics', path: 'Pages/AdvancedMods/index.html', icon: 'fas fa-brain' },
-    { title: 'Expert Topics', path: 'Pages/ExpertMods/index.html', icon: 'fas fa-graduation-cap' },
-    { title: 'Game Specific', path: 'Pages/GameSpecific/index.html', icon: 'fas fa-gamepad' },
-    { title: 'Tools & Extras', path: 'Pages/Tools/index.html', icon: 'fas fa-tools' },
     { title: 'Credits', path: 'Pages/credits.html', icon: 'fas fa-users' },
 ];
 
