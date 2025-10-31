@@ -14,7 +14,6 @@ const NAV = [
 	{ title: 'Advanced Topics', path: 'Pages/AdvancedModding_index.html', icon: 'fas fa-cogs' },
 	{ title: 'Expert Topics', path: 'Pages/ExpertModding_index.html', icon: 'fas fa-brain' },
 	{ title: 'Memory Hacking', path: 'Pages/GameMemory_index.html', icon: 'fas fa-microchip' },
-	{ title: 'Game Notes', path: 'Pages/GameSpecific_index.html', icon: 'fas fa-gamepad' },
 	{ title: 'Tools & Extras', path: 'Pages/Misc_index.html', icon: 'fas fa-tools' },
 	{ title: 'Credits', path: 'Pages/credits.html', icon: 'fas fa-heart' }
 ];
@@ -80,6 +79,32 @@ function buildSidebar(){
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Rotate banner logic
+    const rotateBanner = document.getElementById('rotateBanner');
+    const dismissBtn = rotateBanner?.querySelector('.rotate-dismiss');
+    
+    if (rotateBanner && dismissBtn) {
+        // Check if user previously dismissed the banner
+        const bannerDismissed = sessionStorage.getItem('rotateBannerDismissed');
+        
+        if (bannerDismissed) {
+            rotateBanner.style.display = 'none';
+        }
+        
+        dismissBtn.addEventListener('click', () => {
+            sessionStorage.setItem('rotateBannerDismissed', 'true');
+        });
+        
+        // Hide banner when orientation changes to landscape
+        window.addEventListener('orientationchange', () => {
+            setTimeout(() => {
+                if (window.innerWidth > window.innerHeight) {
+                    rotateBanner.style.display = 'none';
+                }
+            }, 100);
+        });
+    }
+
     const discordBtn = document.getElementById('discordWidgetBtn');
     const discordWidget = document.getElementById('discordWidget');
     
@@ -87,6 +112,31 @@ document.addEventListener('DOMContentLoaded', () => {
         discordBtn.addEventListener('click', () => {
             const isVisible = discordWidget.style.display !== 'none';
             discordWidget.style.display = isVisible ? 'none' : 'flex';
+        });
+    }
+
+    // Mobile menu toggle
+    const menuToggle = document.getElementById('menuToggle');
+    const sidebar = document.getElementById('sidebar');
+    const overlay = document.getElementById('mobileOverlay');
+    
+    if (menuToggle && sidebar && overlay) {
+        menuToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('is-open');
+            overlay.classList.toggle('is-active');
+        });
+
+        overlay.addEventListener('click', () => {
+            sidebar.classList.remove('is-open');
+            overlay.classList.remove('is-active');
+        });
+
+        // Close mobile menu when a nav link is clicked
+        sidebar.addEventListener('click', (e) => {
+            if (e.target.closest('.nav-link')) {
+                sidebar.classList.remove('is-open');
+                overlay.classList.remove('is-active');
+            }
         });
     }
 });
@@ -335,11 +385,6 @@ const PAGES = [
 	'Pages/GameMenus.html',
 	'Pages/GeneratingUHT.html',
 	'Pages/GameMemory_index.html',
-	'Pages/GameSpecific_index.html',
-	'Pages/gameSpecificGuides.html',
-	'Pages/RNA_Celshaded_MI.html',
-	'Pages/RNA_colorpicker.html',
-	'Pages/RNA_Outfitmanager.html',
 	'Pages/Misc_index.html',
 	'Pages/BlenderImportModels.html',
 	'Pages/BlenderImportAnimations.html',

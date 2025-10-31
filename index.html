@@ -9,7 +9,19 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<!-- Rotate Device Banner -->
+<div id="rotateBanner" class="rotate-banner">
+	<i class="fas fa-mobile-screen-button"></i>
+	<span>Rotate device for best viewing experience</span>
+	<button class="rotate-dismiss" onclick="document.getElementById('rotateBanner').style.display='none'">
+		<i class="fas fa-times"></i>
+	</button>
+</div>
+
 <header class="site-header">
+	<button id="menuToggle" class="menu-toggle" aria-label="Toggle Menu">
+		<i class="fas fa-bars"></i>
+	</button>
 	<img class="logo" src="Media/UpscaledLogo.jpeg" alt="VEIN Logo">
 	<h1 class="title">VEIN Modding Wiki</h1>
 	<div class="header-tools">
@@ -22,6 +34,7 @@
 </header>
 
 <div class="layout">
+	<div id="mobileOverlay" class="mobile-overlay"></div>
 	<nav class="sidebar" id="sidebar"></nav>
 	<main class="content">
 		<article id="content"></article>

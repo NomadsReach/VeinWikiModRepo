@@ -87,16 +87,3 @@ ehthumbs.db
 *.rar
 *.tar
 *.zip
-
-# Optional: Uncomment if you want to ignore large media files
-# Media/
-# *.mp4
-# *.avi
-# *.mov
-# *.wmv
-# *.flv
-# *.mkv
-
-# Optional: Uncomment if you want to ignore specific folders
-# Resources/
-
