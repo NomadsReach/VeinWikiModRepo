@@ -30,7 +30,9 @@
     <ol>
         <li>In your Unreal project's content drawer, create a folder structure like: <code>Content/Mods/TestMod</code>.</li>
         <li>Inside, create a new <strong>Blueprint Class</strong> of type <strong>Actor</strong> and name it <code>ModActor</code>.</li>
+        <img src="Media/Introduction/image22.png" alt="Creating Blueprint Actor" style="max-width: 100%; height: auto;">
         <li>Create a new <strong>Widget Blueprint</strong> (under User Interface) and name it <code>WBP_TestWidget</code>.</li>
+        <img src="Media/Introduction/image1.png" alt="Created Assets" style="max-width: 100%; height: auto;">
     </ol>
     
     <h3>Design the Widget</h3>
@@ -38,6 +40,7 @@
         <li>Open <code>WBP_TestWidget</code>.</li>
         <li>Drag a <strong>Canvas Panel</strong> onto the hierarchy, then drag a <strong>Text</strong> block onto the Canvas Panel.</li>
         <li>Select the Text block and change its content to "Mods working! Huzzah!". Position it in the center of the screen.</li>
+        <img src="Media/Introduction/image14.png" alt="Widget Designer" style="max-width: 100%; height: auto;">
         <li><strong>Compile</strong> and <strong>Save</strong>.</li>
     </ol>
     
@@ -47,19 +50,23 @@
         <li>From the <code>Event BeginPlay</code> node, drag out and create a <strong>Construct object from class</strong> node. Select your <code>WBP_TestWidget</code> as the class.</li>
         <li>From the construct node, drag out and create an <strong>Add to Viewport</strong> node.</li>
         <li>Connect the 'Return Value' of the construct node to the 'Target' of the Add to Viewport node.</li>
+        <img src="Media/Introduction/image34.png" alt="Blueprint Event Graph" style="max-width: 100%; height: auto;">
         <li><strong>Compile</strong> and <strong>Save</strong>.</li>
     </ol>
     
     <h3>Package and Install</h3>
     <ol>
         <li>In the content drawer, select both your <code>ModActor</code> and <code>WBP_TestWidget</code> assets.</li>
+        <img src="Media/Introduction/image17.png" alt="Assign to Chunk" style="max-width: 100%; height: auto;">
         <li>Right-click &rarr; Asset Actions &rarr; <strong>Assign to Chunk</strong>. Choose a unique number (e.g., 42).</li>
         <li>Save all, then go to <strong>Platforms &rarr; Windows &rarr; Package Project</strong>.</li>
+        <img src="Media/Introduction/image25.png" alt="Package Project" style="max-width: 100%; height: auto;">
         <li>Navigate to the output directory: <code>...\Windows\Vein\Content\Paks\</code>.</li>
         <li>Find your chunk file (e.g., <code>pakchunk42-Windows.pak</code>).</li>
         <li>Rename it to match your mod's folder name (e.g., <code>TestMod.pak</code>).</li>
         <li>Move this <code>.pak</code> file into the <code>...Vein\Content\Paks\LogicMods</code> folder.</li>
         <li>Launch the game. Your text should appear on the main menu!</li>
+        <img src="Media/Introduction/image13.png" alt="Mod Working in Game" style="max-width: 100%; height: auto;">
     </ol>
     
     <h3>Success!</h3>
