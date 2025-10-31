@@ -2,13 +2,14 @@ pages:
   stage: deploy
   script:
     - mkdir -p public
-    - cp -r * public/
-    - rm -rf public/.git
-    - rm -rf public/.gitlab-ci.yml
+    - cp -r * public/ || true
+    - cp -r .* public/ || true
+    - rm -rf public/.git || true
+    - rm -rf public/.gitlab-ci.yml || true
+    - rm -rf public/public || true
   artifacts:
     paths:
       - public
   only:
     - main
     - master
-
