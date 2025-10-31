@@ -1,15 +1,11 @@
+image: ubuntu:18.04
+
 pages:
   stage: deploy
   script:
-    - mkdir -p public
-    - cp -r * public/ || true
-    - cp -r .* public/ || true
-    - rm -rf public/.git || true
-    - rm -rf public/.gitlab-ci.yml || true
-    - rm -rf public/public || true
+    - echo "Deploying pages..."
   artifacts:
     paths:
-      - public
+      - .
   only:
     - main
-    - master
