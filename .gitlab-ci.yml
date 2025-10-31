@@ -1,12 +1,16 @@
 image: ubuntu:18.04
+
 pages:
   stage: deploy
   script:
     - mkdir -p public
-    - shopt -s extglob
-    - cp -r !(public) public/
-    - rm -rf public/.git
-    - rm -rf public/.gitlab-ci.yml
+    - cp -r Media public/
+    - cp -r Pages public/
+    - cp -r *.html public/ 2>/dev/null || true
+    - cp -r *.css public/ 2>/dev/null || true
+    - cp -r *.js public/ 2>/dev/null || true
+    - cp -r *.json public/ 2>/dev/null || true
+    - cp LICENSE public/ 2>/dev/null || true
   artifacts:
     paths:
       - public
