@@ -387,10 +387,6 @@ body{
     .rotate-banner {
         display: flex;
     }
-
-    body {
-        padding-top: 44px;
-    }
 }
 
 @media(max-width: 768px) {
