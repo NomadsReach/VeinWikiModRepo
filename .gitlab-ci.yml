@@ -1,11 +1,16 @@
 image: ubuntu:18.04
-
 pages:
   stage: deploy
   script:
-    - echo "Deploying pages..."
+    - mkdir -p public
+    - shopt -s extglob
+    - cp -r !(public) public/
+    - rm -rf public/.git
+    - rm -rf public/.gitlab-ci.yml
   artifacts:
     paths:
-      - .
+      - public
   only:
     - main
+    - master
+
