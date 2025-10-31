@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creating a Widget</title>
+</head>
+<body>
+
+<h1>Creating a Widget</h1>
+
+<p>This guide will go through creating and interacting with the widget.</p>
+
+<p>For more detailed information about widgets, visit: <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/umg-ui-designer-quick-start-guide-in-unreal-engine" target="_blank">UMG UI Designer Quick Start Guide</a> on UnrealEngine documentation.</p>
+
+<h2>Create the widget</h2>
+
+<ol>
+	<li>Create the widget by right-clicking in the Content Browser &rarr; User Interface &rarr; Widget Blueprint, and select the User Widget under Common.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/1.png" alt="Create Widget Blueprint"></p>
+
+<ol start="2">
+	<li>You can rename it or use the default name for the Widget Blueprint you created. Name it with the prefix <code>WBP_</code> (WidgetBlueprint) followed by a suitable name for that widget, for this example: <code>WBP_MyWidget</code></li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/3.png" alt="Rename Widget"></p>
+
+<ol start="3">
+	<li>Double-click on the created widget, and at the top-left side, search for <code>Canvas</code> and drag it onto the hierarchy root object.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/4.png" alt="Add Canvas"></p>
+
+<ol start="4">
+	<li>Do the same with, <code>Text</code> but drop it on top of the canvas panel.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/5.png" alt="Add Text"></p>
+
+<ol start="5">
+	<li>Set it as a variable, name it, and adjust its location as you wish.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/6.png" alt="Configure Text"></p>
+
+<p class="callout note"><strong>Note:</strong> For more infomation about the widget layout/panels, visit: <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/widget-blueprints-in-umg-for-unreal-engine" target="_blank">Widget Blueprints</a> on UE documentation.</p>
+
+<h2>Widget Event Graph</h2>
+
+<ol>
+	<li>Navigate to the Event Graph of the widget, and create a new custom event, by right-clicking and searching for <code>custom</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/7.png" alt="Custom Event"></p>
+
+<ol start="2">
+	<li>Name it <code>SetPositionText</code>.</li>
+	<li>Add a new Input variable, of type Vector.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/8.png" alt="Event Configuration"></p>
+
+<ol start="4">
+	<li>Create the following logic as shown in the image below.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/9.png" alt="Event Logic"></p>
+
+<h2>Initializing the widget</h2>
+
+<ol>
+	<li>Navigate to the ModActor of your mod, and add a node called <code>Create Widget</code>.</li>
+	<li>Plug it into BeginPlay, so it creates the widget when the mod actor spawns.</li>
+	<li>Provide the widget class in the Class field.</li>
+	<li>Create and plug the <code>Add to Viewport</code> as shown in the image below.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/10.png" alt="Initialize Widget"></p>
+
+<p>In order to use and access the newly created widget, it needs to be stored in a variable.</p>
+
+<ol start="5">
+	<li>Drag the Return value of the widget, and promote it to a variable.</li>
+</ol>
+
+<p><img src="Pages/Media/CreatingWidget/11.png" alt="Store Widget Variable"></p>
+
+<h2>Using the widget</h2>
+
+<p>For this simple example, the player pawn location is retrieved on the event tick, and the widget's method is used to set the position text.</p>
+
+<p><img src="Pages/Media/CreatingWidget/12.png" alt="Using Widget"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Avoid directly accessing the text component outside of the widget like in mod actor BP, try using methods to ensure low coupling between objects.</p>
+
+<h2>Results</h2>
+
+<p>A simple custom widget has been created that can be directly accessed and have its methods called.</p>
+
+<p><img src="Pages/Media/CreatingWidget/13.png" alt="Results"></p>
+
+<hr>
+
+<h3>Bonus</h3>
+
+<p>It's common practice to ensure the displayed data is easily understandable and readable.</p>
+
+<p>For example:</p>
+<ul>
+	<li>Formatting/appending the text with a description of the following data.</li>
+	<li>For vector types, divide the vector by <code>100</code> units for easy readability.</li>
+</ul>
+
+<p><img src="Pages/Media/CreatingWidget/14.png" alt="Format Data"></p>
+
+<p><img src="Pages/Media/CreatingWidget/15.png" alt="Final Result"></p>
+
+</body>
+</html>

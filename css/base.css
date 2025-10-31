@@ -1,0 +1,38 @@
+/* Base Styles - Reset and Typography */
+
+*{box-sizing:border-box}
+
+html,body{
+	height:auto;
+	overflow-x:hidden;
+	max-width:100%;
+}
+
+body{
+	margin:0;
+	background:var(--bg);
+	color:var(--text);
+	font-family:'Segoe UI','Roboto',system-ui,-apple-system,Segoe UI,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji";
+	line-height:1.65;
+	background-image: url('../Media/Background/background.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar{
+	width:8px;
+	height:8px;
+}
+::-webkit-scrollbar-track{
+	background:var(--bg);
+}
+::-webkit-scrollbar-thumb{
+	background:var(--panel-2);
+	border-radius:4px;
+}
+::-webkit-scrollbar-thumb:hover{
+	background:var(--border);
+}
+

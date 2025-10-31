@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blueprint Modding</title>
+</head>
+<body>
+
+<h1>Blueprint Modding</h1>
+
+<p>Blueprint modding in Unreal Engine allows modders to create and customize game features through a visual scripting system, eliminating the need for traditional coding. This powerful tool enables the modification of gameplay mechanics, AI behaviors, and user interfaces, making it accessible for modders to enhance and personalize game experiences quickly and efficiently.</p>
+
+<h2>Getting Started</h2>
+
+<p>If you're part of a game's Discord, check if there's a modding scene for that game, and ensure there's an already existing BP modloader of some type.</p>
+
+<p><strong>This guide assumes you're using UE4SS, UML, or DML.</strong><br>
+(if nothing sounds similar, you might need to research and ask around the modding scene of your game)</p>
+
+<ol>
+	<li>Double-check the version of UE the game is using by right-clicking on the exe &rarr; properties &rarr; details tab.</li>
+	<li>Download the correct UE version and create a new project.<br>
+		For more details read the <a href="#Pages/IntermediateMods/CreatingProject.html">Creating a UE4/5 project</a> guide.</li>
+</ol>
+
+<h2>Setting up</h2>
+
+<ol>
+	<li>In the Content Browser, create a new folder called <code>Mods</code></li>
+	<li>In the Mods folder, create another new folder and call it whatever you like, like <code>MyMod</code></li>
+</ol>
+
+<h2>Creating the Blueprint</h2>
+
+<p>Right-click and select the Blueprint Class.</p>
+
+<p><img src="Pages/Media/BpIntro/1.png" alt="Create Blueprint Class"></p>
+
+<p>Choose the Actor class.</p>
+
+<p><img src="Pages/Media/BpIntro/2.png" alt="Choose Actor"></p>
+
+<p>Once the BP is created, rename it to <code>ModActor</code>.</p>
+
+<p><img src="Pages/Media/BpIntro/3.png" alt="Rename to ModActor"></p>
+
+<p>Double-click the BP and switch to the Event Graph tab, where you will be greeted with a few default nodes.</p>
+
+<ul>
+	<li>EventBeginPlay: executes the code once when the BP is spawned/created.</li>
+	<li>EventActorBeginPlay: we will skip this one.</li>
+	<li>EventTick: executes the code every time the game is updated, every single frame, if not more..</li>
+</ul>
+
+<p>We will come back to it, so close the window for now.</p>
+
+<p><img src="Pages/Media/BpIntro/4.png" alt="Event Graph"></p>
+
+<p>For this example, we will create a widget, a UI to display that the mod is loaded in-game.</p>
+
+<h2>Creating the widget</h2>
+
+<ol>
+	<li>In the Content Browser, right-click &rarr; User Interface &rarr; Widget Blueprint.</li>
+	<li>Name it whatever you want, I named it <code>WBP_MyWidget</code>.</li>
+	<li>Open it.</li>
+</ol>
+
+<p><img src="Pages/Media/BpIntro/5.png" alt="Create Widget"></p>
+
+<p>Search for <code>Canvas</code> in the Palette and drag it onto the root object of the widget.<br>
+Canvas allows us to place other objects wherever we want on the screen.</p>
+
+<p><img src="Pages/Media/BpIntro/6.png" alt="Add Canvas"></p>
+
+<p>Seach for <code>Text</code> and drag the Text object on the Canvas.</p>
+
+<p><img src="Pages/Media/BpIntro/7.png" alt="Add Text"></p>
+
+<ol>
+	<li>Select the text.</li>
+	<li>Set your text within the Text field, I set it to <code>Loaded!</code> as a test.</li>
+	<li>Save it, close.</li>
+</ol>
+
+<p><img src="Pages/Media/BpIntro/9.png" alt="Set Text"></p>
+
+<h2>Coding the Blueprint</h2>
+
+<ol>
+	<li>Open the BP we created earlier.</li>
+	<li>Pull the EventBeginPlay pin and search for <code>Create Widget</code>, and click it.</li>
+</ol>
+
+<p><img src="Pages/Media/BpIntro/10.png" alt="Create Widget Node"></p>
+
+<p>A new node will be created and connected.<br>
+Click on the Class dropdown in the node and select your widget by name.</p>
+
+<p><img src="Pages/Media/BpIntro/11.png" alt="Select Widget Class"></p>
+
+<ol>
+	<li>Drag the Return Value pin from the widget creation node.</li>
+	<li>Look for <code>Add to viewport</code> and click it.</li>
+</ol>
+
+<p><img src="Pages/Media/BpIntro/12.png" alt="Add to Viewport"></p>
+
+<p>You should have the same thing as in the image below.<br>
+The code basically means:<br>
+On begin, create the specified widget, and add it to the screen/viewport.</p>
+
+<p><img src="Pages/Media/BpIntro/13.png" alt="Complete Logic"></p>
+
+<h2>Final Mod-Folder Structure</h2>
+
+<p>And the mod folder should look like this:</p>
+
+<p><img src="Pages/Media/BpIntro/14.png" alt="Mod Folder Structure"></p>
+
+<h2>Pack it and Test it</h2>
+
+<p>The packaging process will vary based on the UE version.<br>
+UE4 &rarr; using UnrealPak.<br>
+UE5 &rarr; chunk assigning <em>(unless the game has no IOStore)</em>.</p>
+
+<p>For more info, check <a href="#Pages/IntermediateMods/CookingContent.html">Cooking with UE</a>.</p>
+
+<h3>Loading the mod</h3>
+
+<p>Depending on the modloader, the loading process may vary, so double-check with the used modloader instructions or with the modding community for the game you're modding.</p>
+
+<p><img src="Pages/Media/BpIntro/15.png" alt="Results"></p>
+
+</body>
+</html>

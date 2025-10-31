@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finding AES Key</title>
+</head>
+<body>
+
+<h1>Finding AES Key</h1>
+
+<p>Some games will have their <code>.pak</code> files encrypted with an AES key. Luckily, it's an easy task to find the AES key.</p>
+
+<p>There are two methods:</p>
+<ul>
+	<li>Method 1: using <a href="https://github.com/GHFear/AESDumpster" target="_blank">AESDumpster</a> by <a href="https://github.com/GHFear/" target="_blank">GHFear</a></li>
+	<li>Method 2: using the Java version Aes_Finder (backup if first doesn't work).</li>
+</ul>
+
+<h2>Getting the AES - Method 1</h2>
+
+<ol>
+	<li>Navigate to <a href="https://github.com/GHFear/AESDumpster" target="_blank">AESDumpster</a>.</li>
+	<li>Download executable from releases.</li>
+	<li>Drop your game's largest executable (usually called "Gamename"-Shipping.exe) on top of AESDumpster-Win64.exe</li>
+	<li>Within a few seconds, it will output the found AES key on the screen.</li>
+</ol>
+
+<h2>Getting the AES - Method 2</h2>
+
+<ol>
+	<li>Download the <a href="https://github.com/Dmgvol/UE_Modding/raw/main/Tools/AES_finder.exe" target="_blank">AES_Finder.exe</a>.<br>
+		<em>(the tool is using Java, and requires Java Runtime to be installed)</em>
+	</li>
+	<li>Place the <code>.exe</code> in the same folder as the game binary executable.<br>
+		<em>(the one with "Win64-Shipping.exe" in its name)</em><br>
+		(For example: <code>...\Ghostrunner 2\Ghostrunner2\Binaries\Win64\</code>)
+	</li>
+	<li>Launch the game and then launch the AES finder.</li>
+	<li>Wait a few seconds, and a new text file named <code>key.txt</code> will appear in that folder, which will contain the AES key.</li>
+</ol>
+
+<p>That's it!</p>
+
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step 8: UE4SS & Logic Mods</title>
+</head>
+<body>
+    <a href="#Pages/Introduction/7_FontMod.html">&larr; Back to Step 7</a>
+    <h1>Step 8: UE4SS & Logic Mods</h1>
+
+    <p class="callout important"><strong>Prerequisites:</strong> You must have completed the advanced Unreal Engine project setup and installed UE4SS.</p>
+    
+    <h2>1. Download and Install UE4SS</h2>
+    <p>UE4SS is a tool required to load logic and blueprint mods. Players using your mod will also need to install it.</p>
+    <p><strong>Download:</strong> <a href="https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/experimental-latest" target="_blank">UE4SS Experimental Latest</a> (Use version zDEV-UE4SS_v3.0.1-599-g1a6cdbc or newer).</p>
+    
+    <h3>Installation</h3>
+    <ol>
+        <li>Navigate to your game's Win64 binary folder: <br><code>...\steamapps\common\Vein\Vein\Binaries\Win64\</code></li>
+        <li>Extract the contents of the UE4SS zip file into this folder.</li>
+        <li>Verify that <code>ue4ss</code> folder and <code>dwmapi.dll</code> are now in the same directory as <code>Vein-Win64-Test.exe</code>.</li>
+        <li>Run the game once to allow UE4SS to initialize. This will create a new <code>LogicMods</code> folder in <code>...\Vein\Content\Paks\</code>. This is where your blueprint mods will go.</li>
+    </ol>
+
+    <h2>2. Blueprint Mod Tutorial: Simple Widget</h2>
+    <p>This tutorial tests that your setup is correct by creating a simple "Hello World" style widget that appears on the main menu.</p>
+    
+    <h3>Create Assets</h3>
+    <ol>
+        <li>In your Unreal project's content drawer, create a folder structure like: <code>Content/Mods/TestMod</code>.</li>
+        <li>Inside, create a new <strong>Blueprint Class</strong> of type <strong>Actor</strong> and name it <code>ModActor</code>.</li>
+        <li>Create a new <strong>Widget Blueprint</strong> (under User Interface) and name it <code>WBP_TestWidget</code>.</li>
+    </ol>
+    
+    <h3>Design the Widget</h3>
+    <ol>
+        <li>Open <code>WBP_TestWidget</code>.</li>
+        <li>Drag a <strong>Canvas Panel</strong> onto the hierarchy, then drag a <strong>Text</strong> block onto the Canvas Panel.</li>
+        <li>Select the Text block and change its content to "Mods working! Huzzah!". Position it in the center of the screen.</li>
+        <li><strong>Compile</strong> and <strong>Save</strong>.</li>
+    </ol>
+    
+    <h3>Program the ModActor</h3>
+    <ol>
+        <li>Open the <code>ModActor</code> blueprint and go to the <strong>Event Graph</strong>.</li>
+        <li>From the <code>Event BeginPlay</code> node, drag out and create a <strong>Construct object from class</strong> node. Select your <code>WBP_TestWidget</code> as the class.</li>
+        <li>From the construct node, drag out and create an <strong>Add to Viewport</strong> node.</li>
+        <li>Connect the 'Return Value' of the construct node to the 'Target' of the Add to Viewport node.</li>
+        <li><strong>Compile</strong> and <strong>Save</strong>.</li>
+    </ol>
+    
+    <h3>Package and Install</h3>
+    <ol>
+        <li>In the content drawer, select both your <code>ModActor</code> and <code>WBP_TestWidget</code> assets.</li>
+        <li>Right-click &rarr; Asset Actions &rarr; <strong>Assign to Chunk</strong>. Choose a unique number (e.g., 42).</li>
+        <li>Save all, then go to <strong>Platforms &rarr; Windows &rarr; Package Project</strong>.</li>
+        <li>Navigate to the output directory: <code>...\Windows\Vein\Content\Paks\</code>.</li>
+        <li>Find your chunk file (e.g., <code>pakchunk42-Windows.pak</code>).</li>
+        <li>Rename it to match your mod's folder name (e.g., <code>TestMod.pak</code>).</li>
+        <li>Move this <code>.pak</code> file into the <code>...Vein\Content\Paks\LogicMods</code> folder.</li>
+        <li>Launch the game. Your text should appear on the main menu!</li>
+    </ol>
+    
+    <h3>Success!</h3>
+    <p><strong>Congratulations! You just made your first blueprint mod for VEIN.</strong></p>
+
+    <a href="#Pages/Introduction/9_FinalNotes.html" class="start-button">Next Step: Final Notes & Resources &rarr;</a>
+</body>
+</html>

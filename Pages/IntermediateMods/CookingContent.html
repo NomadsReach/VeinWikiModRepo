@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cooking Content</title>
+</head>
+<body>
+
+<h1>Cooking Content</h1>
+
+<p>Once you're done with everything you need to do inside the editor, it's time to compile the assets.</p>
+
+<div class="callout important">
+    <p><strong>Troubleshooting - SDK Errors:</strong> If Unreal Engine displays errors or warnings when attempting to package/cook content, ensure you have the Windows SDK installed. Download it from <a href="https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/" target="_blank">Microsoft's website</a>. If the editor was open during SDK installation, close and reopen it.</p>
+</div>
+
+<p><strong>For UE4</strong></p>
+<ul>
+	<li>Navigate to <a href="#cooking-ue4-unrealpak-route">Cooking UE4</a> for UnrealPak route.</li>
+	<li>Navigate to <a href="#cooking-ue4-generating-chunks-route">Chunks in UE4</a>.</li>
+</ul>
+
+<p><strong>For UE5</strong></p>
+<ul>
+	<li>Navigate to <a href="#cooking-ue5">Cooking UE5</a></li>
+</ul>
+
+<p class="callout important"><strong>Important:</strong> For <code>IoStore</code> games, first navigate to Edit &rarr; Project settings &rarr; Packaging, then make sure <code>Use Io Store</code> at the top of the packaging settings is checked. Then follow the rest of this guide as normal.</p>
+
+<h2>Cooking UE4 (UnrealPak Route)</h2>
+
+<p>Once you're ready, click File &rarr; Cook Content for Windows.</p>
+
+<p><img src="Pages/Media/Compiling/ue4_1.png" alt="Cook Content"></p>
+
+<p>After a while, the cooking will be completed, and you will be able to find the cooked content inside the Saved folder of your project.</p>
+
+<pre><code>ProjectName\Saved\Cooked\WindowsNoEditor\ProjectName\Content\...
+</code></pre>
+
+<p>From here, you will have to use UnrealPak which you can learn more about packaging your mod here: <a href="#Pages/BeginnerMods/UnrealPak.html">Creating Pak - UnrealPak</a>.</p>
+
+<p>Based on which assets you've created, you will need to copy-paste them into the mod folder (covered in unrealPak guide).</p>
+
+<h2>Cooking UE4 (Generating-Chunks Route)</h2>
+
+<p>Another method of cooking UE content is by packaging specific assets into predefined chunks. It's faster as there is no need for UnrealPak, but it's limited as it packs only what's in the editor. Meaning it's not suitable if you want to combine modified assets or precooked assets into that mod.</p>
+
+<p>Follow the packaging process in the UE5 section as it's the same procedure. And once you're done with assigning to a chunk: File &rarr; Package Project &rarr; Windows</p>
+
+<p class="callout important"><strong>Important:</strong> UE4's process is identical with UE5 in terms of cooking using chunks.</p>
+
+<hr>
+
+<h2>Cooking UE5</h2>
+
+<p>For UE5, modders have to assign their assets to specific chunk ids, and there are 2 methods to do so, which will be covered below.</p>
+
+<p>The two methods are <a href="#manual-chunk-ids">Manual Chunks</a> and <a href="#bulk-assign-using-dataassetda">BulkChunk</a>.</p>
+
+<p>Once the chunks are assigned, simply <a href="#packaging-ue5">Package it</a>.</p>
+
+<h3>Manual Chunk IDs</h3>
+
+<p>First, enable Chunk ID assignment by going to Edit &rarr; Editor Preferences &rarr; search for "chunk" &rarr; enable "Allow ChunkID Assignments".</p>
+
+<p>Then right-click on the asset(s) you would like to cook &rarr; Asset Actions &rarr; Assign to Chunk.</p>
+
+<p><img src="Pages/Media/Compiling/UE5_1.png" alt="Assign to Chunk"></p>
+
+<p>A small pop-up will show up, where you can input a value between 0 to 300.</p>
+
+<p>Pick any ID that you wish (besides 0), and make sure it's not already used by the game.<br>
+<em>(Look at the Paks folder)</em></p>
+
+<p>You can double-check the assigned chunk ID of assets, by selecting all of the assets, and then clicking on Audit Assets.</p>
+
+<h3>Bulk Assign using DataAsset(DA)</h3>
+
+<p>This method assigns all (or explicit) files within the <strong>same</strong> folder, which has advantages and disadvantages.</p>
+
+<p>Right-click to create a new asset &rarr; Miscellaneous &rarr; Data Asset.</p>
+
+<p><img src="Pages/Media/Compiling/UE5_2.png" alt="Create Data Asset"></p>
+
+<p>Pick the <code>PrimaryAssetLabel</code> from the list.</p>
+
+<p><img src="Pages/Media/Compiling/UE5_3.png" alt="Primary Asset Label"></p>
+
+<p>Once created, open the DataAsset, and:</p>
+<ul>
+	<li>Set the Priority to 1.</li>
+	<li>Pick any Chunk Id from 0 to 10,000.</li>
+	<li>Set "Apply Recursively" <strong>ONLY</strong> if you want to pack all files, including parent objects of those files.</li>
+	<li>Set <code>Cook Rule</code> to <code>Always Cook</code>.</li>
+	<li>Set <code>Label assets in My Directory</code> field, if you want to pack all files within the same folder.</li>
+	<li>(Optional) You can hand-pick specific assets/blueprints that you wish to pack.</li>
+</ul>
+
+<p>Note: Using DataAsset will pack everything inside the folder. So if you want to pack specific ones, make sure to specify them in the Explicit section.</p>
+
+<p><img src="Pages/Media/Compiling/UE5_4.png" alt="Data Asset Configuration"></p>
+
+<h2>Packaging UE5</h2>
+
+<p>At the middle top section of the editor, click Platforms &rarr; Windows &rarr; Package Project. Then select a folder to build the project.<br>
+<em>I usually make a <code>Build</code> folder inside the project folder.</em></p>
+
+<p><img src="Pages/Media/Compiling/UE5_5.png" alt="Package Project"></p>
+
+<p>Once the cooking part is complete, you will find the chunk-assigned results in:</p>
+
+<pre><code>\ProjectName\Build\Windows\ProjectName\Content\Paks
+</code></pre>
+
+<ol>
+	<li>Copy the 3 files from the build folder into the game's Paks folder.</li>
+	<li>Rename it to whatever you want but ensure it ends with <code>_P</code> in its name.<br>For example: <code>myMod_P</code>, for all 3 files.</li>
+</ol>
+
+</body>
+</html>

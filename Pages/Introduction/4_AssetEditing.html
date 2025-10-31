@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step 4: Your First Mod - Asset Editing</title>
+</head>
+<body>
+    <a href="#Pages/Introduction/3_ToolConfiguration.html">&larr; Back to Step 3</a>
+    <h1>Step 4: Your First Mod - Asset Editing</h1>
+
+    <p>This tutorial walks you through editing properties on items and adding new properties. We'll recreate the <a href="https://www.nexusmods.com/vein/mods/6" target="_blank">"Easy Lockpicking Mod"</a> to demonstrate all necessary steps.</p>
+    
+    <h2>1. Finding Assets in FModel</h2>
+    <p>In FModel, you can browse to find everything that exists within the game. All lock assets are located in: <code>Vein/Content/Vein/LockTypes</code></p>
+    <p>Double-click on <code>LTD_BasicLock_Simple.uasset</code>. You can then use the Packages tab to inspect its properties. We are looking for <code>PickableEasinessModifier</code>. After inspecting a few files, we can determine the full list of assets we need to modify.</p>
+
+    <h2>2. Exporting Raw Data</h2>
+    <p>We need to modify every object with <code>PickableEasinessModifier</code> AND the base lock <code>LTD_BasicLock_Simple</code>. Our final list of exports is:</p>
+    <ul>
+        <li>LTD_BasicLock_Simple</li>
+        <li>LTD_BasicLock_Tough</li>
+        <li>LTD_BasicLock_VeryTough</li>
+        <li>LTD_BasicLock</li>
+        <li>LTD_BasicLock_CodeLock</li>
+        <li>LTD_BasicLock_EnhancedLock</li>
+        <li>LTD_BasicLock_RemoteLock</li>
+    </ul>
+    <p>Export these as Raw Data (.uasset). They'll be saved to your FModel output directory.</p>
+    
+    <h2>3. Editing Properties in UAssetGUI</h2>
+    <ol>
+        <li>Open UAssetGUI and open <code>LTD_BasicLock.uasset</code> from your FModel output folder.</li>
+        <li>Search for <code>PickableEasinessMultiplier</code>.</li>
+        <li>Double-click its value (e.g., "0.5") and change it to "10".</li>
+        <li>Click <strong>File</strong> → <strong>Save</strong>.</li>
+        <li>Repeat this process for all other lock types EXCEPT <code>LTD_BasicLock_Simple</code>, as it doesn't have the property yet.</li>
+    </ol>
+    <p class="callout note"><strong>Note:</strong> UAssetGUI saves a backup (*.bak) file. Feel free to delete these.</p>
+    
+    <h2>4. Adding a New Property (Advanced)</h2>
+    <p>This is the most complex part. We need to add the <code>PickableEasinessMultiplier</code> property to <code>LTD_BasicLock_Simple</code>.</p>
+    <ol>
+        <li>Open both <code>LTD_BasicLock_VeryTough</code> (our reference) and <code>LTD_BasicLock_Simple</code> (our target) in UAssetGUI.</li>
+        <li>Save both files as <strong>UAssetAPI JSON (*.json)</strong>.</li>
+        <li>Open both JSON files in a text editor like Notepad++ or VSCode.</li>
+        <li>In the "Very Tough" JSON, find the <code>PickableEasinessMultiplier</code> property block and copy it. It looks like this:
+            <pre><code>{
+  "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
+  "Value": 10.0,
+  "Name": "PickableEasinessMultiplier",
+  "ArrayIndex": 0,
+  "IsZero": false,
+  "PropertyTagFlags": "None",
+  "PropertyTagExtensions": "NoExtension"
+},</code></pre>
+        </li>
+        <li>In the "Simple" JSON, find the properties <code>bRemovable</code> and <code>RequirementsToCopyLock</code>.</li>
+        <li>Paste the entire copied block on a new line between the closing brace <code>}</code> of <code>bRemovable</code> and the start of <code>RequirementsToCopyLock</code>. Ensure the comma is correctly placed.</li>
+        <li>Save the modified <code>LTD_BasicLock_Simple.json</code>.</li>
+        <li>Open the modified JSON file in UAssetGUI to verify the new property appears.</li>
+        <li>If successful, use <strong>File → Save As</strong> to overwrite the original <code>LTD_BasicLock_Simple.uasset</code>.</li>
+    </ol>
+
+    <a href="#Pages/Introduction/5_Packaging.html" class="start-button">Next Step: Packaging Your Mod &rarr;</a>
+</body>
+</html>

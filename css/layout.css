@@ -1,0 +1,48 @@
+/* Layout and Grid Structure */
+
+.layout{
+	position:relative;
+}
+
+.layout.hide-sidebar .sidebar{
+	display:none;
+}
+
+.content{
+	padding:24px 28px;
+	background:transparent;
+	width:100%;
+	margin-left:260px;
+	min-height:calc(100vh - 66px);
+	max-width:100%;
+	box-sizing:border-box;
+	overflow-x:hidden;
+}
+
+.layout.hide-sidebar .content{
+	margin-left:0;
+	width:100%;
+	max-width:100%;
+	box-sizing:border-box;
+	overflow-x:hidden;
+}
+
+#content{
+	max-width:100%;
+	margin:0;
+	background:rgba(20, 20, 20, 0.85);
+	padding:32px;
+	border-radius:8px;
+	backdrop-filter:blur(10px);
+}
+
+.is-home-page #content{
+	background:transparent;
+	padding:0;
+	backdrop-filter:none;
+}
+
+#page-toc{
+	display:none !important;
+}
+

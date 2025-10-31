@@ -1,0 +1,245 @@
+/* Mobile Responsive Styles */
+
+/* Mobile Portrait Banner */
+.rotate-banner {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: var(--accent);
+    color: white;
+    padding: 12px 16px;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 3000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.rotate-banner i {
+    font-size: 24px;
+    margin-right: 12px;
+}
+
+.rotate-banner span {
+    flex: 1;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.rotate-dismiss {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 4px 8px;
+}
+
+.rotate-dismiss:hover {
+    opacity: 0.8;
+}
+
+.mobile-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 900;
+}
+
+@media(max-width: 768px) and (orientation: portrait) {
+    .rotate-banner {
+        display: flex;
+    }
+}
+
+@media(max-width: 768px) {
+	.landing-simple {
+		padding: 30px 16px;
+	}
+	
+	.landing-title h1 {
+		font-size: 32px;
+	}
+	
+	.landing-title p {
+		font-size: 16px;
+	}
+	
+	.landing-actions {
+		flex-direction: column;
+		gap: 10px;
+	}
+	
+	.action-btn {
+		width: 100%;
+		text-align: center;
+	}
+	
+	.home-header h1 {
+		font-size: 28px;
+	}
+	
+	.home-header .subtitle {
+		font-size: 16px;
+	}
+	
+	.video-container {
+		border-radius: 6px;
+		max-width: 100%;
+		/* FIXED: Removing width calc and padding here. The .content padding handles mobile spacing. */
+		width: 100%;
+		margin: 0 auto 30px;
+	}
+	
+	.home-action-cards {
+		grid-template-columns: 1fr;
+	}
+	
+	.showcase-simple-header h1 {
+		font-size: 24px;
+	}
+	
+	html, body {
+        overflow-x: hidden;
+        width: 100vw;
+        max-width: 100vw;
+    }
+    
+    .layout {
+        display: block;
+        width: 100vw;
+        max-width: 100vw;
+        box-sizing: border-box;
+    }
+    
+    #content {
+        max-width: 100% !important;
+        overflow-wrap: break-word !important;
+        word-wrap: break-word !important;
+        hyphens: auto !important;
+        min-width: 0 !important;
+        box-sizing: border-box !important;
+    }
+    
+    #content * {
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content {
+        overflow-x: hidden !important;
+        width: 100%;
+        max-width: 100vw;
+        box-sizing: border-box;
+        padding: 16px !important;
+    }
+    
+    .top-nav-container {
+        padding: 0 8px;
+    }
+
+    .top-nav-link {
+        padding: 10px 12px;
+        font-size: 13px;
+        gap: 6px;
+    }
+
+    .top-nav-link span {
+        display: none;
+    }
+
+    .top-nav-link i {
+        font-size: 18px;
+    }
+
+    .site-header {
+        padding: 12px 16px;
+        width: 100vw;
+        box-sizing: border-box;
+    }
+
+    .title {
+        font-size: 1em;
+    }
+
+    .logo {
+        width: 32px;
+        height: 32px;
+    }
+
+    #searchBox {
+        width: 150px;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .sidebar {
+        position: fixed;
+        left: -280px;
+        top: 0;
+        height: 100vh;
+        width: 260px;
+        z-index: 1001;
+        transition: left 0.3s ease;
+        border-right: none;
+        box-shadow: 2px 0 10px rgba(0, 0, 0, 0.3);
+    }
+
+    .sidebar.active {
+        left: 0;
+    }
+
+    .mobile-overlay.active {
+        display: block;
+    }
+    
+    #page-toc {
+        display: none;
+    }
+
+    .layout.hide-sidebar .content {
+        /* This padding ensures space around the content on mobile */
+        padding: 24px 10px;
+    }
+	
+	.video-container,
+	.home-description {
+        /* FIXED: Removed calc width to let width: 100% and .content padding handle spacing */
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.home-action-cards {
+		grid-template-columns: 1fr;
+	}
+	
+	.home-description {
+		margin: 40px auto;
+		padding: 0 20px;
+	}
+}
+
+@media(max-width:768px){
+	.content {
+		margin-left: 0;
+	}
+	.sidebar{
+		position:fixed;
+		left:-280px;
+		top:0;
+		height:100vh;
+		width:260px;
+		z-index:1001;
+		transition:left 0.3s ease;
+		border-right:none;
+		box-shadow:2px 0 10px rgba(0,0,0,0.3);
+	}
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Replacing Fonts</title>
+</head>
+<body>
+
+<h1>Replacing Fonts</h1>
+
+<p>Fonts are easy to replace, and there are 2 methods covered in this guide.</p>
+
+<ol>
+	<li>Direct FontFace replace - just like a texture swap, but import the font (<code>.ttf</code> or <code>.otf</code> file) into the correct folder and name it accordingly.</li>
+	<li>Font dummy (font family) - dummy the Font asset and set custom fonts for each type.</li>
+</ol>
+
+<h2>Method 1 - Direct Replace</h2>
+
+<p>Direct font replacement is exactly the same as a texture swap, where the modified/new asset is imported into UE, named and placed in the correct folder to match the game files.</p>
+
+<h3>Identify the Font and/or FontFace</h3>
+
+<p>First, locate the Font and the actual FontFace. In this instance, the found Font has multiple types, and the one of particular interest is <code>Default</code>.</p>
+
+<p><img src="Pages/Media/FontReplace/1.png" alt="Font Types"></p>
+
+<h3>Import New Asset</h3>
+
+<ol>
+	<li>Drag the font file into the Content Browser tab inside the UE project.</li>
+</ol>
+
+<p><img src="Pages/Media/FontReplace/2.png" alt="Import Font"></p>
+
+<ol start="2">
+	<li>A window prompt will appear, press <code>No All</code> to avoid generating a Font asset for each imported FontFace.</li>
+</ol>
+
+<p><img src="Pages/Media/FontReplace/3.png" alt="Prompt"></p>
+
+<ol start="3">
+	<li>Ensure the folders and asset name(s) match with the game files.</li>
+</ol>
+
+<p><img src="Pages/Media/FontReplace/4.png" alt="Match Names"></p>
+
+<h3>Pack it</h3>
+
+<p>Package the asset and test results.</p>
+
+<p><img src="Pages/Media/FontReplace/5.png" alt="Package"></p>
+
+<p>For more information about how to package your mod, view <a href="#Pages/IntermediateMods/CookingContent.html">Cooking Content guide</a>.</p>
+
+<p>(don't forget to name your mod with <code>_P</code> in its name)</p>
+
+<h2>Method 2 - Font Asset</h2>
+
+<p>Each font type has to be contained in a <code>Font</code> asset, similarly to Font Family with optional styles like Italic, Bold, and others. And each type is called FontFace (the imported <code>.ttf</code> or <code>.otf</code>).</p>
+
+<h3>Font Asset</h3>
+
+<ol>
+	<li>Right click &rarr; User Interface &rarr; Font</li>
+</ol>
+
+<p><img src="Pages/Media/FontReplace/6.png" alt="Create Font"></p>
+
+<ol start="2">
+	<li>Name it to match with the game files (look in FModel).</li>
+</ol>
+
+<p><img src="Pages/Media/FontReplace/7.png" alt="Name Font"></p>
+
+<p>Font assets will contain a handful of FontFace assets with a named style. In this instance, it contains different styles like Default, Black, BlackItalic, Bold, and others.</p>
+
+<ol start="3">
+	<li>Import any corresponding/related fonts that would fit with those styles or names.</li>
+</ol>
+
+<p class="callout note"><strong>Note:</strong> You decide where each font goes into which style/category. And you can set the same one to all of them if you want.</p>
+
+<p><img src="Pages/Media/FontReplace/8.png" alt="Import Styles"></p>
+
+<ol start="4">
+	<li>Open the Font asset and click <code>Add Font</code>, name it the same as in FModel and specify your own FontFace to it (could be custom or actual one).</li>
+	<li>Repeat step 4 until all Font Family items are set.</li>
+</ol>
+
+<p><img src="Pages/Media/FontReplace/9.png" alt="Add Fonts"></p>
+
+<h3>Pack it</h3>
+
+<p>Package the asset and test results.</p>
+
+<p><img src="Pages/Media/FontReplace/10.png" alt="Package"></p>
+
+<p>For more information about how to package your mod, view <a href="#Pages/IntermediateMods/CookingContent.html">Cooking Content guide</a>.</p>
+
+<p>(don't forget to name your mod with <code>_P</code> in its name)</p>
+
+</body>
+</html>

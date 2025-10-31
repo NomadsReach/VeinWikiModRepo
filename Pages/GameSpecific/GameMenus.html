@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adding custom game buttons into existing menus</title>
+</head>
+<body>
+
+<h1>Adding custom game buttons into existing menus</h1>
+
+<p>The purpose of this guide/mod is to add a custom button that looks and behaves like one of the game's buttons, to an existing menu.</p>
+
+<p class="callout note"><strong>Note:</strong> This guide assumes you already know how to create blueprint mods.</p>
+
+<p>In Ghostrunner 2, there's a menu button "Extras" with 2 sub-buttons. The goal is to add the same-looking button into its stack but with custom text and logic.</p>
+
+<p><img src="Pages/Media/GameMenus/1.png" alt="Extras Menu"></p>
+
+<p class="callout note"><strong>Note:</strong> Every game will be different but this is the generic approach to this type of mod.</p>
+
+<h2>Finding the components</h2>
+
+<p>In this particular example, the main menu panel is called <code>BP_PanelStartMenu</code>, which can be inspected to find the Credits sub-button, as shown in the image.</p>
+
+<p><img src="Pages/Media/GameMenus/2.png" alt="Panel Components"></p>
+
+<p>In the image, a few useful things are visible:</p>
+<ul>
+	<li>The type of the component, <code>BP_PanelStartMenuSubButton_C</code> which will need to be dummied.</li>
+	<li>The base properties like the TitleText.</li>
+	<li>The parent object holding this item, which is <code>VerBoxExtrasButtons</code>.</li>
+</ul>
+
+<p class="callout important"><strong>Important:</strong> In UE4 it won't matter if the component has IsVariable set to false, you can still access it directly. In UE5 it's different, only IsVariable components can be accessed, so you will have to find and navigate through the widget hierarchy.</p>
+
+<h2>Dummying/replicating it</h2>
+
+<ol>
+	<li>Create both widget blueprints in their original folders and name exactly how it's in-game files.</li>
+</ol>
+
+<p><img src="Pages/Media/GameMenus/3.png" alt="Create Widgets"></p>
+
+<p class="callout tip"><strong>Tip:</strong> In some rare cases, it's worth to fully replicate the entire button design for more control.</p>
+
+<ol start="2">
+	<li>Open the menu button widget, and dummy the necessary fields/methods/delegates.</li>
+</ol>
+
+<p><img src="Pages/Media/GameMenus/4.png" alt="Dummy Fields"></p>
+
+<ol start="3">
+	<li>For a button, the text and a way to detect the click need to be handled.</li>
+</ol>
+
+<ul>
+	<li>The text is stored in a variable of type Text named <code>TitleText</code>.</li>
+	<li>The click detection is done via an event dispatcher/delegate named <code>OnClickDelegate</code>.</li>
+</ul>
+
+<p><img src="Pages/Media/GameMenus/4-1.png" alt="Button Properties"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Different games will need different approaches to it. The delegate/dispatcher will be different in every game, and if the button widget has any component of type Button (the default UE type), you can bind to it.</p>
+
+<ol start="4">
+	<li>Navigate to the dummy widget for the menu panel.</li>
+	<li>Create the menu button widget in the canvas panel (doesn't matter where).</li>
+	<li>Name it with the correct name, exactly how it's named in FModel, and set it as a variable (right of the name).</li>
+</ol>
+
+<p><img src="Pages/Media/GameMenus/5.png" alt="Add Button to Panel"></p>
+
+<h2>Hooking into the menu</h2>
+
+<p>In the ModActor, first check if it's the current map and destroy the mod if it isn't the correct level name.</p>
+
+<p class="callout note"><strong>Note:</strong> Relevant for main menu level or a menu which is persistent in a specific level. If it's a pause menu, you need a different logic to detect it.</p>
+
+<p><img src="Pages/Media/GameMenus/6.png" alt="Level Check"></p>
+
+<p>Now detect if the menu is loaded which may be delayed and not persistent on level begin. That's why a loop timer is used to constantly look for it.</p>
+
+<p><img src="Pages/Media/GameMenus/7.png" alt="Menu Detection Loop"></p>
+
+<p>Once the panel was detected, the next thing is:</p>
+<ul>
+	<li>Create the button widget.</li>
+	<li>Set default variables like the title text.</li>
+	<li>Bind/handle the OnClick of the button.</li>
+</ul>
+
+<p>And then attach the button to the original button's parent.</p>
+
+<p><img src="Pages/Media/GameMenus/8.png" alt="Create and Attach Button"></p>
+
+<h2>Results</h2>
+
+<p>The button is created at the bottom of the stack/list and works as intended.</p>
+
+<p><img src="Pages/Media/GameMenus/9.png" alt="Final Result"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Different games might require additional logic to work properly in an existing menu/system.</p>
+
+<hr>
+
+<h3>Examples</h3>
+
+<p>Few examples where this technique was used:</p>
+<ul>
+	<li>The <a href="https://www.nexusmods.com/highonlife/mods/5" target="_blank">FOV slider</a> mod for HighOnLife, where the slider looks exactly as the rest of the settings.</li>
+	<li>The <a href="https://www.nexusmods.com/ghostrunner2/mods/22" target="_blank">Full Codex</a> mod for Ghostrunner 2, where the additional codex categories and panels look and behave exactly like the first codex category.</li>
+	<li>The <a href="https://github.com/Dmgvol/Ghostrunner-Mods/blob/main/LogicMods/Trainer/trainer.md" target="_blank">Ghostrunner Trainer</a> mod for Ghostrunner 1, where all settings for the mod were using the same buttons and layout as the original game settings.</li>
+</ul>
+
+</body>
+</html>
