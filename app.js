@@ -14,7 +14,6 @@ const NAV = [
 	{ title: 'Advanced Topics', path: 'Pages/AdvancedModding_index.html', icon: 'fas fa-cogs' },
 	{ title: 'Expert Topics', path: 'Pages/ExpertModding_index.html', icon: 'fas fa-brain' },
 	{ title: 'Memory Hacking', path: 'Pages/GameMemory_index.html', icon: 'fas fa-microchip' },
-	{ title: 'Game Notes', path: 'Pages/GameSpecific_index.html', icon: 'fas fa-gamepad' },
 	{ title: 'Tools & Extras', path: 'Pages/Misc_index.html', icon: 'fas fa-tools' },
 	{ title: 'Credits', path: 'Pages/credits.html', icon: 'fas fa-heart' }
 ];
@@ -89,6 +88,22 @@ document.addEventListener('DOMContentLoaded', () => {
             discordWidget.style.display = isVisible ? 'none' : 'flex';
         });
     }
+
+    // Mobile menu toggle
+    const menuToggle = document.getElementById('menuToggle');
+    const sidebar = document.getElementById('sidebar');
+    if (menuToggle && sidebar) {
+        menuToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('is-open');
+        });
+    }
+
+    // Close mobile menu when a nav link is clicked
+    sidebar.addEventListener('click', (e) => {
+        if (e.target.classList.contains('nav-link')) {
+            sidebar.classList.remove('is-open');
+        }
+    });
 });
 
 function setActiveLink(){
@@ -335,11 +350,6 @@ const PAGES = [
 	'Pages/GameMenus.html',
 	'Pages/GeneratingUHT.html',
 	'Pages/GameMemory_index.html',
-	'Pages/GameSpecific_index.html',
-	'Pages/gameSpecificGuides.html',
-	'Pages/RNA_Celshaded_MI.html',
-	'Pages/RNA_colorpicker.html',
-	'Pages/RNA_Outfitmanager.html',
 	'Pages/Misc_index.html',
 	'Pages/BlenderImportModels.html',
 	'Pages/BlenderImportAnimations.html',
