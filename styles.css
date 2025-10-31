@@ -363,14 +363,22 @@ body{
 
     .content {
         padding: 16px;
+        width: 100%;
+        max-width: 100vw;
+        box-sizing: border-box;
     }
     
     #content {
         overflow-x: hidden;
+        width: 100%;
+        max-width: 100%;
     }
 
     #content h1, #content h2, #content h3 {
-        word-break: break-word;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        hyphens: auto;
+        max-width: 100%;
     }
 
     .menu-toggle {
