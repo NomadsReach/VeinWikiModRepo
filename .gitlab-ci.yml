@@ -1,24 +1,56 @@
+stages:
+  - deploy:dev_feature
+  - deploy:prod
+  - pagedeploy
+
 image: ubuntu:18.04
 
-pages:
-  stage: deploy
+before_script:
+  - apt-get update -qy
+  - apt-get install -y lftp
+
+dev_feature:
+  stage: deploy:dev_feature
   script:
-    - mkdir -p public
-    - cp -r Media public/ || true
-    - cp -r Pages public/ || true
-    - cp -r css public/ || true
-    - cp -r js public/ || true
-    - cp index.html public/ || true
-    - cp app.js public/ || true
-    - cp styles.css public/ || true
-    - find . -maxdepth 1 -name "*.html" -exec cp {} public/ \; || true
-    - find . -maxdepth 1 -name "*.css" -exec cp {} public/ \; || true
-    - find . -maxdepth 1 -name "*.js" -exec cp {} public/ \; || true
-    - ls -la public/
+    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev; bye"
+  except:
+    refs:
+      - master
+      - tags
+  resource_group: DEVFEATURE
+  dependencies: []
+
+deploy_prod:
+  stage: deploy:prod
+  script:
+    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein; bye"
+  environment:
+    name: prod
+  only:
+    - main
+  except:
+    - tags
+  resource_group: PROD
+
+pages:
+  stage: pagedeploy
+  script:
+    - mkdir -p www
+    - cp -r Media www/ || true
+    - cp -r Pages www/ || true
+    - cp -r css www/ || true
+    - cp -r js www/ || true
+    - cp index.html www/ || true
+    - cp app.js www/ || true
+    - cp styles.css www/ || true
+    - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
+    - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
+    - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
   artifacts:
     paths:
-      - public
+      - www
+  pages:
+    publish: www
   only:
     - main
     - master
-
