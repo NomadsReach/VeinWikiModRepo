@@ -4,15 +4,17 @@ pages:
   stage: deploy
   script:
     - mkdir -p public
-    - cp -r Media public/
-    - cp -r Pages public/
-    - cp -r css public/
-    - cp -r js public/
-    - cp -r *.html public/ 2>/dev/null || true
-    - cp -r *.css public/ 2>/dev/null || true
-    - cp -r *.js public/ 2>/dev/null || true
-    - cp -r *.json public/ 2>/dev/null || true
-    - cp LICENSE public/ 2>/dev/null || true
+    - cp -r Media public/ || true
+    - cp -r Pages public/ || true
+    - cp -r css public/ || true
+    - cp -r js public/ || true
+    - cp index.html public/ || true
+    - cp app.js public/ || true
+    - cp styles.css public/ || true
+    - find . -maxdepth 1 -name "*.html" -exec cp {} public/ \; || true
+    - find . -maxdepth 1 -name "*.css" -exec cp {} public/ \; || true
+    - find . -maxdepth 1 -name "*.js" -exec cp {} public/ \; || true
+    - ls -la public/
   artifacts:
     paths:
       - public
