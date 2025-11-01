@@ -7,7 +7,7 @@ image: ubuntu:18.04
 
 before_script:
   - apt-get update -qy
-  - apt-get install -y lftp
+  - apt-get install -y lftp iputils-ping netcat-openbsd
 
 dev_feature:
   stage: deploy:dev_feature
@@ -23,14 +23,11 @@ dev_feature:
     - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
-    - |
-      lftp <<EOF
-      set ftp:ssl-allow no
-      open $FTP_HOST
-      user $FTP_USERNAME $FTP_PASSWORD
-      mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev
-      bye
-      EOF
+    - echo "Testing connectivity to FTP server..."
+    - ping -c 3 $FTP_HOST || true
+    - nc -vz -w 3 $FTP_HOST 21 || true
+    - echo "Attempting FTP connection..."
+    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev; bye"
   except:
     refs:
       - master
@@ -52,14 +49,11 @@ deploy_prod:
     - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
-    - |
-      lftp <<EOF
-      set ftp:ssl-allow no
-      open $FTP_HOST
-      user $FTP_USERNAME $FTP_PASSWORD
-      mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein
-      bye
-      EOF
+    - echo "Testing connectivity to FTP server..."
+    - ping -c 3 $FTP_HOST || true
+    - nc -vz -w 3 $FTP_HOST 21 || true
+    - echo "Attempting FTP connection..."
+    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein; bye"
   environment:
     name: prod
   only:
