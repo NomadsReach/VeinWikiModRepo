@@ -23,7 +23,14 @@ dev_feature:
     - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
-    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev; bye"
+    - |
+      lftp <<EOF
+      set ftp:ssl-allow no
+      open $FTP_HOST
+      user $FTP_USERNAME $FTP_PASSWORD
+      mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev
+      bye
+      EOF
   except:
     refs:
       - master
@@ -45,7 +52,14 @@ deploy_prod:
     - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
     - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
-    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein; bye"
+    - |
+      lftp <<EOF
+      set ftp:ssl-allow no
+      open $FTP_HOST
+      user $FTP_USERNAME $FTP_PASSWORD
+      mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein
+      bye
+      EOF
   environment:
     name: prod
   only:
