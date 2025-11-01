@@ -12,6 +12,17 @@ before_script:
 dev_feature:
   stage: deploy:dev_feature
   script:
+    - mkdir -p www
+    - cp -r Media www/ || true
+    - cp -r Pages www/ || true
+    - cp -r css www/ || true
+    - cp -r js www/ || true
+    - cp index.html www/ || true
+    - cp app.js www/ || true
+    - cp styles.css www/ || true
+    - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
+    - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
+    - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
     - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev; bye"
   except:
     refs:
@@ -23,6 +34,17 @@ dev_feature:
 deploy_prod:
   stage: deploy:prod
   script:
+    - mkdir -p www
+    - cp -r Media www/ || true
+    - cp -r Pages www/ || true
+    - cp -r css www/ || true
+    - cp -r js www/ || true
+    - cp index.html www/ || true
+    - cp app.js www/ || true
+    - cp styles.css www/ || true
+    - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
+    - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
+    - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
     - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein; bye"
   environment:
     name: prod
