@@ -3,12 +3,18 @@
 
 import { setActiveLink } from './navigation.js';
 import { addCopyButtons } from './ui.js';
+import { renderNewsCarousel, renderNewsPage } from './news.js';
 
 const contentEl = document.getElementById('content');
 let currentBase = 'Pages/';
 
 async function loadPage(path) {
     try {
+        if (path === 'Pages/mod-showcase.html') {
+            window.location.href = 'https://www.nexusmods.com/games/vein/mods?timeRange=7&sort=endorsements';
+            return;
+        }
+        
         const res = await fetch('./' + path);
         if (!res.ok) throw new Error(`Failed to load ${path}`);
         
@@ -20,7 +26,7 @@ async function loadPage(path) {
         if (path === 'Pages/home.html') {
             layout.classList.add('hide-sidebar');
             body.classList.add('is-home-page');
-        } else if (path === 'Pages/mod-showcase.html') {
+        } else if (path === 'Pages/news.html') {
             layout.classList.add('hide-sidebar');
             body.classList.remove('is-home-page');
         } else {
@@ -28,15 +34,22 @@ async function loadPage(path) {
             body.classList.remove('is-home-page');
         }
 
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(text, 'text/html');
-        
-        const newContent = doc.body.innerHTML;
-        
-        if (newContent) {
-            contentEl.innerHTML = newContent;
+        if (path === 'Pages/news.html') {
+            const newsContent = await renderNewsPage();
+            contentEl.innerHTML = newsContent;
         } else {
-            contentEl.innerHTML = text;
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(text, 'text/html');
+            const bodyContent = doc.body?.innerHTML || text;
+            
+            contentEl.innerHTML = bodyContent;
+
+            if (path === 'Pages/home.html') {
+                const carouselContainer = document.getElementById('newsCarousel');
+                if (carouselContainer) {
+                    await renderNewsCarousel(carouselContainer);
+                }
+            }
         }
 
         addCopyButtons();
@@ -66,9 +79,8 @@ function interceptLinks() {
     document.addEventListener('click', (e) => {
         const link = e.target.closest('a');
         if (link && link.getAttribute('href')?.startsWith('#')) {
-            if (location.hash === link.getAttribute('href')) {
-                e.preventDefault();
-                onHashChange();
+            const targetHash = link.getAttribute('href');
+            if (location.hash !== targetHash) {
             }
         }
     });

@@ -1,4 +1,4 @@
-/* jshint esversion: 6 */
+/* jshint esversion: 11 */
 /* globals console */
 
 import { initTheme } from './js/theme.js';
@@ -9,8 +9,10 @@ import {
     initEmailModal, 
     initDiscordWidget, 
     initOrientationBanner, 
-    initCollapsibleSections 
+    initCollapsibleSections,
+    initEasterEgg
 } from './js/ui.js';
+import { renderNewsCarousel, renderNewsPage } from './js/news.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     
@@ -23,6 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initDiscordWidget();
     initOrientationBanner();
     initCollapsibleSections();
+    initEasterEgg();
 
     initLoader();
 
@@ -33,6 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }).catch(function(err) {
             console.log('Service Worker unregistration failed: ', err);
-        });
+});
     }
 });

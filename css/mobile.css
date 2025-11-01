@@ -88,10 +88,15 @@
 		font-size: 16px;
 	}
 	
+	.home-main-grid {
+		grid-template-columns: 1fr;
+		gap: 30px;
+		padding: 0 16px;
+	}
+
 	.video-container {
 		border-radius: 6px;
 		max-width: 100%;
-		/* FIXED: Removing width calc and padding here. The .content padding handles mobile spacing. */
 		width: 100%;
 		margin: 0 auto 30px;
 	}
@@ -230,16 +235,5 @@
 @media(max-width:768px){
 	.content {
 		margin-left: 0;
-	}
-	.sidebar{
-		position:fixed;
-		left:-280px;
-		top:0;
-		height:100vh;
-		width:260px;
-		z-index:1001;
-		transition:left 0.3s ease;
-		border-right:none;
-		box-shadow:2px 0 10px rgba(0,0,0,0.3);
 	}
 }

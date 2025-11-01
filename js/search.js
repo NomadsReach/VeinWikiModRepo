@@ -2,7 +2,7 @@
 /* globals lunr, console */
 
 const PAGES = [
-    'Pages/home.html', 'Pages/start-here.html', 'Pages/mod-showcase.html',
+    'Pages/home.html', 'Pages/start-here.html',
     'Pages/Introduction/index.html', 'Pages/Introduction/1_KeyInfo.html', 'Pages/Introduction/2_Downloads.html', 'Pages/Introduction/3_ToolConfiguration.html', 'Pages/Introduction/4_AssetEditing.html', 'Pages/Introduction/5_Packaging.html', 'Pages/Introduction/6_UEProjectSetup.html', 'Pages/Introduction/7_FontMod.html', 'Pages/Introduction/8_LogicMods.html', 'Pages/Introduction/9_FinalNotes.html',
     'Pages/CoreFundamentals/index.html', 'Pages/CoreFundamentals/UsingFModel.html', 'Pages/CoreFundamentals/ExportingFModel.html', 'Pages/CoreFundamentals/ExportingUModel.html', 'Pages/CoreFundamentals/UModelAnimations.html', 'Pages/CoreFundamentals/AesKey.html', 'Pages/CoreFundamentals/ExtractingCooked.html', 'Pages/CoreFundamentals/ExtractingIoStore.html', 'Pages/CoreFundamentals/Extractingusmap.html',
     'Pages/BeginnerMods/index.html', 'Pages/BeginnerMods/UAssetGUI.html', 'Pages/BeginnerMods/HexEditing.html', 'Pages/BeginnerMods/EditingUmaps.html', 'Pages/BeginnerMods/DisablingObjects.html', 'Pages/BeginnerMods/UnrealPak.html', 'Pages/BeginnerMods/IoStorePacking.html', 'Pages/BeginnerMods/example1.html',
@@ -21,8 +21,34 @@ const resultsEl = document.getElementById('searchResults');
 let searchData = {};
 
 async function buildIndex() {
-    const responses = await Promise.all(PAGES.map(page => fetch('./' + page)));
-    const texts = await Promise.all(responses.map(res => res.text()));
+    if (typeof lunr === 'undefined') {
+        console.error('Lunr search library is not loaded');
+        return;
+    }
+    
+    const responses = await Promise.all(
+        PAGES.map(page => 
+            fetch('./' + page)
+                .catch(err => {
+                    console.warn(`Failed to fetch ${page}:`, err);
+                    return null;
+                })
+        )
+    );
+    
+    const texts = await Promise.all(
+        responses.map(async (res, index) => {
+            if (!res || !res.ok) {
+                return null;
+            }
+            try {
+                return await res.text();
+            } catch (err) {
+                console.warn(`Failed to parse ${PAGES[index]}:`, err);
+                return null;
+            }
+        })
+    );
 
     idx = lunr(function () {
         this.ref('path');
@@ -30,10 +56,12 @@ async function buildIndex() {
         this.field('body');
         
         texts.forEach((text, i) => {
+            if (!text) return;
+            
             const path = PAGES[i];
             const doc = new DOMParser().parseFromString(text, 'text/html');
             const title = doc.querySelector('title')?.textContent || path.split('/').pop().replace('.html', '');
-            const body = doc.body.textContent || '';
+            const body = doc.body?.textContent || '';
             
             this.add({ path, title, body });
             searchData[path] = { title };
@@ -44,6 +72,9 @@ async function buildIndex() {
 function performSearch(query) {
     if (!query) {
         resultsEl.hidden = true;
+        return;
+    }
+    if (!idx) {
         return;
     }
     const results = idx.search(query);
@@ -76,7 +107,14 @@ function displayResults(results) {
 export function initSearch() {
     if (!searchBox || !resultsEl) return;
 
-    buildIndex().catch(console.error);
+    if (typeof lunr === 'undefined') {
+        console.error('Lunr search library is not loaded');
+        return;
+    }
+
+    buildIndex().catch((err) => {
+        console.error('Failed to build search index:', err);
+    });
 
     searchBox.addEventListener('input', (e) => {
         performSearch(e.target.value);

@@ -1,4 +1,4 @@
-/* jshint esversion: 6 */
+/* jshint esversion: 11 */
 
 export function initTheme() {
     const themeToggle = document.getElementById('themeToggle');

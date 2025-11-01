@@ -1,4 +1,4 @@
-/* jshint esversion: 6 */
+/* jshint esversion: 11 */
 
 const sidebarEl = document.getElementById('sidebar');
 
@@ -11,7 +11,9 @@ const NAV = [
 export function buildSidebar() {
     if (!sidebarEl) return;
 
-    const frag = document.createDocumentFragment();
+    const inner = document.createElement('div');
+    inner.className = 'sidebar-inner';
+
     const section = document.createElement('div');
     section.className = 'nav-section';
     const title = document.createElement('div');
@@ -34,42 +36,13 @@ export function buildSidebar() {
 
         section.appendChild(a);
     });
-    frag.appendChild(section);
+    inner.appendChild(section);
 
-    const discussionSection = document.createElement('div');
-    discussionSection.className = 'sidebar-discussion';
-    discussionSection.innerHTML = `
-        <div class="sidebar-section-title">Discussion & Help</div>
-        <a href="https://git.urstrom.eu/vein-tools/mod-wiki-site/-/issues/new" target="_blank" class="sidebar-discussion-btn sidebar-discussion-primary">
-            <i class="fas fa-plus-circle"></i>
-            <span>Ask a Question</span>
-        </a>
-        <a href="https://git.urstrom.eu/vein-tools/mod-wiki-site/-/issues" target="_blank" class="sidebar-discussion-btn sidebar-discussion-secondary">
-            <i class="fas fa-list"></i>
-            <span>View Discussions</span>
-        </a>
-    `;
-    frag.appendChild(discussionSection);
+    inner.appendChild(createDiscussionSection());
 
-    const footer = document.createElement('div');
-    footer.className = 'sidebar-footer';
-    footer.innerHTML = `
-        <div class="footer-title">Community</div>
-        <div class="social-links">
-            <a href="https://discord.gg/nsaPf7wAkP" target="_blank" rel="noopener" aria-label="Discord" title="Join our Discord">
-                <img src="Media/Icons/002-discord.png" alt="Discord" class="social-icon">
-            </a>
-            <a href="https://store.steampowered.com/app/1857950/VEIN/" target="_blank" rel="noopener" aria-label="Steam" title="VEIN on Steam">
-                <img src="Media/Icons/steam.png" alt="Steam" class="social-icon">
-            </a>
-            <a href="#" id="emailLink" aria-label="Email" title="Contact us via Email">
-                <img src="Media/Icons/001-mail.png" alt="Email" class="social-icon">
-            </a>
-        </div>
-    `;
-    frag.appendChild(footer);
+    inner.appendChild(createFooterSection());
     
-    sidebarEl.appendChild(frag);
+    sidebarEl.appendChild(inner);
 }
 
 export function setActiveLink() {
@@ -87,6 +60,97 @@ export function setActiveLink() {
             link.classList.remove('active');
         }
     });
+}
+
+function createDiscussionSection() {
+    const discussionSection = document.createElement('div');
+    discussionSection.className = 'sidebar-discussion';
+
+    const title = document.createElement('div');
+    title.className = 'sidebar-section-title';
+    title.textContent = 'Discussion & Help';
+    discussionSection.appendChild(title);
+
+    const askBtn = document.createElement('a');
+    askBtn.href = 'https://git.urstrom.eu/vein-tools/mod-wiki-site/-/issues/new';
+    askBtn.target = '_blank';
+    askBtn.className = 'sidebar-discussion-btn sidebar-discussion-primary';
+    
+    const askIcon = document.createElement('i');
+    askIcon.className = 'fas fa-plus-circle';
+    askBtn.appendChild(askIcon);
+    
+    const askText = document.createElement('span');
+    askText.textContent = 'Ask a Question';
+    askBtn.appendChild(askText);
+    
+    discussionSection.appendChild(askBtn);
+
+    const viewBtn = document.createElement('a');
+    viewBtn.href = 'https://git.urstrom.eu/vein-tools/mod-wiki-site/-/issues';
+    viewBtn.target = '_blank';
+    viewBtn.className = 'sidebar-discussion-btn sidebar-discussion-secondary';
+    
+    const viewIcon = document.createElement('i');
+    viewIcon.className = 'fas fa-list';
+    viewBtn.appendChild(viewIcon);
+    
+    const viewText = document.createElement('span');
+    viewText.textContent = 'View Discussions';
+    viewBtn.appendChild(viewText);
+    
+    discussionSection.appendChild(viewBtn);
+
+    return discussionSection;
+}
+
+function createFooterSection() {
+    const footer = document.createElement('div');
+    footer.className = 'sidebar-footer';
+
+    const title = document.createElement('div');
+    title.className = 'footer-title';
+    title.textContent = 'Community';
+    footer.appendChild(title);
+
+    const socialLinks = document.createElement('div');
+    socialLinks.className = 'social-links';
+
+    const createSocialLink = (href, title, iconSrc, altText, id = null) => {
+        const a = document.createElement('a');
+        a.href = href;
+        if (href !== '#') {
+            a.target = '_blank';
+            a.rel = 'noopener';
+        }
+        a.setAttribute('aria-label', altText);
+        a.title = title;
+        if (id) a.id = id;
+
+        const img = document.createElement('img');
+        img.src = iconSrc;
+        img.alt = altText;
+        img.className = 'social-icon';
+        a.appendChild(img);
+        
+        return a;
+    };
+
+    socialLinks.appendChild(createSocialLink(
+        'https://discord.gg/nsaPf7wAkP', 'Join our Discord', 'Media/Icons/002-discord.png', 'Discord'
+    ));
+
+    socialLinks.appendChild(createSocialLink(
+        'https://store.steampowered.com/app/1857950/VEIN/', 'VEIN on Steam', 'Media/Icons/steam.png', 'Steam'
+    ));
+    
+    socialLinks.appendChild(createSocialLink(
+        '#', 'Contact us via Email', 'Media/Icons/001-mail.png', 'Email', 'emailLink'
+    ));
+
+    footer.appendChild(socialLinks);
+    
+    return footer;
 }
 
 export function initMobileMenu() {

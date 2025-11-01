@@ -22,18 +22,28 @@
 </head>
 <body>
 <!-- Unified Header -->
+<div class="video-background">
+	<video autoplay muted loop playsinline>
+		<source src="Media/Background/bgvideo_loop2.mp4" type="video/mp4">
+	</video>
+	<div class="video-overlay"></div>
+</div>
+
 <header class="unified-header">
 	<div class="header-left">
 		<button id="menuToggle" class="menu-toggle" aria-label="Toggle Menu">
 			<i class="fas fa-bars"></i>
 		</button>
-		<img class="logo" src="Media/UpscaledLogo.jpeg" alt="VEIN Logo">
+	<img class="logo" src="Media/UpscaledLogo.jpeg" alt="VEIN Logo">
 		<h1 class="site-title">VEIN Modding</h1>
 	</div>
 	
 	<nav class="header-nav">
 		<a href="#Pages/home.html" class="header-nav-link">
 			<i class="fas fa-home"></i><span>HOME</span>
+		</a>
+		<a href="#Pages/news.html" class="header-nav-link">
+			<i class="fas fa-newspaper"></i><span>NEWS</span>
 		</a>
 		<a href="#Pages/start-here.html" class="header-nav-link">
 			<i class="fas fa-book"></i><span>WIKI</span>
