@@ -26,12 +26,15 @@ async function loadPage(path) {
         if (path === 'Pages/home.html') {
             layout.classList.add('hide-sidebar');
             body.classList.add('is-home-page');
+            body.classList.remove('is-news-page');
         } else if (path === 'Pages/news.html') {
             layout.classList.add('hide-sidebar');
             body.classList.remove('is-home-page');
+            body.classList.add('is-news-page');
         } else {
             layout.classList.remove('hide-sidebar');
             body.classList.remove('is-home-page');
+            body.classList.remove('is-news-page');
         }
 
         if (path === 'Pages/news.html') {

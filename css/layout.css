@@ -44,7 +44,8 @@ body.is-home-page .layout.hide-sidebar .content{
 	backdrop-filter:blur(10px);
 }
 
-body.is-home-page #content{
+body.is-home-page #content,
+body.is-news-page #content{
 	background:transparent !important;
 	padding:0 !important;
 	border-radius:0 !important;

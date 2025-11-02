@@ -1,86 +1,16 @@
-stages:
-  - deploy:dev_feature
-  - deploy:prod
-  - pagedeploy
-
 image: ubuntu:18.04
 
-before_script:
-  - apt-get update -qy
-  - apt-get install -y lftp iputils-ping netcat-openbsd
-
-dev_feature:
-  stage: deploy:dev_feature
-  script:
-    - mkdir -p www
-    - cp -r Media www/ || true
-    - cp -r Pages www/ || true
-    - cp -r css www/ || true
-    - cp -r js www/ || true
-    - cp index.html www/ || true
-    - cp app.js www/ || true
-    - cp styles.css www/ || true
-    - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
-    - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
-    - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
-    - echo "Testing connectivity to FTP server..."
-    - ping -c 3 $FTP_HOST || true
-    - nc -vz -w 3 $FTP_HOST 21 || true
-    - echo "Attempting FTP connection..."
-    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/veindev; bye"
-  except:
-    refs:
-      - master
-      - tags
-  resource_group: DEVFEATURE
-  dependencies: []
-
-deploy_prod:
-  stage: deploy:prod
-  script:
-    - mkdir -p www
-    - cp -r Media www/ || true
-    - cp -r Pages www/ || true
-    - cp -r css www/ || true
-    - cp -r js www/ || true
-    - cp index.html www/ || true
-    - cp app.js www/ || true
-    - cp styles.css www/ || true
-    - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
-    - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
-    - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
-    - echo "Testing connectivity to FTP server..."
-    - ping -c 3 $FTP_HOST || true
-    - nc -vz -w 3 $FTP_HOST 21 || true
-    - echo "Attempting FTP connection..."
-    - lftp -e "set ftp:ssl-allow no; open $FTP_HOST; user $FTP_USERNAME $FTP_PASSWORD; mirror -X .* -X .*/ --reverse --verbose --delete www/ /html/vein; bye"
-  environment:
-    name: prod
-  only:
-    - main
-  except:
-    - tags
-  resource_group: PROD
-
 pages:
-  stage: pagedeploy
+  stage: deploy
   script:
-    - mkdir -p www
-    - cp -r Media www/ || true
-    - cp -r Pages www/ || true
-    - cp -r css www/ || true
-    - cp -r js www/ || true
-    - cp index.html www/ || true
-    - cp app.js www/ || true
-    - cp styles.css www/ || true
-    - find . -maxdepth 1 -name "*.html" -exec cp {} www/ \; || true
-    - find . -maxdepth 1 -name "*.css" -exec cp {} www/ \; || true
-    - find . -maxdepth 1 -name "*.js" -exec cp {} www/ \; || true
+    - mkdir -p public
+    - bash -O extglob -c 'cp -r !(public) public/'
+    - rm -rf public/.git
+    - rm -rf public/.gitlab-ci.yml
   artifacts:
     paths:
-      - www
-  pages:
-    publish: www
+      - public
+  allow_failure: false
   only:
     - main
     - master

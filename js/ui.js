@@ -155,36 +155,36 @@ export function initEasterEgg() {
             if (findOutBtn) {
                 findOutBtn.addEventListener('click', (e) => {
                     e.preventDefault();
-                    modal.remove();
-                    clickCount++;
-                    if (clickCount >= requiredClicks) {
-                        triggerEasterEgg();
-                    } else {
-                        setTimeout(() => {
-                            createHiddenEasterEggTrigger();
-                        }, 2000);
-                    }
-                });
+            modal.remove();
+            clickCount++;
+            if (clickCount >= requiredClicks) {
+                triggerEasterEgg();
+            } else {
+                setTimeout(() => {
+                    createHiddenEasterEggTrigger();
+                }, 2000);
             }
-            
+        });
+            }
+        
             if (cancelBtn) {
                 cancelBtn.addEventListener('click', (e) => {
                     e.preventDefault();
-                    modal.remove();
-                    setTimeout(() => {
-                        createHiddenEasterEggTrigger();
-                    }, 5000);
-                });
+            modal.remove();
+            setTimeout(() => {
+                createHiddenEasterEggTrigger();
+            }, 5000);
+        });
             }
-            
-            modal.addEventListener('click', (e) => {
-                if (e.target === modal) {
-                    modal.remove();
-                    setTimeout(() => {
-                        createHiddenEasterEggTrigger();
-                    }, 5000);
-                }
-            });
+        
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                modal.remove();
+                setTimeout(() => {
+                    createHiddenEasterEggTrigger();
+                }, 5000);
+            }
+        });
         }, 10);
     }
     
@@ -260,7 +260,7 @@ export function initEasterEgg() {
                 cleanup();
                 showEasterEggPrompt();
                 if (!isObjectResult && trigger.remove) {
-                    trigger.remove();
+                trigger.remove();
                 }
             }, { once: true });
         } else {
