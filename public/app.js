@@ -1,7 +1,6 @@
 /* jshint esversion: 11 */
 /* globals console */
 
-import { initTheme } from './js/theme.js';
 import { buildSidebar, initMobileMenu } from './js/navigation.js';
 import { initLoader } from './js/loader.js';
 import { initSearch } from './js/search.js';
@@ -16,7 +15,6 @@ import { renderNewsCarousel, renderNewsPage } from './js/news.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     
-    initTheme();
     buildSidebar();
     initMobileMenu();
     initSearch();
