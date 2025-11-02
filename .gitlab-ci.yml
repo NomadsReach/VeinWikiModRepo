@@ -14,3 +14,5 @@ pages:
   only:
     - main
     - master
+  tags:
+    - docker
