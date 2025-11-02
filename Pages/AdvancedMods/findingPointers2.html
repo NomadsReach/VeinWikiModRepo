@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finding Memory Pointers using UE4SS</title>
+</head>
+<body>
+
+<p class="callout warning"><strong>Disclaimer:</strong> This guide is intended for educational and research purposes only. The authors are not responsible for any unintended consequences, including damage to systems, violations of TOS, or legal issues arising from the use of this information. Use at your own risk.</p>
+
+<h1>Finding Memory Pointers using UE4SS</h1>
+
+<p>In this guide, we will be using <a href="https://github.com/UE4SS-RE/RE-UE4SS" target="_blank">UE4SS</a> in order to directly scan for pointers by direct memory address, and use the given offsets to our advantage.</p>
+
+<p class="callout note"><strong>Note:</strong> You should have <a href="https://www.cheatengine.org/" target="_blank">CheatEngine</a> installed and know the basics.</p>
+
+<h2>Find the Instanced Object</h2>
+
+<p>Launch the game with UE4SS hooked up, with console unlocker enabled.</p>
+
+<p>If you're looking for the player blueprint but don't know the name of it,<br>
+then you can get all objects of type <code>character</code> which should have the player one at the top, by executing <code>getall character</code>.</p>
+
+<p><img src="Pages/Media/memoryPointers2/1.png" alt="Get All Character"></p>
+
+<p>For this example, that's <code>PlayerBP</code>.</p>
+
+<p>Using UE4SS Live view, we can find the instanced object by searching for:<br>
+<code>PersistentLevel.PlayerBP</code></p>
+
+<p><img src="Pages/Media/memoryPointers2/2.png" alt="Live View"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Adding <code>PersistentLevel.</code> before the object name will ensure it's the instanced/spawned object within the level.</p>
+
+<h2>Scanning for Direct Address</h2>
+
+<p>The tool allows to directly get the memory address of the object.</p>
+
+<ul>
+    <li>Copy the memory address of the object.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers2/3.png" alt="Copy Address"></p>
+
+<ul>
+    <li>Launch CE.</li>
+    <li>Hook it up to the game's process.</li>
+    <li>Add the address manually.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers2/4.png" alt="Add Address"></p>
+
+<p>Next, pointer scan for this address.</p>
+
+<p><img src="Pages/Media/memoryPointers2/5.png" alt="Pointer Scan"></p>
+
+<p>Make sure you have <code>0</code> in <code>Pointer must end with specific offset</code>.</p>
+
+<p class="callout note"><strong>Note:</strong> When an address is pointing into an object, we want <code>0</code> in the last offset.</p>
+
+<p><img src="Pages/Media/memoryPointers2/6.png" alt="Scan Settings"></p>
+
+<p>Once the results are in, we need to rescan to narrow down the results.</p>
+
+<p><img src="Pages/Media/memoryPointers2/7.png" alt="Results"></p>
+
+<p>Make sure you have:</p>
+
+<ul>
+    <li>Only filter out invalid pointers.</li>
+    <li>Value <code>30</code> in <code>Must start with offsets</code>.</li>
+    <li>Value <code>0</code> in <code>Must end with offsets</code>.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers2/8.png" alt="Rescan Settings"></p>
+
+<p>That should improve our results, but they're far from being ready.</p>
+
+<ul>
+    <li>Re-launch the game.</li>
+    <li>Re-attach the game process to CE.</li>
+    <li>Find the instanced object address in UE4SS (as done previously).</li>
+    <li>Rescan pointerlist using the new address.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers2/9.png" alt="Rescan"></p>
+
+<p>That should drastically improve the results.<br>
+Try to filter out by offsets in order to get the shortest path.</p>
+
+<p>In my case, I got a really good short memory pointer;<br>
+<code>"CPPFPS-Win64-Shipping.exe" + 0x4Fe4998 + 0x30 + 0x110 + 0x0</code></p>
+
+<h2>Adding Offsets</h2>
+
+<p>Once we have our memory pointer, we can start using the offsets to access different variables/objects of the instanced item.</p>
+
+<p>For example, offset <code>0xFF0</code> will get the <code>MaxGrenades</code>.</p>
+
+<p><img src="Pages/Media/memoryPointers2/10.png" alt="Adding Offsets"></p>
+
+<h2>Accessing Nested Objects</h2>
+
+<p>It's not only limited to variables, we can go into the nested references.<br>
+For example the <code>CurrentWeapon</code> is saved as a reference of type <code>WeaponBase</code> at offset <code>0x1008</code>.<br>
+This will point the memory pointer to the current weapon instance object.</p>
+
+<p><img src="Pages/Media/memoryPointers2/11.png" alt="Nested Objects"></p>
+
+<p>If we search for that instanced item, we can access its own variables and objects, for example, the <code>CurrentAmmoInClip</code> which is shared across all weapons in this game.</p>
+
+<p>Adding that offset will directly point the memory pointer to that specific variable, every single time regardless of level or game instance.</p>
+
+<p><img src="Pages/Media/memoryPointers2/12.png" alt="Final Pointer"></p>
+
+<h2>Results</h2>
+
+<p>If we compare the end results, we can clearly see our new pointer is much more consistent, shorter path, and will always show the correct value.</p>
+
+<p><img src="Pages/Media/memoryPointers2/13.png" alt="Comparison"></p>
+
+</body>
+</html>
+

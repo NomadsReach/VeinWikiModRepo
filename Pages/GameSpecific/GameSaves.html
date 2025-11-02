@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Mod Game Saves</title>
+</head>
+<body>
+
+<h1>Custom Mod Game Saves</h1>
+
+<p>When you want to save state across levels or game sessions, you can create your own game saves in your blueprint mod.</p>
+
+<p class="callout tip"><strong>Tip:</strong> Saves are stored in the <code>Saved/SaveGames</code> folder in the game's directory, which is usually located in the <code>AppData</code> folder. This directory can be changed by the game, so the saves will be placed in the same area as where the game's saves are located.</p>
+
+<h2>Creating a save game object</h2>
+
+<p>First, create a new blueprint actor that inherits from the <code>SaveGame</code> class.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves1.png" alt="Create SaveGame Blueprint"></p>
+
+<p>Next, add the variables you want to save to the blueprint. Set the variables to public to be able to access them from your mod blueprints.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves2.png" alt="Add Variables"></p>
+
+<p>Back in the mod, make a variable that is an object reference to the blueprint just created. In this example, the blueprint is named <code>SaveData</code>.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves3.png" alt="Object Reference"></p>
+
+<h2>Saving data to the save game object</h2>
+
+<p>First you need to create the save game object reference and set it to the object reference variable.</p>
+
+<p class="callout tip"><strong>Tip:</strong> To avoid creating the reference multiple times, you can create the reference on the <code>BeginPlay</code> event.</p>
+
+<p>Then you can set the variables in the save game object to the variables you want to save.</p>
+
+<p>Finally, call the <code>SaveGameToSlot</code> function to save the data to the slot. The slot name can be anything, however to keep the game's save folder orderly, a name like <code>Mods/[your mod name]/[your save name]</code> is suggested.</p>
+
+<p class="callout tip"><strong>Tip:</strong> Make a string variable called <code>SaveName</code> and set it to the slot name. This way you can easily change the slot name in one place.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves4.png" alt="Save Data"></p>
+
+<h2>Loading data from the save game object</h2>
+
+<p>First check if the save game exists. If it does, load the game from the slot. Then cast the returned value to the save game object.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves5.png" alt="Load Data"></p>
+
+<p>You can set the variables in the save game object to the variables you want to load.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves6.png" alt="Set Variables"></p>
+
+<h2>Putting it together</h2>
+
+<p>Here is a simplified example of saving and loading data. It is recommended to use functions to keep your code clean and organized. You can add functions within your save game blueprint to handle this, or just do it within your mod blueprint.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves7.png" alt="Complete Example"></p>
+
+<p>Here is the resulting save file in the game's folder.</p>
+
+<p><img src="Pages/Media/GameSaves/gamesaves8.png" alt="Save File Location"></p>
+
+</body>
+</html>

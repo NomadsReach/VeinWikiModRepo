@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importing packed textures into Substance Painter</title>
+</head>
+<body>
+
+<h1>Importing packed textures into Substance Painter</h1>
+
+<p>Substance Painter is a premium industry leading tool for texturing, but there are free alternatives like Quixel Mixer.</p>
+
+<p>Import the mesh and textures into Substance Painter and let's begin.</p>
+
+<h3>Preparing Shaders</h3>
+
+<p>The first thing is to add Ambient Occlusion and Emissive layers to the shader, which is done by going to <code>Texture Set Settings</code> and hitting the plus icon.</p>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance1.png" alt="Texture Set Settings"></p>
+
+<h3>Base Color and Normal maps</h3>
+
+<ol>
+	<li>Create a Fill Layer in the correct texture set.</li>
+	<li>Only enable the <code>color</code>, <code>nrm</code>, and <code>emiss</code> material layers</li>
+	<li>Drag the imported textures into their corresponding layers.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance2.png" alt="Fill Layer"></p>
+
+<h3>ORM Texture</h3>
+
+<p>ORM textures are combined of ambient occlusion, roughness and metallic which are in the red, green, and blue channels of the texture.</p>
+
+<p class="callout important"><strong>Important:</strong> RED &rarr; Ambient Occlusion, GREEN &rarr; Roughness, BLUE &rarr; Metallic.</p>
+
+<ol>
+	<li>Create a Generator for the fill layer.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance3.png" alt="Create Generator"></p>
+
+<ol start="2">
+	<li>Select the Grayscale Conversion.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance4.png" alt="Grayscale Conversion"></p>
+
+<ol start="3">
+	<li>For Ambient Occlusion, deselect all layers besides <code>ao</code>.</li>
+	<li>Set the Grayscale type to Red Channel.</li>
+	<li>Specify the ORM/packed texture in the source image.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance5.png" alt="AO Setup"></p>
+
+<ol start="6">
+	<li>Duplicate the generator and do the same but for roughness.</li>
+	<li>Deselect all layers besides <code>rough</code> and set the Grayscale type for Green channel.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance6.png" alt="Roughness Setup"></p>
+
+<ol start="8">
+	<li>Duplicate the generator and do the same but for metallic.</li>
+	<li>Deselect all layers besides <code>metal</code> and set the Grayscale type for Blue channel.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance7.png" alt="Metallic Setup"></p>
+
+<h3>Complete!</h3>
+
+<p>That's all of it. The base color, normal map, and all packed textures are now set correctly including the emissive texture.</p>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance8.png" alt="Complete Setup"></p>
+
+<hr>
+
+<h3>Changing Emissive Color (optional)</h3>
+
+<ol>
+	<li>Create a Fill Layer.</li>
+	<li>Deselect all besides <code>emiss</code> and pick the color of your choice.</li>
+	<li>Switch to Emissive Layer and pick the Color mode for the Fill Layer.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/substance9.png" alt="Emissive Color"></p>
+
+</body>
+</html>

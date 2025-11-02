@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extracting usmap using Unreal Engine 4/5 Scripting System</title>
+</head>
+<body>
+
+<h1>Extracting usmap using Unreal Engine 4/5 Scripting System</h1>
+
+<p>This guide provides detailed instructions to install and configure the Unreal Engine Scripting System (UE4SS/RE-UE4SS) for extracting <code>usmap</code> files from a game.</p>
+
+<h2>Step 1: Install the Unreal Engine 4/5 Scripting System</h2>
+
+<ol>
+	<li><strong>Download UE4SS</strong>:
+		<ul>
+			<li>Visit the official repository: <a href="https://github.com/UE4SS-RE/RE-UE4SS" target="_blank">UE4SS-RE</a> and download the latest version.</li>
+		</ul>
+	</li>
+	<li><strong>Install UE4SS</strong>:
+		<ul>
+			<li>Extract the downloaded files into the bin directory, (Binaries\Win64) next to the game executable.</li>
+		</ul>
+	</li>
+</ol>
+
+<hr>
+
+<h2>Step 2: Modify the Configuration File</h2>
+
+<p>Once UE4SS is installed, adjust its configuration file to enable features required for extracting the <code>usmap</code> and setting UE version.</p>
+
+<ol>
+	<li><strong>Locate the Configuration File</strong>:
+		<ul>
+			<li>Look for the configuration file, typically named <code>UE4SS-settings.ini</code>.</li>
+		</ul>
+	</li>
+	<li><strong>Edit the Configuration File</strong>:
+		<ul>
+			<li>Open the <code>UE4SS-settings.ini</code> file in a text editor (e.g., Notepad++ or VSCode) and apply the Engine Version in the EngineVersionOverride section:</li>
+		</ul>
+		<p><img src="Pages/Media/UHT/1.png" alt="Engine Version Override"></p>
+		<ul>
+			<li>In the Debug section make sure you enable <code>ConsoleEnabled</code>, <code>GuiConsoleEnabled</code>, and <code>GuiConsoleVisible</code>:</li>
+		</ul>
+		<p><img src="Pages/Media/UHT/2.png" alt="Console Settings"></p>
+	</li>
+</ol>
+
+<hr>
+
+<h2>Step 3: Extract usmap file</h2>
+
+<ol>
+	<li><strong>Launch the game</strong>:
+		<ul>
+			<li>Verify that the GUI console appears (it should be visible if configured in <code>UE4SS-settings.ini</code>).</li>
+		</ul>
+		<p><img src="Pages/Media/Extractmappings/1.png" alt="GUI Console"></p>
+	</li>
+	<li><strong>Output Mapping File</strong>:
+		<ul>
+			<li>Use the Dumper tab of the UE4SS Debugging Tool to output the .usmap file.</li>
+			<li>The file will be output to: <code>Binaries\Win64\Mappings.usmap</code></li>
+		</ul>
+		<p><img src="Pages/Media/Extractmappings/2.png" alt="Dump Mappings"></p>
+	</li>
+</ol>
+
+</body>
+</html>
