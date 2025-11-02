@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Replicating Material Instances</title>
+</head>
+<body>
+
+<h1>Replicating Material Instances</h1>
+
+<p>Mostly used in game that won't accept custom/plain materials or the modder wants to inherit a material behavior without breaking it and adjusting its parameters.</p>
+
+<p><strong>Number of examples to use a MaterialInstance(MI)</strong></p>
+
+<ul>
+	<li>When a game won't accept plain materials, like <a href="https://store.steampowered.com/app/1583230/High_On_Life/" target="_blank">HighOnLife</a>.<br>
+		For custom materials to work in such a game, you have to find an already existing MI with the same parameters as your target mesh.</li>
+	<li>There's a hologram material that you want to use in your mod but want it to look the same but with your image/text.<br>
+		If there's a glitching effect or panning effect, you would like to keep it while having your texture in it.</li>
+	<li>The character is using a special MaterialInstance with specific effects like a built-in outline, so you can set your own texture while keeping the original structure.</li>
+</ul>
+
+<h2>Identify the Base Material</h2>
+
+<p>Using FModel:</p>
+
+<ul>
+	<li>Find and open the MI you want to replicate, it should be of type <code>MaterialInstanceConstant</code>.</li>
+	<li>Look at the Parent material, and click it to navigate to it.</li>
+</ul>
+
+<p><img src="Pages/Media/ReplicatingMI/1.png" alt="Parent Material"></p>
+
+<p>Depends on the level of material inheritance, it's not a direct link to the parent so you have to keep going down the inheritance to find the base material.<br>
+In this example, the MI inherits from another MI - go to that parent until you reach the base material.</p>
+
+<p><img src="Pages/Media/ReplicatingMI/2.png" alt="Base Material"></p>
+
+<p>This is the base material because its type is no longer <code>MaterialInstanceConstant</code> but a simple <code>Material</code> type.</p>
+
+<ol>
+	<li>Open your UE project.</li>
+	<li>Create the same folder structure in your content browser as it's shown in FModel.</li>
+	<li>Create a new material and name it to match the base material, in this case it's <code>M_Master_Computer_Display</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/ReplicatingMI/3.png" alt="Create Material"></p>
+
+<h2>Replicate Material Parameters</h2>
+
+<p>Once the base material is created, all needed parameters can be replicated.<br>
+For this example, it's just a single texture parameter, but you can add more parameters that are part of the base material such as values, colors, and textures.<br>
+When you add more parameters - Make sure you connect them to the Material node, it doesn't have to make sense.. just connected.</p>
+
+<p>In the original MI, the parameter of interest is <code>Base_TEX</code>.</p>
+
+<ul>
+	<li>Open the newly created base material.</li>
+	<li>Create the parameter, name it exactly as in FModel, and connect it to the Material Node.</li>
+</ul>
+
+<p><img src="Pages/Media/ReplicatingMI/4.png" alt="Material Parameters"></p>
+
+<h2>Instantiate the Material</h2>
+
+<ol>
+	<li>Right-click on the newly created base Material.</li>
+	<li>Create Material Instance.</li>
+</ol>
+
+<p><img src="Pages/Media/ReplicatingMI/5.png" alt="Create Material Instance"></p>
+
+<p>Move the new MaterialInstance(MI) into the folder of the target MI.</p>
+
+<p><img src="Pages/Media/ReplicatingMI/6.png" alt="Move MI"></p>
+
+<h2>Using the MI</h2>
+
+<p>Now that the replication part is done, the MI can be used.</p>
+
+<ol>
+	<li>Right-click on the MI and create a <strong>another</strong> MI from it.</li>
+</ol>
+
+<p><img src="Pages/Media/ReplicatingMI/7.png" alt="Create Another MI"></p>
+
+<ol start="2">
+	<li>Move the newly created MI to your mod folder.</li>
+	<li>Name it whatever you want.</li>
+	<li>Open the MI.</li>
+	<li>Check any parameters you would like to overwrite compared to the previous MI in the inheritance.</li>
+	<li>Set the overwrite values for the parameters such as textures, colors and values <em>(just a single tex in this example)</em>.</li>
+</ol>
+
+<p><img src="Pages/Media/ReplicatingMI/8.png" alt="Set Parameters"></p>
+
+<p>You can assign it to your static meshes and skeletal meshes.</p>
+
+<hr>
+
+<h2>Example of MI Replication with StaticParameters</h2>
+
+<p>There will be some Material Instances that will still fail to render the custom textures, even when doing the MI replication/dummying.<br>
+For such cases, you need to instantiate another MI of the same type, without going down the MI inheritance line as shown above.</p>
+
+<ul>
+	<li>It's commonly spotted when both custom plain materials and replicated base materials don't work.</li>
+</ul>
+
+<p>For example, a character in a game called "Alone in the Dark" (UE4.27) won't accept custom materials.</p>
+
+<ol>
+	<li>Using FModel, look at the default material instances used by the SK.</li>
+	<li>Find a MI that is close to your material needs within the used material instances, like BaseColor, ORM, and/or Normal map.</li>
+	<li>In this example, the selected MI is the one used for the hat, called <code>MI_Fleece_GraceHat</code> which is the most basic and suitable for this need.</li>
+	<li>In UE editor, create a material with the same name inside the same folder as in FModel.</li>
+	<li>Create the needed parameters inside that plain material, but keep the name as the original, <code>MI_Fleece_GraceHat</code>.<br>
+		<strong>Don't pack this material in your mod</strong></li>
+</ol>
+
+<p><img src="Pages/Media/ReplicatingMI/example1.png" alt="Example 1"></p>
+
+<ol start="6">
+	<li>Create a MI from that material, and apply your textures in the MI parameters.</li>
+</ol>
+
+<p>If you're replacing a MI - name and place in the it in place of another MI.<br>
+If you're replacing the skeletal mesh - name it whatever you want, just don't forget to pack it.</p>
+
+<p><img src="Pages/Media/ReplicatingMI/example2.png" alt="Example 2"></p>
+
+</body>
+</html>

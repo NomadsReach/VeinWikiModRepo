@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Config Variables</title>
+</head>
+<body>
+
+<h1>Config Variables</h1>
+
+<p>Config variables allow mod users to configure certain variables of your mod outside of the game without any modding knowledge.</p>
+
+<p class="callout note"><strong>Note:</strong> Config variables are under-rated in modding, hopefully it gets more popular over time.</p>
+
+<h2>Enabling a config variable</h2>
+<p>Enabling it is straightforward but can be easily missed as it's under the Advanced section of the variable settings.</p>
+
+<p><img src="Pages/Media/ConfigVariables/1.png" alt="Config Variable Setting"></p>
+
+<h2>Using and configuring the variable</h2>
+<p>All config variables can be set or overwritten by adding the mod's path as a header/section followed by the actual variables and their values.</p>
+
+<p class="callout tip"><strong>Tip:</strong> Config variables will be overwritten at runtime with the one set in the config file, so make sure you implement additional logic to ensure the value doesn't go outside of the expected range.</p>
+
+<p>Hover over the Config Variable checkbox for more info:</p>
+<p><img src="Pages/Media/ConfigVariables/2.png" alt="Config Variable Info"></p>
+
+<ol>
+	<li>Navigate to the game's <code>engine.ini</code> file which is located in: <code>%localappdata%/&lt;GameName&gt;/saved/Config</code></li>
+	<li>Open the file named <code>engine.ini</code> with a text editor and scroll to the bottom of it.</li>
+	<li>Add the specific pattern as is shown when hovering over the config variable checkbox.</li>
+</ol>
+
+<p><img src="Pages/Media/ConfigVariables/3.png" alt="Engine.ini Example"></p>
+
+<p class="callout important"><strong>Important:</strong> It's important to mention it for the mod users, so they know about it.</p>
+
+<hr>
+
+<h2>User cases for config variables</h2>
+<p>One of the most useful cases for it is configurable hotkeys. Allowing mod users to freely change and customize the keys to suit their keyboard layouts.</p>
+
+<p>Other useful uses for config variables, but not limited to:</p>
+<ul>
+	<li>Enabling certain features.</li>
+	<li>Different decimal values like maxHealth.</li>
+	<li>Widget related like togglable data to be displayed.</li>
+	<li>Functionality limitation.</li>
+</ul>
+
+</body>
+</html>

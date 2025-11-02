@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UHT Headers using UE4SS</title>
+</head>
+<body>
+
+<h1>UHT Headers using UE4SS</h1>
+
+<p>UHT (Unreal Header Tool) processes C++ headers, generating necessary code for Unreal Engine's reflection system. When modding, dumping UHT headers provides the essential class and structure definitions needed to create blueprint mods.</p>
+
+<p class="callout note"><strong>Note:</strong> Not all logic is stored in blueprint, majority of the logic is in C++ which can be dumped as header files. The actual code won't be visible but it provides classes, variables, enums, object types, methods, delegates and more.</p>
+
+<p>This guide uses the <a href="https://github.com/UE4SS-RE/RE-UE4SS" target="_blank">UE4SS</a> tool. Additional guide: <a href="https://docs.ue4ss.com/dev/feature-overview/dumpers.html#unreal-header-tool-uht-dumper" target="_blank">UHT header dump guide by UE4SS</a>.</p>
+
+<h2>Using UE4SS</h2>
+
+<p class="callout important"><strong>Important:</strong> Make sure you read UE4SS repo, as different games will require different configuration/settings/builds to function.</p>
+
+<ol>
+	<li>Download UE4SS and extract its content into the binary exe folder.<br>For example: <code>...\Sprawl\Sprawl\Binaries\Win64</code>.</li>
+	<li>Open the <code>UE4SS-settings.ini</code> file.</li>
+	<li>Set the game's UE version under EngineVersionOverride section.</li>
+</ol>
+
+<p><img src="Pages/Media/UHT/1.png" alt="UE Version"></p>
+
+<ol start="4">
+	<li>Make sure you have <code>ConsoleEnabled</code>, <code>GuiConsoleEnabled</code>, and <code>GuiConsoleVisible</code> set to <code>1</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/UHT/2.png" alt="Console Settings"></p>
+
+<ol start="5">
+	<li>Save changes, launch the game and if everything was done correctly - an additional panel should pop up.</li>
+	<li>Click the Dumpers tab, and then on "Generate UHT Compatible Headers".</li>
+</ol>
+
+<p><img src="Pages/Media/UHT/3.png" alt="Generate Headers"></p>
+
+<ol start="7">
+	<li>Shortly after, a new folder called <code>UHTHeaderDump</code> will be created in the same folder as you placed the UE4SS files.</li>
+</ol>
+
+<h2>Exploring the Dumped Header Files</h2>
+
+<ol>
+	<li>Navigate to <code>UHTHeaderDump</code> folder, and into <code>\UHTHeaderDump\&lt;GameBinaryName&gt;\Public</code>.</li>
+	<li>This folder will contain all the reflected header files of the game, which can be used in modding.</li>
+</ol>
+
+<p><img src="Pages/Media/UHT/4.png" alt="Header Files"></p>
+
+<p class="callout tip"><strong>Tip:</strong> Explore the main or/and the largest header files, as they can give additional insight of methods and variables which are not visible in blueprints while using FModel.</p>
+
+</body>
+</html>

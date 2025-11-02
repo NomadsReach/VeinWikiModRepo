@@ -1,0 +1,58 @@
+/* Layout and Grid Structure */
+
+.layout{
+	position:relative;
+}
+
+.layout.hide-sidebar .sidebar{
+	display:none;
+}
+
+.content{
+	padding:24px 28px;
+	background:transparent;
+	width:100%;
+	margin-left:260px;
+	min-height:calc(100vh - 66px);
+	max-width:100%;
+	box-sizing:border-box;
+	overflow-x:hidden;
+}
+
+.layout.hide-sidebar .content{
+	margin-left:0;
+	width:100%;
+	max-width:100%;
+	box-sizing:border-box;
+	overflow-x:hidden;
+}
+
+body.is-home-page .content{
+	background:transparent !important;
+}
+
+body.is-home-page .layout.hide-sidebar .content{
+	background:transparent !important;
+}
+
+#content{
+	max-width:100%;
+	margin:0;
+	background:rgba(20, 20, 20, 0.85);
+	padding:32px;
+	border-radius:8px;
+	backdrop-filter:blur(10px);
+}
+
+body.is-home-page #content,
+body.is-news-page #content{
+	background:transparent !important;
+	padding:0 !important;
+	border-radius:0 !important;
+	backdrop-filter:none !important;
+}
+
+#page-toc{
+	display:none !important;
+}
+

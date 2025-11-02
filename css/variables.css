@@ -1,0 +1,26 @@
+/* CSS Variables and Theme Colors */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+:root{
+	--bg: #0a0a0a;
+	--panel: #1a1a1a;
+	--panel-2: #252525;
+	--text: #e0e0e0;
+	--muted: #999999;
+	--accent: #C63D3D;
+	--accent-subtle: rgba(198, 61, 61, 0.15);
+	--border: #2a2a2a;
+}
+
+html.light{
+	--bg: #ffffff;
+	--panel: #f4f5f7;
+	--panel-2: #e9eaee;
+	--text: #121212;
+	--muted: #555b66;
+	--accent: #C63D3D;
+	--accent-subtle: rgba(198, 61, 61, 0.15);
+	--border: #d0d7de;
+}
+

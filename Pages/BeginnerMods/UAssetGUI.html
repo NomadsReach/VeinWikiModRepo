@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using UAssetGUI</title>
+</head>
+<body>
+
+<h1>Using UAssetGUI</h1>
+
+<p>UAssetGUI is a user-interfaced tool for essentially hex editing but without seeing any hex.</p>
+
+<p>You can download the latest release of UAssetGUI <a href="https://github.com/atenfyr/UAssetGUI/releases" target="_blank">here</a>.</p>
+
+<h2>Example - Changing clip size for Trepang2</h2>
+
+<p>For this example, the guide will demonstrate changing the magazine size for the SMG weapon, which is located inside the weapon's blueprint called <code>BP_SMG</code>.</p>
+
+<p><img src="Pages/Media/uassetgui/fmodel_trepang_smg1.png" alt="BP_SMG in FModel"></p>
+
+<p>This example uses FModel as it's easier and faster to navigate. Once the file is found, export the asset, resulting in 2 files, <code>.uasset</code> and <code>.uexp</code>.</p>
+
+<h3>Open using UAssetGUI</h3>
+
+<p>Default variables are always located in the Export starting with <code>(Default__...)</code></p>
+
+<p><img src="Pages/Media/uassetgui/umodel_trepang_smg1.png" alt="UAssetGUI View"></p>
+
+<p>As shown, there are quite a handful of values that can be changed. But in this example, the maximum clip size will be changed.</p>
+
+<p><img src="Pages/Media/uassetgui/umodel_trepang_smg2.png" alt="Change Clip Size"></p>
+
+<p>Once the changes are made, simply save the file! The tool will automatically generate <code>.bak</code> file, but you don't need them, so feel free to remove them.</p>
+
+<p>The last step is to pack the modified <code>.uasset</code> and <code>.uexp</code> using UnrealPak, and you're done!</p>
+
+<hr>
+
+<h2>Editing via JSON (alternative option)</h2>
+
+<p>UAssetGUI allows to export uasset files into editable <code>.json</code> files. File &rarr; Save As, and pick the <code>.json</code> as the save-type.</p>
+
+<p><img src="Pages/Media/uassetgui/umodel_trepang_smg3.png" alt="Save as JSON"></p>
+
+<p>JSON format gives full control over the structure of the asset.</p>
+
+<p><img src="Pages/Media/uassetgui/umodel_trepang_smg4.png" alt="JSON Format"></p>
+
+<p>Once the changes are made and saved: Load the modified json file into UAssetGUI, and then save it as a regular <code>.uasset</code> file.</p>
+
+<hr>
+
+<h2>Example 2 - Trepang2: adding items to list (advanced)</h2>
+
+<p>Elements can be edited, replaced, and removed from an asset, but how about adding new elements? In this example, an element will be added to an array that doesn't exist in the asset.</p>
+
+<p><img src="Pages/Media/uassetgui/fmodel_trepang_mission1.png" alt="Mission List"></p>
+
+<p>In Trepang2, there's a game mode HordeMode which stores all of its available levels in a list/array, inside <code>BP_CombatSimMissionList_Trepang2</code>.</p>
+
+<p>Export to Uasset, open using UAssetGUI and save to <code>.json</code>.</p>
+
+<p><strong>Note:</strong> save json via UAssetGUI, <strong>not</strong> FModel. FModel creates a read-only json...</p>
+
+<p>To achieve adding a completely new element, you need 4 things:</p>
+<ol>
+	<li>Add new NameMap (references).</li>
+	<li>Add Imports (reference declaration).</li>
+	<li>Adjust NameCount in Generation.</li>
+	<li>Add item to the array.</li>
+</ol>
+
+<p>For this example, <code>Mission_Horde_Killstation</code> will be added to the list, which is an unused level but still functioning.</p>
+
+<h3>Adding new NameMap</h3>
+
+<p>The NameMap contains all the used references.</p>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission1.png" alt="NameMap"></p>
+
+<p>Each reference exists in 3 formats, which need to be added for the new level. Scroll down to the bottom and add these 3 lines:</p>
+
+<pre><code>"/Game/UI/CombatSimulator/Missions/UNUSED/Mission_Horde_Killstation",
+"Default__Mission_Horde_Killstation_C",
+"Mission_Horde_Killstation_C"
+</code></pre>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission2.png" alt="Add NameMap"></p>
+
+<p><em>(don't forget to add <code>,</code> on the last item before adding, as shown after the "Package")</em></p>
+
+<h3>Add Imports</h3>
+
+<p>Scroll down a bit and find the <code>Imports</code> section.</p>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission3.png" alt="Imports Section"></p>
+
+<p>Scroll to the bottom of Imports, and add these 3 sections; The Package declaration, Blueprint declaration, and Class Declaration.</p>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission4.png" alt="Add Imports"></p>
+
+<p>The object names refer to the 3 NameMap added earlier. The <code>OuterIndex</code> points to the initial Import out of the 3. The last Import is <code>-122</code> making the new import in index <code>-123</code>, thus that index is specified for the Blueprint and Class declaration.</p>
+
+<h3>Adjust NameCount in Generation</h3>
+
+<p>Scroll down until you find the <code>Generations</code> section, containing the number of <code>NameCount</code>.</p>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission5.png" alt="NameCount"></p>
+
+<p>Append the count by the number of additional added imports. Which is <code>3</code> for this example, making the NameCount: <code>135</code>.</p>
+
+<h3>Add item to the array</h3>
+
+<p>For this example, the array <code>CombatSimulatorMissions</code> will be appended, which can be found by searching within the <code>.json</code> file.</p>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission6.png" alt="Add to Array"></p>
+
+<p>Duplicate the first element, and adjust the value to point to the BlueprintGeneratedClass that was added earlier.</p>
+
+<p>Why <code>-124</code>?<br>
+The last index was <code>-122</code>, the first import (the path/package) was <code>-123</code> and the BlueprintGeneratedClass was one after, making it <code>-124</code>.</p>
+
+<h3>Save changes!</h3>
+
+<p>Save the modified <code>.json</code> file, and open it using UAssetGUI. If done correctly, no errors will appear and you can double-check that everything is added correctly by viewing the NameMap, ImportData, and the actual array, ensuring it has the items and points to the correct element.</p>
+
+<p><img src="Pages/Media/uassetgui/json_trepang_mission7.png" alt="Final Check"></p>
+
+<p>Make sure you save, so UAssetGUI can generate the updated <code>.uasset</code> and <code>.uexp</code> files.</p>
+
+<p>Once done, simply pack using UnrealPak, repak, or retoc, depending on your needs.</p>
+
+</body>
+</html>
