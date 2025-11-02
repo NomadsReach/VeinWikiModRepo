@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finding Memory Pointers</title>
+</head>
+<body>
+
+<p class="callout warning"><strong>Disclaimer:</strong> This guide is intended for educational and research purposes only. The authors are not responsible for any unintended consequences, including damage to systems, violations of TOS, or legal issues arising from the use of this information. Use at your own risk.</p>
+
+<h1>Finding Memory Pointers</h1>
+
+<p>This guide will cover the basics of finding consistent memory pointers for UE games, mainly used for speedrunning tools, trainers, and randomizers.</p>
+
+<p class="callout note"><strong>Note:</strong> You should have <a href="https://www.cheatengine.org/" target="_blank">CheatEngine</a> installed and know the basics.</p>
+
+<h2>Initial Instance Address</h2>
+
+<p>For a simple example, we will scan for the current weapon's ammo.</p>
+
+<ul>
+    <li>Scan for the initial value (in my case 4 bytes integer)</li>
+    <li>Change the value in-game.</li>
+    <li>Rescan with updated value.</li>
+    <li>Repeat until you have one or two results.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers/1.png" alt="Initial Scan"></p>
+
+<h2>Scanning for Pointers</h2>
+
+<p>Add the working result to the list and scan for pointers.</p>
+
+<ul>
+    <li>Right click on the item → <code>Pointer scan for this address</code>.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers/2.png" alt="Pointer Scan"></p>
+
+<p>Use the default values.</p>
+
+<p class="callout note"><strong>Note:</strong> You can set <code>Max level</code> to <code>5</code> to reduce scanning time and really long pointers.</p>
+
+<p><img src="Pages/Media/memoryPointers/3.png" alt="Scan Settings"></p>
+
+<p>Once the results are in, we need to rescan to narrow down the number of results.</p>
+
+<p><img src="Pages/Media/memoryPointers/4.png" alt="Results"></p>
+
+<p>Rescan with the following settings:</p>
+
+<ul>
+    <li>Only filter out invalid pointers</li>
+    <li>Must start with offset <code>30</code></li>
+</ul>
+
+<p class="callout tip"><strong>Tip:</strong> Having <code>30</code> offset will start with persistent level.</p>
+
+<p><img src="Pages/Media/memoryPointers/5.png" alt="Rescan Settings"></p>
+
+<p>That should reduce the number of results, but that's not enough or consistent with game instances.</p>
+
+<h2>Improving the Pointers</h2>
+
+<p>In order to find the correct persistent pointer we need to rescan while changing levels or re-launching the game.</p>
+
+<ul>
+    <li>Change the level or re-launch the game.</li>
+    <li>Re-attach to game process.</li>
+    <li>Rescan pointerlist.</li>
+</ul>
+
+<p><img src="Pages/Media/memoryPointers/6.png" alt="Rescan Pointerlist"></p>
+
+<p>That would drastically improve the results.<br>
+If there are multiple results try to sort by offsets in order to get the shortest path.</p>
+
+<p><img src="Pages/Media/memoryPointers/7.png" alt="Final Results"></p>
+
+<p>The final memory pointer should look similar, not too many offsets and constantly working regardless of the current level.</p>
+
+<p class="callout note"><strong>Note:</strong> We can improve our results by utilizing UE4SS in the next guide.</p>
+
+</body>
+</html>
+

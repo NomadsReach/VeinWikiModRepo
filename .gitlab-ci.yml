@@ -3,10 +3,7 @@ image: ubuntu:18.04
 pages:
   stage: deploy
   script:
-    - mkdir -p public
-    - bash -O extglob -c 'cp -r !(public) public/'
-    - rm -rf public/.git
-    - rm -rf public/.gitlab-ci.yml
+    - echo "Publishing public directory for GitLab Pages"
   artifacts:
     paths:
       - public

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Changing SkeletalMesh(SK)</title>
+</head>
+<body>
+
+<h1>Changing SkeletalMesh(SK)</h1>
+
+<p>The process is similar to StaticMesh swap but with a few additions of weight-paint and a few additional replications in UE.</p>
+
+<p>This guide requires Blender and a Blender PSK-plugin to be able to import the <code>.psk</code> files which are exported from FModel/UModel.<br>
+Blender is free and available on <a href="https://www.blender.org/" target="_blank">Blender website</a> or on <a href="https://store.steampowered.com/app/365670/Blender/" target="_blank">Steam page (Blender)</a>.</p>
+
+<p>The plugin link: <a href="https://github.com/DarklightGames/io_scene_psk_psa" target="_blank">io_scene_psk_psa</a>.<br>
+<em>(download the correct version, and follow the instructions in that repo readme)</em></p>
+
+<p>Note: This guide uses the <a href="https://github.com/Befzz/blender3d_import_psk_psa" target="_blank">older version</a> for Blender v3, so it might look slightly different.</p>
+
+<h2>Blender</h2>
+
+<p>For this example, the SkeletalMesh(SK) of one of the enemies in Ghostrunner 2 will be changed.<br>
+Start by locating your model in FModel, then export the model into a <code>.psk</code> file.</p>
+
+<p><img src="Pages/Media/SKSwap/fmodel1.png" alt="Export from FModel"></p>
+
+<p>Using the installed Blender <code>.psk</code> plugin, load the file into Blender <strong>without scaling it down</strong>.</p>
+
+<p><img src="Pages/Media/SKSwap/1.png" alt="Import to Blender"></p>
+
+<p>The SK mesh will be loaded inside an Armature object, shown in the top-right corner.</p>
+
+<h3>Preparing the new model</h3>
+
+<p>This example uses a simple model of a <a href="https://sketchfab.com/3d-models/medieval-knight-sculpture-game-ready-6cdd055b4afa41eb9360dbbfe75c7f10" target="_blank">medieval knight</a> for the SK swap.</p>
+
+<h4>Scale and Rotation</h4>
+
+<p>Load the new model into the Blender project along with the original SK.<br>
+Scale and rotate the new mesh so the mesh is as close as possible to the original one, scale and rotation-wise.</p>
+
+<p><img src="Pages/Media/SKSwap/2.png" alt="Scale and Rotate"></p>
+
+<h4>Aligning</h4>
+
+<p>Align the new mesh as close as possible to the original mesh.<br>
+This ensures the animations will be played properly without weird bone morphing.</p>
+
+<p>If your mesh is rigged like the model I'm using, then simply switch to Pose mode and move the bones to align as closely as possible.</p>
+
+<p>Note:<br>
+If your mesh is not rigged, either quickly rig it with automatic weights(look it up on Youtube), use Mixamo to auto-rig or manually move the vertices in Edit mode.</p>
+
+<p><img src="Pages/Media/SKSwap/3.png" alt="Align Mesh"></p>
+
+<h4>Applying armature changes</h4>
+
+<p>If your model is rigged, and you've aligned the model to the original model, then make sure you apply those changes to the Armature.</p>
+
+<p><img src="Pages/Media/SKSwap/4.png" alt="Apply Armature"></p>
+
+<p>This will set the current pose as the default pose.</p>
+
+<h4>Unparenting</h4>
+
+<p>We no longer need the armature of the new mesh.<br>
+Select the mesh, right-click, Parent &rarr; Clear and Keep Transformation.</p>
+
+<p><img src="Pages/Media/SKSwap/5.png" alt="Unparent"></p>
+
+<p>Once the mesh is separated from its armature, remove the armature (of the new mesh).</p>
+
+<p><img src="Pages/Media/SKSwap/6.png" alt="Remove Armature"></p>
+
+<h4>Removing Vertex Groups</h4>
+
+<p>Before we parent our mesh to the original Armature, we want to get rid of all the existing bones, also known as Vertex Groups.<br>
+This will prevent overlapping and irrelevant bones from being listed in our original Armature.</p>
+
+<p><img src="Pages/Media/SKSwap/7.png" alt="Remove Vertex Groups"></p>
+
+<h4>UV Map names</h4>
+
+<p>This is optional for a complete mesh swap where the new mesh completely takes over the old mesh,<br>
+but it's crucial for merging a new mesh into an existing mesh!</p>
+
+<p>With the mesh in this example, there are 3 UV Maps - only one needs to match the original mesh UV Map name.</p>
+
+<p><img src="Pages/Media/SKSwap/8.png" alt="UV Maps"></p>
+
+<p>Navigate to the original mesh, and copy the name of the UV Map, usually it's <code>UV_SINGLE</code>.<br>
+Go back to the new mesh UV Maps, remove all besides the first one, and name it exactly how the original UV map is named.<br>
+In this example, it's <code>UV_SINGLE</code>.</p>
+
+<p><img src="Pages/Media/SKSwap/9.png" alt="Rename UV Map"></p>
+
+<h3>Weight-Paint</h3>
+
+<p>We've reached the challenging part, weight-paint.<br>
+If you don't have any experience with weight-painting in Blender, I would highly suggest watching a few YouTube tutorial videos on it as it's quite a big subject that I won't be covering in this guide.</p>
+
+<h4>Parenting back</h4>
+
+<p>Select your mesh, then select the armature of the original mesh, right-click &rarr; Parent &rarr; With Empty Groups.<br>
+The mesh will be parented into the original armature object, inheriting all the vertex groups(bones) of the original one.</p>
+
+<p><img src="Pages/Media/SKSwap/10.png" alt="Parent with Empty Groups"></p>
+
+<p><strong>Important!</strong><br>
+Always rename the armature of the mesh, to <code>Armature</code>! Do not skip this!!!<br>
+Without it, the skeleton structure will be altered when imported into UnrealEngine, creating an incorrect/unmatching skeleton structure with the original one, which will break all animations.</p>
+
+<p><img src="Pages/Media/SKSwap/11.png" alt="Rename Armature"></p>
+
+<h4>Painting time!</h4>
+
+<p>This part is the most time-consuming part, as you have to weight-paint <strong>every</strong> single bone of the mesh to be as close as possible to how it looks on the original mesh.</p>
+
+<p>Switch to Weight-Paint mode, and start weight-painting every single bone, by going one by one in the Vertex Group list.</p>
+
+<p>Tip: Opening another Blender window with the original model in weight-paint mode with the same selected bone can be helpful.<br>
+This helps in getting the proportions and strengths of the target weight-paint result.</p>
+
+<p><img src="Pages/Media/SKSwap/12.png" alt="Weight Paint"></p>
+
+<p>Once you're done weight-paint, you can check your results by going to Pose mode and moving the individual bones to see if they morph/move as expected.</p>
+
+<h3>Dummy Materials</h3>
+
+<p>Dummy materials are done in order to prevent the game from changing the mesh materials at runtime, and to ensure our custom model stays with its original materials throughout the game session.</p>
+
+<p><em>Note: You can skip this part ONLY if you're 100% sure the materials are not changed in runtime.</em></p>
+
+<p>Using FModel, we can see there are 3 materials the original mesh is using.<br>
+So create 3 new materials and place them at the top of the list, so they're the first ones followed by your custom model materials.</p>
+
+<p><img src="Pages/Media/SKSwap/13.png" alt="Dummy Materials"></p>
+
+<p>Every material needs to have at least one face assigned to it, otherwise they will be ignored in UnrealEngine.<br>
+To do so, the easiest trick is to zoom into the inside of the mesh and extrude a random line multiple times.<br>
+Then select the first extructed face, click on dummy material and then Assign (repeat for the number of dummy materials you have).</p>
+
+<p><img src="Pages/Media/SKSwap/14.png" alt="Assign Dummy Materials"></p>
+
+<h3>Important notes</h3>
+
+<p>Here are some important notes to consider while working with SK in Blender:</p>
+
+<ul>
+	<li>Never adjust or move the original skeleton.</li>
+	<li>Always have the armature object named <code>Armature</code>.</li>
+	<li>Align the new mesh as closely as possible to the original mesh, to ensure seamless animations.</li>
+	<li>Material names don't matter, it's their order in the list that matters.</li>
+	<li>Test your weight-paint results in Pose mode before exporting to save time.</li>
+</ul>
+
+<h3>Exporting!</h3>
+
+<p>Well done reaching the exporting part, you've made it through the hardest section of the mod!<br>
+Before you export, double-check the materials are correct, the UV maps are correct, the weight-paint is functional, and the root object is named <code>Armature</code>.</p>
+
+<p><img src="Pages/Media/SKSwap/15.png" alt="Pre-Export Check"></p>
+
+<p>When Exporting, make sure to scale it down to <code>0.01</code>.<br>
+Here are my settings for exporting:</p>
+
+<p><img src="Pages/Media/SKSwap/16.png" alt="Export Settings"></p>
+
+<h2>UnrealEngine</h2>
+
+<p>Open your UE project, and create the same folder structure to match the original folder where the SK is located.<br>
+Then drag and drop the exported <code>.fbx</code> file and click "Import All".</p>
+
+<p><img src="Pages/Media/SKSwap/ue1.png" alt="Import to UE"></p>
+
+<p>Name the SkeletalMesh(the character model) to match with how it's named in the game files (important!).</p>
+
+<h3>Assigning ShadowPhysics (if any)</h3>
+
+<p>Some games have ShadowPhyiscs in their characters so if your SK doesn't have it - skip this step.</p>
+
+<p>ShadowPhysics in modding is the same as the original PhysicsAssets, so simply duplicate it and name it exactly how it's named in the game files.<br>
+<em>(You can double-check it using FModel, opening the SK asset and scrolling down a bit)</em></p>
+
+<p>Once the PA is duplicated and named to match the SP, double-click on the SkeletalMesh(SK), scroll down and drag the SP into its slot.</p>
+
+<p><img src="Pages/Media/SKSwap/ue2.png" alt="Assign ShadowPhysics"></p>
+
+<h3>Replicating Skeleton and PhysicsAsset</h3>
+
+<p>When you import your mesh into UE, it auto-generates the Skeleton and PhysicsAsset which have to match with the game files.</p>
+
+<p>Using FModel, we can see the name and location of the used Skeleton.<br>
+Rename the skeleton to match it, and move it to the same folder as shown in FModel (create the folder structure).</p>
+
+<p>In this example, the skeleton is named <code>SK_Enemy_Shinobi</code> and is located in <code>/Visual/Character/Shinobi</code>, so the same folders are created, the skeleton is named, and moved to that folder.</p>
+
+<p><img src="Pages/Media/SKSwap/ue3.png" alt="Replicate Skeleton"></p>
+
+<p><strong>Don't forget:</strong> Do the same with the PhysicsAsset and ShadowPhyiscs(if any).</p>
+
+<h3>Materials</h3>
+
+<p>This part will be different in every game and the used SK, so it's a bit difficult to cover all of them.<br>
+Creating materials - I won't be covering this, as there are plenty of tutorials on YouTube.</p>
+
+<p>In terms of modding there are 2 options: plain materials, and replicated Material Instances <em>(in case "plain" doesn't work)</em>.</p>
+
+<p>Plain means you create an empty Material, drag and drop the used textures and connect it to the Material node, as shown below with a single texture for the BaseColor.<br>
+For better quality materials, you would want to have ORM(Occlusion, Roughness, Metallic) and Normal textures as well.</p>
+
+<p><img src="Pages/Media/SKSwap/ue4.png" alt="Plain Material"></p>
+
+<p><strong>Note:</strong><br>
+If plain materials don't work, try to set the same settings as the original/base material.</p>
+
+<p><img src="Pages/Media/SKSwap/ue6.png" alt="Material Settings"></p>
+
+<p>If that doesn't work, then you will have to use a replicated Material Instance.</p>
+
+<h3>Pack and test</h3>
+
+<p>Once everything is done, double-check you named the asset correctly, placed the skeleton and PA in the correct location, done with the materials and textures.<br>
+You can name the materials and textures with common naming conventions for easier readability and maintenance (optional but recommended).</p>
+
+<p><img src="Pages/Media/SKSwap/ue5.png" alt="Final Check"></p>
+
+<p>Pack it and test it!</p>
+
+<p>Only pack the new SK, and the used materials and textures.<br>
+DON'T pack the skeleton, physicsAsset or the ShadowAsset.</p>
+
+<p>UE4 &rarr; using UnrealPak (or chunks, if you want).<br>
+UE5 &rarr; chunk assigning <em>(unless the game has no IOStore)</em>.</p>
+
+<p>For more information about how to package your mod, view <a href="#Pages/IntermediateMods/CookingContent.html">Cooking Content guide</a>.<br>
+(don't forget to name your mod with <code>_P</code> in its name)</p>
+
+<h2>Results</h2>
+
+<p><img src="Pages/Media/SKSwap/result.png" alt="Results"></p>
+
+</body>
+</html>

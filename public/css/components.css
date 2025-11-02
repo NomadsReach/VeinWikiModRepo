@@ -1,0 +1,468 @@
+/* Reusable Components - Buttons, Cards, Modals */
+
+/* Buttons */
+.start-button {
+	display: inline-block;
+	background: var(--accent);
+	color: white !important;
+	padding: 12px 24px;
+	border-radius: 6px;
+	text-decoration: none;
+	font-weight: 500;
+	transition: all 0.2s ease;
+}
+
+.start-button:hover {
+	background: #d94545;
+	transform: translateY(-2px);
+}
+
+.home-action-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 20px;
+	margin: 40px 0;
+}
+
+.home-action-card {
+	padding: 24px;
+	background: var(--panel);
+	border: 2px solid var(--border);
+	border-radius: 8px;
+}
+
+.home-action-card h3 {
+	margin: 0 0 12px 0;
+	color: var(--text);
+	font-size: 20px;
+}
+
+.home-action-card p {
+	margin: 0 0 20px 0;
+	color: var(--muted);
+	font-size: 15px;
+	line-height: 1.6;
+}
+
+.card-button {
+	display: inline-block;
+	background: var(--accent);
+	color: white !important;
+	padding: 12px 24px;
+	border-radius: 6px;
+	text-decoration: none;
+	font-weight: 500;
+	transition: all 0.2s ease;
+}
+
+.card-button:hover {
+	background: #d94545;
+	transform: translateY(-2px);
+}
+
+/* Alert/Callout Boxes */
+.callout{
+	padding:16px 20px;
+	border-left:5px solid var(--accent);
+	border-radius:8px;
+	margin:20px 0;
+	background:var(--panel);
+}
+
+.callout.note{
+	border-left-color:#3b82f6;
+	background:rgba(59,130,246,0.1);
+}
+
+.callout.tip{
+	border-left-color:#10b981;
+	background:rgba(16,185,129,0.1);
+}
+
+.callout.warning{
+	border-left-color:#f59e0b;
+	background:rgba(245,158,11,0.1);
+}
+
+.callout p{
+	margin:0;
+}
+
+/* Admonition Blocks */
+.admonition{
+	margin:20px 0;
+	padding:16px;
+	border-left:5px solid;
+	border-radius:8px;
+	background:var(--panel);
+}
+
+.admonition.note{
+	border-left-color:#3b82f6;
+	background:rgba(59,130,246,0.1);
+}
+
+.admonition.tip{
+	border-left-color:#10b981;
+	background:rgba(16,185,129,0.1);
+}
+
+.admonition.important{
+	border-left-color:#8b5cf6;
+	background:rgba(139,92,246,0.1);
+}
+
+.admonition.warning{
+	border-left-color:#f59e0b;
+	background:rgba(245,158,11,0.1);
+}
+
+.admonition.caution{
+	border-left-color:#ef4444;
+	background:rgba(239,68,68,0.1);
+}
+
+.admonition-title{
+	display:flex;
+	align-items:center;
+	gap:8px;
+	font-weight:700;
+	margin-bottom:12px;
+	color:var(--text);
+}
+
+.admonition-content p:first-child{
+	margin-top:0;
+}
+
+.admonition-content p:last-child{
+	margin-bottom:0;
+}
+
+/* Code Copy Button */
+.copy-btn{
+	position:absolute;
+	top:8px;
+	right:8px;
+	background:var(--panel-2);
+	border:1px solid var(--border);
+	color:var(--muted);
+	padding:6px 12px;
+	border-radius:4px;
+	cursor:pointer;
+	font-size:12px;
+	transition:all .2s ease;
+}
+
+.copy-btn:hover{
+	background:var(--accent);
+	color:white;
+	border-color:var(--accent);
+}
+
+.copy-btn.copied{
+	background:#10b981;
+	color:white;
+	border-color:#10b981;
+}
+
+/* --- Easter Egg Styles --- */
+
+/* Modal Overlay */
+.easter-egg-modal-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.8);
+	z-index: 10000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	backdrop-filter: blur(5px);
+}
+
+/* Modal Box */
+.easter-egg-modal-box {
+	background: rgba(40, 40, 40, 0.95);
+	border: 2px solid #d32f2f;
+	border-left: 5px solid #d32f2f;
+	border-radius: 12px;
+	padding: 32px;
+	max-width: 400px;
+	text-align: center;
+	box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5), 0 0 30px rgba(211, 47, 47, 0.2);
+	backdrop-filter: blur(10px);
+	animation: fadeInModal 0.3s ease-out;
+}
+
+.easter-egg-modal-icon {
+	font-size: 32px;
+	margin-bottom: 16px;
+	color: var(--text);
+}
+
+.easter-egg-modal-icon i {
+	color: #d32f2f;
+}
+
+.easter-egg-modal-title {
+	color: var(--text);
+	font-size: 20px;
+	font-weight: 600;
+	margin: 0 0 16px 0;
+}
+
+.easter-egg-modal-text {
+	color: var(--muted);
+	font-size: 14px;
+	margin: 0 0 24px 0;
+	line-height: 1.6;
+}
+
+.easter-egg-modal-actions {
+	display: flex;
+	gap: 12px;
+	justify-content: center;
+}
+
+.easter-egg-btn-find-out {
+	background: #d32f2f;
+	color: white;
+	border: none;
+	padding: 12px 24px;
+	border-radius: 6px;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.easter-egg-btn-find-out:hover {
+	background: #d94545;
+	transform: scale(1.05);
+}
+
+.easter-egg-btn-cancel {
+	background: var(--panel);
+	color: var(--text);
+	border: 1px solid var(--border);
+	padding: 12px 24px;
+	border-radius: 6px;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+.easter-egg-btn-cancel:hover {
+	border-color: var(--accent);
+	background: var(--panel-2);
+}
+
+/* Hidden Trigger Element */
+.hidden-easter-egg-trigger {
+	width: 30px;
+	height: 30px;
+	background: rgba(211, 47, 47, 0.1);
+	position: absolute;
+	bottom: 8px;
+	right: 8px;
+	cursor: pointer;
+	z-index: 999;
+	border-radius: 50%;
+	border: 2px solid rgba(211, 47, 47, 0.3);
+	transition: all 0.3s ease;
+	animation: pulseEasterEgg 2s infinite;
+}
+
+.hidden-easter-egg-trigger-fixed {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+}
+
+.hidden-easter-egg-trigger:hover {
+	background: rgba(211, 47, 47, 0.3);
+	box-shadow: 0 0 20px rgba(211, 47, 47, 0.6);
+	border-color: rgba(211, 47, 47, 0.8);
+	width: 36px;
+	height: 36px;
+	animation: none;
+}
+
+/* Logo/Nav Link Easter Egg Trigger States */
+.easter-egg-trigger-active {
+	cursor: pointer;
+	transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.easter-egg-trigger-active:hover {
+	transform: scale(1.05);
+	filter: drop-shadow(0 0 8px rgba(211, 47, 47, 0.5));
+}
+
+.easter-egg-trigger-link-active {
+	cursor: pointer;
+	transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.easter-egg-trigger-link-active:hover {
+	transform: scale(1.1);
+	filter: drop-shadow(0 0 8px rgba(211, 47, 47, 0.5));
+}
+
+/* Easter Egg "Click Here" Button */
+.easter-egg-click-here-btn {
+	position: relative;
+	animation: fadeRedPulse 2s ease-in-out infinite;
+}
+
+.easter-egg-click-here-btn::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(211, 47, 47, 0.2);
+	border-radius: 4px;
+	animation: fadeRedGlow 1.5s ease-in-out infinite;
+	pointer-events: none;
+}
+
+.easter-egg-click-here-btn:hover {
+	background: rgba(211, 47, 47, 0.3);
+	transform: scale(1.05);
+}
+
+@keyframes fadeRedPulse {
+	0%, 100% {
+		color: var(--text);
+		background: rgba(211, 47, 47, 0.1);
+	}
+	50% {
+		color: #d32f2f;
+		background: rgba(211, 47, 47, 0.25);
+	}
+}
+
+@keyframes fadeRedGlow {
+	0%, 100% {
+		opacity: 0.3;
+		box-shadow: 0 0 5px rgba(211, 47, 47, 0.3);
+	}
+	50% {
+		opacity: 0.7;
+		box-shadow: 0 0 15px rgba(211, 47, 47, 0.6);
+	}
+}
+
+/* Easter Egg Overlay (GIF Display) */
+.easter-egg-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 1);
+	z-index: 10000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+
+.easter-egg-gif {
+	width: 90vw;
+	height: 90vh;
+	object-fit: contain;
+}
+
+.easter-egg-audio-wrapper {
+	position: absolute;
+	opacity: 0;
+	pointer-events: none;
+}
+
+/* Easter Egg Notification */
+.easter-egg-notification {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	background: rgba(40, 40, 40, 0.95);
+	border: 2px solid #d32f2f;
+	border-left: 5px solid #d32f2f;
+	border-radius: 8px;
+	padding: 20px 24px;
+	color: var(--text);
+	z-index: 10001;
+	box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5), 0 0 20px rgba(211, 47, 47, 0.3);
+	backdrop-filter: blur(10px);
+	animation: slideInNotification 0.5s ease-out;
+	max-width: 350px;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.easter-egg-notification-content {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.easter-egg-notification-icon {
+	color: #d32f2f;
+	font-size: 20px;
+}
+
+/* Animations */
+@keyframes fadeInModal {
+	0% {
+		opacity: 0;
+		transform: scale(0.9);
+	}
+	100% {
+		opacity: 1;
+		transform: scale(1);
+	}
+}
+
+@keyframes pulseEasterEgg {
+	0%, 100% {
+		opacity: 0.6;
+		transform: scale(1);
+	}
+	50% {
+		opacity: 1;
+		transform: scale(1.1);
+	}
+}
+
+@keyframes slideInNotification {
+	0% {
+		transform: translateX(400px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+@keyframes slideOutNotification {
+	0% {
+		transform: translateX(0);
+		opacity: 1;
+	}
+	100% {
+		transform: translateX(400px);
+		opacity: 0;
+	}
+}
+
+.easter-egg-notification.slide-out {
+	animation: slideOutNotification 0.5s ease-out forwards;
+}
+
