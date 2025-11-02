@@ -37,7 +37,6 @@ yarn-error.log*
 # Build and deployment files
 dist/
 build/
-public/
 *.zip
 *.tar
 *.tar.gz

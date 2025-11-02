@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step 6: Unreal Engine Project Setup</title>
+</head>
+<body>
+    <a href="#Pages/Introduction/5_Packaging.html">&larr; Back to Step 5</a>
+    <h1>Step 6: Unreal Engine Project Setup</h1>
+
+    <p>For more advanced mods, such as creating new assets or logic, you will need to use Unreal Engine itself. This section covers the initial project setup.</p>
+
+    <h2>1. Install Unreal Engine and Prerequisites</h2>
+    <p>Start by installing Unreal Engine 5.4 from the Epic Games Launcher.</p>
+    
+    <div class="callout warning">
+        <p><strong>Important - Windows SDK Required:</strong> Before using Unreal Engine for modding, ensure you have the Windows SDK installed. Without it, UE will display errors when packaging or cooking content.</p>
+        <p>Download the Windows SDK from: <a href="https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/" target="_blank">Microsoft Windows SDK</a></p>
+        <p><strong>Note:</strong> If you install the SDK while Unreal Engine is open, you must close and reopen the editor for the changes to take effect.</p>
+    </div>
+    
+    <h2>2. Creating a VEIN Project</h2>
+    <ol>
+        <li>Launch Unreal Engine 5.4</li>
+        <li>Select the <strong>Games</strong> category on the left, then choose the <strong>Blank</strong> template.</li>
+        <li>Set your project location (choose somewhere with plenty of disk space).</li>
+        <li>Set the Project Name to exactly <code>Vein</code>.</li>
+        <li>Click <strong>Create</strong>.</li>
+    </ol>
+    
+    <h2>3. Advanced Project Configuration (for Logic Mods)</h2>
+    <p>The following settings are required for creating Blueprint and Logic mods that will be loaded with UE4SS.</p>
+    <ol>
+        <li>In your new project, go to <strong>Edit &rarr; Project Settings</strong>.</li>
+        <li>Set the "Project Name" field (likely blank) to <code>Vein</code>.</li>
+        <li>In the left panel, find the <strong>Packaging</strong> section.</li>
+        <li>Find and disable "Use Io Store".</li>
+        <li>Find and enable "Generate Chunks".</li>
+        <li>Next, go to <strong>Edit &rarr; Editor Preferences</strong>.</li>
+        <li>In the left panel, find the <strong>Experimental</strong> section.</li>
+        <li>Under the "User Interface" dropdown, enable "Allow ChunkID Assignments".</li>
+    </ol>
+    <p>Your project is now configured for both basic content cooking and advanced logic modding.</p>
+
+    <a href="#Pages/Introduction/7_FontMod.html" class="start-button">Next Step: Font Modding Tutorial &rarr;</a>
+</body>
+</html>

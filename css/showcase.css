@@ -1,0 +1,73 @@
+/* Mod Showcase Page Styles */
+
+.showcase-simple-header {
+	padding: 20px;
+	border-bottom: 2px solid var(--border);
+	margin-bottom: 30px;
+}
+
+.showcase-simple-header h1 {
+	margin: 0 0 8px 0;
+	color: var(--text);
+	font-size: 32px;
+}
+
+.showcase-simple-header p {
+	margin: 0;
+	color: var(--muted);
+	font-size: 16px;
+}
+
+.showcase-preview-image {
+	margin: 0 auto 30px;
+	max-width: 1200px;
+	width: 100%;
+}
+
+.showcase-preview-image a {
+	display: block;
+	line-height: 0;
+}
+
+.showcase-preview-image img {
+	width: 100%;
+	height: auto;
+	display: block;
+	transition: transform 0.3s ease;
+	border-radius: 8px;
+}
+
+.showcase-preview-image a:hover img {
+	transform: scale(1.02);
+}
+
+.showcase-cta-simple {
+	padding: 24px;
+	background: var(--panel);
+	border: 2px solid var(--border);
+	border-radius: 8px;
+	margin-bottom: 30px;
+}
+
+.showcase-cta-simple h3 {
+	margin: 0 0 8px 0;
+	color: var(--text);
+	font-size: 20px;
+}
+
+.showcase-cta-simple p {
+	margin: 0 0 16px 0;
+	color: var(--muted);
+	font-size: 15px;
+}
+
+.showcase-cta-simple a {
+	display: inline-block;
+	color: var(--accent);
+	text-decoration: none;
+	font-weight: 500;
+}
+
+.showcase-cta-simple a:hover {
+	text-decoration: underline;
+}

@@ -1,0 +1,166 @@
+/* Sidebar Navigation */
+
+.sidebar{
+	background:var(--panel);
+	border-right:2px solid var(--border);
+	padding:0;
+	overflow-y:visible;
+	overflow-x:hidden;
+	position:fixed;
+	top:60px;
+	left:0;
+	width:260px;
+	height:calc(100vh - 60px);
+	display:flex;
+	flex-direction:column;
+	z-index:800;
+}
+
+.sidebar-inner{
+	padding:16px;
+	display:flex;
+	flex-direction:column;
+	flex:1;
+	min-height:0;
+	overflow-y:auto;
+}
+
+.nav-section{
+	margin-bottom:24px;
+}
+
+.nav-title{
+	text-transform:uppercase;
+	font-size:0.75em;
+	font-weight:700;
+	letter-spacing:0.1em;
+	color:var(--muted);
+	margin-bottom:12px;
+	padding:0 12px;
+}
+
+.nav-link{
+	display:flex;
+	align-items:center;
+	gap:12px;
+	padding:10px 12px;
+	color:var(--text);
+	text-decoration:none;
+	border-radius:8px;
+	transition:background .2s ease;
+	margin-bottom:4px;
+}
+
+.nav-link:hover{
+	background:var(--panel-2);
+}
+
+.nav-link.active{
+	background:var(--accent-subtle);
+	color:var(--accent);
+	font-weight:600;
+	border-left:3px solid var(--accent);
+}
+
+.nav-icon{
+	font-size:18px;
+	color:var(--muted);
+	width:20px;
+	text-align:center;
+}
+
+.nav-link.active .nav-icon{
+	color:var(--accent);
+}
+
+/* Sidebar Discussion Section */
+.sidebar-discussion{
+	padding:16px 12px;
+	background:var(--panel-2);
+	border-radius:8px;
+	margin-bottom:16px;
+}
+
+.sidebar-section-title{
+	font-size:0.75em;
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+	color:var(--muted);
+	margin-bottom:12px;
+}
+
+.sidebar-discussion-btn{
+	display:flex;
+	align-items:center;
+	gap:10px;
+	padding:10px 12px;
+	border-radius:6px;
+	text-decoration:none;
+	font-weight:500;
+	font-size:14px;
+	transition:all 0.2s ease;
+	margin-bottom:8px;
+}
+
+.sidebar-discussion-primary{
+	background:var(--accent);
+	color:white !important;
+}
+
+.sidebar-discussion-primary:hover{
+	background:#d94545;
+}
+
+.sidebar-discussion-secondary{
+	background:var(--panel);
+	color:var(--text) !important;
+	border:1px solid var(--border);
+}
+
+.sidebar-discussion-secondary:hover{
+	border-color:var(--accent);
+	background:var(--bg);
+}
+
+/* Sidebar Footer */
+.sidebar-footer{
+	margin-top:auto;
+	padding:16px 12px;
+	border-top:1px solid var(--border);
+	background:rgba(0,0,0,0.15);
+}
+
+.footer-title{
+	font-size:0.75em;
+	font-weight:700;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+	color:var(--muted);
+	margin-bottom:12px;
+}
+
+.social-links{
+	display:flex;
+	gap:12px;
+	justify-content:center;
+}
+
+.social-links a{
+	display:block;
+	width:32px;
+	height:32px;
+	transition:transform .2s ease;
+}
+
+.social-links a:hover{
+	transform:scale(1.1);
+}
+
+.social-icon{
+	width:100%;
+	height:100%;
+	object-fit:contain;
+	display:block;
+}
+

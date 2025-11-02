@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IoStore Packing</title>
+</head>
+<body>
+
+<h1>IoStore Packing</h1>
+
+<p class="callout important"><strong>Important:</strong> This guide only applies when there are <code>.ucas</code>, <code>.utoc</code> & <code>.pak</code> files inside <code>Content/Paks</code> folder.</p>
+
+<p>There are three scenarios when you need to pack <code>IoStore</code> assets, and the methods differ depending on them:</p>
+<ol>
+	<li>You have hex edited cooked assets extracted from <a href="#Pages/CoreFundamentals/ExtractingIoStore.html">retoc or ZenTools</a> with <a href="#Pages/BeginnerMods/UAssetGUI.html">UAssetGUI</a> or similar</li>
+	<li>You have a UE project and have created assets within it</li>
+	<li>You have extracted <code>IoStore</code> Zen assets from <a href="#Pages/CoreFundamentals/ExportingFModel.html">FModel</a> and wish to repack them</li>
+</ol>
+
+<h2>Scenario 1: Packing cooked assets</h2>
+
+<h3>retoc</h3>
+
+<p>If you have not already, follow the same steps as <a href="#Pages/CoreFundamentals/ExtractingIoStore.html#retoc">Extracting IoStore - retoc</a> to download retoc.</p>
+
+<p><code>to-zen</code> is used to convert back from the cooked asset format to the <code>IoStore</code> format.</p>
+
+<p class="callout tip"><strong>Tip:</strong> It is recommended to use <code>--version</code> to specify the version of the asset you want to convert back to <code>IoStore</code> format. For example, <code>--version UE5_4</code> for UE5.4 assets.</p>
+
+<p>Here is an awesome video guide on using retoc and UAssetGUI to unpack, edit and repack assets:</p>
+
+<p><a href="https://www.youtube.com/embed/2nkhdAREFXI" target="_blank"><img src="https://img.youtube.com/vi/2nkhdAREFXI/0.jpg" alt="UE modding (5.4 w/ IoStore): retoc + UAssetGUI"></a></p>
+
+<h3>If retoc does not work...</h3>
+
+<h4>For UE5</h4>
+
+<p>Download this tool called <a href="https://github.com/Buckminsterfullerene02/UE-Modding-Tools/raw/main/Loose%20Files/IOStorePackagev2.zip" target="_blank">IoStorePackager</a>. It is a very simple GUI commandlet where you input file paths following the examples, and it calls UnrealPak from the Unreal Engine version you have installed with all the right arguments.</p>
+
+<p>You can watch <a href="https://www.youtube.com/watch?v=89s0akNvpU4" target="_blank">this video</a> that guides you how to use <code>IoStorePackager</code>:</p>
+
+<p><a href="https://www.youtube.com/watch?v=89s0akNvpU4" target="_blank"><img src="https://img.youtube.com/vi/89s0akNvpU4/0.jpg" alt="UE modding (5.4 w/ IoStore)"></a></p>
+
+<h4>For UE4</h4>
+
+<p>Use this <a href="https://gist.github.com/Buckminsterfullerene02/0f7233d5dda97c82039ba932c2bc8fb7" target="_blank">IoStorePackager-UE4</a>. Similar to above, but you also need a C++ template project for the game, as <code>ZenTools-UE4</code> does not output the same manifest files as <code>ZenTools</code> that UE needs to create the container files.</p>
+
+<p>Video guide coming soon hopefully.</p>
+
+<h2>Scenario 2: UE project packing</h2>
+
+<p>If you have made mod content inside of the editor, you'll need to cook and pack it through the editor. Luckily, this is really simple.</p>
+
+<p>Inside the editor, go to <code>Edit -&gt; Project settings -&gt; Packaging</code>, then make sure <code>Use Io Store</code> at the top of the packaging settings is checked.</p>
+
+<p>Then, follow the <a href="#Pages/IntermediateMods/CookingContent.html">cooking content</a> guide as normal.</p>
+
+<h2>Scenario 3: Packing FModel Zen .uassets</h2>
+
+<p>Use the tool <a href="https://github.com/rm-NoobInCoding/UnrealReZen" target="_blank">UnrealReZen</a>. The instructions are quite straight-forward, but be warned, that there is no alternative tool to UnrealReZen for packing FModel Zen <code>.uassets</code>.</p>
+
+<p class="callout warning"><strong>Caution:</strong> This tool does not support extracting assets from retoc or ZenTools extracted files.</p>
+
+</body>
+</html>
