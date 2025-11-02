@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step 7: Your Second Mod - Font Replacement</title>
+</head>
+<body>
+    <a href="#Pages/Introduction/6_UEProjectSetup.html">&larr; Back to Step 6</a>
+    <h1>Step 7: Your Second Mod - Font Replacement</h1>
+
+    <p>This tutorial walks you through replacing fonts used in VEIN by cooking content in your Unreal Engine project. This recreates the <a href="https://www.nexusmods.com/vein/mods/11" target="_blank">"Comic Sans Font Changer" Mod</a>.</p>
+    
+    <p class="callout important"><strong>Prerequisite:</strong> You must have a properly configured Unreal Engine project from the previous step.</p>
+
+    <h2>1. Create Folder Structure</h2>
+    <ol>
+        <li>Open your "Vein" UE Project.</li>
+        <li>In the content drawer, create the following folder structure: <code>Content/Vein/UI/Fonts</code>.</li>
+    </ol>
+    
+    <h2>2. Import and Prepare Font</h2>
+    <img src="Media/Introduction/image21.png" alt="Font Import" style="max-width: 100%; height: auto;">
+    <ol>
+        <li>Drag your desired font file (e.g., Comic Sans) into the <code>Fonts</code> folder in the content drawer.</li>
+        <li>On the "Font Face Import Options" popup, check "Apply to All" and click "No".</li>
+        <li>Copy and paste your imported font 8 times.</li>
+        <li>Rename all 8 copies to these exact names, which correspond to the font assets used by the game:
+            <ul>
+                <li><code>BebasKai</code></li>
+                <li><code>FF_Inter</code></li>
+                <li><code>FF_Inter-Bold</code></li>
+                <li><code>FF_Inter-ExtraBold</code></li>
+                <li><code>FF_Inter-ExtraLight</code></li>
+                <li><code>FF_Inter-Light</code></li>
+                <li><code>Title</code></li>
+                <li><code>US101</code></li>
+            </ul>
+        </li>
+    </ol>
+    
+    <h2>3. Cook Content</h2>
+    <ol>
+        <li>Click <strong>Platforms</strong> in the top menu bar.</li>
+        <li>Hover over <strong>Windows</strong>, then click <strong>Cook Content</strong>.</li>
+        <li>Wait for the cooking process to complete.</li>
+    </ol>
+    
+    <h2>4. Package and Install</h2>
+    <ol>
+        <li>Navigate to your cooked content folder: <br><code>.../UnrealEngine Projects/Vein/Saved/Cooked/Windows/Vein/Content/Vein/UI/Fonts</code></li>
+        <li>Verify that each font has .uasset, .uexp, and .ufont files.</li>
+        <li>Create a new mod folder ending in <code>_P</code> (e.g., <code>LxComicSans_P</code>).</li>
+        <li>Inside, create the structure: <code>Vein/Content/Vein/UI/Fonts/</code></li>
+        <li>Move all the cooked font files into this new folder.</li>
+        <li>Package the mod using the same UnrealPak drag-and-drop method from Step 5.</li>
+        <li>Install the resulting <code>.pak</code> file and test in-game!</li>
+    </ol>
+
+    <a href="#Pages/Introduction/8_LogicMods.html" class="start-button">Next Step: Logic Mods with UE4SS &rarr;</a>
+</body>
+</html>

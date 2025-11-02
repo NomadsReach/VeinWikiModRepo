@@ -37,10 +37,12 @@ yarn-error.log*
 # Build and deployment files
 dist/
 build/
-public/
 *.zip
 *.tar
 *.tar.gz
+
+# Local development server
+server.py
 
 # Temporary files
 tmp/

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step 5: Packaging Your Mod</title>
+</head>
+<body>
+    <a href="#Pages/Introduction/4_AssetEditing.html">&larr; Back to Step 4</a>
+    <h1>Step 5: Packaging Your Mod</h1>
+
+    <h2>1. Create Mod Folder Structure</h2>
+    <ol>
+        <li>Go to where you've been saving your modified .uasset files.</li>
+        <li>Delete the .json and .bak files.</li>
+        <li>Create a folder for your mod. The name must end with <code>_P</code>.
+            <ul>
+                <li>Example: <code>LxEZLockpicking_P</code></li>
+            </ul>
+        </li>
+        <li>Inside that folder, create the following subdirectory structure: <code>Vein/Content/Vein/LockTypes/</code></li>
+        <p class="callout note">The path must exactly match the asset path shown in FModel (e.g., "Vein" appears twice).</p>
+        <li>Copy all of your modified lock files (.uasset and .uexp) into the final <code>LockTypes</code> folder.</li>
+    </ol>
+    
+    <h2>2. Package with UnrealPak</h2>
+    <ol>
+        <li>Move your entire mod folder (the one ending in _P) to the directory where your <code>UnrealPak.exe</code> is located.</li>
+        <li>Drag your mod folder onto the <code>UnrealPak-With-Compression.bat</code> script.</li>
+        <li>A command prompt will open and show the packing progress. Press any key to close it when it's finished.</li>
+        <li>A new <code>.pak</code> file will be created in your UnrealPak directory (e.g., <code>LxEZLockpicking_P.pak</code>).</li>
+    </ol>
+
+    <h2>3. Install and Test</h2>
+    <ol>
+        <li>Move your new <code>.pak</code> file to the game's Paks folder: <br><code>C:\Program Files (x86)\Steam\steamapps\common\Vein\Vein\Content\Paks</code></li>
+        <li>Load the game and test your mod!</li>
+    </ol>
+    <p class="callout tip"><strong>Testing Note:</strong> There's a quirk with lockpicking where setting the multiplier to 10 makes it so you unlock by moving the pick ALL THE WAY to the right and pressing D, rather than being able to do it anywhere.</p>
+
+    <a href="#Pages/Introduction/6_UEProjectSetup.html" class="start-button">Next Step: Unreal Engine Setup &rarr;</a>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Step 3: Tool Configuration</title>
+</head>
+<body>
+    <a href="#Pages/Introduction/2_Downloads.html">&larr; Back to Step 2</a>
+    <h1>Step 3: Tool Configuration</h1>
+
+    <p>This step covers the initial setup for FModel, UAssetGUI, and UnrealPak to ensure they work correctly with VEIN's files.</p>
+
+    <h2>Setting Up FModel</h2>
+    <div class="callout warning">
+        <p><strong>Crucial Step:</strong> Before you begin, you must set the Unreal Engine version in FModel to <strong>5.4</strong>. Failing to do this will cause errors with archive lengths and prevent you from exporting assets correctly.</p>
+    </div>
+    
+    <h3>Extract and Run FModel</h3>
+    <p>Unzip and run FModel.exe.</p>
+    <p class="callout note"><strong>Note:</strong> If prompted, install .NET 8.0 or later from Microsoft's website.</p>
+    
+    <h3>Configure Game Detection</h3>
+    <p>Make sure "Detected Game" shows <strong>VEIN</strong>.</p>
+    <p>If VEIN is not available:</p>
+    <ul>
+        <li>Click "Add Undetected Game"</li>
+        <li>Set Name: <code>VEIN</code></li>
+        <li>Set Directory to: <code>C:\Program Files (x86)\Steam\steamapps\common\Vein\Vein\Content\Paks</code></li>
+    </ul>
+    
+    <h3>Configure Settings</h3>
+    <ol>
+        <li>Click "Settings" in the top bar</li>
+        <li>Under "General", enable "Local Mapping File"</li>
+        <li>Choose the Mapping File Path (the .usmap file you downloaded)</li>
+        <li>Choose your Output Directory (where exports will be saved - choose somewhere you know)</li>
+        <li>Under "Models", change Socket Format (ActorX) to "Don't Export Bone Sockets"</li>
+        <li>Click OK (FModel may restart)</li>
+    </ol>
+    
+    <h3>Load Game Files</h3>
+    <p>Once FModel restarts, click "Archives" then click "Load". This will load all files from the game and take you to the "Folders" tab.</p>
+    <img src="Media/Introduction/image8.png" alt="FModel Folders View" style="max-width: 100%; height: auto;">
+
+    <h2>Setting Up UAssetGUI</h2>
+    <img src="Media/Introduction/image20.png" alt="UAssetGUI Interface" style="max-width: 100%; height: auto;">
+    <h3>Open UAssetGUI</h3>
+    <p>Launch the UAssetGUI application.</p>
+    
+    <h3>Import Mappings</h3>
+    <ol>
+        <li>Click <strong>Utils</strong> → <strong>Import mappings...</strong></li>
+        <li>Import the same .usmap file that you downloaded and applied in FModel</li>
+    </ol>
+    
+    <h3>Set Game Version</h3>
+    <p>In the top right of your screen, it should say "VEIN". Set the Unreal version to <strong>5.4</strong>.</p>
+    <img src="Media/Introduction/image12.png" alt="UAssetGUI Settings" style="max-width: 100%; height: auto;">
+
+    <h2>Setting Up UnrealPak</h2>
+    <h3>Create Workspace Folder</h3>
+    <p>Make a new folder in a location you can easily find. For this guide, we'll use a folder called "VEINModding".</p>
+    
+    <h3>Extract UnrealPak</h3>
+    <p>Unzip the UnrealPak.zip file into this folder.</p>
+    
+    <h3>Verify Installation</h3>
+    <p>Make sure your folder contains:</p>
+    <ul>
+        <li><code>UnrealPak.exe</code></li>
+        <li><code>UnrealPak-With-Compression.bat</code></li>
+        <li>Supporting DLL files</li>
+    </ul>
+    <img src="Media/Introduction/image15.png" alt="UnrealPak Folder Structure" style="max-width: 100%; height: auto;">
+
+    <a href="#Pages/Introduction/4_AssetEditing.html" class="start-button">Next Step: Your First Mod &rarr;</a>
+</body>
+</html>

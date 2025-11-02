@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example 1 - Modifying default BP values</title>
+</head>
+<body>
+
+<h1>Example 1 - Modifying default BP values</h1>
+
+<p>As an example, this guide demonstrates modifying the max ammo per clip/magazine for an SMG weapon in a game called Trepang2.</p>
+
+<p><em>(UE5 modders - Not possible if the game has IOStore enabled)</em></p>
+
+<h3>Finding the Asset</h3>
+
+<p>The first step is to find the correct blueprint containing that piece of information, which in this case is the <code>BP_SMG</code>.</p>
+
+<p><img src="Pages/Media/Example-1/example_trepang_modifying1.png" alt="Find Asset"></p>
+
+<h3>Modifying the Asset</h3>
+
+<p>Export the asset, open the asset using UAssetGUI, and navigate to the default values section of the blueprint. Default values are in <code>Export n (Default__&lt;BP_Name&gt;_C)</code> in every BP, for this it's <code>Export 7 (Default__BP_SMG_C)</code>.</p>
+
+<p><img src="Pages/Media/Example-1/example_trepang_modifying2.png" alt="Default Values"></p>
+
+<p>If scrolling down a bit, the value needed can be found, the <code>AmmoPerClip</code>, which will be set to <code>99</code>.</p>
+
+<h3>Create the Pak file</h3>
+
+<p>Save the changes and begin with constructing the mod folder.</p>
+
+<p><img src="Pages/Media/Example-1/example_trepang_modifying3.png" alt="Mod Folder"></p>
+
+<p>In this case, the folder structure is:</p>
+
+<pre><code>MoreAmmoSMG_P\CPPFPS\Content\Weapon\SMG
+</code></pre>
+
+<p>Where the last folder in the path, contains the modified assets (<code>.uasset</code> and <code>.uexp</code>).</p>
+
+<h3>Results</h3>
+
+<p>Package it using UnrealPak, move the created pak file into Paks folder, and test it in-game.</p>
+
+<p><img src="Pages/Media/Example-1/example_trepang_modifying4.png" alt="Results"></p>
+
+</body>
+</html>

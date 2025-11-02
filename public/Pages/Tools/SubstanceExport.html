@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exporting Packed Textures in Substance Painter</title>
+</head>
+<body>
+
+<h1>Exporting Packed Textures in Substance Painter</h1>
+
+<p>Small guide on exporting the textures mesh from Substance Painter into UE traditional "packed textures", where the exported files are base color, ORM, normal and emissive (optional).</p>
+
+<h2>Exporting Packed Textures</h2>
+
+<ol>
+    <li>File → Export Textures</li>
+    <li>Click <code>Global settings</code> and pick <code>Unreal Engine 4 (Packed)</code> for <code>Output template</code>.</li>
+</ol>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/exportTextures1.png" alt="Export Settings"></p>
+
+<p>You can manually decide which textures you want to export for each mesh part.</p>
+
+<p>Once you click <code>Export</code> it will generate all the textures for the mesh, and they will be ready to import into UE4/5 and game-ready.</p>
+
+<h2>Importing Into Unreal Engine</h2>
+
+<p>That's a straightforward process of dragging in all the textures, creating a material and connecting everything up in the material graph, as shown below.</p>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/ImportTexturesUE1.png" alt="Import to UE"></p>
+
+<p class="callout important"><strong>Important:</strong> Make sure the ORM/packed texture is set to Masks in Compression Settings within the texture, and Normal for the Normal map.</p>
+
+<h2>Adjusting the Emissive (optional)</h2>
+
+<p>If you have the emissive texture for your mesh, you can adjust its strength and color by multiplying it by the color and then by a constant for its strength.</p>
+
+<p><img src="Pages/Media/ImportTexturesSubstance/ImportTexturesUE2.png" alt="Emissive Setup"></p>
+
+</body>
+</html>
+
