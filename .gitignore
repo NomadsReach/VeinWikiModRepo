@@ -42,6 +42,9 @@ public/
 *.tar
 *.tar.gz
 
+# Local development server
+server.py
+
 # Temporary files
 tmp/
 temp/
