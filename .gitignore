@@ -89,3 +89,6 @@ ehthumbs.db
 *.rar
 *.tar
 *.zip
+
+# Documentation and setup files
+BACKBLAZE_B2_SETUP.md
