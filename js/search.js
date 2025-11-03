@@ -12,6 +12,8 @@ const PAGES = [
     'Pages/ExpertMods/index.html',
     'Pages/GameSpecific/index.html', 'Pages/GameSpecific/GameMemory_index.html', 'Pages/GameSpecific/GameMenus.html', 'Pages/GameSpecific/GameSaves.html', 'Pages/GameSpecific/Hotkeys.html',
     'Pages/Tools/index.html', 'Pages/Tools/BlenderImportAnimations.html', 'Pages/Tools/BlenderImportModels.html', 'Pages/Tools/BlenderImportTextures.html', 'Pages/Tools/SubstanceExport.html', 'Pages/Tools/SubstanceImportTextures.html',
+    'Pages/host-server.html',
+    'Pages/upload-mod.html',
     'Pages/credits.html'
 ];
 

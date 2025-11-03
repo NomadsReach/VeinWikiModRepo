@@ -15,6 +15,26 @@ async function loadPage(path) {
             return;
         }
         
+        if (path === 'Pages/host-server.html' || path === 'Pages/upload-mod.html') {
+            const layout = document.querySelector('.layout');
+            layout.classList.add('hide-sidebar');
+            document.body.classList.remove('is-home-page');
+            document.body.classList.remove('is-news-page');
+            document.body.classList.remove('is-upload-mod-page');
+            
+            contentEl.innerHTML = `
+                <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 60vh; text-align: center; padding: 40px 20px;">
+                    <i class="fas fa-clock" style="font-size: 64px; color: var(--accent-color); margin-bottom: 24px;"></i>
+                    <h1 style="font-size: 36px; margin-bottom: 16px; color: var(--text-primary);">Coming Soon</h1>
+                    <p style="font-size: 18px; color: var(--text-secondary); max-width: 600px; line-height: 1.6;">
+                        This feature is currently under development and will be available soon. Thank you for your patience!
+                    </p>
+                </div>
+            `;
+            setActiveLink();
+            return;
+        }
+        
         const res = await fetch('./' + path);
         if (!res.ok) throw new Error(`Failed to load ${path}`);
         
@@ -27,14 +47,22 @@ async function loadPage(path) {
             layout.classList.add('hide-sidebar');
             body.classList.add('is-home-page');
             body.classList.remove('is-news-page');
+            body.classList.remove('is-upload-mod-page');
         } else if (path === 'Pages/news.html') {
             layout.classList.add('hide-sidebar');
             body.classList.remove('is-home-page');
             body.classList.add('is-news-page');
+            body.classList.remove('is-upload-mod-page');
+        } else if (path === 'Pages/upload-mod.html') {
+            layout.classList.add('hide-sidebar');
+            body.classList.remove('is-home-page');
+            body.classList.remove('is-news-page');
+            body.classList.add('is-upload-mod-page');
         } else {
             layout.classList.remove('hide-sidebar');
             body.classList.remove('is-home-page');
             body.classList.remove('is-news-page');
+            body.classList.remove('is-upload-mod-page');
         }
 
         if (path === 'Pages/news.html') {
@@ -51,6 +79,16 @@ async function loadPage(path) {
                 const carouselContainer = document.getElementById('newsCarousel');
                 if (carouselContainer) {
                     await renderNewsCarousel(carouselContainer);
+                }
+            }
+            
+            if (path === 'Pages/upload-mod.html') {
+                // Load upload-mod.js dynamically
+                if (typeof window !== 'undefined' && !document.querySelector('script[src*="upload-mod.js"]')) {
+                    const script = document.createElement('script');
+                    script.type = 'module';
+                    script.src = 'js/upload-mod.js';
+                    document.head.appendChild(script);
                 }
             }
         }
