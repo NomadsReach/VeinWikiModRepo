@@ -3,7 +3,7 @@
 
 let newsCache = null;
 let newsCacheTime = 0;
-const CACHE_DURATION = 600000;
+const CACHE_DURATION = 3600000;
 
 /**
  * Escapes HTML special characters to prevent XSS attacks
