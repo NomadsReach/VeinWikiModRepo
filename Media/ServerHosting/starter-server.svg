@@ -1,0 +1,41 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C63D3D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d94545;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#bgGrad)" rx="8"/>
+  
+  <!-- Server Rack -->
+  <rect x="120" y="50" width="160" height="200" fill="#252525" stroke="#C63D3D" stroke-width="2" rx="4"/>
+  
+  <!-- Server Units -->
+  <rect x="130" y="60" width="140" height="35" fill="#2a2a2a" rx="2"/>
+  <rect x="135" y="65" width="130" height="25" fill="url(#accentGrad)" rx="2" opacity="0.8"/>
+  
+  <rect x="130" y="105" width="140" height="35" fill="#2a2a2a" rx="2"/>
+  <rect x="135" y="110" width="130" height="25" fill="url(#accentGrad)" rx="2" opacity="0.6"/>
+  
+  <rect x="130" y="150" width="140" height="35" fill="#2a2a2a" rx="2"/>
+  <rect x="135" y="155" width="130" height="25" fill="url(#accentGrad)" rx="2" opacity="0.4"/>
+  
+  <!-- Status Lights -->
+  <circle cx="265" cy="77" r="4" fill="#10b981"/>
+  <circle cx="265" cy="122" r="4" fill="#10b981"/>
+  <circle cx="265" cy="167" r="4" fill="#f59e0b"/>
+  
+  <!-- Title -->
+  <text x="200" y="280" font-family="Roboto, sans-serif" font-size="24" font-weight="700" fill="#e0e0e0" text-anchor="middle">STARTER</text>
+  
+  <!-- Icon -->
+  <text x="200" y="40" font-family="Font Awesome 6 Free" font-size="32" fill="#C63D3D" text-anchor="middle">&#xf233;</text>
+</svg>
+
+

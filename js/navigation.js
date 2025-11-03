@@ -5,6 +5,8 @@ const sidebarEl = document.getElementById('sidebar');
 const NAV = [
 	{ title: 'Start Here', path: 'Pages/start-here.html', icon: 'fas fa-play-circle' },
     { title: 'Introduction to Modding', path: 'Pages/Introduction/index.html', icon: 'fas fa-book-open' },
+    { title: 'Host a Server', path: 'Pages/host-server.html', icon: 'fas fa-server' },
+    { title: 'Upload Mod', path: 'Pages/upload-mod.html', icon: 'fas fa-upload' },
     { title: 'Credits', path: 'Pages/credits.html', icon: 'fas fa-users' },
 ];
 
