@@ -42,14 +42,19 @@ body.is-home-page .layout.hide-sidebar .content{
 	padding:32px;
 	border-radius:8px;
 	backdrop-filter:blur(10px);
+	overflow-x:hidden;
+	width:100%;
+	box-sizing:border-box;
 }
 
 body.is-home-page #content,
-body.is-news-page #content{
+body.is-news-page #content,
+body.is-upload-mod-page #content{
 	background:transparent !important;
 	padding:0 !important;
 	border-radius:0 !important;
 	backdrop-filter:none !important;
+	overflow-x:hidden;
 }
 
 #page-toc{
