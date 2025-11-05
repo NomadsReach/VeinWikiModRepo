@@ -1,5 +1,7 @@
 /* jshint esversion: 11 */
 
+import { getKnowledgeBaseFiles, initKnowledgeBase } from './knowledge-base.js';
+
 const sidebarEl = document.getElementById('sidebar');
 
 const NAV = [
@@ -8,10 +10,11 @@ const NAV = [
     { title: 'Mod Manager', path: 'Pages/mod-manager.html', icon: 'fas fa-cog' },
     { title: 'Host a Server', path: 'Pages/host-server.html', icon: 'fas fa-server' },
     { title: 'Upload Mod', path: 'Pages/upload-mod.html', icon: 'fas fa-upload' },
+    { title: 'Knowledge Base', path: 'KnowledgeBase/index.html', icon: 'fas fa-database' },
     { title: 'Credits', path: 'Pages/credits.html', icon: 'fas fa-users' },
 ];
 
-export function buildSidebar() {
+export async function buildSidebar() {
     if (!sidebarEl) return;
 
     const inner = document.createElement('div');
@@ -19,6 +22,7 @@ export function buildSidebar() {
 
     const section = document.createElement('div');
     section.className = 'nav-section';
+    section.id = 'main-sections';
     const title = document.createElement('div');
     title.className = 'nav-title';
     title.textContent = 'Sections';
@@ -41,6 +45,61 @@ export function buildSidebar() {
     });
     inner.appendChild(section);
 
+    // Add Knowledge Base subsection with collapsible functionality
+    await initKnowledgeBase();
+    const kbFiles = await getKnowledgeBaseFiles();
+    if (kbFiles.length > 0) {
+        const kbSection = document.createElement('div');
+        kbSection.className = 'nav-section';
+        kbSection.id = 'kb-section';
+        
+        // Create collapsible header
+        const kbTitleWrapper = document.createElement('div');
+        kbTitleWrapper.className = 'kb-section-header';
+        kbTitleWrapper.style.cursor = 'pointer';
+        
+        const kbTitle = document.createElement('div');
+        kbTitle.className = 'nav-title';
+        kbTitle.textContent = 'Knowledge Base';
+        kbTitleWrapper.appendChild(kbTitle);
+        
+        const collapseIcon = document.createElement('i');
+        collapseIcon.className = 'fas fa-chevron-down kb-collapse-icon';
+        kbTitleWrapper.appendChild(collapseIcon);
+        
+        // Create collapsible content
+        const kbContent = document.createElement('div');
+        kbContent.className = 'kb-section-content';
+        kbContent.id = 'kb-section-content';
+        kbContent.style.display = 'block'; // Default to expanded
+        
+        kbFiles.forEach(file => {
+            const displayName = file.replace(/^\d+_/, '').replace(/\.md$/, '').replace(/_/g, ' ');
+            const a = document.createElement('a');
+            a.className = 'nav-link';
+            a.href = `#KnowledgeBase/${file}`;
+            
+            const text = document.createElement('span');
+            text.textContent = displayName;
+            a.appendChild(text);
+
+            kbContent.appendChild(a);
+        });
+        
+        // Toggle functionality
+        kbTitleWrapper.addEventListener('click', () => {
+            const isExpanded = kbContent.style.display === 'block';
+            kbContent.style.display = isExpanded ? 'none' : 'block';
+            kbTitleWrapper.classList.toggle('collapsed', !isExpanded);
+            collapseIcon.style.transform = isExpanded ? 'rotate(0deg)' : 'rotate(180deg)';
+        });
+        
+        kbSection.appendChild(kbTitleWrapper);
+        kbSection.appendChild(kbContent);
+        
+        inner.appendChild(kbSection);
+    }
+
     inner.appendChild(createDiscussionSection());
 
     inner.appendChild(createFooterSection());
@@ -55,8 +114,36 @@ export function setActiveLink() {
     while(hash.startsWith('#')) { hash = hash.slice(1); }
     const target = decodeURIComponent(hash || 'Pages/home.html');
 
+    // Check if we're on a Knowledge Base page
+    const isKBPage = target.startsWith('KnowledgeBase/');
+    const mainSections = document.getElementById('main-sections');
+    const kbSection = document.getElementById('kb-section');
+    
+    // Show/hide sections based on current page
+    if (mainSections) {
+        mainSections.style.display = isKBPage ? 'none' : 'block';
+    }
+    if (kbSection) {
+        kbSection.style.display = isKBPage ? 'block' : 'none';
+        // Expand KB section when on KB page
+        if (isKBPage) {
+            const kbContent = document.getElementById('kb-section-content');
+            const kbHeader = kbSection.querySelector('.kb-section-header');
+            if (kbContent && kbHeader) {
+                // Expand and show on KB pages
+                kbContent.style.display = 'block';
+                kbHeader.classList.remove('collapsed');
+                const collapseIcon = kbHeader.querySelector('.kb-collapse-icon');
+                if (collapseIcon) {
+                    collapseIcon.style.transform = 'rotate(180deg)';
+                }
+            }
+        }
+    }
+
     sidebarEl.querySelectorAll('.nav-link').forEach(link => {
         const linkTarget = link.getAttribute('href').slice(1);
+        // Match exact path
         if (linkTarget === target) {
             link.classList.add('active');
         } else {

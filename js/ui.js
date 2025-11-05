@@ -342,3 +342,38 @@ function showEasterEggNotification() {
         }, 500);
     }, 4000);
 }
+
+/**
+ * Initialize Knowledge Base dropdown in header navigation
+ */
+export async function initKBDropdown() {
+    const kbDropdownItems = document.getElementById('kbDropdownItems');
+    if (!kbDropdownItems) return;
+    
+    try {
+        const { getKnowledgeBaseFiles, initKnowledgeBase } = await import('./knowledge-base.js');
+        await initKnowledgeBase();
+        const files = await getKnowledgeBaseFiles();
+        
+        // Filter out master index and sort
+        const sortedFiles = files
+            .filter(file => file !== '00_MASTER_INDEX.md')
+            .sort((a, b) => {
+                const numA = parseInt(a.match(/^(\d+)_/)?.[1] || '999');
+                const numB = parseInt(b.match(/^(\d+)_/)?.[1] || '999');
+                return numA - numB;
+            });
+        
+        // Create dropdown items
+        sortedFiles.forEach(file => {
+            const displayName = file.replace(/^\d+_/, '').replace(/\.md$/, '').replace(/_/g, ' ');
+            const item = document.createElement('a');
+            item.href = `#KnowledgeBase/${file}`;
+            item.className = 'dropdown-item';
+            item.innerHTML = `<i class="fas fa-file-alt"></i><span>${displayName}</span>`;
+            kbDropdownItems.appendChild(item);
+        });
+    } catch (err) {
+        console.error('Error initializing KB dropdown:', err);
+    }
+}

@@ -45,9 +45,29 @@
 		<a href="#Pages/news.html" class="header-nav-link">
 			<i class="fas fa-newspaper"></i><span>NEWS</span>
 		</a>
+			<div class="header-nav-dropdown">
 		<a href="#Pages/start-here.html" class="header-nav-link">
 			<i class="fas fa-book"></i><span>WIKI</span>
+			<i class="fas fa-chevron-down dropdown-arrow"></i>
 		</a>
+		<div class="header-dropdown-menu" id="wikiDropdown">
+			<a href="#Pages/start-here.html" class="dropdown-item">
+				<i class="fas fa-play-circle"></i>
+				<span>Start Here</span>
+			</a>
+			<a href="#Pages/Introduction/index.html" class="dropdown-item">
+				<i class="fas fa-book-open"></i>
+				<span>Introduction to Modding</span>
+			</a>
+			<div class="dropdown-divider"></div>
+			<div class="dropdown-section-header">Knowledge Base</div>
+			<a href="#KnowledgeBase/index.html" class="dropdown-item">
+				<i class="fas fa-database"></i>
+				<span>Knowledge Base Index</span>
+			</a>
+			<div id="kbDropdownItems"></div>
+		</div>
+	</div>
 		<a href="#Pages/mod-showcase.html" class="header-nav-link">
 			<i class="fas fa-star"></i><span>MOD SHOWCASE</span>
 		</a>
