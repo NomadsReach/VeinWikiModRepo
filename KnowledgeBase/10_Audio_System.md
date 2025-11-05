@@ -14,1624 +14,1624 @@ VEIN's audio system provides immersive soundscapes, effects, and music.
 
 | Audio Asset | Path | Source |
 |-------------|------|--------|
-| AR_Bullet_Insert_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Bullet_Insert_3.json | ExportedJson |
-| AR_Bullet_Insert_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Bullet_Insert_4.json | ExportedJson |
-| AR_Single_Shot | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle\AR_Single_Shot.json | ExportedJson |
-| AR_Single_Shot | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot.json | ExportedJson |
-| AR_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot_2.json | ExportedJson |
-| AR_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_03\AR_Single_Shot_2.json | ExportedJson |
-| AR_Single_Shot_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot_3.json | ExportedJson |
-| AR_Single_Shot__Suppressed_ | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot__Suppressed_.json | ExportedJson |
-| AR_Single_Shot__Suppressed__2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot__Suppressed__2.json | ExportedJson |
-| AR_Single_Shot__Suppressed__2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_03\AR_Single_Shot__Suppressed__2.json | ExportedJson |
-| AR_Single_Shot__Suppressed__3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot__Suppressed__3.json | ExportedJson |
-| ATT_Soundscape | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\ATT_Soundscape.json | ExportedJson |
-| ATT_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\ATT_VOIP.json | ExportedJson |
-| ATT_VOIP_Radio | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\ATT_VOIP_Radio.json | ExportedJson |
-| ATT_Zombie | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\ATT_Zombie.json | ExportedJson |
-| A_BagZombie1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie1.json | ExportedJson |
-| A_BagZombie2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie2.json | ExportedJson |
-| A_BagZombie3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie3.json | ExportedJson |
-| A_BagZombie4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie4.json | ExportedJson |
-| A_BagZombie5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie5.json | ExportedJson |
-| A_BagZombie6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie6.json | ExportedJson |
-| A_BagZombie7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie7.json | ExportedJson |
-| A_River_Loop2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\A_River_Loop2.json | ExportedJson |
-| A_Wind1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\A_Wind1.json | ExportedJson |
-| Ambiance_Cave_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_Pro\Wavs\Ambiance_Cave_01.json | ExportedJson |
-| Ambiance_Swamp_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_Pro\Wavs\Ambiance_Swamp_01.json | ExportedJson |
-| Ambience_Horror_Bloody | pakchunk29-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Horror_Ambiances_HD_Remake\Wavs\Ambience_Horror_Bloody.json | ExportedJson |
-| Ambience_Horror_Simple | pakchunk29-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Horror_Ambiances_HD_Remake\Wavs\Ambience_Horror_Simple.json | ExportedJson |
-| Applying_Bandage_to_wound | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Applying_Bandage_to_wound.json | ExportedJson |
-| Applying_Bandage_to_wound_Cue | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Cues\Applying_Bandage_to_wound_Cue.json | ExportedJson |
-| Arm_Swing__Whoosh_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_1.json | ExportedJson |
-| Arm_Swing__Whoosh_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_10.json | ExportedJson |
-| Arm_Swing__Whoosh_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_11.json | ExportedJson |
-| Arm_Swing__Whoosh_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_12.json | ExportedJson |
-| Arm_Swing__Whoosh_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_13.json | ExportedJson |
-| Arm_Swing__Whoosh_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_14.json | ExportedJson |
-| Arm_Swing__Whoosh_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_15.json | ExportedJson |
-| Arm_Swing__Whoosh_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_16.json | ExportedJson |
-| Arm_Swing__Whoosh_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_17.json | ExportedJson |
-| Arm_Swing__Whoosh_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_18.json | ExportedJson |
-| Arm_Swing__Whoosh_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_19.json | ExportedJson |
-| Arm_Swing__Whoosh_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_2.json | ExportedJson |
-| Arm_Swing__Whoosh_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_20.json | ExportedJson |
-| Arm_Swing__Whoosh_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_21.json | ExportedJson |
-| Arm_Swing__Whoosh_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_22.json | ExportedJson |
-| Arm_Swing__Whoosh_23 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_23.json | ExportedJson |
-| Arm_Swing__Whoosh_24 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_24.json | ExportedJson |
-| Arm_Swing__Whoosh_25 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_25.json | ExportedJson |
-| Arm_Swing__Whoosh_26 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_26.json | ExportedJson |
-| Arm_Swing__Whoosh_27 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_27.json | ExportedJson |
-| Arm_Swing__Whoosh_28 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_28.json | ExportedJson |
-| Arm_Swing__Whoosh_29 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_29.json | ExportedJson |
-| Arm_Swing__Whoosh_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_3.json | ExportedJson |
-| Arm_Swing__Whoosh_30 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_30.json | ExportedJson |
-| Arm_Swing__Whoosh_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_4.json | ExportedJson |
-| Arm_Swing__Whoosh_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_5.json | ExportedJson |
-| Arm_Swing__Whoosh_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_6.json | ExportedJson |
-| Arm_Swing__Whoosh_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_7.json | ExportedJson |
-| Arm_Swing__Whoosh_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_8.json | ExportedJson |
-| Arm_Swing__Whoosh_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_9.json | ExportedJson |
-| Armor_Break_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gun_Sounds_Pro_HD_Remake\Wavs\Armor_Break_4.json | ExportedJson |
-| Arrow_Hit_Wood_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_01.json | ExportedJson |
-| Arrow_Hit_Wood_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_02.json | ExportedJson |
-| Arrow_Hit_Wood_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_03.json | ExportedJson |
-| Arrow_Hit_Wood_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_04.json | ExportedJson |
-| Arrow_Hit_Wood_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_05.json | ExportedJson |
-| Arrow_Impact_dirt_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_1.json | ExportedJson |
-| Arrow_Impact_dirt_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_2.json | ExportedJson |
-| Arrow_Impact_dirt_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_3.json | ExportedJson |
-| Arrow_Impact_dirt_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_4.json | ExportedJson |
-| Arrow_Impact_dirt_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_5.json | ExportedJson |
-| Auditorium | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\Auditorium.json | ExportedJson |
-| Barf_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_1.json | ExportedJson |
-| Barf_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_2.json | ExportedJson |
-| Barf_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_3.json | ExportedJson |
-| Barf_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_4.json | ExportedJson |
-| Barf_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_5.json | ExportedJson |
-| Barf_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_6.json | ExportedJson |
-| Barf_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_7.json | ExportedJson |
-| Barf_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_8.json | ExportedJson |
-| Basement07_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement07_loop.json | ExportedJson |
-| Basement09_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement09_loop.json | ExportedJson |
-| Basement14_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement14_loop.json | ExportedJson |
-| Basement19_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement19_loop.json | ExportedJson |
-| Blacksmith_hitting_hammer | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer.json | ExportedJson |
-| Blacksmith_hitting_hammer | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer.json | ExportedJson |
-| Blacksmith_hitting_hammer_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_10.json | ExportedJson |
-| Blacksmith_hitting_hammer_10 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_10.json | ExportedJson |
-| Blacksmith_hitting_hammer_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_11.json | ExportedJson |
-| Blacksmith_hitting_hammer_11 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_11.json | ExportedJson |
-| Blacksmith_hitting_hammer_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_12.json | ExportedJson |
-| Blacksmith_hitting_hammer_12 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_12.json | ExportedJson |
-| Blacksmith_hitting_hammer_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_2.json | ExportedJson |
-| Blacksmith_hitting_hammer_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_2.json | ExportedJson |
-| Blacksmith_hitting_hammer_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_3.json | ExportedJson |
-| Blacksmith_hitting_hammer_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_3.json | ExportedJson |
-| Blacksmith_hitting_hammer_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_4.json | ExportedJson |
-| Blacksmith_hitting_hammer_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_4.json | ExportedJson |
-| Blacksmith_hitting_hammer_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_5.json | ExportedJson |
-| Blacksmith_hitting_hammer_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_5.json | ExportedJson |
-| Blacksmith_hitting_hammer_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_6.json | ExportedJson |
-| Blacksmith_hitting_hammer_6 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_6.json | ExportedJson |
-| Blacksmith_hitting_hammer_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_7.json | ExportedJson |
-| Blacksmith_hitting_hammer_7 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_7.json | ExportedJson |
-| Blacksmith_hitting_hammer_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_8.json | ExportedJson |
-| Blacksmith_hitting_hammer_8 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_8.json | ExportedJson |
-| Blacksmith_hitting_hammer_9 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_9.json | ExportedJson |
-| Blacksmith_hitting_hammer_9 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_9.json | ExportedJson |
-| Bloody_Axe_Impact_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_Axe_Impact\Bloody_Axe_Impact_5.json | ExportedJson |
-| Bloody_Axe_Impact_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_Axe_Impact\Bloody_Axe_Impact_6.json | ExportedJson |
-| Bloody_punches_1 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_1.json | ExportedJson |
-| Bloody_punches_10 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_10.json | ExportedJson |
-| Bloody_punches_2 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_2.json | ExportedJson |
-| Bloody_punches_3 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_3.json | ExportedJson |
-| Bloody_punches_4 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_4.json | ExportedJson |
-| Bloody_punches_5 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_5.json | ExportedJson |
-| Bloody_punches_6 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_6.json | ExportedJson |
-| Bloody_punches_7 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_7.json | ExportedJson |
-| Bloody_punches_8 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_8.json | ExportedJson |
-| Bloody_punches_9 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_9.json | ExportedJson |
-| Bloody_stabs_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_1.json | ExportedJson |
-| Bloody_stabs_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_10.json | ExportedJson |
-| Bloody_stabs_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_2.json | ExportedJson |
-| Bloody_stabs_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_3.json | ExportedJson |
-| Bloody_stabs_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_4.json | ExportedJson |
-| Bloody_stabs_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_5.json | ExportedJson |
-| Bloody_stabs_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_6.json | ExportedJson |
-| Bloody_stabs_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_7.json | ExportedJson |
-| Bloody_stabs_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_8.json | ExportedJson |
-| Bloody_stabs_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_9.json | ExportedJson |
-| Blow_Torch_Stop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop.json | ExportedJson |
-| Blow_Torch_Stop_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_2.json | ExportedJson |
-| Blow_Torch_Stop_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_3.json | ExportedJson |
-| Blow_Torch_Stop_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_4.json | ExportedJson |
-| Blow_Torch_Stop_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_5.json | ExportedJson |
-| Blow_Torch_Stop_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_6.json | ExportedJson |
-| Body_Flesh_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_1.json | ExportedJson |
-| Body_Flesh_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_1.json | ExportedJson |
-| Body_Flesh_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_10.json | ExportedJson |
-| Body_Flesh_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_10.json | ExportedJson |
-| Body_Flesh_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_2.json | ExportedJson |
-| Body_Flesh_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_2.json | ExportedJson |
-| Body_Flesh_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_3.json | ExportedJson |
-| Body_Flesh_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_3.json | ExportedJson |
-| Body_Flesh_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_4.json | ExportedJson |
-| Body_Flesh_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_4.json | ExportedJson |
-| Body_Flesh_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_5.json | ExportedJson |
-| Body_Flesh_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_5.json | ExportedJson |
-| Body_Flesh_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_6.json | ExportedJson |
-| Body_Flesh_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_6.json | ExportedJson |
-| Body_Flesh_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_7.json | ExportedJson |
-| Body_Flesh_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_7.json | ExportedJson |
-| Body_Flesh_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_8.json | ExportedJson |
-| Body_Flesh_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_8.json | ExportedJson |
-| Body_Flesh_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_9.json | ExportedJson |
-| Body_Flesh_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_9.json | ExportedJson |
-| Body_armor_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_1.json | ExportedJson |
-| Body_armor_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_10.json | ExportedJson |
-| Body_armor_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_2.json | ExportedJson |
-| Body_armor_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_3.json | ExportedJson |
-| Body_armor_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_4.json | ExportedJson |
-| Body_armor_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_5.json | ExportedJson |
-| Body_armor_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_6.json | ExportedJson |
-| Body_armor_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_7.json | ExportedJson |
-| Body_armor_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_8.json | ExportedJson |
-| Body_armor_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_9.json | ExportedJson |
-| Build_Loop_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Loop_02.json | ExportedJson |
-| Build_Water_1_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_1.json | ExportedJson |
-| Build_Water_1_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_2.json | ExportedJson |
-| Build_Water_1_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_3.json | ExportedJson |
-| Build_Water_1_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_4.json | ExportedJson |
-| Build_Water_1_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_5.json | ExportedJson |
-| Car_Brake_Screech | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech.json | ExportedJson |
-| Car_Brake_Screech_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech_2.json | ExportedJson |
-| Car_Brake_Screech_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech_3.json | ExportedJson |
-| Car_Brake_Screech_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech_4.json | ExportedJson |
-| Car_Engine_Start_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Car_Engine_Start_2.json | ExportedJson |
-| Car_Engine_Start_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Engine_Start_8.json | ExportedJson |
-| Car_Impact_Concrete | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete.json | ExportedJson |
-| Car_Impact_Concrete_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_1.json | ExportedJson |
-| Car_Impact_Concrete_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_2.json | ExportedJson |
-| Car_Impact_Concrete_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_3.json | ExportedJson |
-| Car_Impact_Concrete_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_4.json | ExportedJson |
-| Car_alarm | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Car_alarm.json | ExportedJson |
-| Cash_register_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Cash_register_3.json | ExportedJson |
-| Cash_register_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Cash_register_4.json | ExportedJson |
-| Cash_register_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Cash_register_5.json | ExportedJson |
-| Cave | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\Cave.json | ExportedJson |
-| Chest_Open_Creak_2_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Chest_Open_Creak_2_1.json | ExportedJson |
-| Chest_Open_Creak_2_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Chest_Open_Creak_2_2.json | ExportedJson |
-| Click_sound_34 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Click_sound_34.json | ExportedJson |
-| Clicks_Sound__button_hover__1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__1.json | ExportedJson |
-| Clicks_Sound__button_hover__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__2.json | ExportedJson |
-| Clicks_Sound__button_hover__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__3.json | ExportedJson |
-| Clicks_Sound__button_hover__5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__5.json | ExportedJson |
-| Clicks_Sound__button_hover__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__6.json | ExportedJson |
-| Clicks_Sound__button_hover__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__9.json | ExportedJson |
-| Closing_Door_1 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Closing_Door_1.json | ExportedJson |
-| Closing_Door_3 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Closing_Door_3.json | ExportedJson |
-| Closing_Locker_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Locker_4.json | ExportedJson |
-| Closing_Zipper | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper.json | ExportedJson |
-| Closing_Zipper_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_2.json | ExportedJson |
-| Closing_Zipper_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_3.json | ExportedJson |
-| Closing_Zipper_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_4.json | ExportedJson |
-| Closing_Zipper_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_5.json | ExportedJson |
-| Cloth_item_ripped | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped.json | ExportedJson |
-| Cloth_item_ripped_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_2.json | ExportedJson |
-| Cloth_item_ripped_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_3.json | ExportedJson |
-| Cloth_item_ripped_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_4.json | ExportedJson |
-| Cloth_item_ripped_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_5.json | ExportedJson |
-| Cloth_item_ripped_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_6.json | ExportedJson |
-| Cloth_item_ripped_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_7.json | ExportedJson |
-| Cloth_item_ripped_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_8.json | ExportedJson |
-| Collision_Hit_01 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Collision_Hit_01.json | ExportedJson |
-| Collision_Hit_02 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Collision_Hit_02.json | ExportedJson |
-| Concrete_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_1.json | ExportedJson |
-| Concrete_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_2.json | ExportedJson |
-| Concrete_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_3.json | ExportedJson |
-| Concrete_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_4.json | ExportedJson |
-| Concrete_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_5.json | ExportedJson |
-| Concrete_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_6.json | ExportedJson |
-| Concrete_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_7.json | ExportedJson |
-| Concrete_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_8.json | ExportedJson |
-| Crafting_Cloth_item | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item.json | ExportedJson |
-| Crafting_Cloth_item_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_2.json | ExportedJson |
-| Crafting_Cloth_item_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_3.json | ExportedJson |
-| Crafting_Cloth_item_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_4.json | ExportedJson |
-| Crafting_Cloth_item_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_5.json | ExportedJson |
-| Crafting_Cloth_item_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_6.json | ExportedJson |
-| Crafting_Metallic_item | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item.json | ExportedJson |
-| Crafting_Metallic_item_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_2.json | ExportedJson |
-| Crafting_Metallic_item_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_3.json | ExportedJson |
-| Crafting_Metallic_item_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_4.json | ExportedJson |
-| Crafting_Metallic_item_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_5.json | ExportedJson |
-| Crafting_Wooden_item | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item.json | ExportedJson |
-| Crafting_Wooden_item | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item.json | ExportedJson |
-| Crafting_Wooden_item | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item.json | ExportedJson |
-| Crafting_Wooden_item_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_2.json | ExportedJson |
-| Crafting_Wooden_item_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_2.json | ExportedJson |
-| Crafting_Wooden_item_2 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_2.json | ExportedJson |
-| Crafting_Wooden_item_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_3.json | ExportedJson |
-| Crafting_Wooden_item_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_3.json | ExportedJson |
-| Crafting_Wooden_item_3 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_3.json | ExportedJson |
-| Crafting_Wooden_item_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_4.json | ExportedJson |
-| Crafting_Wooden_item_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_4.json | ExportedJson |
-| Crafting_Wooden_item_4 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_4.json | ExportedJson |
-| Crafting_Wooden_item_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_5.json | ExportedJson |
-| Crafting_Wooden_item_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_5.json | ExportedJson |
-| Crafting_Wooden_item_5 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_5.json | ExportedJson |
-| Crafting_Wooden_item_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_6.json | ExportedJson |
-| Crafting_Wooden_item_6 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_6.json | ExportedJson |
-| Crafting_Wooden_item_6 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_6.json | ExportedJson |
-| Cutting_on_cutting_board_6 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cutting_on_cutting_board_6.json | ExportedJson |
-| Dark04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark04.json | ExportedJson |
-| Dark05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark05.json | ExportedJson |
-| Dark08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark08.json | ExportedJson |
-| Dark09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark09.json | ExportedJson |
-| Death_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_1.json | ExportedJson |
-| Death_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_10.json | ExportedJson |
-| Death_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_11.json | ExportedJson |
-| Death_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_12.json | ExportedJson |
-| Death_13 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_13.json | ExportedJson |
-| Death_14 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_14.json | ExportedJson |
-| Death_15 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_15.json | ExportedJson |
-| Death_16 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_16.json | ExportedJson |
-| Death_17 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_17.json | ExportedJson |
-| Death_18 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_18.json | ExportedJson |
-| Death_19 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_19.json | ExportedJson |
-| Death_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_2.json | ExportedJson |
-| Death_20 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_20.json | ExportedJson |
-| Death_21 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_21.json | ExportedJson |
-| Death_22 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_22.json | ExportedJson |
-| Death_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_3.json | ExportedJson |
-| Death_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_4.json | ExportedJson |
-| Death_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_5.json | ExportedJson |
-| Death_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_6.json | ExportedJson |
-| Death_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_7.json | ExportedJson |
-| Death_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_8.json | ExportedJson |
-| Death_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_9.json | ExportedJson |
-| Dirt_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_1.json | ExportedJson |
-| Dirt_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_2.json | ExportedJson |
-| Dirt_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_3.json | ExportedJson |
-| Dirt_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_4.json | ExportedJson |
-| Dirt_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_5.json | ExportedJson |
-| Dirt_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_6.json | ExportedJson |
-| Dirt_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_7.json | ExportedJson |
-| Dirt_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_8.json | ExportedJson |
-| Diving_In_Sound_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_1.json | ExportedJson |
-| Diving_In_Sound_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_10.json | ExportedJson |
-| Diving_In_Sound_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_2.json | ExportedJson |
-| Diving_In_Sound_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_3.json | ExportedJson |
-| Diving_In_Sound_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_4.json | ExportedJson |
-| Diving_In_Sound_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_5.json | ExportedJson |
-| Diving_In_Sound_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_6.json | ExportedJson |
-| Diving_In_Sound_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_7.json | ExportedJson |
-| Diving_In_Sound_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_8.json | ExportedJson |
-| Diving_In_Sound_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_9.json | ExportedJson |
-| Diving_Out_Sound_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_1.json | ExportedJson |
-| Diving_Out_Sound_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_10.json | ExportedJson |
-| Diving_Out_Sound_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_2.json | ExportedJson |
-| Diving_Out_Sound_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_3.json | ExportedJson |
-| Diving_Out_Sound_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_4.json | ExportedJson |
-| Diving_Out_Sound_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_5.json | ExportedJson |
-| Diving_Out_Sound_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_6.json | ExportedJson |
-| Diving_Out_Sound_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_7.json | ExportedJson |
-| Diving_Out_Sound_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_8.json | ExportedJson |
-| Diving_Out_Sound_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_9.json | ExportedJson |
-| Door_Close_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Door_Close_4.json | ExportedJson |
-| Drop_Item_From_ContentBrowser | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Drop_Item_From_ContentBrowser.json | ExportedJson |
-| Duck_Normal_Attack_MixMod | pakchunk0-Windows\Engine\Content\EngineSounds\Duck_Normal_Attack_MixMod.json | ExportedJson |
-| ElevatorMovement | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ShoppingMall\Meshes\Elevator\Sound\ElevatorMovement.json | ExportedJson |
-| Explosion_03_With_Echo_Enhancement | pakchunk32-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\With_Echo\Object_Destruction\Explosion_03_With_Echo_Enhancement.json | ExportedJson |
-| Explosion_Gas_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Explosion_Sounds_Pro_HD_Remake\Wavs\Explosion_Gas_1.json | ExportedJson |
-| Explosion_Gas_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Explosion_Sounds_Pro_HD_Remake\Wavs\Explosion_Gas_2.json | ExportedJson |
-| Explosion_General_Fast_Small_Distorted-01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-01.json | ExportedJson |
-| Explosion_General_Fast_Small_Distorted-02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-02.json | ExportedJson |
-| Explosion_General_Fast_Small_Distorted-03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-03.json | ExportedJson |
-| Explosion_General_Fast_Small_Distorted-04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-04.json | ExportedJson |
-| Explosion_General_Slow_Small_Distorted-01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-01.json | ExportedJson |
-| Explosion_General_Slow_Small_Distorted-02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-02.json | ExportedJson |
-| Explosion_General_Slow_Small_Distorted-03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-03.json | ExportedJson |
-| Explosion_General_Slow_Small_Distorted-04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-04.json | ExportedJson |
-| Fire_Explosion_06_With_Echo_Enhancement | pakchunk32-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\With_Echo\Object_Destruction\Fire_Explosion_06_With_Echo_Enhancement.json | ExportedJson |
-| Flare_Gun_Single_Shot_Short | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Flare_Gun\Flare_Gun_Single_Shot_Short.json | ExportedJson |
-| Footsteps_Bush__Running_ | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running_.json | ExportedJson |
-| Footsteps_Bush__Running__10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__10.json | ExportedJson |
-| Footsteps_Bush__Running__11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__11.json | ExportedJson |
-| Footsteps_Bush__Running__12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__12.json | ExportedJson |
-| Footsteps_Bush__Running__13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__13.json | ExportedJson |
-| Footsteps_Bush__Running__14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__14.json | ExportedJson |
-| Footsteps_Bush__Running__15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__15.json | ExportedJson |
-| Footsteps_Bush__Running__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__2.json | ExportedJson |
-| Footsteps_Bush__Running__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__3.json | ExportedJson |
-| Footsteps_Bush__Running__4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__4.json | ExportedJson |
-| Footsteps_Bush__Running__5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__5.json | ExportedJson |
-| Footsteps_Bush__Running__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__6.json | ExportedJson |
-| Footsteps_Bush__Running__7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__7.json | ExportedJson |
-| Footsteps_Bush__Running__8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__8.json | ExportedJson |
-| Footsteps_Bush__Running__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__9.json | ExportedJson |
-| Forest_Night_Time | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Forest_Night_Time.json | ExportedJson |
-| Gear_Wood_1 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_1.json | ExportedJson |
-| Gear_Wood_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_2.json | ExportedJson |
-| Gear_Wood_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_3.json | ExportedJson |
-| Gear_Wood_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_4.json | ExportedJson |
-| Gear_Wood_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_5.json | ExportedJson |
-| General_Fire_Loop_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\General_Fire_Loop_8.json | ExportedJson |
-| Ghost_Attack_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_02.json | ExportedJson |
-| Ghost_Attack_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_03.json | ExportedJson |
-| Ghost_Attack_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_05.json | ExportedJson |
-| Ghost_Attack_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_06.json | ExportedJson |
-| Ghost_Attack_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_07.json | ExportedJson |
-| Ghost_Attack_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_08.json | ExportedJson |
-| Ghost_Attack_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_09.json | ExportedJson |
-| Ghost_Attack_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_10.json | ExportedJson |
-| Ghost_Attack_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_11.json | ExportedJson |
-| Ghost_Attack_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_12.json | ExportedJson |
-| Ghost_Death_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_01.json | ExportedJson |
-| Ghost_Death_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_02.json | ExportedJson |
-| Ghost_Death_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_03.json | ExportedJson |
-| Ghost_Death_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_04.json | ExportedJson |
-| Ghost_Death_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_05.json | ExportedJson |
-| Ghost_attack_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_attack_04.json | ExportedJson |
-| Gizmo_Handle_Clicked | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Gizmo_Handle_Clicked.json | ExportedJson |
-| Glass_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_1.json | ExportedJson |
-| Glass_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_2.json | ExportedJson |
-| Glass_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_3.json | ExportedJson |
-| Glass_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_4.json | ExportedJson |
-| Glass_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_5.json | ExportedJson |
-| Glass_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_6.json | ExportedJson |
-| Glass_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_7.json | ExportedJson |
-| Glass_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_8.json | ExportedJson |
-| Glass_breaking | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking.json | ExportedJson |
-| Glass_breaking_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_2.json | ExportedJson |
-| Glass_breaking_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_3.json | ExportedJson |
-| Glass_breaking_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_4.json | ExportedJson |
-| Glass_breaking_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_5.json | ExportedJson |
-| Glass_breaking_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_6.json | ExportedJson |
-| Glass_breaking_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_7.json | ExportedJson |
-| Glass_breaking_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_8.json | ExportedJson |
-| Glass_close_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_1.json | ExportedJson |
-| Glass_close_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_2.json | ExportedJson |
-| Glass_close_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_3.json | ExportedJson |
-| Glass_close_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_4.json | ExportedJson |
-| Glass_close_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_5.json | ExportedJson |
-| Glass_close_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_6.json | ExportedJson |
-| Glass_close_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_7.json | ExportedJson |
-| Glass_close_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_8.json | ExportedJson |
-| Gravel_Footsteps_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_1.json | ExportedJson |
-| Gravel_Footsteps_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_10.json | ExportedJson |
-| Gravel_Footsteps_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_11.json | ExportedJson |
-| Gravel_Footsteps_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_12.json | ExportedJson |
-| Gravel_Footsteps_13 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_13.json | ExportedJson |
-| Gravel_Footsteps_14 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_14.json | ExportedJson |
-| Gravel_Footsteps_15 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_15.json | ExportedJson |
-| Gravel_Footsteps_16 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_16.json | ExportedJson |
-| Gravel_Footsteps_17 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_17.json | ExportedJson |
-| Gravel_Footsteps_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_18.json | ExportedJson |
-| Gravel_Footsteps_19 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_19.json | ExportedJson |
-| Gravel_Footsteps_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_2.json | ExportedJson |
-| Gravel_Footsteps_20 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_20.json | ExportedJson |
-| Gravel_Footsteps_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_3.json | ExportedJson |
-| Gravel_Footsteps_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_4.json | ExportedJson |
-| Gravel_Footsteps_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_5.json | ExportedJson |
-| Gravel_Footsteps_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_6.json | ExportedJson |
-| Gravel_Footsteps_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_7.json | ExportedJson |
-| Gravel_Footsteps_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_8.json | ExportedJson |
-| Gravel_Footsteps_9 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_9.json | ExportedJson |
-| Hallway | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\Hallway.json | ExportedJson |
-| Head_exploding_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Head_exploding\Head_exploding_1.json | ExportedJson |
-| Head_exploding_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Head_exploding\Head_exploding_4.json | ExportedJson |
-| Head_shot_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_1.json | ExportedJson |
-| Head_shot_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_2.json | ExportedJson |
-| Head_shot_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_3.json | ExportedJson |
-| Head_shot_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_4.json | ExportedJson |
-| Head_shot_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_5.json | ExportedJson |
-| Idle_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_1.json | ExportedJson |
-| Idle_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_10.json | ExportedJson |
-| Idle_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_11.json | ExportedJson |
-| Idle_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_12.json | ExportedJson |
-| Idle_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_2.json | ExportedJson |
-| Idle_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_3.json | ExportedJson |
-| Idle_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_4.json | ExportedJson |
-| Idle_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_5.json | ExportedJson |
-| Idle_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_6.json | ExportedJson |
-| Idle_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_7.json | ExportedJson |
-| Idle_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_8.json | ExportedJson |
-| Idle_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_9.json | ExportedJson |
-| Impact_Hit_Bone_Muscle_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_01.json | ExportedJson |
-| Impact_Hit_Bone_Muscle_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_02.json | ExportedJson |
-| Impact_Hit_Bone_Muscle_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_03.json | ExportedJson |
-| Impact_Hit_Bone_Muscle_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_04.json | ExportedJson |
-| Impact_Hit_Bone_Muscle_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_05.json | ExportedJson |
-| Impact_Sword_To_Body_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_01.json | ExportedJson |
-| Impact_Sword_To_Body_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_02.json | ExportedJson |
-| Impact_Sword_To_Body_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_03.json | ExportedJson |
-| Impact_Sword_To_Body_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_04.json | ExportedJson |
-| Impact_Sword_To_Body_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_05.json | ExportedJson |
-| Impact_Sword_To_Shield_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_01.json | ExportedJson |
-| Impact_Sword_To_Shield_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_02.json | ExportedJson |
-| Impact_Sword_To_Shield_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_03.json | ExportedJson |
-| Impact_Sword_To_Shield_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_04.json | ExportedJson |
-| Impact_Sword_To_Shield_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_05.json | ExportedJson |
-| Knife_Stab_Without_Flesh_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_01.json | ExportedJson |
-| Knife_Stab_Without_Flesh_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_02.json | ExportedJson |
-| Knife_Stab_Without_Flesh_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_03.json | ExportedJson |
-| Knife_Stab_Without_Flesh_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_04.json | ExportedJson |
-| Knife_Stab_Without_Flesh_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_05.json | ExportedJson |
-| LargeHall | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\LargeHall.json | ExportedJson |
-| LargeRoom | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\LargeRoom.json | ExportedJson |
-| Light_Rain | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Light_Rain.json | ExportedJson |
-| Lighter_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Lighter_4.json | ExportedJson |
-| Lighter_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Lighter_5.json | ExportedJson |
-| Lion_attacks_bites | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites.json | ExportedJson |
-| Lion_attacks_bites_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_1.json | ExportedJson |
-| Lion_attacks_bites_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_2.json | ExportedJson |
-| Lion_attacks_bites_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_3.json | ExportedJson |
-| Lion_attacks_bites_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_4.json | ExportedJson |
-| Locker_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_1.json | ExportedJson |
-| Locker_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_10.json | ExportedJson |
-| Locker_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_2.json | ExportedJson |
-| Locker_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_3.json | ExportedJson |
-| Locker_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_4.json | ExportedJson |
-| Locker_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_5.json | ExportedJson |
-| Locker_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_6.json | ExportedJson |
-| Locker_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_7.json | ExportedJson |
-| Locker_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_8.json | ExportedJson |
-| Locker_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_9.json | ExportedJson |
-| M16_Single_Shot_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\M16_AR\M16_Single_Shot_7.json | ExportedJson |
-| MS_S_AbandonedFactory | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_AbandonedFactory.json | ExportedJson |
-| MS_S_AbandonedFactory_Hall | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_AbandonedFactory_Hall.json | ExportedJson |
-| MS_S_Auditorium | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Auditorium.json | ExportedJson |
-| MS_S_Brook | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Brook.json | ExportedJson |
-| MS_S_Cave | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Cave.json | ExportedJson |
-| MS_S_Cave_LyonMountainNoises | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Cave_LyonMountainNoises.json | ExportedJson |
-| MS_S_DannemoraPrison | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_DannemoraPrison.json | ExportedJson |
-| MS_S_DefaultRoom | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_DefaultRoom.json | ExportedJson |
-| MS_S_Lake | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Lake.json | ExportedJson |
-| MS_S_LakeSide | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_LakeSide.json | ExportedJson |
-| MS_S_Nature_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Nature_1.json | ExportedJson |
-| MS_S_Pond | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Pond.json | ExportedJson |
-| MS_S_River | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_River.json | ExportedJson |
-| MS_S_RiverSide | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_RiverSide.json | ExportedJson |
-| MS_S_Swamp | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Swamp.json | ExportedJson |
-| MS_S_Warehouse1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Warehouse1.json | ExportedJson |
-| MS_S_Warehouse2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Warehouse2.json | ExportedJson |
-| MS_S_Warehouse3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Warehouse3.json | ExportedJson |
-| Master | pakchunk0-Windows\Engine\Content\EngineSounds\Master.json | ExportedJson |
-| Master | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\Master.json | ExportedJson |
-| MasterEQEffectPreset | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterEQEffectPreset.json | ExportedJson |
-| MasterEQSubmixDefault | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterEQSubmixDefault.json | ExportedJson |
-| MasterReverbEffectPreset | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterReverbEffectPreset.json | ExportedJson |
-| MasterReverbSubmixDefault | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterReverbSubmixDefault.json | ExportedJson |
-| MasterSubmixDefault | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterSubmixDefault.json | ExportedJson |
-| Meat_sizzling_on_frying_pan | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Meat_sizzling_on_frying_pan.json | ExportedJson |
-| MediumRoom | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\MediumRoom.json | ExportedJson |
-| Metal_Heavy_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_1.json | ExportedJson |
-| Metal_Heavy_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_2.json | ExportedJson |
-| Metal_Heavy_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_3.json | ExportedJson |
-| Metal_Heavy_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_4.json | ExportedJson |
-| Metal_Heavy_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_5.json | ExportedJson |
-| Metal_Heavy_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_6.json | ExportedJson |
-| Metal_Heavy_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_7.json | ExportedJson |
-| Metal_Heavy_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_8.json | ExportedJson |
-| Metal_hard_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_1.json | ExportedJson |
-| Metal_hard_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_2.json | ExportedJson |
-| Metal_hard_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_3.json | ExportedJson |
-| Metal_hard_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_5.json | ExportedJson |
-| Metal_hard_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_6.json | ExportedJson |
-| Metal_hard_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_7.json | ExportedJson |
-| Metal_hard_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_8.json | ExportedJson |
-| Mud_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_1.json | ExportedJson |
-| Mud_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_2.json | ExportedJson |
-| Mud_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_3.json | ExportedJson |
-| Mud_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_4.json | ExportedJson |
-| Mud_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_5.json | ExportedJson |
-| Mud_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_6.json | ExportedJson |
-| Mud_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_7.json | ExportedJson |
-| Mud_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_8.json | ExportedJson |
-| Mud_footsteps_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_1.json | ExportedJson |
-| Mud_footsteps_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_10.json | ExportedJson |
-| Mud_footsteps_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_11.json | ExportedJson |
-| Mud_footsteps_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_12.json | ExportedJson |
-| Mud_footsteps_13 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_13.json | ExportedJson |
-| Mud_footsteps_14 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_14.json | ExportedJson |
-| Mud_footsteps_15 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_15.json | ExportedJson |
-| Mud_footsteps_16 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_16.json | ExportedJson |
-| Mud_footsteps_17 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_17.json | ExportedJson |
-| Mud_footsteps_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_18.json | ExportedJson |
-| Mud_footsteps_19 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_19.json | ExportedJson |
-| Mud_footsteps_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_2.json | ExportedJson |
-| Mud_footsteps_20 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_20.json | ExportedJson |
-| Mud_footsteps_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_3.json | ExportedJson |
-| Mud_footsteps_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_4.json | ExportedJson |
-| Mud_footsteps_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_5.json | ExportedJson |
-| Mud_footsteps_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_6.json | ExportedJson |
-| Mud_footsteps_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_7.json | ExportedJson |
-| Mud_footsteps_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_8.json | ExportedJson |
-| Mud_footsteps_9 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_9.json | ExportedJson |
-| Normal_Attack | pakchunk0-Windows\Engine\Content\EngineSounds\Normal_Attack.json | ExportedJson |
-| Object_Break_Into_Body_01 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Object_Break_Into_Body_01.json | ExportedJson |
-| Object_Break_Into_Body_02 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Object_Break_Into_Body_02.json | ExportedJson |
-| Object_Break_Into_Body_03 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Object_Break_Into_Body_03.json | ExportedJson |
-| Object_PickUp | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Object_PickUp.json | ExportedJson |
-| Object_Snaps_To_Another_Actor | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Object_Snaps_To_Another_Actor.json | ExportedJson |
-| Object_Snaps_To_Grid | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Object_Snaps_To_Grid.json | ExportedJson |
-| OpenDoor | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ShoppingMall\Meshes\Elevator\Sound\OpenDoor.json | ExportedJson |
-| Opening_Door | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Door.json | ExportedJson |
-| Opening_Locker_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Opening_Locker_5.json | ExportedJson |
-| Opening_Trunk_1 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_1.json | ExportedJson |
-| Opening_Trunk_2 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_2.json | ExportedJson |
-| Opening_Trunk_3 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_3.json | ExportedJson |
-| Opening_Trunk_4 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_4.json | ExportedJson |
-| Opening_Trunk_5 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_5.json | ExportedJson |
-| Pistol_Draw | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_01\Pistol_Draw.json | ExportedJson |
-| Pistol_Mag_IN | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_01\Pistol_Mag_IN.json | ExportedJson |
-| Pistol_Mag_Out | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_01\Pistol_Mag_Out.json | ExportedJson |
-| Pistol_Shot_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gun_Sounds_Pro_HD_Remake\Wavs\Pistol_Shot_18.json | ExportedJson |
-| Pistol_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_03\Pistol_Single_Shot_2.json | ExportedJson |
-| Pistol_Single_Shot_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_03\Pistol_Single_Shot_3.json | ExportedJson |
-| Pistol_Single_Shot__Suppressed_ | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_05\Pistol_Single_Shot__Suppressed_.json | ExportedJson |
-| Pulling_string_back__Bow__1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__1.json | ExportedJson |
-| Pulling_string_back__Bow__10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__10.json | ExportedJson |
-| Pulling_string_back__Bow__11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__11.json | ExportedJson |
-| Pulling_string_back__Bow__12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__12.json | ExportedJson |
-| Pulling_string_back__Bow__13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__13.json | ExportedJson |
-| Pulling_string_back__Bow__14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__14.json | ExportedJson |
-| Pulling_string_back__Bow__15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__15.json | ExportedJson |
-| Pulling_string_back__Bow__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__2.json | ExportedJson |
-| Pulling_string_back__Bow__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__3.json | ExportedJson |
-| Pulling_string_back__Bow__4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__4.json | ExportedJson |
-| Pulling_string_back__Bow__5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__5.json | ExportedJson |
-| Pulling_string_back__Bow__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__6.json | ExportedJson |
-| Pulling_string_back__Bow__7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__7.json | ExportedJson |
-| Pulling_string_back__Bow__8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__8.json | ExportedJson |
-| Pulling_string_back__Bow__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__9.json | ExportedJson |
-| Punch_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_01.json | ExportedJson |
-| Punch_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_02.json | ExportedJson |
-| Punch_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_03.json | ExportedJson |
-| Punch_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_04.json | ExportedJson |
-| Punch_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_05.json | ExportedJson |
-| Punch_05 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_05.json | ExportedJson |
-| Punch_05 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_05.json | ExportedJson |
-| Punch_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_06.json | ExportedJson |
-| Punch_06 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_06.json | ExportedJson |
-| Punch_06 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_06.json | ExportedJson |
-| Punch_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_07.json | ExportedJson |
-| Punch_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_08.json | ExportedJson |
-| Radio_Bleep_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\MilitaryVoicePackPRO\Misc\Radio_Bleep_5.json | ExportedJson |
-| Radio_Bleep_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\MilitaryVoicePackPRO\Misc\Radio_Bleep_9.json | ExportedJson |
-| Rain_Storm_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Rain_Storm_2.json | ExportedJson |
-| Releasing_string__Bow__1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__1.json | ExportedJson |
-| Releasing_string__Bow__10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__10.json | ExportedJson |
-| Releasing_string__Bow__11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__11.json | ExportedJson |
-| Releasing_string__Bow__12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__12.json | ExportedJson |
-| Releasing_string__Bow__13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__13.json | ExportedJson |
-| Releasing_string__Bow__14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__14.json | ExportedJson |
-| Releasing_string__Bow__15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__15.json | ExportedJson |
-| Releasing_string__Bow__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__2.json | ExportedJson |
-| Releasing_string__Bow__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__3.json | ExportedJson |
-| Releasing_string__Bow__4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__4.json | ExportedJson |
-| Releasing_string__Bow__5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__5.json | ExportedJson |
-| Releasing_string__Bow__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__6.json | ExportedJson |
-| Releasing_string__Bow__7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__7.json | ExportedJson |
-| Releasing_string__Bow__8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__8.json | ExportedJson |
-| Releasing_string__Bow__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__9.json | ExportedJson |
-| Revolver_Reload | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gun_Sounds_Pro_HD_Remake\Wavs\Revolver_Reload.json | ExportedJson |
-| Revolver_Single_Shot_NoTail | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Magnum_Revolver\Revolver_Single_Shot_NoTail.json | ExportedJson |
-| Revolver_close | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Magnum_Revolver\Revolver_close.json | ExportedJson |
-| River_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\River_2.json | ExportedJson |
-| Rock_Impact_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_01.json | ExportedJson |
-| Rock_Impact_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_02.json | ExportedJson |
-| Rock_Impact_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_03.json | ExportedJson |
-| Rock_Impact_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_04.json | ExportedJson |
-| Rock_Impact_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_05.json | ExportedJson |
-| Rock_Impact_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_06.json | ExportedJson |
-| Rock_Impact_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_07.json | ExportedJson |
-| Rock_Impact_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_08.json | ExportedJson |
-| Rock_Impact_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_09.json | ExportedJson |
-| Rock_Impact_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_10.json | ExportedJson |
-| Rock_Impact_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_11.json | ExportedJson |
-| Rock_Impact_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_12.json | ExportedJson |
-| Rock_Impact_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_13.json | ExportedJson |
-| Rock_Impact_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_14.json | ExportedJson |
-| Rock_Impact_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_15.json | ExportedJson |
-| Rock_Impact_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_16.json | ExportedJson |
-| Rock_Impact_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_17.json | ExportedJson |
-| Rock_Impact_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_18.json | ExportedJson |
-| Rock_Impact_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_19.json | ExportedJson |
-| Rock_Impact_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_20.json | ExportedJson |
-| Rock_Impact_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_21.json | ExportedJson |
-| Rock_Impact_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_22.json | ExportedJson |
-| Rocks_Destroy_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Rocks_Destroy_01.json | ExportedJson |
-| Rocks_Destroy_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Rocks_Destroy_02.json | ExportedJson |
-| Rocks_Destroy_02_With_Echo_Enhancement | pakchunk1-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\With_Echo\Object_Destruction\Rocks_Destroy_02_With_Echo_Enhancement.json | ExportedJson |
-| Rocks_Destroy_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Rocks_Destroy_03.json | ExportedJson |
-| SCC_VOIPSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\SCC_VOIPSpeaker.json | ExportedJson |
-| SC_ArrowHitWood | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\SC_ArrowHitWood.json | ExportedJson |
-| SC_BagZombie | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_BagZombie.json | ExportedJson |
-| SC_Death3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\SC_Death3.json | ExportedJson |
-| SC_MinifridgeLoop | pakchunk0-Windows\Vein\Content\Vein\Containers\Residential\Garage\SC_MinifridgeLoop.json | ExportedJson |
-| SC_RocksDestroy | pakchunk0-Windows\Vein\Content\Vein\Spawner\SC_RocksDestroy.json | ExportedJson |
-| SC_Strike | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\SC_Strike.json | ExportedJson |
-| SC_Totem_Off | pakchunk0-Windows\Vein\Content\Vein\Spawner\SC_Totem_Off.json | ExportedJson |
-| SC_Totem_On | pakchunk0-Windows\Vein\Content\Vein\Spawner\SC_Totem_On.json | ExportedJson |
-| SC_Wind1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\SC_Wind1.json | ExportedJson |
-| SC_ZombieBark | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_ZombieBark.json | ExportedJson |
-| SC_ZombieBreathe1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_ZombieBreathe1.json | ExportedJson |
-| SC_ZombieBreathe2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\SC_ZombieBreathe2.json | ExportedJson |
-| SC_ZombieDeath | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_ZombieDeath.json | ExportedJson |
-| SEFP_Loudspeaker_EQ | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Loudspeaker_EQ.json | ExportedJson |
-| SEFP_Radio_Bitcrush | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Radio_Bitcrush.json | ExportedJson |
-| SEFP_Radio_EQ | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Radio_EQ.json | ExportedJson |
-| SEFP_Underwater_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Underwater_VOIP.json | ExportedJson |
-| SEF_Underwater | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\SEF_Underwater.json | ExportedJson |
-| SEPC_Loudspeaker_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Loudspeaker_VOIP.json | ExportedJson |
-| SEPC_Radio_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Radio_VOIP.json | ExportedJson |
-| SEPC_Underwater_Radio_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Underwater_Radio_VOIP.json | ExportedJson |
-| SEPC_Underwater_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Underwater_VOIP.json | ExportedJson |
-| SFX | pakchunk0-Windows\Engine\Content\EngineSounds\SFX.json | ExportedJson |
-| SMG_Draw | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Draw.json | ExportedJson |
-| SMG_Single_Shot | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot.json | ExportedJson |
-| SMG_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot_2.json | ExportedJson |
-| SMG_Single_Shot_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_02\SMG_Single_Shot_3.json | ExportedJson |
-| SMG_Single_Shot__Suppressed_ | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot__Suppressed_.json | ExportedJson |
-| SMG_Single_Shot__Suppressed__2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot__Suppressed__2.json | ExportedJson |
-| SMG_Single_Shot__Suppressed__3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot__Suppressed__3.json | ExportedJson |
-| SM_Settings | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\SM_Settings.json | ExportedJson |
-| SSAS_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\SSAS_VOIP.json | ExportedJson |
-| S_Paper_Tear01 | pakchunk0-Windows\Vein\Content\Marketplace\Environments\BasicOffice\Sounds\Paper\S_Paper_Tear01.json | ExportedJson |
-| S_Paper_Tear02 | pakchunk0-Windows\Vein\Content\Marketplace\Environments\BasicOffice\Sounds\Paper\S_Paper_Tear02.json | ExportedJson |
-| Sand_footsteps_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_1.json | ExportedJson |
-| Sand_footsteps_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_10.json | ExportedJson |
-| Sand_footsteps_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_11.json | ExportedJson |
-| Sand_footsteps_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_12.json | ExportedJson |
-| Sand_footsteps_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_13.json | ExportedJson |
-| Sand_footsteps_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_14.json | ExportedJson |
-| Sand_footsteps_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_15.json | ExportedJson |
-| Sand_footsteps_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_16.json | ExportedJson |
-| Sand_footsteps_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_17.json | ExportedJson |
-| Sand_footsteps_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_18.json | ExportedJson |
-| Sand_footsteps_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_19.json | ExportedJson |
-| Sand_footsteps_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_2.json | ExportedJson |
-| Sand_footsteps_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_20.json | ExportedJson |
-| Sand_footsteps_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_3.json | ExportedJson |
-| Sand_footsteps_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_4.json | ExportedJson |
-| Sand_footsteps_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_5.json | ExportedJson |
-| Sand_footsteps_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_6.json | ExportedJson |
-| Sand_footsteps_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_7.json | ExportedJson |
-| Sand_footsteps_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_8.json | ExportedJson |
-| Sand_footsteps_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_9.json | ExportedJson |
-| Scaling_Down | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Scaling_Down.json | ExportedJson |
-| Scaling_Up | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Scaling_Up.json | ExportedJson |
-| ScandinavianNatureAmbience_04_SummerNoon_Fixed | pakchunk0-Windows\Vein\Content\Marketplace\Audio\ScandinavianNatureAmbience\wav\ScandinavianNatureAmbience_04_SummerNoon_Fixed.json | ExportedJson |
-| Selection_Changes | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Selection_Changes.json | ExportedJson |
-| Simple_Click_Sound_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Simple_Click_Sound_15.json | ExportedJson |
-| Skull_crashed_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Skull_Crashed\Skull_crashed_1.json | ExportedJson |
-| Skull_crashed_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Skull_Crashed\Skull_crashed_2.json | ExportedJson |
-| Slice | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Slice.json | ExportedJson |
-| SmallRoom | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\SmallRoom.json | ExportedJson |
-| Smoke01 | pakchunk0-Windows\Vein\Content\StarterContent\Audio\Smoke01.json | ExportedJson |
-| Smoke01_Cue | pakchunk0-Windows\Vein\Content\StarterContent\Audio\Smoke01_Cue.json | ExportedJson |
-| Snow_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_1.json | ExportedJson |
-| Snow_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_2.json | ExportedJson |
-| Snow_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_3.json | ExportedJson |
-| Snow_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_4.json | ExportedJson |
-| Snow_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_5.json | ExportedJson |
-| Snow_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_6.json | ExportedJson |
-| Snow_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_7.json | ExportedJson |
-| Snow_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_8.json | ExportedJson |
-| Snow_Storm_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Snow_Storm_2.json | ExportedJson |
-| Special_Attack_PSM | pakchunk0-Windows\Engine\Content\EngineSounds\Special_Attack_PSM.json | ExportedJson |
-| StoneCorridor | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\StoneCorridor.json | ExportedJson |
-| StoneRoom_Large | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\StoneRoom_Large.json | ExportedJson |
-| Stone_Impact | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact.json | ExportedJson |
-| Stone_Impact | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact.json | ExportedJson |
-| Stone_Impact_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_2.json | ExportedJson |
-| Stone_Impact_2 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_2.json | ExportedJson |
-| Stone_Impact_2_Cue | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Cues\Stone_Impact_2_Cue.json | ExportedJson |
-| Stone_Impact_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_3.json | ExportedJson |
-| Stone_Impact_3 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_3.json | ExportedJson |
-| Stone_Impact_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_4.json | ExportedJson |
-| Stone_Impact_4 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_4.json | ExportedJson |
-| Stone_Impact_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_5.json | ExportedJson |
-| Stone_Impact_5 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_5.json | ExportedJson |
-| Strike_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_1.json | ExportedJson |
-| Strike_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_10.json | ExportedJson |
-| Strike_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_11.json | ExportedJson |
-| Strike_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_12.json | ExportedJson |
-| Strike_13 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_13.json | ExportedJson |
-| Strike_14 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_14.json | ExportedJson |
-| Strike_15 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_15.json | ExportedJson |
-| Strike_16 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_16.json | ExportedJson |
-| Strike_17 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_17.json | ExportedJson |
-| Strike_18 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_18.json | ExportedJson |
-| Strike_19 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_19.json | ExportedJson |
-| Strike_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_2.json | ExportedJson |
-| Strike_20 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_20.json | ExportedJson |
-| Strike_21 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_21.json | ExportedJson |
-| Strike_22 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_22.json | ExportedJson |
-| Strike_23 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_23.json | ExportedJson |
-| Strike_24 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_24.json | ExportedJson |
-| Strike_25 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_25.json | ExportedJson |
-| Strike_26 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_26.json | ExportedJson |
-| Strike_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_3.json | ExportedJson |
-| Strike_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_4.json | ExportedJson |
-| Strike_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_5.json | ExportedJson |
-| Strike_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_6.json | ExportedJson |
-| Strike_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_7.json | ExportedJson |
-| Strike_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_8.json | ExportedJson |
-| Strike_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_9.json | ExportedJson |
-| Sus4_Helicopter_Away_1_Loop | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Aircraft_Sound_Vol1\Aircraft_Sound_Loops\Aircraft_Helicopter_Loops\Audio\Sus4_Helicopter_Away_1_Loop.json | ExportedJson |
-| Sus4_Helicopter_Ext_1_Loop | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Aircraft_Sound_Vol1\Aircraft_Sound_Loops\Aircraft_Helicopter_Loops\Audio\Sus4_Helicopter_Ext_1_Loop.json | ExportedJson |
-| Sweep_Horror_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Impacts_Sweeps\Wavs\Sweep_Horror_04.json | ExportedJson |
-| Sweep_Horror_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Impacts_Sweeps\Wavs\Sweep_Horror_05.json | ExportedJson |
-| Switch_sounds_7 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Switch_sounds_7.json | ExportedJson |
-| T_Audio | pakchunk0-Windows\Vein\Content\Vein\UI\Icons\T_Audio.json | ExportedJson |
-| Tree_Fall_Destroy_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Tree_Fall_Destroy_01.json | ExportedJson |
-| Tree_Fall_Destroy_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Tree_Fall_Destroy_02.json | ExportedJson |
-| Turning_Flashlight_On | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Turning_Flashlight_On.json | ExportedJson |
-| Turning_Flashlight_On_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Turning_Flashlight_On_2.json | ExportedJson |
-| Turning_Flashlight_On_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Turning_Flashlight_On_3.json | ExportedJson |
-| UI | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\UI.json | ExportedJson |
-| Underwater_Loop_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Underwater_Loop_3.json | ExportedJson |
-| VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP.json | ExportedJson |
-| Voice | pakchunk0-Windows\Engine\Content\EngineSounds\Voice.json | ExportedJson |
-| Water_Boiling_Loop | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Water_Boiling_Loop.json | ExportedJson |
-| Water_sprinkler__steady_constant_spitter__background_birds_01 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\AnimalFarm\AgriculturalActivities\Wavs\Water_sprinkler__steady_constant_spitter__background_birds_01.json | ExportedJson |
-| Waterdrops13_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Waterdrops13_loop.json | ExportedJson |
-| Whoosh_Sword_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Whooshes\Whoosh_Sword_01.json | ExportedJson |
-| Whoosh_Sword_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Whooshes\Whoosh_Sword_02.json | ExportedJson |
-| Wood_Break | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break.json | ExportedJson |
-| Wood_Break_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_10.json | ExportedJson |
-| Wood_Break_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_2.json | ExportedJson |
-| Wood_Break_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_3.json | ExportedJson |
-| Wood_Break_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_4.json | ExportedJson |
-| Wood_Break_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_5.json | ExportedJson |
-| Wood_Break_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_6.json | ExportedJson |
-| Wood_Break_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_7.json | ExportedJson |
-| Wood_Break_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_8.json | ExportedJson |
-| Wood_Break_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_9.json | ExportedJson |
-| Wood_Creak_1_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Wood_Creak_1_2.json | ExportedJson |
-| Wood_Creak_1_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Wood_Creak_1_6.json | ExportedJson |
-| Wood_Creak_1_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Wood_Creak_1_8.json | ExportedJson |
-| Wood_Heavy_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_1.json | ExportedJson |
-| Wood_Heavy_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_2.json | ExportedJson |
-| Wood_Heavy_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_3.json | ExportedJson |
-| Wood_Heavy_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_4.json | ExportedJson |
-| Wood_Heavy_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_5.json | ExportedJson |
-| Wood_Heavy_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_6.json | ExportedJson |
-| Wood_Heavy_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_7.json | ExportedJson |
-| Wood_Heavy_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_8.json | ExportedJson |
-| Wood_Impact_Hard_surface | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface.json | ExportedJson |
-| Wood_Impact_Hard_surface_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_10.json | ExportedJson |
-| Wood_Impact_Hard_surface_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_2.json | ExportedJson |
-| Wood_Impact_Hard_surface_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_3.json | ExportedJson |
-| Wood_Impact_Hard_surface_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_4.json | ExportedJson |
-| Wood_Impact_Hard_surface_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_5.json | ExportedJson |
-| Wood_Impact_Hard_surface_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_6.json | ExportedJson |
-| Wood_Impact_Hard_surface_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_7.json | ExportedJson |
-| Wood_Impact_Hard_surface_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_8.json | ExportedJson |
-| Wood_Impact_Hard_surface_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_9.json | ExportedJson |
-| Zombie1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie1.json | ExportedJson |
-| Zombie10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie10.json | ExportedJson |
-| Zombie11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie11.json | ExportedJson |
-| Zombie12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie12.json | ExportedJson |
-| Zombie13 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie13.json | ExportedJson |
-| Zombie14 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie14.json | ExportedJson |
-| Zombie15 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie15.json | ExportedJson |
-| Zombie2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie2.json | ExportedJson |
-| Zombie3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie3.json | ExportedJson |
-| Zombie34 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie34.json | ExportedJson |
-| Zombie4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie4.json | ExportedJson |
-| Zombie5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie5.json | ExportedJson |
-| Zombie6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie6.json | ExportedJson |
-| Zombie7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie7.json | ExportedJson |
-| Zombie8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie8.json | ExportedJson |
-| Zombie9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie9.json | ExportedJson |
-| ZombieBreathe1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe1.json | ExportedJson |
-| ZombieBreathe100 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe100.json | ExportedJson |
-| ZombieBreathe101 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe101.json | ExportedJson |
-| ZombieBreathe102 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe102.json | ExportedJson |
-| ZombieBreathe103 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe103.json | ExportedJson |
-| ZombieBreathe104 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe104.json | ExportedJson |
-| ZombieBreathe105 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe105.json | ExportedJson |
-| ZombieBreathe106 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe106.json | ExportedJson |
-| ZombieBreathe107 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe107.json | ExportedJson |
-| ZombieBreathe108 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe108.json | ExportedJson |
-| ZombieBreathe109 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe109.json | ExportedJson |
-| ZombieBreathe110 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe110.json | ExportedJson |
-| ZombieBreathe111 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe111.json | ExportedJson |
-| ZombieBreathe2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe2.json | ExportedJson |
-| ZombieBreathe3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe3.json | ExportedJson |
-| ZombieBreathe4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe4.json | ExportedJson |
-| ZombieBreathe47 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe47.json | ExportedJson |
-| ZombieBreathe48 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe48.json | ExportedJson |
-| ZombieBreathe49 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe49.json | ExportedJson |
-| ZombieBreathe5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe5.json | ExportedJson |
-| ZombieBreathe50 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe50.json | ExportedJson |
-| ZombieBreathe51 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe51.json | ExportedJson |
-| ZombieBreathe52 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe52.json | ExportedJson |
-| ZombieBreathe53 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe53.json | ExportedJson |
-| ZombieBreathe54 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe54.json | ExportedJson |
-| ZombieBreathe55 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe55.json | ExportedJson |
-| ZombieBreathe56 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe56.json | ExportedJson |
-| ZombieBreathe57 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe57.json | ExportedJson |
-| ZombieBreathe58 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe58.json | ExportedJson |
-| ZombieBreathe59 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe59.json | ExportedJson |
-| ZombieBreathe60 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe60.json | ExportedJson |
-| ZombieBreathe61 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe61.json | ExportedJson |
-| ZombieBreathe62 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe62.json | ExportedJson |
-| ZombieBreathe63 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe63.json | ExportedJson |
-| ZombieBreathe64 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe64.json | ExportedJson |
-| ZombieBreathe65 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe65.json | ExportedJson |
-| ZombieBreathe66 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe66.json | ExportedJson |
-| ZombieBreathe95 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe95.json | ExportedJson |
-| ZombieBreathe96 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe96.json | ExportedJson |
-| ZombieBreathe97 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe97.json | ExportedJson |
-| ZombieBreathe98 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe98.json | ExportedJson |
-| ZombieBreathe99 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe99.json | ExportedJson |
-| Zombie_Angry_16 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_16.json | ExportedJson |
-| Zombie_Angry_17 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_17.json | ExportedJson |
-| Zombie_Angry_18 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_18.json | ExportedJson |
-| Zombie_Angry_19 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_19.json | ExportedJson |
-| Zombie_Angry_20 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_20.json | ExportedJson |
-| Zombie_Angry_21 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_21.json | ExportedJson |
-| Zombie_Angry_22 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_22.json | ExportedJson |
-| Zombie_Angry_40 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_40.json | ExportedJson |
-| Zombie_Angry_41 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_41.json | ExportedJson |
-| Zombie_Angry_42 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_42.json | ExportedJson |
-| Zombie_Angry_70 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_70.json | ExportedJson |
-| Zombie_Angry_71 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_71.json | ExportedJson |
-| Zombie_Breathe_35 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Breathe_35.json | ExportedJson |
-| Zombie_Death_43 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_43.json | ExportedJson |
-| Zombie_Death_44 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_44.json | ExportedJson |
-| Zombie_Death_45 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_45.json | ExportedJson |
-| Zombie_Death_46 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_46.json | ExportedJson |
-| Zombie_Shout_24 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_24.json | ExportedJson |
-| Zombie_Shout_25 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_25.json | ExportedJson |
-| Zombie_Shout_26 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_26.json | ExportedJson |
-| Zombie_Shout_27 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_27.json | ExportedJson |
-| Zombie_Shout_28 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_28.json | ExportedJson |
-| Zombie_Shout_29 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_29.json | ExportedJson |
-| Zombie_Shout_30 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_30.json | ExportedJson |
-| Zombie_Shout_31 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_31.json | ExportedJson |
-| Zombie_Shout_32 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_32.json | ExportedJson |
-| Zombie_Shout_33 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_33.json | ExportedJson |
-| Zombie_Shout_36 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_36.json | ExportedJson |
-| Zombie_Shout_37 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_37.json | ExportedJson |
-| Zombie_Shout_38 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_38.json | ExportedJson |
-| Zombie_Shout_39 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_39.json | ExportedJson |
-| Zombie_Shout_67 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_67.json | ExportedJson |
-| Zombie_Shout_68 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_68.json | ExportedJson |
-| Zombie_Shout_69 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_69.json | ExportedJson |
-| Zombie_Shout_72 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_72.json | ExportedJson |
-| Zombie_Shout_73 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_73.json | ExportedJson |
-| Zombie_Shout_74 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_74.json | ExportedJson |
-| Zombie_Shout_75 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_75.json | ExportedJson |
-| Zombie_Shout_76 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_76.json | ExportedJson |
-| Zombie_Shout_78 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_78.json | ExportedJson |
-| Zombie_Shout_79 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_79.json | ExportedJson |
-| Zombie_Shout_80 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_80.json | ExportedJson |
-| Zombie_Shout_81 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_81.json | ExportedJson |
-| Zombie_Shout_82 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_82.json | ExportedJson |
-| Zombie_Shout_83 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_83.json | ExportedJson |
-| Zombie_Shout_84 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_84.json | ExportedJson |
-| Zombie_Shout_85 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_85.json | ExportedJson |
-| Zombie_Shout_88 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_88.json | ExportedJson |
-| Zombie_Shout_89 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_89.json | ExportedJson |
-| Zombie_Shout_90 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_90.json | ExportedJson |
-| Zombie_Shout_91 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_91.json | ExportedJson |
-| Zombie_Shout_92 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_92.json | ExportedJson |
-| Zombie_Shout_93 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_93.json | ExportedJson |
-| Zombie_Shout_94 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_94.json | ExportedJson |
-| Zombie_shout_77 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_shout_77.json | ExportedJson |
-| Zombie_shout_86 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_shout_86.json | ExportedJson |
-| Zombie_shout_87 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_shout_87.json | ExportedJson |
-| badminton_ball_drop_03_m | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_3\wavs\badminton_ball_drop_03_m.json | ExportedJson |
-| coffee_grinder_turn_crank_05_m | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_1\wavs\coffee_grinder_turn_crank_05_m.json | ExportedJson |
-| coffee_grinder_various_handling_04_m | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_1\wavs\coffee_grinder_various_handling_04_m.json | ExportedJson |
-| disinfection_spray_press_01_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_01_m.json | ExportedJson |
-| disinfection_spray_press_02_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_02_m.json | ExportedJson |
-| disinfection_spray_press_03_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_03_m.json | ExportedJson |
-| disinfection_spray_press_04_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_04_m.json | ExportedJson |
-| door_A_creak_02 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_A_creak_02.json | ExportedJson |
-| door_A_creak_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\door_A_creak_03.json | ExportedJson |
-| door_A_creak_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\door_A_creak_07.json | ExportedJson |
-| door_lock_fail_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_lock_fail_02.json | ExportedJson |
-| door_lock_fail_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_lock_fail_03.json | ExportedJson |
-| door_lock_fail_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_lock_fail_04.json | ExportedJson |
-| engine_generator_loop_01 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\engine_generator_loop_01.json | ExportedJson |
-| engine_generator_loop_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\engine_generator_loop_02.json | ExportedJson |
-| engine_generator_loop_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\engine_generator_loop_02.json | ExportedJson |
-| fan08_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\fan08_loop.json | ExportedJson |
-| foley_cloth_light_fast_movement_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\MonoVersions\Wavs\foley_cloth_light_fast_movement_06.json | ExportedJson |
-| foley_cloth_light_fast_movement_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\MonoVersions\Wavs\foley_cloth_light_fast_movement_08.json | ExportedJson |
-| foley_cloth_light_fast_movement_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\MonoVersions\Wavs\foley_cloth_light_fast_movement_09.json | ExportedJson |
-| foley_soldier_gear_equipment_movement_grab_item_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\StereoVersions\Wavs\foley_soldier_gear_equipment_movement_grab_item_02.json | ExportedJson |
-| footstep_concrete_land_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_01.json | ExportedJson |
-| footstep_concrete_land_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_02.json | ExportedJson |
-| footstep_concrete_land_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_03.json | ExportedJson |
-| footstep_concrete_land_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_04.json | ExportedJson |
-| footstep_concrete_land_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_05.json | ExportedJson |
-| footstep_concrete_land_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_06.json | ExportedJson |
-| footstep_concrete_land_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_07.json | ExportedJson |
-| footstep_concrete_land_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_08.json | ExportedJson |
-| footstep_concrete_land_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_09.json | ExportedJson |
-| footstep_concrete_land_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_10.json | ExportedJson |
-| footstep_concrete_land_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_11.json | ExportedJson |
-| footstep_concrete_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_01.json | ExportedJson |
-| footstep_concrete_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_02.json | ExportedJson |
-| footstep_concrete_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_03.json | ExportedJson |
-| footstep_concrete_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_04.json | ExportedJson |
-| footstep_concrete_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_05.json | ExportedJson |
-| footstep_concrete_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_06.json | ExportedJson |
-| footstep_concrete_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_07.json | ExportedJson |
-| footstep_concrete_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_08.json | ExportedJson |
-| footstep_concrete_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_09.json | ExportedJson |
-| footstep_concrete_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_10.json | ExportedJson |
-| footstep_concrete_walk_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_11.json | ExportedJson |
-| footstep_concrete_walk_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_12.json | ExportedJson |
-| footstep_concrete_walk_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_13.json | ExportedJson |
-| footstep_concrete_walk_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_14.json | ExportedJson |
-| footstep_concrete_walk_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_15.json | ExportedJson |
-| footstep_concrete_walk_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_16.json | ExportedJson |
-| footstep_concrete_walk_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_17.json | ExportedJson |
-| footstep_concrete_walk_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_18.json | ExportedJson |
-| footstep_concrete_walk_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_19.json | ExportedJson |
-| footstep_concrete_walk_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_20.json | ExportedJson |
-| footstep_concrete_walk_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_21.json | ExportedJson |
-| footstep_concrete_walk_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_22.json | ExportedJson |
-| footstep_dirt_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_01.json | ExportedJson |
-| footstep_dirt_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_02.json | ExportedJson |
-| footstep_dirt_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_03.json | ExportedJson |
-| footstep_dirt_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_04.json | ExportedJson |
-| footstep_dirt_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_05.json | ExportedJson |
-| footstep_dirt_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_06.json | ExportedJson |
-| footstep_dirt_land_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_07.json | ExportedJson |
-| footstep_dirt_land_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_08.json | ExportedJson |
-| footstep_dirt_land_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_09.json | ExportedJson |
-| footstep_dirt_land_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_10.json | ExportedJson |
-| footstep_dirt_walk_run_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_01.json | ExportedJson |
-| footstep_dirt_walk_run_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_02.json | ExportedJson |
-| footstep_dirt_walk_run_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_03.json | ExportedJson |
-| footstep_dirt_walk_run_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_04.json | ExportedJson |
-| footstep_dirt_walk_run_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_05.json | ExportedJson |
-| footstep_dirt_walk_run_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_06.json | ExportedJson |
-| footstep_dirt_walk_run_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_07.json | ExportedJson |
-| footstep_dirt_walk_run_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_08.json | ExportedJson |
-| footstep_dirt_walk_run_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_09.json | ExportedJson |
-| footstep_dirt_walk_run_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_10.json | ExportedJson |
-| footstep_dirt_walk_run_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_11.json | ExportedJson |
-| footstep_dirt_walk_run_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_12.json | ExportedJson |
-| footstep_gravel_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_01.json | ExportedJson |
-| footstep_gravel_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_02.json | ExportedJson |
-| footstep_gravel_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_03.json | ExportedJson |
-| footstep_gravel_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_04.json | ExportedJson |
-| footstep_gravel_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_05.json | ExportedJson |
-| footstep_gravel_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_06.json | ExportedJson |
-| footstep_gravel_land_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_07.json | ExportedJson |
-| footstep_gravel_land_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_08.json | ExportedJson |
-| footstep_gravel_land_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_09.json | ExportedJson |
-| footstep_gravel_land_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_10.json | ExportedJson |
-| footstep_gravel_land_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_11.json | ExportedJson |
-| footstep_ice_crunchy_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_01.json | ExportedJson |
-| footstep_ice_crunchy_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_02.json | ExportedJson |
-| footstep_ice_crunchy_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_03.json | ExportedJson |
-| footstep_ice_crunchy_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_04.json | ExportedJson |
-| footstep_ice_crunchy_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_05.json | ExportedJson |
-| footstep_ice_crunchy_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_06.json | ExportedJson |
-| footstep_ice_crunchy_walk_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_01.json | ExportedJson |
-| footstep_ice_crunchy_walk_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_02.json | ExportedJson |
-| footstep_ice_crunchy_walk_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_03.json | ExportedJson |
-| footstep_ice_crunchy_walk_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_04.json | ExportedJson |
-| footstep_ice_crunchy_walk_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_05.json | ExportedJson |
-| footstep_ice_crunchy_walk_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_06.json | ExportedJson |
-| footstep_ice_crunchy_walk_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_07.json | ExportedJson |
-| footstep_ice_crunchy_walk_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_08.json | ExportedJson |
-| footstep_metal_high_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_01.json | ExportedJson |
-| footstep_metal_high_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_02.json | ExportedJson |
-| footstep_metal_high_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_03.json | ExportedJson |
-| footstep_metal_high_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_04.json | ExportedJson |
-| footstep_metal_high_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_05.json | ExportedJson |
-| footstep_metal_high_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_06.json | ExportedJson |
-| footstep_metal_high_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_07.json | ExportedJson |
-| footstep_metal_high_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_08.json | ExportedJson |
-| footstep_metal_high_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_09.json | ExportedJson |
-| footstep_metal_high_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_10.json | ExportedJson |
-| footstep_metal_land_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_01.json | ExportedJson |
-| footstep_metal_land_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_02.json | ExportedJson |
-| footstep_metal_land_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_03.json | ExportedJson |
-| footstep_metal_land_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_04.json | ExportedJson |
-| footstep_metal_land_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_05.json | ExportedJson |
-| footstep_metal_land_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_06.json | ExportedJson |
-| footstep_metal_land_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_07.json | ExportedJson |
-| footstep_metal_land_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_08.json | ExportedJson |
-| footstep_metal_land_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_09.json | ExportedJson |
-| footstep_metal_land_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_10.json | ExportedJson |
-| footstep_metal_low_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_01.json | ExportedJson |
-| footstep_metal_low_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_02.json | ExportedJson |
-| footstep_metal_low_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_03.json | ExportedJson |
-| footstep_metal_low_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_04.json | ExportedJson |
-| footstep_metal_low_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_05.json | ExportedJson |
-| footstep_metal_low_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_06.json | ExportedJson |
-| footstep_metal_low_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_07.json | ExportedJson |
-| footstep_metal_low_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_08.json | ExportedJson |
-| footstep_metal_low_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_09.json | ExportedJson |
-| footstep_metal_low_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_10.json | ExportedJson |
-| footstep_metal_low_walk_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_11.json | ExportedJson |
-| footstep_metal_low_walk_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_12.json | ExportedJson |
-| footstep_metal_low_walk_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_13.json | ExportedJson |
-| footstep_metal_low_walk_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_14.json | ExportedJson |
-| footstep_metal_low_walk_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_15.json | ExportedJson |
-| footstep_metal_low_walk_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_16.json | ExportedJson |
-| footstep_mud_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_01.json | ExportedJson |
-| footstep_mud_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_02.json | ExportedJson |
-| footstep_mud_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_03.json | ExportedJson |
-| footstep_mud_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_04.json | ExportedJson |
-| footstep_mud_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_05.json | ExportedJson |
-| footstep_mud_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_06.json | ExportedJson |
-| footstep_snow_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_01.json | ExportedJson |
-| footstep_snow_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_02.json | ExportedJson |
-| footstep_snow_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_03.json | ExportedJson |
-| footstep_snow_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_04.json | ExportedJson |
-| footstep_snow_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_05.json | ExportedJson |
-| footstep_snow_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_06.json | ExportedJson |
-| footstep_snow_run_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_01.json | ExportedJson |
-| footstep_snow_run_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_02.json | ExportedJson |
-| footstep_snow_run_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_03.json | ExportedJson |
-| footstep_snow_run_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_04.json | ExportedJson |
-| footstep_snow_run_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_05.json | ExportedJson |
-| footstep_snow_run_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_06.json | ExportedJson |
-| footstep_snow_run_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_07.json | ExportedJson |
-| footstep_snow_run_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_08.json | ExportedJson |
-| footstep_snow_run_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_09.json | ExportedJson |
-| footstep_snow_run_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_10.json | ExportedJson |
-| footstep_snow_run_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_11.json | ExportedJson |
-| footstep_snow_run_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_12.json | ExportedJson |
-| footstep_snow_run_13 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_13.json | ExportedJson |
-| footstep_snow_run_14 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_14.json | ExportedJson |
-| footstep_snow_run_15 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_15.json | ExportedJson |
-| footstep_snow_run_16 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_16.json | ExportedJson |
-| footstep_snow_run_17 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_17.json | ExportedJson |
-| footstep_snow_run_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_18.json | ExportedJson |
-| footstep_snow_run_19 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_19.json | ExportedJson |
-| footstep_snow_run_20 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_20.json | ExportedJson |
-| footstep_snow_run_21 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_21.json | ExportedJson |
-| footstep_water_run_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_01.json | ExportedJson |
-| footstep_water_run_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_02.json | ExportedJson |
-| footstep_water_run_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_03.json | ExportedJson |
-| footstep_water_run_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_04.json | ExportedJson |
-| footstep_water_run_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_05.json | ExportedJson |
-| footstep_water_run_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_06.json | ExportedJson |
-| footstep_water_run_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_07.json | ExportedJson |
-| footstep_water_run_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_08.json | ExportedJson |
-| footstep_water_run_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_09.json | ExportedJson |
-| footstep_water_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_01.json | ExportedJson |
-| footstep_water_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_01.json | ExportedJson |
-| footstep_water_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_02.json | ExportedJson |
-| footstep_water_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_03.json | ExportedJson |
-| footstep_water_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_03.json | ExportedJson |
-| footstep_water_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_04.json | ExportedJson |
-| footstep_water_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_04.json | ExportedJson |
-| footstep_water_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_05.json | ExportedJson |
-| footstep_water_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_05.json | ExportedJson |
-| footstep_water_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_06.json | ExportedJson |
-| footstep_water_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_06.json | ExportedJson |
-| footstep_water_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_07.json | ExportedJson |
-| footstep_water_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_07.json | ExportedJson |
-| footstep_water_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_08.json | ExportedJson |
-| footstep_water_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_08.json | ExportedJson |
-| footstep_water_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_09.json | ExportedJson |
-| footstep_wood_land_v2_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_01.json | ExportedJson |
-| footstep_wood_land_v2_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_02.json | ExportedJson |
-| footstep_wood_land_v2_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_03.json | ExportedJson |
-| footstep_wood_land_v2_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_04.json | ExportedJson |
-| footstep_wood_land_v2_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_05.json | ExportedJson |
-| footstep_wood_land_v2_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_06.json | ExportedJson |
-| footstep_wood_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_01.json | ExportedJson |
-| footstep_wood_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_02.json | ExportedJson |
-| footstep_wood_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_03.json | ExportedJson |
-| footstep_wood_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_04.json | ExportedJson |
-| footstep_wood_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_05.json | ExportedJson |
-| footstep_wood_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_06.json | ExportedJson |
-| footstep_wood_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_07.json | ExportedJson |
-| footstep_wood_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_08.json | ExportedJson |
-| footstep_wood_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_09.json | ExportedJson |
-| footstep_wood_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_10.json | ExportedJson |
-| footstep_wood_walk_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_11.json | ExportedJson |
-| footstep_wood_walk_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_12.json | ExportedJson |
-| footstep_wood_walk_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_13.json | ExportedJson |
-| footstep_wood_walk_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_14.json | ExportedJson |
-| footstep_wood_walk_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_15.json | ExportedJson |
-| footstep_wood_walk_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_16.json | ExportedJson |
-| footstep_wood_walk_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_17.json | ExportedJson |
-| footstep_wood_walk_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_18.json | ExportedJson |
-| footstep_wood_walk_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_19.json | ExportedJson |
-| footstep_wood_walk_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_20.json | ExportedJson |
-| gas_leak_02_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\gas_leak_02_loop.json | ExportedJson |
-| gas_leak_med_burst_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\gas_leak_med_burst_02.json | ExportedJson |
-| gun_shotgun_shot_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\gun_shotgun_shot_01.json | ExportedJson |
-| gym_adjust_weights_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_3\wavs\gym_adjust_weights_22.json | ExportedJson |
-| loose_wire_ringing_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\loose_wire_ringing_21.json | ExportedJson |
-| loose_wire_ringing_33 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\loose_wire_ringing_33.json | ExportedJson |
-| navigation_wheel_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_5\wavs\navigation_wheel_01.json | ExportedJson |
-| quantum_mechanics_39 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_4\wavs\quantum_mechanics_39.json | ExportedJson |
-| stone_crash_designed_024 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Crash_and_Smash-Designed\wavs\stone_crash_designed_024.json | ExportedJson |
-| thunder_lightning_strike_rumble_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\thunder_lightning_strike_rumble_01.json | ExportedJson |
-| thunder_lightning_strike_rumble_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\thunder_lightning_strike_rumble_03.json | ExportedJson |
-| thunder_lightning_strike_rumble_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\thunder_lightning_strike_rumble_05.json | ExportedJson |
-| ventilation_wheel_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_5\wavs\ventilation_wheel_05.json | ExportedJson |
-| water_runlet_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_4\wavs\water_runlet_01.json | ExportedJson |
+| AR_Bullet_Insert_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Bullet_Insert_3.json | JSON Export |
+| AR_Bullet_Insert_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Bullet_Insert_4.json | JSON Export |
+| AR_Single_Shot | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle\AR_Single_Shot.json | JSON Export |
+| AR_Single_Shot | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot.json | JSON Export |
+| AR_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot_2.json | JSON Export |
+| AR_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_03\AR_Single_Shot_2.json | JSON Export |
+| AR_Single_Shot_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot_3.json | JSON Export |
+| AR_Single_Shot__Suppressed_ | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot__Suppressed_.json | JSON Export |
+| AR_Single_Shot__Suppressed__2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot__Suppressed__2.json | JSON Export |
+| AR_Single_Shot__Suppressed__2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_03\AR_Single_Shot__Suppressed__2.json | JSON Export |
+| AR_Single_Shot__Suppressed__3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Assault_Rifle_02\AR_Single_Shot__Suppressed__3.json | JSON Export |
+| ATT_Soundscape | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\ATT_Soundscape.json | JSON Export |
+| ATT_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\ATT_VOIP.json | JSON Export |
+| ATT_VOIP_Radio | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\ATT_VOIP_Radio.json | JSON Export |
+| ATT_Zombie | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\ATT_Zombie.json | JSON Export |
+| A_BagZombie1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie1.json | JSON Export |
+| A_BagZombie2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie2.json | JSON Export |
+| A_BagZombie3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie3.json | JSON Export |
+| A_BagZombie4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie4.json | JSON Export |
+| A_BagZombie5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie5.json | JSON Export |
+| A_BagZombie6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie6.json | JSON Export |
+| A_BagZombie7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\A_BagZombie7.json | JSON Export |
+| A_River_Loop2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\A_River_Loop2.json | JSON Export |
+| A_Wind1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\A_Wind1.json | JSON Export |
+| Ambiance_Cave_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_Pro\Wavs\Ambiance_Cave_01.json | JSON Export |
+| Ambiance_Swamp_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_Pro\Wavs\Ambiance_Swamp_01.json | JSON Export |
+| Ambience_Horror_Bloody | pakchunk29-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Horror_Ambiances_HD_Remake\Wavs\Ambience_Horror_Bloody.json | JSON Export |
+| Ambience_Horror_Simple | pakchunk29-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Horror_Ambiances_HD_Remake\Wavs\Ambience_Horror_Simple.json | JSON Export |
+| Applying_Bandage_to_wound | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Applying_Bandage_to_wound.json | JSON Export |
+| Applying_Bandage_to_wound_Cue | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Cues\Applying_Bandage_to_wound_Cue.json | JSON Export |
+| Arm_Swing__Whoosh_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_1.json | JSON Export |
+| Arm_Swing__Whoosh_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_10.json | JSON Export |
+| Arm_Swing__Whoosh_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_11.json | JSON Export |
+| Arm_Swing__Whoosh_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_12.json | JSON Export |
+| Arm_Swing__Whoosh_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_13.json | JSON Export |
+| Arm_Swing__Whoosh_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_14.json | JSON Export |
+| Arm_Swing__Whoosh_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_15.json | JSON Export |
+| Arm_Swing__Whoosh_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_16.json | JSON Export |
+| Arm_Swing__Whoosh_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_17.json | JSON Export |
+| Arm_Swing__Whoosh_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_18.json | JSON Export |
+| Arm_Swing__Whoosh_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_19.json | JSON Export |
+| Arm_Swing__Whoosh_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_2.json | JSON Export |
+| Arm_Swing__Whoosh_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_20.json | JSON Export |
+| Arm_Swing__Whoosh_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_21.json | JSON Export |
+| Arm_Swing__Whoosh_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_22.json | JSON Export |
+| Arm_Swing__Whoosh_23 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_23.json | JSON Export |
+| Arm_Swing__Whoosh_24 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_24.json | JSON Export |
+| Arm_Swing__Whoosh_25 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_25.json | JSON Export |
+| Arm_Swing__Whoosh_26 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_26.json | JSON Export |
+| Arm_Swing__Whoosh_27 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_27.json | JSON Export |
+| Arm_Swing__Whoosh_28 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_28.json | JSON Export |
+| Arm_Swing__Whoosh_29 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_29.json | JSON Export |
+| Arm_Swing__Whoosh_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_3.json | JSON Export |
+| Arm_Swing__Whoosh_30 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_30.json | JSON Export |
+| Arm_Swing__Whoosh_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_4.json | JSON Export |
+| Arm_Swing__Whoosh_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_5.json | JSON Export |
+| Arm_Swing__Whoosh_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_6.json | JSON Export |
+| Arm_Swing__Whoosh_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_7.json | JSON Export |
+| Arm_Swing__Whoosh_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_8.json | JSON Export |
+| Arm_Swing__Whoosh_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Punch_Fighting_SFX\Wavs\Arm_Swings\Arm_Swing__Whoosh_9.json | JSON Export |
+| Armor_Break_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gun_Sounds_Pro_HD_Remake\Wavs\Armor_Break_4.json | JSON Export |
+| Arrow_Hit_Wood_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_01.json | JSON Export |
+| Arrow_Hit_Wood_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_02.json | JSON Export |
+| Arrow_Hit_Wood_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_03.json | JSON Export |
+| Arrow_Hit_Wood_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_04.json | JSON Export |
+| Arrow_Hit_Wood_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Arrow_Hit_Wood_05.json | JSON Export |
+| Arrow_Impact_dirt_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_1.json | JSON Export |
+| Arrow_Impact_dirt_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_2.json | JSON Export |
+| Arrow_Impact_dirt_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_3.json | JSON Export |
+| Arrow_Impact_dirt_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_4.json | JSON Export |
+| Arrow_Impact_dirt_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Arrow_Impact_dirt\Arrow_Impact_dirt_5.json | JSON Export |
+| Auditorium | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\Auditorium.json | JSON Export |
+| Barf_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_1.json | JSON Export |
+| Barf_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_2.json | JSON Export |
+| Barf_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_3.json | JSON Export |
+| Barf_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_4.json | JSON Export |
+| Barf_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_5.json | JSON Export |
+| Barf_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_6.json | JSON Export |
+| Barf_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_7.json | JSON Export |
+| Barf_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleThrowingUp\Barf_8.json | JSON Export |
+| Basement07_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement07_loop.json | JSON Export |
+| Basement09_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement09_loop.json | JSON Export |
+| Basement14_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement14_loop.json | JSON Export |
+| Basement19_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Basement19_loop.json | JSON Export |
+| Blacksmith_hitting_hammer | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer.json | JSON Export |
+| Blacksmith_hitting_hammer | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer.json | JSON Export |
+| Blacksmith_hitting_hammer_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_10.json | JSON Export |
+| Blacksmith_hitting_hammer_10 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_10.json | JSON Export |
+| Blacksmith_hitting_hammer_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_11.json | JSON Export |
+| Blacksmith_hitting_hammer_11 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_11.json | JSON Export |
+| Blacksmith_hitting_hammer_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_12.json | JSON Export |
+| Blacksmith_hitting_hammer_12 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_12.json | JSON Export |
+| Blacksmith_hitting_hammer_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_2.json | JSON Export |
+| Blacksmith_hitting_hammer_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_2.json | JSON Export |
+| Blacksmith_hitting_hammer_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_3.json | JSON Export |
+| Blacksmith_hitting_hammer_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_3.json | JSON Export |
+| Blacksmith_hitting_hammer_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_4.json | JSON Export |
+| Blacksmith_hitting_hammer_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_4.json | JSON Export |
+| Blacksmith_hitting_hammer_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_5.json | JSON Export |
+| Blacksmith_hitting_hammer_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_5.json | JSON Export |
+| Blacksmith_hitting_hammer_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_6.json | JSON Export |
+| Blacksmith_hitting_hammer_6 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_6.json | JSON Export |
+| Blacksmith_hitting_hammer_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_7.json | JSON Export |
+| Blacksmith_hitting_hammer_7 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_7.json | JSON Export |
+| Blacksmith_hitting_hammer_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_8.json | JSON Export |
+| Blacksmith_hitting_hammer_8 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_8.json | JSON Export |
+| Blacksmith_hitting_hammer_9 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_9.json | JSON Export |
+| Blacksmith_hitting_hammer_9 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Blacksmith_hitting_hammer_9.json | JSON Export |
+| Bloody_Axe_Impact_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_Axe_Impact\Bloody_Axe_Impact_5.json | JSON Export |
+| Bloody_Axe_Impact_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_Axe_Impact\Bloody_Axe_Impact_6.json | JSON Export |
+| Bloody_punches_1 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_1.json | JSON Export |
+| Bloody_punches_10 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_10.json | JSON Export |
+| Bloody_punches_2 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_2.json | JSON Export |
+| Bloody_punches_3 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_3.json | JSON Export |
+| Bloody_punches_4 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_4.json | JSON Export |
+| Bloody_punches_5 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_5.json | JSON Export |
+| Bloody_punches_6 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_6.json | JSON Export |
+| Bloody_punches_7 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_7.json | JSON Export |
+| Bloody_punches_8 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_8.json | JSON Export |
+| Bloody_punches_9 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_punches\Bloody_punches_9.json | JSON Export |
+| Bloody_stabs_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_1.json | JSON Export |
+| Bloody_stabs_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_10.json | JSON Export |
+| Bloody_stabs_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_2.json | JSON Export |
+| Bloody_stabs_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_3.json | JSON Export |
+| Bloody_stabs_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_4.json | JSON Export |
+| Bloody_stabs_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_5.json | JSON Export |
+| Bloody_stabs_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_6.json | JSON Export |
+| Bloody_stabs_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_7.json | JSON Export |
+| Bloody_stabs_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_8.json | JSON Export |
+| Bloody_stabs_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Bloody_stabs\Bloody_stabs_9.json | JSON Export |
+| Blow_Torch_Stop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop.json | JSON Export |
+| Blow_Torch_Stop_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_2.json | JSON Export |
+| Blow_Torch_Stop_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_3.json | JSON Export |
+| Blow_Torch_Stop_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_4.json | JSON Export |
+| Blow_Torch_Stop_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_5.json | JSON Export |
+| Blow_Torch_Stop_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\Blow_Torch_Stop_6.json | JSON Export |
+| Body_Flesh_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_1.json | JSON Export |
+| Body_Flesh_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_1.json | JSON Export |
+| Body_Flesh_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_10.json | JSON Export |
+| Body_Flesh_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_10.json | JSON Export |
+| Body_Flesh_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_2.json | JSON Export |
+| Body_Flesh_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_2.json | JSON Export |
+| Body_Flesh_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_3.json | JSON Export |
+| Body_Flesh_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_3.json | JSON Export |
+| Body_Flesh_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_4.json | JSON Export |
+| Body_Flesh_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_4.json | JSON Export |
+| Body_Flesh_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_5.json | JSON Export |
+| Body_Flesh_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_5.json | JSON Export |
+| Body_Flesh_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_6.json | JSON Export |
+| Body_Flesh_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_6.json | JSON Export |
+| Body_Flesh_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_7.json | JSON Export |
+| Body_Flesh_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_7.json | JSON Export |
+| Body_Flesh_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_8.json | JSON Export |
+| Body_Flesh_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_8.json | JSON Export |
+| Body_Flesh_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Body_Flesh\Body_Flesh_9.json | JSON Export |
+| Body_Flesh_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_Flesh_Impact\Body_Flesh_9.json | JSON Export |
+| Body_armor_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_1.json | JSON Export |
+| Body_armor_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_10.json | JSON Export |
+| Body_armor_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_2.json | JSON Export |
+| Body_armor_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_3.json | JSON Export |
+| Body_armor_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_4.json | JSON Export |
+| Body_armor_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_5.json | JSON Export |
+| Body_armor_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_6.json | JSON Export |
+| Body_armor_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_7.json | JSON Export |
+| Body_armor_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_8.json | JSON Export |
+| Body_armor_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Body_armor_Impact\Body_armor_9.json | JSON Export |
+| Build_Loop_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Loop_02.json | JSON Export |
+| Build_Water_1_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_1.json | JSON Export |
+| Build_Water_1_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_2.json | JSON Export |
+| Build_Water_1_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_3.json | JSON Export |
+| Build_Water_1_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_4.json | JSON Export |
+| Build_Water_1_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Building___Interface\Build_Water_1_5.json | JSON Export |
+| Car_Brake_Screech | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech.json | JSON Export |
+| Car_Brake_Screech_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech_2.json | JSON Export |
+| Car_Brake_Screech_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech_3.json | JSON Export |
+| Car_Brake_Screech_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Brake_Screech_4.json | JSON Export |
+| Car_Engine_Start_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Car_Engine_Start_2.json | JSON Export |
+| Car_Engine_Start_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Engine_Start_8.json | JSON Export |
+| Car_Impact_Concrete | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete.json | JSON Export |
+| Car_Impact_Concrete_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_1.json | JSON Export |
+| Car_Impact_Concrete_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_2.json | JSON Export |
+| Car_Impact_Concrete_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_3.json | JSON Export |
+| Car_Impact_Concrete_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Car_Impact_Concrete_4.json | JSON Export |
+| Car_alarm | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Car_alarm.json | JSON Export |
+| Cash_register_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Cash_register_3.json | JSON Export |
+| Cash_register_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Cash_register_4.json | JSON Export |
+| Cash_register_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Cash_register_5.json | JSON Export |
+| Cave | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\Cave.json | JSON Export |
+| Chest_Open_Creak_2_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Chest_Open_Creak_2_1.json | JSON Export |
+| Chest_Open_Creak_2_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Chest_Open_Creak_2_2.json | JSON Export |
+| Click_sound_34 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Click_sound_34.json | JSON Export |
+| Clicks_Sound__button_hover__1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__1.json | JSON Export |
+| Clicks_Sound__button_hover__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__2.json | JSON Export |
+| Clicks_Sound__button_hover__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__3.json | JSON Export |
+| Clicks_Sound__button_hover__5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__5.json | JSON Export |
+| Clicks_Sound__button_hover__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__6.json | JSON Export |
+| Clicks_Sound__button_hover__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Clicks_Sound__button_hover__9.json | JSON Export |
+| Closing_Door_1 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Closing_Door_1.json | JSON Export |
+| Closing_Door_3 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Closing_Door_3.json | JSON Export |
+| Closing_Locker_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Locker_4.json | JSON Export |
+| Closing_Zipper | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper.json | JSON Export |
+| Closing_Zipper_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_2.json | JSON Export |
+| Closing_Zipper_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_3.json | JSON Export |
+| Closing_Zipper_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_4.json | JSON Export |
+| Closing_Zipper_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Closing_Zipper_5.json | JSON Export |
+| Cloth_item_ripped | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped.json | JSON Export |
+| Cloth_item_ripped_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_2.json | JSON Export |
+| Cloth_item_ripped_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_3.json | JSON Export |
+| Cloth_item_ripped_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_4.json | JSON Export |
+| Cloth_item_ripped_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_5.json | JSON Export |
+| Cloth_item_ripped_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_6.json | JSON Export |
+| Cloth_item_ripped_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_7.json | JSON Export |
+| Cloth_item_ripped_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cloth_item_ripped_8.json | JSON Export |
+| Collision_Hit_01 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Collision_Hit_01.json | JSON Export |
+| Collision_Hit_02 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Collision_Hit_02.json | JSON Export |
+| Concrete_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_1.json | JSON Export |
+| Concrete_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_2.json | JSON Export |
+| Concrete_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_3.json | JSON Export |
+| Concrete_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_4.json | JSON Export |
+| Concrete_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_5.json | JSON Export |
+| Concrete_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_6.json | JSON Export |
+| Concrete_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_7.json | JSON Export |
+| Concrete_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Concrete\Concrete_8.json | JSON Export |
+| Crafting_Cloth_item | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item.json | JSON Export |
+| Crafting_Cloth_item_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_2.json | JSON Export |
+| Crafting_Cloth_item_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_3.json | JSON Export |
+| Crafting_Cloth_item_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_4.json | JSON Export |
+| Crafting_Cloth_item_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_5.json | JSON Export |
+| Crafting_Cloth_item_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Cloth_item_6.json | JSON Export |
+| Crafting_Metallic_item | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item.json | JSON Export |
+| Crafting_Metallic_item_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_2.json | JSON Export |
+| Crafting_Metallic_item_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_3.json | JSON Export |
+| Crafting_Metallic_item_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_4.json | JSON Export |
+| Crafting_Metallic_item_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Metallic_item_5.json | JSON Export |
+| Crafting_Wooden_item | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item.json | JSON Export |
+| Crafting_Wooden_item | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item.json | JSON Export |
+| Crafting_Wooden_item | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item.json | JSON Export |
+| Crafting_Wooden_item_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_2.json | JSON Export |
+| Crafting_Wooden_item_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_2.json | JSON Export |
+| Crafting_Wooden_item_2 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_2.json | JSON Export |
+| Crafting_Wooden_item_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_3.json | JSON Export |
+| Crafting_Wooden_item_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_3.json | JSON Export |
+| Crafting_Wooden_item_3 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_3.json | JSON Export |
+| Crafting_Wooden_item_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_4.json | JSON Export |
+| Crafting_Wooden_item_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_4.json | JSON Export |
+| Crafting_Wooden_item_4 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_4.json | JSON Export |
+| Crafting_Wooden_item_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_5.json | JSON Export |
+| Crafting_Wooden_item_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_5.json | JSON Export |
+| Crafting_Wooden_item_5 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_5.json | JSON Export |
+| Crafting_Wooden_item_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_6.json | JSON Export |
+| Crafting_Wooden_item_6 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_6.json | JSON Export |
+| Crafting_Wooden_item_6 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Crafting_Wooden_item_6.json | JSON Export |
+| Cutting_on_cutting_board_6 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Cutting_on_cutting_board_6.json | JSON Export |
+| Dark04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark04.json | JSON Export |
+| Dark05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark05.json | JSON Export |
+| Dark08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark08.json | JSON Export |
+| Dark09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Dark09.json | JSON Export |
+| Death_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_1.json | JSON Export |
+| Death_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_10.json | JSON Export |
+| Death_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_11.json | JSON Export |
+| Death_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_12.json | JSON Export |
+| Death_13 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_13.json | JSON Export |
+| Death_14 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_14.json | JSON Export |
+| Death_15 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_15.json | JSON Export |
+| Death_16 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_16.json | JSON Export |
+| Death_17 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_17.json | JSON Export |
+| Death_18 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_18.json | JSON Export |
+| Death_19 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_19.json | JSON Export |
+| Death_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_2.json | JSON Export |
+| Death_20 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_20.json | JSON Export |
+| Death_21 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_21.json | JSON Export |
+| Death_22 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_22.json | JSON Export |
+| Death_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_3.json | JSON Export |
+| Death_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_4.json | JSON Export |
+| Death_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_5.json | JSON Export |
+| Death_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_6.json | JSON Export |
+| Death_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_7.json | JSON Export |
+| Death_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_8.json | JSON Export |
+| Death_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\Death_9.json | JSON Export |
+| Dirt_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_1.json | JSON Export |
+| Dirt_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_2.json | JSON Export |
+| Dirt_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_3.json | JSON Export |
+| Dirt_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_4.json | JSON Export |
+| Dirt_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_5.json | JSON Export |
+| Dirt_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_6.json | JSON Export |
+| Dirt_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_7.json | JSON Export |
+| Dirt_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Dirt\Dirt_8.json | JSON Export |
+| Diving_In_Sound_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_1.json | JSON Export |
+| Diving_In_Sound_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_10.json | JSON Export |
+| Diving_In_Sound_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_2.json | JSON Export |
+| Diving_In_Sound_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_3.json | JSON Export |
+| Diving_In_Sound_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_4.json | JSON Export |
+| Diving_In_Sound_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_5.json | JSON Export |
+| Diving_In_Sound_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_6.json | JSON Export |
+| Diving_In_Sound_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_7.json | JSON Export |
+| Diving_In_Sound_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_8.json | JSON Export |
+| Diving_In_Sound_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_In_Sound_9.json | JSON Export |
+| Diving_Out_Sound_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_1.json | JSON Export |
+| Diving_Out_Sound_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_10.json | JSON Export |
+| Diving_Out_Sound_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_2.json | JSON Export |
+| Diving_Out_Sound_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_3.json | JSON Export |
+| Diving_Out_Sound_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_4.json | JSON Export |
+| Diving_Out_Sound_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_5.json | JSON Export |
+| Diving_Out_Sound_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_6.json | JSON Export |
+| Diving_Out_Sound_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_7.json | JSON Export |
+| Diving_Out_Sound_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_8.json | JSON Export |
+| Diving_Out_Sound_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Diving_Out_Sound_9.json | JSON Export |
+| Door_Close_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Door_Close_4.json | JSON Export |
+| Drop_Item_From_ContentBrowser | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Drop_Item_From_ContentBrowser.json | JSON Export |
+| Duck_Normal_Attack_MixMod | pakchunk0-Windows\Engine\Content\EngineSounds\Duck_Normal_Attack_MixMod.json | JSON Export |
+| ElevatorMovement | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ShoppingMall\Meshes\Elevator\Sound\ElevatorMovement.json | JSON Export |
+| Explosion_03_With_Echo_Enhancement | pakchunk32-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\With_Echo\Object_Destruction\Explosion_03_With_Echo_Enhancement.json | JSON Export |
+| Explosion_Gas_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Explosion_Sounds_Pro_HD_Remake\Wavs\Explosion_Gas_1.json | JSON Export |
+| Explosion_Gas_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Explosion_Sounds_Pro_HD_Remake\Wavs\Explosion_Gas_2.json | JSON Export |
+| Explosion_General_Fast_Small_Distorted-01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-01.json | JSON Export |
+| Explosion_General_Fast_Small_Distorted-02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-02.json | JSON Export |
+| Explosion_General_Fast_Small_Distorted-03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-03.json | JSON Export |
+| Explosion_General_Fast_Small_Distorted-04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Fast\Small\Explosion_General_Fast_Small_Distorted-04.json | JSON Export |
+| Explosion_General_Slow_Small_Distorted-01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-01.json | JSON Export |
+| Explosion_General_Slow_Small_Distorted-02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-02.json | JSON Export |
+| Explosion_General_Slow_Small_Distorted-03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-03.json | JSON Export |
+| Explosion_General_Slow_Small_Distorted-04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Explosion_Sounds\WAV\General\Slow\Small\Explosion_General_Slow_Small_Distorted-04.json | JSON Export |
+| Fire_Explosion_06_With_Echo_Enhancement | pakchunk32-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\With_Echo\Object_Destruction\Fire_Explosion_06_With_Echo_Enhancement.json | JSON Export |
+| Flare_Gun_Single_Shot_Short | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Flare_Gun\Flare_Gun_Single_Shot_Short.json | JSON Export |
+| Footsteps_Bush__Running_ | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running_.json | JSON Export |
+| Footsteps_Bush__Running__10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__10.json | JSON Export |
+| Footsteps_Bush__Running__11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__11.json | JSON Export |
+| Footsteps_Bush__Running__12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__12.json | JSON Export |
+| Footsteps_Bush__Running__13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__13.json | JSON Export |
+| Footsteps_Bush__Running__14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__14.json | JSON Export |
+| Footsteps_Bush__Running__15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__15.json | JSON Export |
+| Footsteps_Bush__Running__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__2.json | JSON Export |
+| Footsteps_Bush__Running__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__3.json | JSON Export |
+| Footsteps_Bush__Running__4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__4.json | JSON Export |
+| Footsteps_Bush__Running__5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__5.json | JSON Export |
+| Footsteps_Bush__Running__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__6.json | JSON Export |
+| Footsteps_Bush__Running__7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__7.json | JSON Export |
+| Footsteps_Bush__Running__8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__8.json | JSON Export |
+| Footsteps_Bush__Running__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Footsteps_Bush__Running__9.json | JSON Export |
+| Forest_Night_Time | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Forest_Night_Time.json | JSON Export |
+| Gear_Wood_1 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_1.json | JSON Export |
+| Gear_Wood_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_2.json | JSON Export |
+| Gear_Wood_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_3.json | JSON Export |
+| Gear_Wood_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_4.json | JSON Export |
+| Gear_Wood_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Gear_Wood_5.json | JSON Export |
+| General_Fire_Loop_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Fire_Flame_Sounds\Wavs\General_Fire_Loop_8.json | JSON Export |
+| Ghost_Attack_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_02.json | JSON Export |
+| Ghost_Attack_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_03.json | JSON Export |
+| Ghost_Attack_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_05.json | JSON Export |
+| Ghost_Attack_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_06.json | JSON Export |
+| Ghost_Attack_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_07.json | JSON Export |
+| Ghost_Attack_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_08.json | JSON Export |
+| Ghost_Attack_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_09.json | JSON Export |
+| Ghost_Attack_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_10.json | JSON Export |
+| Ghost_Attack_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_11.json | JSON Export |
+| Ghost_Attack_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Attack_12.json | JSON Export |
+| Ghost_Death_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_01.json | JSON Export |
+| Ghost_Death_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_02.json | JSON Export |
+| Ghost_Death_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_03.json | JSON Export |
+| Ghost_Death_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_04.json | JSON Export |
+| Ghost_Death_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_Death_05.json | JSON Export |
+| Ghost_attack_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ghost_Sounds\Wavs\Ghost_attack_04.json | JSON Export |
+| Gizmo_Handle_Clicked | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Gizmo_Handle_Clicked.json | JSON Export |
+| Glass_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_1.json | JSON Export |
+| Glass_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_2.json | JSON Export |
+| Glass_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_3.json | JSON Export |
+| Glass_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_4.json | JSON Export |
+| Glass_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_5.json | JSON Export |
+| Glass_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_6.json | JSON Export |
+| Glass_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_7.json | JSON Export |
+| Glass_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Glass\Glass_8.json | JSON Export |
+| Glass_breaking | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking.json | JSON Export |
+| Glass_breaking_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_2.json | JSON Export |
+| Glass_breaking_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_3.json | JSON Export |
+| Glass_breaking_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_4.json | JSON Export |
+| Glass_breaking_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_5.json | JSON Export |
+| Glass_breaking_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_6.json | JSON Export |
+| Glass_breaking_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_7.json | JSON Export |
+| Glass_breaking_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Glass_breaking_8.json | JSON Export |
+| Glass_close_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_1.json | JSON Export |
+| Glass_close_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_2.json | JSON Export |
+| Glass_close_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_3.json | JSON Export |
+| Glass_close_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_4.json | JSON Export |
+| Glass_close_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_5.json | JSON Export |
+| Glass_close_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_6.json | JSON Export |
+| Glass_close_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_7.json | JSON Export |
+| Glass_close_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Glass_Close_Impact\Glass_close_8.json | JSON Export |
+| Gravel_Footsteps_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_1.json | JSON Export |
+| Gravel_Footsteps_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_10.json | JSON Export |
+| Gravel_Footsteps_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_11.json | JSON Export |
+| Gravel_Footsteps_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_12.json | JSON Export |
+| Gravel_Footsteps_13 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_13.json | JSON Export |
+| Gravel_Footsteps_14 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_14.json | JSON Export |
+| Gravel_Footsteps_15 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_15.json | JSON Export |
+| Gravel_Footsteps_16 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_16.json | JSON Export |
+| Gravel_Footsteps_17 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_17.json | JSON Export |
+| Gravel_Footsteps_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_18.json | JSON Export |
+| Gravel_Footsteps_19 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_19.json | JSON Export |
+| Gravel_Footsteps_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_2.json | JSON Export |
+| Gravel_Footsteps_20 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_20.json | JSON Export |
+| Gravel_Footsteps_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_3.json | JSON Export |
+| Gravel_Footsteps_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_4.json | JSON Export |
+| Gravel_Footsteps_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_5.json | JSON Export |
+| Gravel_Footsteps_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_6.json | JSON Export |
+| Gravel_Footsteps_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_7.json | JSON Export |
+| Gravel_Footsteps_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_8.json | JSON Export |
+| Gravel_Footsteps_9 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\GRAVEL\Gravel_Footsteps_9.json | JSON Export |
+| Hallway | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\Hallway.json | JSON Export |
+| Head_exploding_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Head_exploding\Head_exploding_1.json | JSON Export |
+| Head_exploding_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Head_exploding\Head_exploding_4.json | JSON Export |
+| Head_shot_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_1.json | JSON Export |
+| Head_shot_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_2.json | JSON Export |
+| Head_shot_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_3.json | JSON Export |
+| Head_shot_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_4.json | JSON Export |
+| Head_shot_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Head_shot\Head_shot_5.json | JSON Export |
+| Idle_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_1.json | JSON Export |
+| Idle_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_10.json | JSON Export |
+| Idle_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_11.json | JSON Export |
+| Idle_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_12.json | JSON Export |
+| Idle_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_2.json | JSON Export |
+| Idle_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_3.json | JSON Export |
+| Idle_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_4.json | JSON Export |
+| Idle_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_5.json | JSON Export |
+| Idle_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_6.json | JSON Export |
+| Idle_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_7.json | JSON Export |
+| Idle_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_8.json | JSON Export |
+| Idle_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\Idle_9.json | JSON Export |
+| Impact_Hit_Bone_Muscle_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_01.json | JSON Export |
+| Impact_Hit_Bone_Muscle_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_02.json | JSON Export |
+| Impact_Hit_Bone_Muscle_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_03.json | JSON Export |
+| Impact_Hit_Bone_Muscle_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_04.json | JSON Export |
+| Impact_Hit_Bone_Muscle_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Hit_Bone_Muscle_05.json | JSON Export |
+| Impact_Sword_To_Body_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_01.json | JSON Export |
+| Impact_Sword_To_Body_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_02.json | JSON Export |
+| Impact_Sword_To_Body_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_03.json | JSON Export |
+| Impact_Sword_To_Body_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_04.json | JSON Export |
+| Impact_Sword_To_Body_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Body_05.json | JSON Export |
+| Impact_Sword_To_Shield_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_01.json | JSON Export |
+| Impact_Sword_To_Shield_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_02.json | JSON Export |
+| Impact_Sword_To_Shield_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_03.json | JSON Export |
+| Impact_Sword_To_Shield_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_04.json | JSON Export |
+| Impact_Sword_To_Shield_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Impact_Sword_To_Shield_05.json | JSON Export |
+| Knife_Stab_Without_Flesh_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_01.json | JSON Export |
+| Knife_Stab_Without_Flesh_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_02.json | JSON Export |
+| Knife_Stab_Without_Flesh_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_03.json | JSON Export |
+| Knife_Stab_Without_Flesh_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_04.json | JSON Export |
+| Knife_Stab_Without_Flesh_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Knife_Stab_Without_Flesh_05.json | JSON Export |
+| LargeHall | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\LargeHall.json | JSON Export |
+| LargeRoom | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\LargeRoom.json | JSON Export |
+| Light_Rain | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Light_Rain.json | JSON Export |
+| Lighter_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Lighter_4.json | JSON Export |
+| Lighter_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Lighter_5.json | JSON Export |
+| Lion_attacks_bites | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites.json | JSON Export |
+| Lion_attacks_bites_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_1.json | JSON Export |
+| Lion_attacks_bites_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_2.json | JSON Export |
+| Lion_attacks_bites_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_3.json | JSON Export |
+| Lion_attacks_bites_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Animal_Sound_HD_Remake\Wavs\Lion_attacks_bites_4.json | JSON Export |
+| Locker_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_1.json | JSON Export |
+| Locker_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_10.json | JSON Export |
+| Locker_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_2.json | JSON Export |
+| Locker_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_3.json | JSON Export |
+| Locker_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_4.json | JSON Export |
+| Locker_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_5.json | JSON Export |
+| Locker_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_6.json | JSON Export |
+| Locker_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_7.json | JSON Export |
+| Locker_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_8.json | JSON Export |
+| Locker_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Metal\Locker_9.json | JSON Export |
+| M16_Single_Shot_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\M16_AR\M16_Single_Shot_7.json | JSON Export |
+| MS_S_AbandonedFactory | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_AbandonedFactory.json | JSON Export |
+| MS_S_AbandonedFactory_Hall | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_AbandonedFactory_Hall.json | JSON Export |
+| MS_S_Auditorium | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Auditorium.json | JSON Export |
+| MS_S_Brook | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Brook.json | JSON Export |
+| MS_S_Cave | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Cave.json | JSON Export |
+| MS_S_Cave_LyonMountainNoises | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Cave_LyonMountainNoises.json | JSON Export |
+| MS_S_DannemoraPrison | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_DannemoraPrison.json | JSON Export |
+| MS_S_DefaultRoom | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_DefaultRoom.json | JSON Export |
+| MS_S_Lake | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Lake.json | JSON Export |
+| MS_S_LakeSide | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_LakeSide.json | JSON Export |
+| MS_S_Nature_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Nature_1.json | JSON Export |
+| MS_S_Pond | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Pond.json | JSON Export |
+| MS_S_River | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_River.json | JSON Export |
+| MS_S_RiverSide | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_RiverSide.json | JSON Export |
+| MS_S_Swamp | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Swamp.json | JSON Export |
+| MS_S_Warehouse1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Warehouse1.json | JSON Export |
+| MS_S_Warehouse2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Warehouse2.json | JSON Export |
+| MS_S_Warehouse3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\MS_S_Warehouse3.json | JSON Export |
+| Master | pakchunk0-Windows\Engine\Content\EngineSounds\Master.json | JSON Export |
+| Master | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\Master.json | JSON Export |
+| MasterEQEffectPreset | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterEQEffectPreset.json | JSON Export |
+| MasterEQSubmixDefault | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterEQSubmixDefault.json | JSON Export |
+| MasterReverbEffectPreset | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterReverbEffectPreset.json | JSON Export |
+| MasterReverbSubmixDefault | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterReverbSubmixDefault.json | JSON Export |
+| MasterSubmixDefault | pakchunk0-Windows\Engine\Content\EngineSounds\Submixes\MasterSubmixDefault.json | JSON Export |
+| Meat_sizzling_on_frying_pan | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Meat_sizzling_on_frying_pan.json | JSON Export |
+| MediumRoom | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\MediumRoom.json | JSON Export |
+| Metal_Heavy_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_1.json | JSON Export |
+| Metal_Heavy_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_2.json | JSON Export |
+| Metal_Heavy_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_3.json | JSON Export |
+| Metal_Heavy_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_4.json | JSON Export |
+| Metal_Heavy_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_5.json | JSON Export |
+| Metal_Heavy_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_6.json | JSON Export |
+| Metal_Heavy_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_7.json | JSON Export |
+| Metal_Heavy_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Metal_Heavy\Metal_Heavy_8.json | JSON Export |
+| Metal_hard_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_1.json | JSON Export |
+| Metal_hard_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_2.json | JSON Export |
+| Metal_hard_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_3.json | JSON Export |
+| Metal_hard_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_5.json | JSON Export |
+| Metal_hard_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_6.json | JSON Export |
+| Metal_hard_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_7.json | JSON Export |
+| Metal_hard_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Metal_hard_Impact\Metal_hard_8.json | JSON Export |
+| Mud_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_1.json | JSON Export |
+| Mud_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_2.json | JSON Export |
+| Mud_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_3.json | JSON Export |
+| Mud_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_4.json | JSON Export |
+| Mud_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_5.json | JSON Export |
+| Mud_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_6.json | JSON Export |
+| Mud_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_7.json | JSON Export |
+| Mud_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Bullet_Impacts_Flybys\Mud_Impact\Mud_8.json | JSON Export |
+| Mud_footsteps_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_1.json | JSON Export |
+| Mud_footsteps_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_10.json | JSON Export |
+| Mud_footsteps_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_11.json | JSON Export |
+| Mud_footsteps_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_12.json | JSON Export |
+| Mud_footsteps_13 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_13.json | JSON Export |
+| Mud_footsteps_14 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_14.json | JSON Export |
+| Mud_footsteps_15 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_15.json | JSON Export |
+| Mud_footsteps_16 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_16.json | JSON Export |
+| Mud_footsteps_17 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_17.json | JSON Export |
+| Mud_footsteps_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_18.json | JSON Export |
+| Mud_footsteps_19 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_19.json | JSON Export |
+| Mud_footsteps_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_2.json | JSON Export |
+| Mud_footsteps_20 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_20.json | JSON Export |
+| Mud_footsteps_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_3.json | JSON Export |
+| Mud_footsteps_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_4.json | JSON Export |
+| Mud_footsteps_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_5.json | JSON Export |
+| Mud_footsteps_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_6.json | JSON Export |
+| Mud_footsteps_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_7.json | JSON Export |
+| Mud_footsteps_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_8.json | JSON Export |
+| Mud_footsteps_9 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\MUD\Mud_footsteps_9.json | JSON Export |
+| Normal_Attack | pakchunk0-Windows\Engine\Content\EngineSounds\Normal_Attack.json | JSON Export |
+| Object_Break_Into_Body_01 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Object_Break_Into_Body_01.json | JSON Export |
+| Object_Break_Into_Body_02 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Object_Break_Into_Body_02.json | JSON Export |
+| Object_Break_Into_Body_03 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Object_Break_Into_Body_03.json | JSON Export |
+| Object_PickUp | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Object_PickUp.json | JSON Export |
+| Object_Snaps_To_Another_Actor | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Object_Snaps_To_Another_Actor.json | JSON Export |
+| Object_Snaps_To_Grid | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Object_Snaps_To_Grid.json | JSON Export |
+| OpenDoor | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ShoppingMall\Meshes\Elevator\Sound\OpenDoor.json | JSON Export |
+| Opening_Door | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Door.json | JSON Export |
+| Opening_Locker_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Opening_Locker_5.json | JSON Export |
+| Opening_Trunk_1 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_1.json | JSON Export |
+| Opening_Trunk_2 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_2.json | JSON Export |
+| Opening_Trunk_3 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_3.json | JSON Export |
+| Opening_Trunk_4 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_4.json | JSON Export |
+| Opening_Trunk_5 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Car_Sounds\Wavs\Opening_Trunk_5.json | JSON Export |
+| Pistol_Draw | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_01\Pistol_Draw.json | JSON Export |
+| Pistol_Mag_IN | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_01\Pistol_Mag_IN.json | JSON Export |
+| Pistol_Mag_Out | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_01\Pistol_Mag_Out.json | JSON Export |
+| Pistol_Shot_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gun_Sounds_Pro_HD_Remake\Wavs\Pistol_Shot_18.json | JSON Export |
+| Pistol_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_03\Pistol_Single_Shot_2.json | JSON Export |
+| Pistol_Single_Shot_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_03\Pistol_Single_Shot_3.json | JSON Export |
+| Pistol_Single_Shot__Suppressed_ | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Pistol_05\Pistol_Single_Shot__Suppressed_.json | JSON Export |
+| Pulling_string_back__Bow__1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__1.json | JSON Export |
+| Pulling_string_back__Bow__10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__10.json | JSON Export |
+| Pulling_string_back__Bow__11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__11.json | JSON Export |
+| Pulling_string_back__Bow__12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__12.json | JSON Export |
+| Pulling_string_back__Bow__13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__13.json | JSON Export |
+| Pulling_string_back__Bow__14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__14.json | JSON Export |
+| Pulling_string_back__Bow__15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__15.json | JSON Export |
+| Pulling_string_back__Bow__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__2.json | JSON Export |
+| Pulling_string_back__Bow__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__3.json | JSON Export |
+| Pulling_string_back__Bow__4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__4.json | JSON Export |
+| Pulling_string_back__Bow__5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__5.json | JSON Export |
+| Pulling_string_back__Bow__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__6.json | JSON Export |
+| Pulling_string_back__Bow__7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__7.json | JSON Export |
+| Pulling_string_back__Bow__8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__8.json | JSON Export |
+| Pulling_string_back__Bow__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Pulling_string_back\Pulling_string_back__Bow__9.json | JSON Export |
+| Punch_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_01.json | JSON Export |
+| Punch_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_02.json | JSON Export |
+| Punch_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_03.json | JSON Export |
+| Punch_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_04.json | JSON Export |
+| Punch_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_05.json | JSON Export |
+| Punch_05 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_05.json | JSON Export |
+| Punch_05 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_05.json | JSON Export |
+| Punch_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_06.json | JSON Export |
+| Punch_06 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_06.json | JSON Export |
+| Punch_06 | pakchunk17-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_06.json | JSON Export |
+| Punch_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_07.json | JSON Export |
+| Punch_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\Punch_08.json | JSON Export |
+| Radio_Bleep_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\MilitaryVoicePackPRO\Misc\Radio_Bleep_5.json | JSON Export |
+| Radio_Bleep_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\MilitaryVoicePackPRO\Misc\Radio_Bleep_9.json | JSON Export |
+| Rain_Storm_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Rain_Storm_2.json | JSON Export |
+| Releasing_string__Bow__1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__1.json | JSON Export |
+| Releasing_string__Bow__10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__10.json | JSON Export |
+| Releasing_string__Bow__11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__11.json | JSON Export |
+| Releasing_string__Bow__12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__12.json | JSON Export |
+| Releasing_string__Bow__13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__13.json | JSON Export |
+| Releasing_string__Bow__14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__14.json | JSON Export |
+| Releasing_string__Bow__15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__15.json | JSON Export |
+| Releasing_string__Bow__2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__2.json | JSON Export |
+| Releasing_string__Bow__3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__3.json | JSON Export |
+| Releasing_string__Bow__4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__4.json | JSON Export |
+| Releasing_string__Bow__5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__5.json | JSON Export |
+| Releasing_string__Bow__6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__6.json | JSON Export |
+| Releasing_string__Bow__7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__7.json | JSON Export |
+| Releasing_string__Bow__8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__8.json | JSON Export |
+| Releasing_string__Bow__9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bow_Arrow_Pro\Wavs\Releasing_string\Releasing_string__Bow__9.json | JSON Export |
+| Revolver_Reload | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gun_Sounds_Pro_HD_Remake\Wavs\Revolver_Reload.json | JSON Export |
+| Revolver_Single_Shot_NoTail | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Magnum_Revolver\Revolver_Single_Shot_NoTail.json | JSON Export |
+| Revolver_close | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Magnum_Revolver\Revolver_close.json | JSON Export |
+| River_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\River_2.json | JSON Export |
+| Rock_Impact_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_01.json | JSON Export |
+| Rock_Impact_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_02.json | JSON Export |
+| Rock_Impact_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_03.json | JSON Export |
+| Rock_Impact_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_04.json | JSON Export |
+| Rock_Impact_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_05.json | JSON Export |
+| Rock_Impact_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_06.json | JSON Export |
+| Rock_Impact_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_07.json | JSON Export |
+| Rock_Impact_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_08.json | JSON Export |
+| Rock_Impact_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_09.json | JSON Export |
+| Rock_Impact_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_10.json | JSON Export |
+| Rock_Impact_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_11.json | JSON Export |
+| Rock_Impact_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_12.json | JSON Export |
+| Rock_Impact_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_13.json | JSON Export |
+| Rock_Impact_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_14.json | JSON Export |
+| Rock_Impact_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_15.json | JSON Export |
+| Rock_Impact_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_16.json | JSON Export |
+| Rock_Impact_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_17.json | JSON Export |
+| Rock_Impact_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_18.json | JSON Export |
+| Rock_Impact_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_19.json | JSON Export |
+| Rock_Impact_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_20.json | JSON Export |
+| Rock_Impact_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_21.json | JSON Export |
+| Rock_Impact_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Stone\Rock_Impact_22.json | JSON Export |
+| Rocks_Destroy_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Rocks_Destroy_01.json | JSON Export |
+| Rocks_Destroy_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Rocks_Destroy_02.json | JSON Export |
+| Rocks_Destroy_02_With_Echo_Enhancement | pakchunk1-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\With_Echo\Object_Destruction\Rocks_Destroy_02_With_Echo_Enhancement.json | JSON Export |
+| Rocks_Destroy_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Rocks_Destroy_03.json | JSON Export |
+| SCC_VOIPSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\SCC_VOIPSpeaker.json | JSON Export |
+| SC_ArrowHitWood | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Hits___Impacts\SC_ArrowHitWood.json | JSON Export |
+| SC_BagZombie | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_BagZombie.json | JSON Export |
+| SC_Death3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Death\SC_Death3.json | JSON Export |
+| SC_MinifridgeLoop | pakchunk0-Windows\Vein\Content\Vein\Containers\Residential\Garage\SC_MinifridgeLoop.json | JSON Export |
+| SC_RocksDestroy | pakchunk0-Windows\Vein\Content\Vein\Spawner\SC_RocksDestroy.json | JSON Export |
+| SC_Strike | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\SC_Strike.json | JSON Export |
+| SC_Totem_Off | pakchunk0-Windows\Vein\Content\Vein\Spawner\SC_Totem_Off.json | JSON Export |
+| SC_Totem_On | pakchunk0-Windows\Vein\Content\Vein\Spawner\SC_Totem_On.json | JSON Export |
+| SC_Wind1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Soundscapes\SC_Wind1.json | JSON Export |
+| SC_ZombieBark | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_ZombieBark.json | JSON Export |
+| SC_ZombieBreathe1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_ZombieBreathe1.json | JSON Export |
+| SC_ZombieBreathe2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\IdleStanding\SC_ZombieBreathe2.json | JSON Export |
+| SC_ZombieDeath | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\SC_ZombieDeath.json | JSON Export |
+| SEFP_Loudspeaker_EQ | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Loudspeaker_EQ.json | JSON Export |
+| SEFP_Radio_Bitcrush | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Radio_Bitcrush.json | JSON Export |
+| SEFP_Radio_EQ | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Radio_EQ.json | JSON Export |
+| SEFP_Underwater_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEFP_Underwater_VOIP.json | JSON Export |
+| SEF_Underwater | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\SEF_Underwater.json | JSON Export |
+| SEPC_Loudspeaker_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Loudspeaker_VOIP.json | JSON Export |
+| SEPC_Radio_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Radio_VOIP.json | JSON Export |
+| SEPC_Underwater_Radio_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Underwater_Radio_VOIP.json | JSON Export |
+| SEPC_Underwater_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP\SEPC_Underwater_VOIP.json | JSON Export |
+| SFX | pakchunk0-Windows\Engine\Content\EngineSounds\SFX.json | JSON Export |
+| SMG_Draw | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Draw.json | JSON Export |
+| SMG_Single_Shot | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot.json | JSON Export |
+| SMG_Single_Shot_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot_2.json | JSON Export |
+| SMG_Single_Shot_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_02\SMG_Single_Shot_3.json | JSON Export |
+| SMG_Single_Shot__Suppressed_ | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot__Suppressed_.json | JSON Export |
+| SMG_Single_Shot__Suppressed__2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot__Suppressed__2.json | JSON Export |
+| SMG_Single_Shot__Suppressed__3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Real_Recorded_Guns\Wavs\Guns\Submachine_Gun_01\SMG_Single_Shot__Suppressed__3.json | JSON Export |
+| SM_Settings | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\SM_Settings.json | JSON Export |
+| SSAS_VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\VOIP\SSAS_VOIP.json | JSON Export |
+| S_Paper_Tear01 | pakchunk0-Windows\Vein\Content\Marketplace\Environments\BasicOffice\Sounds\Paper\S_Paper_Tear01.json | JSON Export |
+| S_Paper_Tear02 | pakchunk0-Windows\Vein\Content\Marketplace\Environments\BasicOffice\Sounds\Paper\S_Paper_Tear02.json | JSON Export |
+| Sand_footsteps_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_1.json | JSON Export |
+| Sand_footsteps_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_10.json | JSON Export |
+| Sand_footsteps_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_11.json | JSON Export |
+| Sand_footsteps_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_12.json | JSON Export |
+| Sand_footsteps_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_13.json | JSON Export |
+| Sand_footsteps_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_14.json | JSON Export |
+| Sand_footsteps_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_15.json | JSON Export |
+| Sand_footsteps_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_16.json | JSON Export |
+| Sand_footsteps_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_17.json | JSON Export |
+| Sand_footsteps_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_18.json | JSON Export |
+| Sand_footsteps_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_19.json | JSON Export |
+| Sand_footsteps_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_2.json | JSON Export |
+| Sand_footsteps_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_20.json | JSON Export |
+| Sand_footsteps_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_3.json | JSON Export |
+| Sand_footsteps_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_4.json | JSON Export |
+| Sand_footsteps_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_5.json | JSON Export |
+| Sand_footsteps_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_6.json | JSON Export |
+| Sand_footsteps_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_7.json | JSON Export |
+| Sand_footsteps_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_8.json | JSON Export |
+| Sand_footsteps_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Footstep_Sounds\Wav\SAND\Sand_footsteps_9.json | JSON Export |
+| Scaling_Down | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Scaling_Down.json | JSON Export |
+| Scaling_Up | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Scaling_Up.json | JSON Export |
+| ScandinavianNatureAmbience_04_SummerNoon_Fixed | pakchunk0-Windows\Vein\Content\Marketplace\Audio\ScandinavianNatureAmbience\wav\ScandinavianNatureAmbience_04_SummerNoon_Fixed.json | JSON Export |
+| Selection_Changes | pakchunk0-Windows\Engine\Content\VREditor\Sounds\UI\Selection_Changes.json | JSON Export |
+| Simple_Click_Sound_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Modern_UI_Sounds_HD_Rework\Wavs\Simple_Click_Sound_15.json | JSON Export |
+| Skull_crashed_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Skull_Crashed\Skull_crashed_1.json | JSON Export |
+| Skull_crashed_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Gore_Sounds_Pro\Wavs\Skull_Crashed\Skull_crashed_2.json | JSON Export |
+| Slice | pakchunk13-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Wounds\Slice.json | JSON Export |
+| SmallRoom | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\SmallRoom.json | JSON Export |
+| Smoke01 | pakchunk0-Windows\Vein\Content\StarterContent\Audio\Smoke01.json | JSON Export |
+| Smoke01_Cue | pakchunk0-Windows\Vein\Content\StarterContent\Audio\Smoke01_Cue.json | JSON Export |
+| Snow_1 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_1.json | JSON Export |
+| Snow_2 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_2.json | JSON Export |
+| Snow_3 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_3.json | JSON Export |
+| Snow_4 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_4.json | JSON Export |
+| Snow_5 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_5.json | JSON Export |
+| Snow_6 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_6.json | JSON Export |
+| Snow_7 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_7.json | JSON Export |
+| Snow_8 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Snow\Snow_8.json | JSON Export |
+| Snow_Storm_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Natural_Ambiances_VOL2_HD_Remake\Wavs\Snow_Storm_2.json | JSON Export |
+| Special_Attack_PSM | pakchunk0-Windows\Engine\Content\EngineSounds\Special_Attack_PSM.json | JSON Export |
+| StoneCorridor | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\StoneCorridor.json | JSON Export |
+| StoneRoom_Large | pakchunk0-Windows\Engine\Content\EngineSounds\ReverbSettings\StoneRoom_Large.json | JSON Export |
+| Stone_Impact | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact.json | JSON Export |
+| Stone_Impact | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact.json | JSON Export |
+| Stone_Impact_2 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_2.json | JSON Export |
+| Stone_Impact_2 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_2.json | JSON Export |
+| Stone_Impact_2_Cue | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Cues\Stone_Impact_2_Cue.json | JSON Export |
+| Stone_Impact_3 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_3.json | JSON Export |
+| Stone_Impact_3 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_3.json | JSON Export |
+| Stone_Impact_4 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_4.json | JSON Export |
+| Stone_Impact_4 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_4.json | JSON Export |
+| Stone_Impact_5 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_5.json | JSON Export |
+| Stone_Impact_5 | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Stone_Impact_5.json | JSON Export |
+| Strike_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_1.json | JSON Export |
+| Strike_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_10.json | JSON Export |
+| Strike_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_11.json | JSON Export |
+| Strike_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_12.json | JSON Export |
+| Strike_13 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_13.json | JSON Export |
+| Strike_14 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_14.json | JSON Export |
+| Strike_15 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_15.json | JSON Export |
+| Strike_16 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_16.json | JSON Export |
+| Strike_17 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_17.json | JSON Export |
+| Strike_18 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_18.json | JSON Export |
+| Strike_19 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_19.json | JSON Export |
+| Strike_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_2.json | JSON Export |
+| Strike_20 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_20.json | JSON Export |
+| Strike_21 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_21.json | JSON Export |
+| Strike_22 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_22.json | JSON Export |
+| Strike_23 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_23.json | JSON Export |
+| Strike_24 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_24.json | JSON Export |
+| Strike_25 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_25.json | JSON Export |
+| Strike_26 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_26.json | JSON Export |
+| Strike_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_3.json | JSON Export |
+| Strike_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_4.json | JSON Export |
+| Strike_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_5.json | JSON Export |
+| Strike_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_6.json | JSON Export |
+| Strike_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_7.json | JSON Export |
+| Strike_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_8.json | JSON Export |
+| Strike_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Pack3\Strike\Strike_9.json | JSON Export |
+| Sus4_Helicopter_Away_1_Loop | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Aircraft_Sound_Vol1\Aircraft_Sound_Loops\Aircraft_Helicopter_Loops\Audio\Sus4_Helicopter_Away_1_Loop.json | JSON Export |
+| Sus4_Helicopter_Ext_1_Loop | pakchunk17-Windows\Vein\Content\Marketplace\Audio\Aircraft_Sound_Vol1\Aircraft_Sound_Loops\Aircraft_Helicopter_Loops\Audio\Sus4_Helicopter_Ext_1_Loop.json | JSON Export |
+| Sweep_Horror_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Impacts_Sweeps\Wavs\Sweep_Horror_04.json | JSON Export |
+| Sweep_Horror_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Impacts_Sweeps\Wavs\Sweep_Horror_05.json | JSON Export |
+| Switch_sounds_7 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\UI_Item_Sounds_HD_Remake\Wavs\Switch_sounds_7.json | JSON Export |
+| T_Audio | pakchunk0-Windows\Vein\Content\Vein\UI\Icons\T_Audio.json | JSON Export |
+| Tree_Fall_Destroy_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Tree_Fall_Destroy_01.json | JSON Export |
+| Tree_Fall_Destroy_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Object_Destruction\Tree_Fall_Destroy_02.json | JSON Export |
+| Turning_Flashlight_On | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Turning_Flashlight_On.json | JSON Export |
+| Turning_Flashlight_On_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Turning_Flashlight_On_2.json | JSON Export |
+| Turning_Flashlight_On_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Turning_Flashlight_On_3.json | JSON Export |
+| UI | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\UI.json | JSON Export |
+| Underwater_Loop_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Ultimate_Water_Sounds\Wavs\Underwater_Loop_3.json | JSON Export |
+| VOIP | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\VOIP.json | JSON Export |
+| Voice | pakchunk0-Windows\Engine\Content\EngineSounds\Voice.json | JSON Export |
+| Water_Boiling_Loop | pakchunk8-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Water_Boiling_Loop.json | JSON Export |
+| Water_sprinkler__steady_constant_spitter__background_birds_01 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\AnimalFarm\AgriculturalActivities\Wavs\Water_sprinkler__steady_constant_spitter__background_birds_01.json | JSON Export |
+| Waterdrops13_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\Waterdrops13_loop.json | JSON Export |
+| Whoosh_Sword_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Whooshes\Whoosh_Sword_01.json | JSON Export |
+| Whoosh_Sword_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Combat_Sounds_Bundle_Collection\WAV\Without_Echo\Whooshes\Whoosh_Sword_02.json | JSON Export |
+| Wood_Break | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break.json | JSON Export |
+| Wood_Break_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_10.json | JSON Export |
+| Wood_Break_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_2.json | JSON Export |
+| Wood_Break_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_3.json | JSON Export |
+| Wood_Break_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_4.json | JSON Export |
+| Wood_Break_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_5.json | JSON Export |
+| Wood_Break_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_6.json | JSON Export |
+| Wood_Break_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_7.json | JSON Export |
+| Wood_Break_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_8.json | JSON Export |
+| Wood_Break_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Break_9.json | JSON Export |
+| Wood_Creak_1_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Wood_Creak_1_2.json | JSON Export |
+| Wood_Creak_1_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Wood_Creak_1_6.json | JSON Export |
+| Wood_Creak_1_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\HumbleBundle2022\Crafting___RTS_Sounds\Wood\Wood_Creak_1_8.json | JSON Export |
+| Wood_Heavy_1 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_1.json | JSON Export |
+| Wood_Heavy_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_2.json | JSON Export |
+| Wood_Heavy_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_3.json | JSON Export |
+| Wood_Heavy_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_4.json | JSON Export |
+| Wood_Heavy_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_5.json | JSON Export |
+| Wood_Heavy_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_6.json | JSON Export |
+| Wood_Heavy_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_7.json | JSON Export |
+| Wood_Heavy_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Bullet_Impacts_Flybys_Pro\Wavs\Wood_Heavy\Wood_Heavy_8.json | JSON Export |
+| Wood_Impact_Hard_surface | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface.json | JSON Export |
+| Wood_Impact_Hard_surface_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_10.json | JSON Export |
+| Wood_Impact_Hard_surface_2 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_2.json | JSON Export |
+| Wood_Impact_Hard_surface_3 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_3.json | JSON Export |
+| Wood_Impact_Hard_surface_4 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_4.json | JSON Export |
+| Wood_Impact_Hard_surface_5 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_5.json | JSON Export |
+| Wood_Impact_Hard_surface_6 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_6.json | JSON Export |
+| Wood_Impact_Hard_surface_7 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_7.json | JSON Export |
+| Wood_Impact_Hard_surface_8 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_8.json | JSON Export |
+| Wood_Impact_Hard_surface_9 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Ultimate_SFX\Survival_Sound_Kit_HD_Remake\Wavs\Wood_Impact_Hard_surface_9.json | JSON Export |
+| Zombie1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie1.json | JSON Export |
+| Zombie10 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie10.json | JSON Export |
+| Zombie11 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie11.json | JSON Export |
+| Zombie12 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie12.json | JSON Export |
+| Zombie13 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie13.json | JSON Export |
+| Zombie14 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie14.json | JSON Export |
+| Zombie15 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie15.json | JSON Export |
+| Zombie2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie2.json | JSON Export |
+| Zombie3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie3.json | JSON Export |
+| Zombie34 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie34.json | JSON Export |
+| Zombie4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie4.json | JSON Export |
+| Zombie5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie5.json | JSON Export |
+| Zombie6 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie6.json | JSON Export |
+| Zombie7 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie7.json | JSON Export |
+| Zombie8 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie8.json | JSON Export |
+| Zombie9 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie9.json | JSON Export |
+| ZombieBreathe1 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe1.json | JSON Export |
+| ZombieBreathe100 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe100.json | JSON Export |
+| ZombieBreathe101 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe101.json | JSON Export |
+| ZombieBreathe102 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe102.json | JSON Export |
+| ZombieBreathe103 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe103.json | JSON Export |
+| ZombieBreathe104 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe104.json | JSON Export |
+| ZombieBreathe105 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe105.json | JSON Export |
+| ZombieBreathe106 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe106.json | JSON Export |
+| ZombieBreathe107 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe107.json | JSON Export |
+| ZombieBreathe108 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe108.json | JSON Export |
+| ZombieBreathe109 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe109.json | JSON Export |
+| ZombieBreathe110 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe110.json | JSON Export |
+| ZombieBreathe111 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe111.json | JSON Export |
+| ZombieBreathe2 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe2.json | JSON Export |
+| ZombieBreathe3 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe3.json | JSON Export |
+| ZombieBreathe4 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe4.json | JSON Export |
+| ZombieBreathe47 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe47.json | JSON Export |
+| ZombieBreathe48 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe48.json | JSON Export |
+| ZombieBreathe49 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe49.json | JSON Export |
+| ZombieBreathe5 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe5.json | JSON Export |
+| ZombieBreathe50 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe50.json | JSON Export |
+| ZombieBreathe51 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe51.json | JSON Export |
+| ZombieBreathe52 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe52.json | JSON Export |
+| ZombieBreathe53 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe53.json | JSON Export |
+| ZombieBreathe54 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe54.json | JSON Export |
+| ZombieBreathe55 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe55.json | JSON Export |
+| ZombieBreathe56 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe56.json | JSON Export |
+| ZombieBreathe57 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe57.json | JSON Export |
+| ZombieBreathe58 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe58.json | JSON Export |
+| ZombieBreathe59 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe59.json | JSON Export |
+| ZombieBreathe60 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe60.json | JSON Export |
+| ZombieBreathe61 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe61.json | JSON Export |
+| ZombieBreathe62 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe62.json | JSON Export |
+| ZombieBreathe63 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe63.json | JSON Export |
+| ZombieBreathe64 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe64.json | JSON Export |
+| ZombieBreathe65 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe65.json | JSON Export |
+| ZombieBreathe66 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe66.json | JSON Export |
+| ZombieBreathe95 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe95.json | JSON Export |
+| ZombieBreathe96 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe96.json | JSON Export |
+| ZombieBreathe97 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe97.json | JSON Export |
+| ZombieBreathe98 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe98.json | JSON Export |
+| ZombieBreathe99 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\ZombieBreathe99.json | JSON Export |
+| Zombie_Angry_16 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_16.json | JSON Export |
+| Zombie_Angry_17 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_17.json | JSON Export |
+| Zombie_Angry_18 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_18.json | JSON Export |
+| Zombie_Angry_19 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_19.json | JSON Export |
+| Zombie_Angry_20 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_20.json | JSON Export |
+| Zombie_Angry_21 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_21.json | JSON Export |
+| Zombie_Angry_22 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_22.json | JSON Export |
+| Zombie_Angry_40 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_40.json | JSON Export |
+| Zombie_Angry_41 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_41.json | JSON Export |
+| Zombie_Angry_42 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_42.json | JSON Export |
+| Zombie_Angry_70 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_70.json | JSON Export |
+| Zombie_Angry_71 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Angry_71.json | JSON Export |
+| Zombie_Breathe_35 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Breathe_35.json | JSON Export |
+| Zombie_Death_43 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_43.json | JSON Export |
+| Zombie_Death_44 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_44.json | JSON Export |
+| Zombie_Death_45 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_45.json | JSON Export |
+| Zombie_Death_46 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Death_46.json | JSON Export |
+| Zombie_Shout_24 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_24.json | JSON Export |
+| Zombie_Shout_25 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_25.json | JSON Export |
+| Zombie_Shout_26 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_26.json | JSON Export |
+| Zombie_Shout_27 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_27.json | JSON Export |
+| Zombie_Shout_28 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_28.json | JSON Export |
+| Zombie_Shout_29 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_29.json | JSON Export |
+| Zombie_Shout_30 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_30.json | JSON Export |
+| Zombie_Shout_31 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_31.json | JSON Export |
+| Zombie_Shout_32 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_32.json | JSON Export |
+| Zombie_Shout_33 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_33.json | JSON Export |
+| Zombie_Shout_36 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_36.json | JSON Export |
+| Zombie_Shout_37 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_37.json | JSON Export |
+| Zombie_Shout_38 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_38.json | JSON Export |
+| Zombie_Shout_39 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_39.json | JSON Export |
+| Zombie_Shout_67 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_67.json | JSON Export |
+| Zombie_Shout_68 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_68.json | JSON Export |
+| Zombie_Shout_69 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_69.json | JSON Export |
+| Zombie_Shout_72 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_72.json | JSON Export |
+| Zombie_Shout_73 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_73.json | JSON Export |
+| Zombie_Shout_74 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_74.json | JSON Export |
+| Zombie_Shout_75 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_75.json | JSON Export |
+| Zombie_Shout_76 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_76.json | JSON Export |
+| Zombie_Shout_78 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_78.json | JSON Export |
+| Zombie_Shout_79 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_79.json | JSON Export |
+| Zombie_Shout_80 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_80.json | JSON Export |
+| Zombie_Shout_81 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_81.json | JSON Export |
+| Zombie_Shout_82 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_82.json | JSON Export |
+| Zombie_Shout_83 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_83.json | JSON Export |
+| Zombie_Shout_84 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_84.json | JSON Export |
+| Zombie_Shout_85 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_85.json | JSON Export |
+| Zombie_Shout_88 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_88.json | JSON Export |
+| Zombie_Shout_89 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_89.json | JSON Export |
+| Zombie_Shout_90 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_90.json | JSON Export |
+| Zombie_Shout_91 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_91.json | JSON Export |
+| Zombie_Shout_92 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_92.json | JSON Export |
+| Zombie_Shout_93 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_93.json | JSON Export |
+| Zombie_Shout_94 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_Shout_94.json | JSON Export |
+| Zombie_shout_77 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_shout_77.json | JSON Export |
+| Zombie_shout_86 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_shout_86.json | JSON Export |
+| Zombie_shout_87 | pakchunk0-Windows\Vein\Content\Vein\Audio\AI\Zombies\Mahmood\Zombie_shout_87.json | JSON Export |
+| badminton_ball_drop_03_m | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_3\wavs\badminton_ball_drop_03_m.json | JSON Export |
+| coffee_grinder_turn_crank_05_m | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_1\wavs\coffee_grinder_turn_crank_05_m.json | JSON Export |
+| coffee_grinder_various_handling_04_m | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_1\wavs\coffee_grinder_various_handling_04_m.json | JSON Export |
+| disinfection_spray_press_01_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_01_m.json | JSON Export |
+| disinfection_spray_press_02_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_02_m.json | JSON Export |
+| disinfection_spray_press_03_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_03_m.json | JSON Export |
+| disinfection_spray_press_04_m | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\disinfection_spray_press_04_m.json | JSON Export |
+| door_A_creak_02 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_A_creak_02.json | JSON Export |
+| door_A_creak_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\door_A_creak_03.json | JSON Export |
+| door_A_creak_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\door_A_creak_07.json | JSON Export |
+| door_lock_fail_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_lock_fail_02.json | JSON Export |
+| door_lock_fail_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_lock_fail_03.json | JSON Export |
+| door_lock_fail_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\door_lock_fail_04.json | JSON Export |
+| engine_generator_loop_01 | pakchunk13-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\engine_generator_loop_01.json | JSON Export |
+| engine_generator_loop_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\MonoVersions\Wavs\engine_generator_loop_02.json | JSON Export |
+| engine_generator_loop_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\engine_generator_loop_02.json | JSON Export |
+| fan08_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\BasementAtmosphere\fan08_loop.json | JSON Export |
+| foley_cloth_light_fast_movement_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\MonoVersions\Wavs\foley_cloth_light_fast_movement_06.json | JSON Export |
+| foley_cloth_light_fast_movement_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\MonoVersions\Wavs\foley_cloth_light_fast_movement_08.json | JSON Export |
+| foley_cloth_light_fast_movement_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\MonoVersions\Wavs\foley_cloth_light_fast_movement_09.json | JSON Export |
+| foley_soldier_gear_equipment_movement_grab_item_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Foley\StereoVersions\Wavs\foley_soldier_gear_equipment_movement_grab_item_02.json | JSON Export |
+| footstep_concrete_land_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_01.json | JSON Export |
+| footstep_concrete_land_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_02.json | JSON Export |
+| footstep_concrete_land_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_03.json | JSON Export |
+| footstep_concrete_land_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_04.json | JSON Export |
+| footstep_concrete_land_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_05.json | JSON Export |
+| footstep_concrete_land_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_06.json | JSON Export |
+| footstep_concrete_land_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_07.json | JSON Export |
+| footstep_concrete_land_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_08.json | JSON Export |
+| footstep_concrete_land_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_09.json | JSON Export |
+| footstep_concrete_land_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_10.json | JSON Export |
+| footstep_concrete_land_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_land_11.json | JSON Export |
+| footstep_concrete_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_01.json | JSON Export |
+| footstep_concrete_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_02.json | JSON Export |
+| footstep_concrete_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_03.json | JSON Export |
+| footstep_concrete_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_04.json | JSON Export |
+| footstep_concrete_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_05.json | JSON Export |
+| footstep_concrete_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_06.json | JSON Export |
+| footstep_concrete_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_07.json | JSON Export |
+| footstep_concrete_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_08.json | JSON Export |
+| footstep_concrete_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_09.json | JSON Export |
+| footstep_concrete_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_10.json | JSON Export |
+| footstep_concrete_walk_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_11.json | JSON Export |
+| footstep_concrete_walk_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_12.json | JSON Export |
+| footstep_concrete_walk_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_13.json | JSON Export |
+| footstep_concrete_walk_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_14.json | JSON Export |
+| footstep_concrete_walk_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_15.json | JSON Export |
+| footstep_concrete_walk_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_16.json | JSON Export |
+| footstep_concrete_walk_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_17.json | JSON Export |
+| footstep_concrete_walk_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_18.json | JSON Export |
+| footstep_concrete_walk_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_19.json | JSON Export |
+| footstep_concrete_walk_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_20.json | JSON Export |
+| footstep_concrete_walk_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_21.json | JSON Export |
+| footstep_concrete_walk_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_concrete_walk_22.json | JSON Export |
+| footstep_dirt_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_01.json | JSON Export |
+| footstep_dirt_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_02.json | JSON Export |
+| footstep_dirt_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_03.json | JSON Export |
+| footstep_dirt_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_04.json | JSON Export |
+| footstep_dirt_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_05.json | JSON Export |
+| footstep_dirt_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_06.json | JSON Export |
+| footstep_dirt_land_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_07.json | JSON Export |
+| footstep_dirt_land_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_08.json | JSON Export |
+| footstep_dirt_land_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_09.json | JSON Export |
+| footstep_dirt_land_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_land_10.json | JSON Export |
+| footstep_dirt_walk_run_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_01.json | JSON Export |
+| footstep_dirt_walk_run_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_02.json | JSON Export |
+| footstep_dirt_walk_run_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_03.json | JSON Export |
+| footstep_dirt_walk_run_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_04.json | JSON Export |
+| footstep_dirt_walk_run_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_05.json | JSON Export |
+| footstep_dirt_walk_run_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_06.json | JSON Export |
+| footstep_dirt_walk_run_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_07.json | JSON Export |
+| footstep_dirt_walk_run_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_08.json | JSON Export |
+| footstep_dirt_walk_run_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_09.json | JSON Export |
+| footstep_dirt_walk_run_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_10.json | JSON Export |
+| footstep_dirt_walk_run_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_11.json | JSON Export |
+| footstep_dirt_walk_run_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_dirt_walk_run_12.json | JSON Export |
+| footstep_gravel_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_01.json | JSON Export |
+| footstep_gravel_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_02.json | JSON Export |
+| footstep_gravel_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_03.json | JSON Export |
+| footstep_gravel_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_04.json | JSON Export |
+| footstep_gravel_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_05.json | JSON Export |
+| footstep_gravel_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_06.json | JSON Export |
+| footstep_gravel_land_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_07.json | JSON Export |
+| footstep_gravel_land_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_08.json | JSON Export |
+| footstep_gravel_land_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_09.json | JSON Export |
+| footstep_gravel_land_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_10.json | JSON Export |
+| footstep_gravel_land_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_gravel_land_11.json | JSON Export |
+| footstep_ice_crunchy_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_01.json | JSON Export |
+| footstep_ice_crunchy_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_02.json | JSON Export |
+| footstep_ice_crunchy_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_03.json | JSON Export |
+| footstep_ice_crunchy_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_04.json | JSON Export |
+| footstep_ice_crunchy_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_05.json | JSON Export |
+| footstep_ice_crunchy_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_land_06.json | JSON Export |
+| footstep_ice_crunchy_walk_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_01.json | JSON Export |
+| footstep_ice_crunchy_walk_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_02.json | JSON Export |
+| footstep_ice_crunchy_walk_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_03.json | JSON Export |
+| footstep_ice_crunchy_walk_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_04.json | JSON Export |
+| footstep_ice_crunchy_walk_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_05.json | JSON Export |
+| footstep_ice_crunchy_walk_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_06.json | JSON Export |
+| footstep_ice_crunchy_walk_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_07.json | JSON Export |
+| footstep_ice_crunchy_walk_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_ice_crunchy_walk_08.json | JSON Export |
+| footstep_metal_high_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_01.json | JSON Export |
+| footstep_metal_high_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_02.json | JSON Export |
+| footstep_metal_high_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_03.json | JSON Export |
+| footstep_metal_high_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_04.json | JSON Export |
+| footstep_metal_high_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_05.json | JSON Export |
+| footstep_metal_high_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_06.json | JSON Export |
+| footstep_metal_high_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_07.json | JSON Export |
+| footstep_metal_high_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_08.json | JSON Export |
+| footstep_metal_high_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_09.json | JSON Export |
+| footstep_metal_high_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_high_walk_10.json | JSON Export |
+| footstep_metal_land_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_01.json | JSON Export |
+| footstep_metal_land_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_02.json | JSON Export |
+| footstep_metal_land_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_03.json | JSON Export |
+| footstep_metal_land_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_04.json | JSON Export |
+| footstep_metal_land_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_05.json | JSON Export |
+| footstep_metal_land_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_06.json | JSON Export |
+| footstep_metal_land_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_07.json | JSON Export |
+| footstep_metal_land_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_08.json | JSON Export |
+| footstep_metal_land_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_09.json | JSON Export |
+| footstep_metal_land_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_land_10.json | JSON Export |
+| footstep_metal_low_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_01.json | JSON Export |
+| footstep_metal_low_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_02.json | JSON Export |
+| footstep_metal_low_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_03.json | JSON Export |
+| footstep_metal_low_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_04.json | JSON Export |
+| footstep_metal_low_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_05.json | JSON Export |
+| footstep_metal_low_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_06.json | JSON Export |
+| footstep_metal_low_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_07.json | JSON Export |
+| footstep_metal_low_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_08.json | JSON Export |
+| footstep_metal_low_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_09.json | JSON Export |
+| footstep_metal_low_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_10.json | JSON Export |
+| footstep_metal_low_walk_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_11.json | JSON Export |
+| footstep_metal_low_walk_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_12.json | JSON Export |
+| footstep_metal_low_walk_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_13.json | JSON Export |
+| footstep_metal_low_walk_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_14.json | JSON Export |
+| footstep_metal_low_walk_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_15.json | JSON Export |
+| footstep_metal_low_walk_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_metal_low_walk_16.json | JSON Export |
+| footstep_mud_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_01.json | JSON Export |
+| footstep_mud_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_02.json | JSON Export |
+| footstep_mud_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_03.json | JSON Export |
+| footstep_mud_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_04.json | JSON Export |
+| footstep_mud_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_05.json | JSON Export |
+| footstep_mud_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_mud_land_06.json | JSON Export |
+| footstep_snow_land_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_01.json | JSON Export |
+| footstep_snow_land_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_02.json | JSON Export |
+| footstep_snow_land_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_03.json | JSON Export |
+| footstep_snow_land_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_04.json | JSON Export |
+| footstep_snow_land_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_05.json | JSON Export |
+| footstep_snow_land_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_land_06.json | JSON Export |
+| footstep_snow_run_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_01.json | JSON Export |
+| footstep_snow_run_02 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_02.json | JSON Export |
+| footstep_snow_run_03 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_03.json | JSON Export |
+| footstep_snow_run_04 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_04.json | JSON Export |
+| footstep_snow_run_05 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_05.json | JSON Export |
+| footstep_snow_run_06 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_06.json | JSON Export |
+| footstep_snow_run_07 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_07.json | JSON Export |
+| footstep_snow_run_08 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_08.json | JSON Export |
+| footstep_snow_run_09 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_09.json | JSON Export |
+| footstep_snow_run_10 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_10.json | JSON Export |
+| footstep_snow_run_11 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_11.json | JSON Export |
+| footstep_snow_run_12 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_12.json | JSON Export |
+| footstep_snow_run_13 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_13.json | JSON Export |
+| footstep_snow_run_14 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_14.json | JSON Export |
+| footstep_snow_run_15 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_15.json | JSON Export |
+| footstep_snow_run_16 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_16.json | JSON Export |
+| footstep_snow_run_17 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_17.json | JSON Export |
+| footstep_snow_run_18 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_18.json | JSON Export |
+| footstep_snow_run_19 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_19.json | JSON Export |
+| footstep_snow_run_20 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_20.json | JSON Export |
+| footstep_snow_run_21 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_snow_run_21.json | JSON Export |
+| footstep_water_run_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_01.json | JSON Export |
+| footstep_water_run_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_02.json | JSON Export |
+| footstep_water_run_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_03.json | JSON Export |
+| footstep_water_run_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_04.json | JSON Export |
+| footstep_water_run_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_05.json | JSON Export |
+| footstep_water_run_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_06.json | JSON Export |
+| footstep_water_run_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_07.json | JSON Export |
+| footstep_water_run_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_run_08.json | JSON Export |
+| footstep_water_run_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_run_09.json | JSON Export |
+| footstep_water_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_01.json | JSON Export |
+| footstep_water_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_01.json | JSON Export |
+| footstep_water_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_02.json | JSON Export |
+| footstep_water_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_03.json | JSON Export |
+| footstep_water_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_03.json | JSON Export |
+| footstep_water_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_04.json | JSON Export |
+| footstep_water_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_04.json | JSON Export |
+| footstep_water_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_05.json | JSON Export |
+| footstep_water_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_05.json | JSON Export |
+| footstep_water_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_06.json | JSON Export |
+| footstep_water_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_06.json | JSON Export |
+| footstep_water_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_07.json | JSON Export |
+| footstep_water_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_07.json | JSON Export |
+| footstep_water_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\MonoVersions\Wavs\footstep_water_walk_08.json | JSON Export |
+| footstep_water_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_08.json | JSON Export |
+| footstep_water_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_water_walk_09.json | JSON Export |
+| footstep_wood_land_v2_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_01.json | JSON Export |
+| footstep_wood_land_v2_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_02.json | JSON Export |
+| footstep_wood_land_v2_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_03.json | JSON Export |
+| footstep_wood_land_v2_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_04.json | JSON Export |
+| footstep_wood_land_v2_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_05.json | JSON Export |
+| footstep_wood_land_v2_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_land_v2_06.json | JSON Export |
+| footstep_wood_walk_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_01.json | JSON Export |
+| footstep_wood_walk_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_02.json | JSON Export |
+| footstep_wood_walk_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_03.json | JSON Export |
+| footstep_wood_walk_04 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_04.json | JSON Export |
+| footstep_wood_walk_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_05.json | JSON Export |
+| footstep_wood_walk_06 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_06.json | JSON Export |
+| footstep_wood_walk_07 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_07.json | JSON Export |
+| footstep_wood_walk_08 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_08.json | JSON Export |
+| footstep_wood_walk_09 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_09.json | JSON Export |
+| footstep_wood_walk_10 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_10.json | JSON Export |
+| footstep_wood_walk_11 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_11.json | JSON Export |
+| footstep_wood_walk_12 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_12.json | JSON Export |
+| footstep_wood_walk_13 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_13.json | JSON Export |
+| footstep_wood_walk_14 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_14.json | JSON Export |
+| footstep_wood_walk_15 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_15.json | JSON Export |
+| footstep_wood_walk_16 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_16.json | JSON Export |
+| footstep_wood_walk_17 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_17.json | JSON Export |
+| footstep_wood_walk_18 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_18.json | JSON Export |
+| footstep_wood_walk_19 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_19.json | JSON Export |
+| footstep_wood_walk_20 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\Footsteps\StereoVersions\Wavs\footstep_wood_walk_20.json | JSON Export |
+| gas_leak_02_loop | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\gas_leak_02_loop.json | JSON Export |
+| gas_leak_med_burst_02 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\gas_leak_med_burst_02.json | JSON Export |
+| gun_shotgun_shot_01 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\gun_shotgun_shot_01.json | JSON Export |
+| gym_adjust_weights_22 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_3\wavs\gym_adjust_weights_22.json | JSON Export |
+| loose_wire_ringing_21 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\loose_wire_ringing_21.json | JSON Export |
+| loose_wire_ringing_33 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_2\wavs\loose_wire_ringing_33.json | JSON Export |
+| navigation_wheel_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_5\wavs\navigation_wheel_01.json | JSON Export |
+| quantum_mechanics_39 | pakchunk1-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_4\wavs\quantum_mechanics_39.json | JSON Export |
+| stone_crash_designed_024 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Crash_and_Smash-Designed\wavs\stone_crash_designed_024.json | JSON Export |
+| thunder_lightning_strike_rumble_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\thunder_lightning_strike_rumble_01.json | JSON Export |
+| thunder_lightning_strike_rumble_03 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\thunder_lightning_strike_rumble_03.json | JSON Export |
+| thunder_lightning_strike_rumble_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\FootstepAndFoleySounds\ProSoundCollectionBonusSounds\StereoVersions\Wavs\thunder_lightning_strike_rumble_05.json | JSON Export |
+| ventilation_wheel_05 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_5\wavs\ventilation_wheel_05.json | JSON Export |
+| water_runlet_01 | pakchunk0-Windows\Vein\Content\Marketplace\Audio\Sound_Design_Elements_Vol_4\wavs\water_runlet_01.json | JSON Export |
 
 ### Audio Music (26 items)
 
 | Audio Asset | Path | Source |
 |-------------|------|--------|
-| ATT_Music | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\ATT_Music.json | ExportedJson |
-| A_MainMenu | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_MainMenu.json | ExportedJson |
-| A_Music_Vein_ALightlessBog | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_ALightlessBog.json | ExportedJson |
-| A_Music_Vein_BeneathOurFeet | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_BeneathOurFeet.json | ExportedJson |
-| A_Music_Vein_FireTower | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_FireTower.json | ExportedJson |
-| A_Music_Vein_FrozenHell | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_FrozenHell.json | ExportedJson |
-| A_Music_Vein_LastStandAtTheRiverwalk | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_LastStandAtTheRiverwalk.json | ExportedJson |
-| A_Music_Vein_ThatWhichRemains | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_ThatWhichRemains.json | ExportedJson |
-| A_Music_Vein_TheWarmSunrise | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_TheWarmSunrise.json | ExportedJson |
-| A_Music_Vein_TreadLightly | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_TreadLightly.json | ExportedJson |
-| A_Music_Vein_ZeroDarkThirty | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_ZeroDarkThirty.json | ExportedJson |
-| BP_MusicController | pakchunk0-Windows\Vein\Content\Vein\Audio\Music\BP_MusicController.json | ExportedJson |
-| Music | pakchunk0-Windows\Engine\Content\EngineSounds\Music.json | ExportedJson |
-| Music | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\Music.json | ExportedJson |
-| SC_Music_Ambience1 | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Ambience1.json | ExportedJson |
-| SC_Music_Ambience2 | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Ambience2.json | ExportedJson |
-| SC_Music_MainMenu | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_MainMenu.json | ExportedJson |
-| SC_Music_Vein_ALightlessBog | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_ALightlessBog.json | ExportedJson |
-| SC_Music_Vein_BeneathOurFeet | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_BeneathOurFeet.json | ExportedJson |
-| SC_Music_Vein_FireTower | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_FireTower.json | ExportedJson |
-| SC_Music_Vein_FrozenHell | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_FrozenHell.json | ExportedJson |
-| SC_Music_Vein_LastStandAtTheRiverwalk | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_LastStandAtTheRiverwalk.json | ExportedJson |
-| SC_Music_Vein_ThatWhichRemains | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_ThatWhichRemains.json | ExportedJson |
-| SC_Music_Vein_TheWarmSunrise | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_TheWarmSunrise.json | ExportedJson |
-| SC_Music_Vein_TreadLightly | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_TreadLightly.json | ExportedJson |
-| SC_Music_Vein_ZeroDarkThirty | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_ZeroDarkThirty.json | ExportedJson |
+| ATT_Music | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\ATT_Music.json | JSON Export |
+| A_MainMenu | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_MainMenu.json | JSON Export |
+| A_Music_Vein_ALightlessBog | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_ALightlessBog.json | JSON Export |
+| A_Music_Vein_BeneathOurFeet | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_BeneathOurFeet.json | JSON Export |
+| A_Music_Vein_FireTower | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_FireTower.json | JSON Export |
+| A_Music_Vein_FrozenHell | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_FrozenHell.json | JSON Export |
+| A_Music_Vein_LastStandAtTheRiverwalk | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_LastStandAtTheRiverwalk.json | JSON Export |
+| A_Music_Vein_ThatWhichRemains | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_ThatWhichRemains.json | JSON Export |
+| A_Music_Vein_TheWarmSunrise | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_TheWarmSunrise.json | JSON Export |
+| A_Music_Vein_TreadLightly | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_TreadLightly.json | JSON Export |
+| A_Music_Vein_ZeroDarkThirty | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\A_Music_Vein_ZeroDarkThirty.json | JSON Export |
+| BP_MusicController | pakchunk0-Windows\Vein\Content\Vein\Audio\Music\BP_MusicController.json | JSON Export |
+| Music | pakchunk0-Windows\Engine\Content\EngineSounds\Music.json | JSON Export |
+| Music | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\Music.json | JSON Export |
+| SC_Music_Ambience1 | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Ambience1.json | JSON Export |
+| SC_Music_Ambience2 | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Ambience2.json | JSON Export |
+| SC_Music_MainMenu | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_MainMenu.json | JSON Export |
+| SC_Music_Vein_ALightlessBog | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_ALightlessBog.json | JSON Export |
+| SC_Music_Vein_BeneathOurFeet | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_BeneathOurFeet.json | JSON Export |
+| SC_Music_Vein_FireTower | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_FireTower.json | JSON Export |
+| SC_Music_Vein_FrozenHell | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_FrozenHell.json | JSON Export |
+| SC_Music_Vein_LastStandAtTheRiverwalk | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_LastStandAtTheRiverwalk.json | JSON Export |
+| SC_Music_Vein_ThatWhichRemains | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_ThatWhichRemains.json | JSON Export |
+| SC_Music_Vein_TheWarmSunrise | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_TheWarmSunrise.json | JSON Export |
+| SC_Music_Vein_TreadLightly | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_TreadLightly.json | JSON Export |
+| SC_Music_Vein_ZeroDarkThirty | pakchunk29-Windows\Vein\Content\Vein\Audio\Music\SC_Music_Vein_ZeroDarkThirty.json | JSON Export |
 
 ### Audio Effects (431 items)
 
 | Audio Asset | Path | Source |
 |-------------|------|--------|
-| ATT_Alarm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\ATT_Alarm.json | ExportedJson |
-| ATT_Appliance | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\ATT_Appliance.json | ExportedJson |
-| ATT_ApplianceSmall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\ATT_ApplianceSmall.json | ExportedJson |
-| ATT_BigDoor | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\ATT_BigDoor.json | ExportedJson |
-| ATT_BigMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_BigMechanism.json | ExportedJson |
-| ATT_Container | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\ATT_Container.json | ExportedJson |
-| ATT_Container | pakchunk17-Windows\Vein\Content\Vein\Audio\Effects\Containers\ATT_Container.json | ExportedJson |
-| ATT_Corpse | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Corpse\ATT_Corpse.json | ExportedJson |
-| ATT_Crafting | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\ATT_Crafting.json | ExportedJson |
-| ATT_CraftingLoop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\ATT_CraftingLoop.json | ExportedJson |
-| ATT_Door | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\ATT_Door.json | ExportedJson |
-| ATT_DoorKnock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\ATT_DoorKnock.json | ExportedJson |
-| ATT_Explosion | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Explosions\ATT_Explosion.json | ExportedJson |
-| ATT_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\ATT_Fire.json | ExportedJson |
-| ATT_Fire_Large | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\ATT_Fire_Large.json | ExportedJson |
-| ATT_Firework | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\ATT_Firework.json | ExportedJson |
-| ATT_FluorescentLight | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Lights\ATT_FluorescentLight.json | ExportedJson |
-| ATT_Footstep | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\ATT_Footstep.json | ExportedJson |
-| ATT_Footstep_Zombie | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\ATT_Footstep_Zombie.json | ExportedJson |
-| ATT_Fridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_Fridge.json | ExportedJson |
-| ATT_GarageDoor | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\ATT_GarageDoor.json | ExportedJson |
-| ATT_GasTank | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_GasTank.json | ExportedJson |
-| ATT_Generator | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_Generator.json | ExportedJson |
-| ATT_Gore | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\ATT_Gore.json | ExportedJson |
-| ATT_IndustrialElevator | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_IndustrialElevator.json | ExportedJson |
-| ATT_ItemImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\ATT_ItemImpact.json | ExportedJson |
-| ATT_ItemUse | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\ATT_ItemUse.json | ExportedJson |
-| ATT_Landing | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\ATT_Landing.json | ExportedJson |
-| ATT_LargeIntercomSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_LargeIntercomSpeaker.json | ExportedJson |
-| ATT_MainMenuRadio | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Media\ATT_MainMenuRadio.json | ExportedJson |
-| ATT_MusicEffect | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Music\ATT_MusicEffect.json | ExportedJson |
-| ATT_PropDamage | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\ATT_PropDamage.json | ExportedJson |
-| ATT_PropDamage_Large | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\ATT_PropDamage_Large.json | ExportedJson |
-| ATT_Punch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Punch\ATT_Punch.json | ExportedJson |
-| ATT_RadioMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_RadioMechanism.json | ExportedJson |
-| ATT_SmallIntercomSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_SmallIntercomSpeaker.json | ExportedJson |
-| ATT_Switch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\ATT_Switch.json | ExportedJson |
-| ATT_TVRadioBroadcast | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Broadcasts\ATT_TVRadioBroadcast.json | ExportedJson |
-| ATT_TreeFall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\ATT_TreeFall.json | ExportedJson |
-| ATT_VeryLargeIntercomSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_VeryLargeIntercomSpeaker.json | ExportedJson |
-| ATT_Water | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\ATT_Water.json | ExportedJson |
-| A_BasketballNet | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\A_BasketballNet.json | ExportedJson |
-| A_BasketballPickup | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\A_BasketballPickup.json | ExportedJson |
-| A_Bite_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_1.json | ExportedJson |
-| A_Bite_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_2.json | ExportedJson |
-| A_Bite_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_3.json | ExportedJson |
-| A_Bite_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_4.json | ExportedJson |
-| A_BreakerSwitch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Switches\A_BreakerSwitch.json | ExportedJson |
-| A_Cardboard1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard1.json | ExportedJson |
-| A_Cardboard2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard2.json | ExportedJson |
-| A_Cardboard3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard3.json | ExportedJson |
-| A_Cardboard4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard4.json | ExportedJson |
-| A_Cardboard5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard5.json | ExportedJson |
-| A_Cardboard6 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard6.json | ExportedJson |
-| A_Cardboard7 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard7.json | ExportedJson |
-| A_CodeLock_Deny | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_CodeLock_Deny.json | ExportedJson |
-| A_CodeLock_Success | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_CodeLock_Success.json | ExportedJson |
-| A_Cupboard1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard1.json | ExportedJson |
-| A_Cupboard2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard2.json | ExportedJson |
-| A_Cupboard3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard3.json | ExportedJson |
-| A_Cupboard4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard4.json | ExportedJson |
-| A_Cupboard5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard5.json | ExportedJson |
-| A_DoorAlarm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\A_DoorAlarm.json | ExportedJson |
-| A_DoorClose1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorClose1.json | ExportedJson |
-| A_DoorMetalCloseBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorMetalCloseBig.json | ExportedJson |
-| A_DoorMetalRollingBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorMetalRollingBig.json | ExportedJson |
-| A_DoorOpen1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorOpen1.json | ExportedJson |
-| A_Drawer1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer1.json | ExportedJson |
-| A_Drawer2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer2.json | ExportedJson |
-| A_Drawer3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer3.json | ExportedJson |
-| A_Drawer4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer4.json | ExportedJson |
-| A_Drawer5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer5.json | ExportedJson |
-| A_Drawer6 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer6.json | ExportedJson |
-| A_Drawer7 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer7.json | ExportedJson |
-| A_EBS | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Broadcasts\A_EBS.json | ExportedJson |
-| A_EatPasta | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_EatPasta.json | ExportedJson |
-| A_ElectricZap1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ElectricZap1.json | ExportedJson |
-| A_ExteriorIceMachine | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ExteriorIceMachine.json | ExportedJson |
-| A_Fan | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_Fan.json | ExportedJson |
-| A_FireAlarm1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\A_FireAlarm1.json | ExportedJson |
-| A_FluorescentLightLoop | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Lights\A_FluorescentLightLoop.json | ExportedJson |
-| A_FridgeClose | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_FridgeClose.json | ExportedJson |
-| A_FridgeOpen | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_FridgeOpen.json | ExportedJson |
-| A_Fuse | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\A_Fuse.json | ExportedJson |
-| A_GarageDoor | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_GarageDoor.json | ExportedJson |
-| A_GarbageCanLid | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_GarbageCanLid.json | ExportedJson |
-| A_GloveBox | pakchunk17-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_GloveBox.json | ExportedJson |
-| A_HandDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_HandDryer.json | ExportedJson |
-| A_HandbrakePull | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\A_HandbrakePull.json | ExportedJson |
-| A_HeavySwitchMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\A_HeavySwitchMechanism.json | ExportedJson |
-| A_HordeNotice | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\A_HordeNotice.json | ExportedJson |
-| A_IndustrialAlert1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\A_IndustrialAlert1.json | ExportedJson |
-| A_IndustrialElevator_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\A_IndustrialElevator_Loop.json | ExportedJson |
-| A_IndustrialElevator_Start | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\A_IndustrialElevator_Start.json | ExportedJson |
-| A_IndustrialElevator_Stop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\A_IndustrialElevator_Stop.json | ExportedJson |
-| A_ItemGrab | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_ItemGrab.json | ExportedJson |
-| A_LargeMetalDoorMove_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_LargeMetalDoorMove_Loop.json | ExportedJson |
-| A_LargeMetalDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_LargeMetalDoor_Close.json | ExportedJson |
-| A_LargeMetalDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_LargeMetalDoor_Open.json | ExportedJson |
-| A_Mailbox | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Mailbox.json | ExportedJson |
-| A_MetalDetector | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\A_MetalDetector.json | ExportedJson |
-| A_MetalDoorClose1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorClose1.json | ExportedJson |
-| A_MetalDoorClose2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorClose2.json | ExportedJson |
-| A_MetalDoorOpen1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorOpen1.json | ExportedJson |
-| A_MetalDoorOpen2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorOpen2.json | ExportedJson |
-| A_MetalDoor_Rolling | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoor_Rolling.json | ExportedJson |
-| A_MicrowaveDoorClose | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorClose.json | ExportedJson |
-| A_MicrowaveDoorClose_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorClose_Cue.json | ExportedJson |
-| A_MicrowaveDoorOpen | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorOpen.json | ExportedJson |
-| A_MicrowaveDoorOpen_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorOpen_Cue.json | ExportedJson |
-| A_MicrowaveHum | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveHum.json | ExportedJson |
-| A_MicrowaveHum_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveHum_Cue.json | ExportedJson |
-| A_Piano_C3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Music\A_Piano_C3.json | ExportedJson |
-| A_PillBottleShake | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_PillBottleShake.json | ExportedJson |
-| A_PlasticContainer1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer1.json | ExportedJson |
-| A_PlasticContainer2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer2.json | ExportedJson |
-| A_PlasticContainer3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer3.json | ExportedJson |
-| A_PlasticContainer4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer4.json | ExportedJson |
-| A_PrisonDoor_Closed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_PrisonDoor_Closed.json | ExportedJson |
-| A_PrisonDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_PrisonDoor_Open.json | ExportedJson |
-| A_Punch1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\A_Punch1.json | ExportedJson |
-| A_Punch2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\A_Punch2.json | ExportedJson |
-| A_Punch3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\A_Punch3.json | ExportedJson |
-| A_RefrigeratorInside | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_RefrigeratorInside.json | ExportedJson |
-| A_SmallMetalDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_SmallMetalDoor_Close.json | ExportedJson |
-| A_SmallWindowDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_SmallWindowDoor_Open.json | ExportedJson |
-| A_Static | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Media\A_Static.json | ExportedJson |
-| A_SwitchMechanical | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\A_SwitchMechanical.json | ExportedJson |
-| A_SyringeInject | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_SyringeInject.json | ExportedJson |
-| A_ToiletSeatDown | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ToiletSeatDown.json | ExportedJson |
-| A_ToiletSeatUp1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ToiletSeatUp1.json | ExportedJson |
-| A_ToiletSeatUp2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ToiletSeatUp2.json | ExportedJson |
-| A_Toolbox1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox1.json | ExportedJson |
-| A_Toolbox10 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox10.json | ExportedJson |
-| A_Toolbox11 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox11.json | ExportedJson |
-| A_Toolbox12 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox12.json | ExportedJson |
-| A_Toolbox13 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox13.json | ExportedJson |
-| A_Toolbox14 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox14.json | ExportedJson |
-| A_Toolbox15 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox15.json | ExportedJson |
-| A_Toolbox16 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox16.json | ExportedJson |
-| A_Toolbox17 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox17.json | ExportedJson |
-| A_Toolbox18 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox18.json | ExportedJson |
-| A_Toolbox19 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox19.json | ExportedJson |
-| A_Toolbox2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox2.json | ExportedJson |
-| A_Toolbox3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox3.json | ExportedJson |
-| A_Toolbox4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox4.json | ExportedJson |
-| A_Toolbox5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox5.json | ExportedJson |
-| A_Toolbox6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox6.json | ExportedJson |
-| A_Toolbox7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox7.json | ExportedJson |
-| A_Toolbox8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox8.json | ExportedJson |
-| A_Toolbox9 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox9.json | ExportedJson |
-| A_Trash_1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_1.json | ExportedJson |
-| A_Trash_2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_2.json | ExportedJson |
-| A_Trash_3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_3.json | ExportedJson |
-| A_Trash_4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_4.json | ExportedJson |
-| A_Trash_5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_5.json | ExportedJson |
-| A_Trash_6 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_6.json | ExportedJson |
-| A_Trash_7 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_7.json | ExportedJson |
-| A_Trash_8 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_8.json | ExportedJson |
-| A_TumbleDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_TumbleDryer.json | ExportedJson |
-| A_VineBoom | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\A_VineBoom.json | ExportedJson |
-| A_WoodChop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\A_WoodChop.json | ExportedJson |
-| A_WoodenDoorBang1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorBang1.json | ExportedJson |
-| A_WoodenDoorBang2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorBang2.json | ExportedJson |
-| A_WoodenDoorClose1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorClose1.json | ExportedJson |
-| A_WoodenDoorClose2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorClose2.json | ExportedJson |
-| A_WoodenDoorKnock1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock1.json | ExportedJson |
-| A_WoodenDoorKnock2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock2.json | ExportedJson |
-| A_WoodenDoorKnock3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock3.json | ExportedJson |
-| A_WoodenDoorKnock4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock4.json | ExportedJson |
-| A_WoodenDoorKnock5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock5.json | ExportedJson |
-| A_WoodenDoorOpen1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorOpen1.json | ExportedJson |
-| A_WoodenDoorOpen2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorOpen2.json | ExportedJson |
-| Dribble3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Dribble3.json | ExportedJson |
-| Dribble4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Dribble4.json | ExportedJson |
-| Effects | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\Effects.json | ExportedJson |
-| FireworkMulti | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\FireworkMulti.json | ExportedJson |
-| FireworkSingle | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\FireworkSingle.json | ExportedJson |
-| MSS_Piano | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Music\MSS_Piano.json | ExportedJson |
-| MS_Thunder | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\MS_Thunder.json | ExportedJson |
-| Metal_smashing_into_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into_.json | ExportedJson |
-| Metal_smashing_into___1_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into___1_.json | ExportedJson |
-| Metal_smashing_into___2_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into___2_.json | ExportedJson |
-| Metal_smashing_into___3_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into___3_.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_1.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_10.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_11.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_12.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_13 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_13.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_14 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_14.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_15 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_15.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_2.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_3.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_4.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_5.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_6.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_7.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_8.json | ExportedJson |
-| PM_BONE_BREAK_SINGLE_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_9.json | ExportedJson |
-| SCC_BigDoor | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SCC_BigDoor.json | ExportedJson |
-| SCO_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\SCO_Fire.json | ExportedJson |
-| SCO_ThrownItem | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SCO_ThrownItem.json | ExportedJson |
-| SC_AluminumCanImpact | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_AluminumCanImpact.json | ExportedJson |
-| SC_AxeHitCutLog | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\SC_AxeHitCutLog.json | ExportedJson |
-| SC_AxeHitHeavy | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\SC_AxeHitHeavy.json | ExportedJson |
-| SC_Backboard | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_Backboard.json | ExportedJson |
-| SC_BasketballDribble | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_BasketballDribble.json | ExportedJson |
-| SC_BasketballNet | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_BasketballNet.json | ExportedJson |
-| SC_BasketballPickup | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_BasketballPickup.json | ExportedJson |
-| SC_Bite_Apple | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\SC_Bite_Apple.json | ExportedJson |
-| SC_BodyImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Corpse\SC_BodyImpact.json | ExportedJson |
-| SC_Boiling | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_Boiling.json | ExportedJson |
-| SC_BoneBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\SC_BoneBreak.json | ExportedJson |
-| SC_BoneBreakImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_BoneBreakImpact.json | ExportedJson |
-| SC_BreakerSwitch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_BreakerSwitch.json | ExportedJson |
-| SC_BulletInsert | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_BulletInsert.json | ExportedJson |
-| SC_Bush | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Foliage\SC_Bush.json | ExportedJson |
-| SC_ButtonClick | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_ButtonClick.json | ExportedJson |
-| SC_ButtonHover | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_ButtonHover.json | ExportedJson |
-| SC_CarKeyClick | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_CarKeyClick.json | ExportedJson |
-| SC_CarRadioSwitch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_CarRadioSwitch.json | ExportedJson |
-| SC_Cardboard | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Cardboard.json | ExportedJson |
-| SC_CashRegister | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_CashRegister.json | ExportedJson |
-| SC_CloseFridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_CloseFridge.json | ExportedJson |
-| SC_ClothMove | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_ClothMove.json | ExportedJson |
-| SC_ClothRip | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Destruction\SC_ClothRip.json | ExportedJson |
-| SC_CodeLock_Deny | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_CodeLock_Deny.json | ExportedJson |
-| SC_CodeLock_Success | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_CodeLock_Success.json | ExportedJson |
-| SC_CraftCloth | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftCloth.json | ExportedJson |
-| SC_CraftLoop1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftLoop1.json | ExportedJson |
-| SC_CraftMetal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftMetal.json | ExportedJson |
-| SC_CraftWood | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftWood.json | ExportedJson |
-| SC_CraftWood | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftWood.json | ExportedJson |
-| SC_CraftWood | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftWood.json | ExportedJson |
-| SC_Cupboard | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Cupboard.json | ExportedJson |
-| SC_DoorAlarm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\SC_DoorAlarm.json | ExportedJson |
-| SC_DoorClose1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorClose1.json | ExportedJson |
-| SC_DoorClose2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorClose2.json | ExportedJson |
-| SC_DoorLock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorLock.json | ExportedJson |
-| SC_DoorMetalCloseBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorMetalCloseBig.json | ExportedJson |
-| SC_DoorMetalRollingBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorMetalRollingBig.json | ExportedJson |
-| SC_DoorOpen1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorOpen1.json | ExportedJson |
-| SC_DoorOpen2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorOpen2.json | ExportedJson |
-| SC_DoorUnlock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorUnlock.json | ExportedJson |
-| SC_Drawer | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Drawer.json | ExportedJson |
-| SC_EBS | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Broadcasts\SC_EBS.json | ExportedJson |
-| SC_EatPasta | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_EatPasta.json | ExportedJson |
-| SC_ElectricZap1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_ElectricZap1.json | ExportedJson |
-| SC_ElevatorDing | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorDing.json | ExportedJson |
-| SC_ElevatorDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorDoor_Close.json | ExportedJson |
-| SC_ElevatorDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorDoor_Open.json | ExportedJson |
-| SC_ElevatorMovement | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorMovement.json | ExportedJson |
-| SC_EnterWater | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\SC_EnterWater.json | ExportedJson |
-| SC_ExitWater | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\SC_ExitWater.json | ExportedJson |
-| SC_ExplosionPrime | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Explosions\SC_ExplosionPrime.json | ExportedJson |
-| SC_Explosion_Fast_Small | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Explosions\SC_Explosion_Fast_Small.json | ExportedJson |
-| SC_Explosion_Slow_Small | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Explosions\SC_Explosion_Slow_Small.json | ExportedJson |
-| SC_Fan | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_Fan.json | ExportedJson |
-| SC_FireAlarm1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\SC_FireAlarm1.json | ExportedJson |
-| SC_FireAlarm_Switch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_FireAlarm_Switch.json | ExportedJson |
-| SC_Fire_General_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\SC_Fire_General_Loop.json | ExportedJson |
-| SC_Fire_Large_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\SC_Fire_Large_Loop.json | ExportedJson |
-| SC_FireworkMulti | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\SC_FireworkMulti.json | ExportedJson |
-| SC_FireworkSingle | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\SC_FireworkSingle.json | ExportedJson |
-| SC_FishingHook_BiteLarge | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hunting\SC_FishingHook_BiteLarge.json | ExportedJson |
-| SC_FishingHook_BiteSmall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hunting\SC_FishingHook_BiteSmall.json | ExportedJson |
-| SC_FishingHook_Land | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hunting\SC_FishingHook_Land.json | ExportedJson |
-| SC_Flashlight | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Flashlight\SC_Flashlight.json | ExportedJson |
-| SC_FleshMeleeBlunt | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_FleshMeleeBlunt.json | ExportedJson |
-| SC_FluorescentLightLoop | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Lights\SC_FluorescentLightLoop.json | ExportedJson |
-| SC_Footsteps_Concrete | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Concrete.json | ExportedJson |
-| SC_Footsteps_Concrete | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Concrete.json | ExportedJson |
-| SC_Footsteps_Dirt | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Dirt.json | ExportedJson |
-| SC_Footsteps_Glass | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Glass.json | ExportedJson |
-| SC_Footsteps_Gravel | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Gravel.json | ExportedJson |
-| SC_Footsteps_IceCrunch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_IceCrunch.json | ExportedJson |
-| SC_Footsteps_Metal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Metal.json | ExportedJson |
-| SC_Footsteps_Mud | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Mud.json | ExportedJson |
-| SC_Footsteps_Sand | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Sand.json | ExportedJson |
-| SC_Footsteps_Snow | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Snow.json | ExportedJson |
-| SC_Footsteps_Water | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Water.json | ExportedJson |
-| SC_Footsteps_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Wood.json | ExportedJson |
-| SC_Fridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_Fridge.json | ExportedJson |
-| SC_Frying | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_Frying.json | ExportedJson |
-| SC_Fuse | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\SC_Fuse.json | ExportedJson |
-| SC_GarageDoor | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_GarageDoor.json | ExportedJson |
-| SC_GarbageCanLid | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_GarbageCanLid.json | ExportedJson |
-| SC_GasLeakLoop1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_GasLeakLoop1.json | ExportedJson |
-| SC_GasPump | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_GasPump.json | ExportedJson |
-| SC_GeneratorLoop1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_GeneratorLoop1.json | ExportedJson |
-| SC_GlassBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Glass\SC_GlassBreak.json | ExportedJson |
-| SC_GlassCut | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Glass\SC_GlassCut.json | ExportedJson |
-| SC_Glass_Clear | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Glass\SC_Glass_Clear.json | ExportedJson |
-| SC_GloveBox | pakchunk17-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_GloveBox.json | ExportedJson |
-| SC_GoreStab | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_GoreStab.json | ExportedJson |
-| SC_HandDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_HandDryer.json | ExportedJson |
-| SC_HandbrakeSwitch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_HandbrakeSwitch.json | ExportedJson |
-| SC_HeavyRain | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\SC_HeavyRain.json | ExportedJson |
-| SC_HeavySwitchMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_HeavySwitchMechanism.json | ExportedJson |
-| SC_Hitmarker_Body | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hitmarkers\SC_Hitmarker_Body.json | ExportedJson |
-| SC_Hitmarker_Head | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hitmarkers\SC_Hitmarker_Head.json | ExportedJson |
-| SC_HordeNotice | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_HordeNotice.json | ExportedJson |
-| SC_IceMachine | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_IceMachine.json | ExportedJson |
-| SC_IndustrialAlert1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_IndustrialAlert1.json | ExportedJson |
-| SC_IndustrialElevator_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_IndustrialElevator_Loop.json | ExportedJson |
-| SC_IndustrialElevator_Start | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_IndustrialElevator_Start.json | ExportedJson |
-| SC_IndustrialElevator_Stop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_IndustrialElevator_Stop.json | ExportedJson |
-| SC_IndustrialFridge | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_IndustrialFridge.json | ExportedJson |
-| SC_ItemGrab | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemGrab.json | ExportedJson |
-| SC_ItemImpact_Can | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemImpact_Can.json | ExportedJson |
-| SC_ItemImpact_Fleshy | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemImpact_Fleshy.json | ExportedJson |
-| SC_ItemImpact_Glass | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemImpact_Glass.json | ExportedJson |
-| SC_LadderClimb | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Ladder\SC_LadderClimb.json | ExportedJson |
-| SC_Land_Concrete | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Concrete.json | ExportedJson |
-| SC_Land_Concrete | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Concrete.json | ExportedJson |
-| SC_Land_Dirt | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Dirt.json | ExportedJson |
-| SC_Land_Glass | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Glass.json | ExportedJson |
-| SC_Land_Gravel | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Gravel.json | ExportedJson |
-| SC_Land_IceCrunch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_IceCrunch.json | ExportedJson |
-| SC_Land_Metal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Metal.json | ExportedJson |
-| SC_Land_Mud | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Mud.json | ExportedJson |
-| SC_Land_Snow | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Snow.json | ExportedJson |
-| SC_Land_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Wood.json | ExportedJson |
-| SC_LanternOff | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_LanternOff.json | ExportedJson |
-| SC_LargeMetalDoorMove_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LargeMetalDoorMove_Loop.json | ExportedJson |
-| SC_LargeMetalDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LargeMetalDoor_Close.json | ExportedJson |
-| SC_LargeMetalDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LargeMetalDoor_Open.json | ExportedJson |
-| SC_LightRain | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\SC_LightRain.json | ExportedJson |
-| SC_LightSwitch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_LightSwitch.json | ExportedJson |
-| SC_Lighter | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_Lighter.json | ExportedJson |
-| SC_LimbGore | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_LimbGore.json | ExportedJson |
-| SC_LocationNotification | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_LocationNotification.json | ExportedJson |
-| SC_LockpickSuccess | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LockpickSuccess.json | ExportedJson |
-| SC_Mailbox | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Mailbox.json | ExportedJson |
-| SC_MetalBreak | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_MetalBreak.json | ExportedJson |
-| SC_MetalBreak | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_MetalBreak.json | ExportedJson |
-| SC_MetalDetector | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\SC_MetalDetector.json | ExportedJson |
-| SC_MetalDoorClose | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoorClose.json | ExportedJson |
-| SC_MetalDoorOpen | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoorOpen.json | ExportedJson |
-| SC_MetalDoorOpen_UI | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoorOpen_UI.json | ExportedJson |
-| SC_MetalDoor_Rolling | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoor_Rolling.json | ExportedJson |
-| SC_MetalLocker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_MetalLocker.json | ExportedJson |
-| SC_MetalOnMetal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\SC_MetalOnMetal.json | ExportedJson |
-| SC_Notification1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_Notification1.json | ExportedJson |
-| SC_OpenFridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_OpenFridge.json | ExportedJson |
-| SC_PaperTear | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_PaperTear.json | ExportedJson |
-| SC_PillBottleShake | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_PillBottleShake.json | ExportedJson |
-| SC_PlasticContainer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_PlasticContainer.json | ExportedJson |
-| SC_PlugCancel | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\SC_PlugCancel.json | ExportedJson |
-| SC_PlugIn | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\SC_PlugIn.json | ExportedJson |
-| SC_PlugStart | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\SC_PlugStart.json | ExportedJson |
-| SC_PrisonDoor_Closed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_PrisonDoor_Closed.json | ExportedJson |
-| SC_PrisonDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_PrisonDoor_Open.json | ExportedJson |
-| SC_Punch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Punch\SC_Punch.json | ExportedJson |
-| SC_PunchHit | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Punch\SC_PunchHit.json | ExportedJson |
-| SC_Radiator | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_Radiator.json | ExportedJson |
-| SC_Radio_End | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\SC_Radio_End.json | ExportedJson |
-| SC_Radio_Start | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\SC_Radio_Start.json | ExportedJson |
-| SC_RefrigeratorInside | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_RefrigeratorInside.json | ExportedJson |
-| SC_RockSearch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_RockSearch.json | ExportedJson |
-| SC_SmallWindowDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_SmallWindowDoor_Close.json | ExportedJson |
-| SC_SmallWindowDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_SmallWindowDoor_Open.json | ExportedJson |
-| SC_SnowStorm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\SC_SnowStorm.json | ExportedJson |
-| SC_SprayCan | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\SprayCan\SC_SprayCan.json | ExportedJson |
-| SC_StatNotification | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_StatNotification.json | ExportedJson |
-| SC_Static | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Media\SC_Static.json | ExportedJson |
-| SC_StoneBreak | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_StoneBreak.json | ExportedJson |
-| SC_StoneBreak | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_StoneBreak.json | ExportedJson |
-| SC_StoneBreak_Large | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_StoneBreak_Large.json | ExportedJson |
-| SC_SwitchMechanical | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_SwitchMechanical.json | ExportedJson |
-| SC_SyringeInject | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_SyringeInject.json | ExportedJson |
-| SC_TVButton | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_TVButton.json | ExportedJson |
-| SC_ToiletSeatDown | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_ToiletSeatDown.json | ExportedJson |
-| SC_ToiletSeatUp | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_ToiletSeatUp.json | ExportedJson |
-| SC_Toolbox | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Toolbox.json | ExportedJson |
-| SC_TrackerSwitch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_TrackerSwitch.json | ExportedJson |
-| SC_Trash | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Trash.json | ExportedJson |
-| SC_TreeFall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\SC_TreeFall.json | ExportedJson |
-| SC_TumbleDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_TumbleDryer.json | ExportedJson |
-| SC_VineBoom | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_VineBoom.json | ExportedJson |
-| SC_Vomit3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\SC_Vomit3.json | ExportedJson |
-| SC_WaterFlowSmall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\SC_WaterFlowSmall.json | ExportedJson |
-| SC_WaterSprinkler | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_WaterSprinkler.json | ExportedJson |
-| SC_WaxBreak | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_WaxBreak.json | ExportedJson |
-| SC_WindowOpen | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_WindowOpen.json | ExportedJson |
-| SC_WoodBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_WoodBreak.json | ExportedJson |
-| SC_WoodChop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\SC_WoodChop.json | ExportedJson |
-| SC_WoodCrateSearch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_WoodCrateSearch.json | ExportedJson |
-| SC_WoodImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_WoodImpact.json | ExportedJson |
-| SC_WoodLogSearch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_WoodLogSearch.json | ExportedJson |
-| SC_WoodenDoorBang | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\SC_WoodenDoorBang.json | ExportedJson |
-| SC_WoodenDoorClose | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_WoodenDoorClose.json | ExportedJson |
-| SC_WoodenDoorKnock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\SC_WoodenDoorKnock.json | ExportedJson |
-| SC_WoodenDoorOpen | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_WoodenDoorOpen.json | ExportedJson |
-| SC_Zipper | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Zipper.json | ExportedJson |
-| SC_ZombiePunch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\SC_ZombiePunch.json | ExportedJson |
-| SS_Effects | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\SS_Effects.json | ExportedJson |
-| S_LockRotate | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_LockRotate.json | ExportedJson |
-| S_LockRotate_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_LockRotate_Cue.json | ExportedJson |
-| S_Lockpick_Break | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Break.json | ExportedJson |
-| S_Lockpick_Break_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Break_Cue.json | ExportedJson |
-| S_Lockpick_Damage | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Damage.json | ExportedJson |
-| S_Lockpick_Damage_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Damage_Cue.json | ExportedJson |
-| S_Lockpick_Move | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Move.json | ExportedJson |
-| S_Lockpick_Move_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Move_Cue.json | ExportedJson |
-| TinCan1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan1.json | ExportedJson |
-| TinCan2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan2.json | ExportedJson |
-| TinCan3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan3.json | ExportedJson |
-| TinCan4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan4.json | ExportedJson |
-| TinCan5 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan5.json | ExportedJson |
-| Vein_Backboard_Sound_1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_1.json | ExportedJson |
-| Vein_Backboard_Sound_2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_2.json | ExportedJson |
-| Vein_Backboard_Sound_3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_3.json | ExportedJson |
-| Vein_Backboard_Sound_4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_4.json | ExportedJson |
-| Vein_Catch_Sound_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Catch_Sound_2.json | ExportedJson |
-| Vein_Catch_Sound_3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Catch_Sound_3.json | ExportedJson |
-| Vein_Catch_Sound_4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Catch_Sound_4.json | ExportedJson |
-| Vein_Dribble_Sound_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Dribble_Sound_1.json | ExportedJson |
-| Vein_Dribble_Sound_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Dribble_Sound_2.json | ExportedJson |
-| axe_hit_cut_log1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_cut_log1.json | ExportedJson |
-| axe_hit_cut_log2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_cut_log2.json | ExportedJson |
-| axe_hit_cut_log3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_cut_log3.json | ExportedJson |
-| axe_hit_heavy1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy1.json | ExportedJson |
-| axe_hit_heavy2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy2.json | ExportedJson |
-| axe_hit_heavy3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy3.json | ExportedJson |
-| axe_hit_heavy4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy4.json | ExportedJson |
-| axe_hit_heavy5 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy5.json | ExportedJson |
-| axe_hit_heavy6 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy6.json | ExportedJson |
-| door_metal_draw_slide_close_01 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\door_metal_draw_slide_close_01.json | ExportedJson |
-| door_metal_draw_slide_close_02 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\door_metal_draw_slide_close_02.json | ExportedJson |
-| door_metal_draw_slide_open_01 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\door_metal_draw_slide_open_01.json | ExportedJson |
+| ATT_Alarm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\ATT_Alarm.json | JSON Export |
+| ATT_Appliance | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\ATT_Appliance.json | JSON Export |
+| ATT_ApplianceSmall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\ATT_ApplianceSmall.json | JSON Export |
+| ATT_BigDoor | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\ATT_BigDoor.json | JSON Export |
+| ATT_BigMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_BigMechanism.json | JSON Export |
+| ATT_Container | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\ATT_Container.json | JSON Export |
+| ATT_Container | pakchunk17-Windows\Vein\Content\Vein\Audio\Effects\Containers\ATT_Container.json | JSON Export |
+| ATT_Corpse | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Corpse\ATT_Corpse.json | JSON Export |
+| ATT_Crafting | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\ATT_Crafting.json | JSON Export |
+| ATT_CraftingLoop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\ATT_CraftingLoop.json | JSON Export |
+| ATT_Door | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\ATT_Door.json | JSON Export |
+| ATT_DoorKnock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\ATT_DoorKnock.json | JSON Export |
+| ATT_Explosion | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Explosions\ATT_Explosion.json | JSON Export |
+| ATT_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\ATT_Fire.json | JSON Export |
+| ATT_Fire_Large | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\ATT_Fire_Large.json | JSON Export |
+| ATT_Firework | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\ATT_Firework.json | JSON Export |
+| ATT_FluorescentLight | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Lights\ATT_FluorescentLight.json | JSON Export |
+| ATT_Footstep | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\ATT_Footstep.json | JSON Export |
+| ATT_Footstep_Zombie | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\ATT_Footstep_Zombie.json | JSON Export |
+| ATT_Fridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_Fridge.json | JSON Export |
+| ATT_GarageDoor | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\ATT_GarageDoor.json | JSON Export |
+| ATT_GasTank | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_GasTank.json | JSON Export |
+| ATT_Generator | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_Generator.json | JSON Export |
+| ATT_Gore | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\ATT_Gore.json | JSON Export |
+| ATT_IndustrialElevator | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\ATT_IndustrialElevator.json | JSON Export |
+| ATT_ItemImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\ATT_ItemImpact.json | JSON Export |
+| ATT_ItemUse | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\ATT_ItemUse.json | JSON Export |
+| ATT_Landing | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\ATT_Landing.json | JSON Export |
+| ATT_LargeIntercomSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_LargeIntercomSpeaker.json | JSON Export |
+| ATT_MainMenuRadio | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Media\ATT_MainMenuRadio.json | JSON Export |
+| ATT_MusicEffect | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Music\ATT_MusicEffect.json | JSON Export |
+| ATT_PropDamage | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\ATT_PropDamage.json | JSON Export |
+| ATT_PropDamage_Large | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\ATT_PropDamage_Large.json | JSON Export |
+| ATT_Punch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Punch\ATT_Punch.json | JSON Export |
+| ATT_RadioMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_RadioMechanism.json | JSON Export |
+| ATT_SmallIntercomSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_SmallIntercomSpeaker.json | JSON Export |
+| ATT_Switch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\ATT_Switch.json | JSON Export |
+| ATT_TVRadioBroadcast | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Broadcasts\ATT_TVRadioBroadcast.json | JSON Export |
+| ATT_TreeFall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\ATT_TreeFall.json | JSON Export |
+| ATT_VeryLargeIntercomSpeaker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\ATT_VeryLargeIntercomSpeaker.json | JSON Export |
+| ATT_Water | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\ATT_Water.json | JSON Export |
+| A_BasketballNet | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\A_BasketballNet.json | JSON Export |
+| A_BasketballPickup | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\A_BasketballPickup.json | JSON Export |
+| A_Bite_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_1.json | JSON Export |
+| A_Bite_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_2.json | JSON Export |
+| A_Bite_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_3.json | JSON Export |
+| A_Bite_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\A_Bite_4.json | JSON Export |
+| A_BreakerSwitch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Switches\A_BreakerSwitch.json | JSON Export |
+| A_Cardboard1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard1.json | JSON Export |
+| A_Cardboard2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard2.json | JSON Export |
+| A_Cardboard3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard3.json | JSON Export |
+| A_Cardboard4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard4.json | JSON Export |
+| A_Cardboard5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard5.json | JSON Export |
+| A_Cardboard6 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard6.json | JSON Export |
+| A_Cardboard7 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cardboard7.json | JSON Export |
+| A_CodeLock_Deny | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_CodeLock_Deny.json | JSON Export |
+| A_CodeLock_Success | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_CodeLock_Success.json | JSON Export |
+| A_Cupboard1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard1.json | JSON Export |
+| A_Cupboard2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard2.json | JSON Export |
+| A_Cupboard3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard3.json | JSON Export |
+| A_Cupboard4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard4.json | JSON Export |
+| A_Cupboard5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Cupboard5.json | JSON Export |
+| A_DoorAlarm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\A_DoorAlarm.json | JSON Export |
+| A_DoorClose1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorClose1.json | JSON Export |
+| A_DoorMetalCloseBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorMetalCloseBig.json | JSON Export |
+| A_DoorMetalRollingBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorMetalRollingBig.json | JSON Export |
+| A_DoorOpen1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_DoorOpen1.json | JSON Export |
+| A_Drawer1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer1.json | JSON Export |
+| A_Drawer2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer2.json | JSON Export |
+| A_Drawer3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer3.json | JSON Export |
+| A_Drawer4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer4.json | JSON Export |
+| A_Drawer5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer5.json | JSON Export |
+| A_Drawer6 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer6.json | JSON Export |
+| A_Drawer7 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Drawer7.json | JSON Export |
+| A_EBS | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Broadcasts\A_EBS.json | JSON Export |
+| A_EatPasta | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_EatPasta.json | JSON Export |
+| A_ElectricZap1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ElectricZap1.json | JSON Export |
+| A_ExteriorIceMachine | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ExteriorIceMachine.json | JSON Export |
+| A_Fan | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_Fan.json | JSON Export |
+| A_FireAlarm1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\A_FireAlarm1.json | JSON Export |
+| A_FluorescentLightLoop | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Lights\A_FluorescentLightLoop.json | JSON Export |
+| A_FridgeClose | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_FridgeClose.json | JSON Export |
+| A_FridgeOpen | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_FridgeOpen.json | JSON Export |
+| A_Fuse | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\A_Fuse.json | JSON Export |
+| A_GarageDoor | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_GarageDoor.json | JSON Export |
+| A_GarbageCanLid | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_GarbageCanLid.json | JSON Export |
+| A_GloveBox | pakchunk17-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_GloveBox.json | JSON Export |
+| A_HandDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_HandDryer.json | JSON Export |
+| A_HandbrakePull | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\A_HandbrakePull.json | JSON Export |
+| A_HeavySwitchMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\A_HeavySwitchMechanism.json | JSON Export |
+| A_HordeNotice | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\A_HordeNotice.json | JSON Export |
+| A_IndustrialAlert1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\A_IndustrialAlert1.json | JSON Export |
+| A_IndustrialElevator_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\A_IndustrialElevator_Loop.json | JSON Export |
+| A_IndustrialElevator_Start | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\A_IndustrialElevator_Start.json | JSON Export |
+| A_IndustrialElevator_Stop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\A_IndustrialElevator_Stop.json | JSON Export |
+| A_ItemGrab | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_ItemGrab.json | JSON Export |
+| A_LargeMetalDoorMove_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_LargeMetalDoorMove_Loop.json | JSON Export |
+| A_LargeMetalDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_LargeMetalDoor_Close.json | JSON Export |
+| A_LargeMetalDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_LargeMetalDoor_Open.json | JSON Export |
+| A_Mailbox | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Mailbox.json | JSON Export |
+| A_MetalDetector | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\A_MetalDetector.json | JSON Export |
+| A_MetalDoorClose1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorClose1.json | JSON Export |
+| A_MetalDoorClose2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorClose2.json | JSON Export |
+| A_MetalDoorOpen1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorOpen1.json | JSON Export |
+| A_MetalDoorOpen2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoorOpen2.json | JSON Export |
+| A_MetalDoor_Rolling | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_MetalDoor_Rolling.json | JSON Export |
+| A_MicrowaveDoorClose | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorClose.json | JSON Export |
+| A_MicrowaveDoorClose_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorClose_Cue.json | JSON Export |
+| A_MicrowaveDoorOpen | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorOpen.json | JSON Export |
+| A_MicrowaveDoorOpen_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveDoorOpen_Cue.json | JSON Export |
+| A_MicrowaveHum | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveHum.json | JSON Export |
+| A_MicrowaveHum_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_MicrowaveHum_Cue.json | JSON Export |
+| A_Piano_C3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Music\A_Piano_C3.json | JSON Export |
+| A_PillBottleShake | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_PillBottleShake.json | JSON Export |
+| A_PlasticContainer1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer1.json | JSON Export |
+| A_PlasticContainer2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer2.json | JSON Export |
+| A_PlasticContainer3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer3.json | JSON Export |
+| A_PlasticContainer4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_PlasticContainer4.json | JSON Export |
+| A_PrisonDoor_Closed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_PrisonDoor_Closed.json | JSON Export |
+| A_PrisonDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_PrisonDoor_Open.json | JSON Export |
+| A_Punch1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\A_Punch1.json | JSON Export |
+| A_Punch2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\A_Punch2.json | JSON Export |
+| A_Punch3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\A_Punch3.json | JSON Export |
+| A_RefrigeratorInside | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_RefrigeratorInside.json | JSON Export |
+| A_SmallMetalDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_SmallMetalDoor_Close.json | JSON Export |
+| A_SmallWindowDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_SmallWindowDoor_Open.json | JSON Export |
+| A_Static | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Media\A_Static.json | JSON Export |
+| A_SwitchMechanical | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\A_SwitchMechanical.json | JSON Export |
+| A_SyringeInject | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\A_SyringeInject.json | JSON Export |
+| A_ToiletSeatDown | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ToiletSeatDown.json | JSON Export |
+| A_ToiletSeatUp1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ToiletSeatUp1.json | JSON Export |
+| A_ToiletSeatUp2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_ToiletSeatUp2.json | JSON Export |
+| A_Toolbox1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox1.json | JSON Export |
+| A_Toolbox10 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox10.json | JSON Export |
+| A_Toolbox11 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox11.json | JSON Export |
+| A_Toolbox12 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox12.json | JSON Export |
+| A_Toolbox13 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox13.json | JSON Export |
+| A_Toolbox14 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox14.json | JSON Export |
+| A_Toolbox15 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox15.json | JSON Export |
+| A_Toolbox16 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox16.json | JSON Export |
+| A_Toolbox17 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox17.json | JSON Export |
+| A_Toolbox18 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox18.json | JSON Export |
+| A_Toolbox19 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox19.json | JSON Export |
+| A_Toolbox2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox2.json | JSON Export |
+| A_Toolbox3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox3.json | JSON Export |
+| A_Toolbox4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox4.json | JSON Export |
+| A_Toolbox5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox5.json | JSON Export |
+| A_Toolbox6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox6.json | JSON Export |
+| A_Toolbox7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox7.json | JSON Export |
+| A_Toolbox8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox8.json | JSON Export |
+| A_Toolbox9 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Toolbox9.json | JSON Export |
+| A_Trash_1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_1.json | JSON Export |
+| A_Trash_2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_2.json | JSON Export |
+| A_Trash_3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_3.json | JSON Export |
+| A_Trash_4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_4.json | JSON Export |
+| A_Trash_5 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_5.json | JSON Export |
+| A_Trash_6 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_6.json | JSON Export |
+| A_Trash_7 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_7.json | JSON Export |
+| A_Trash_8 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\A_Trash_8.json | JSON Export |
+| A_TumbleDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\A_TumbleDryer.json | JSON Export |
+| A_VineBoom | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\A_VineBoom.json | JSON Export |
+| A_WoodChop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\A_WoodChop.json | JSON Export |
+| A_WoodenDoorBang1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorBang1.json | JSON Export |
+| A_WoodenDoorBang2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorBang2.json | JSON Export |
+| A_WoodenDoorClose1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorClose1.json | JSON Export |
+| A_WoodenDoorClose2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorClose2.json | JSON Export |
+| A_WoodenDoorKnock1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock1.json | JSON Export |
+| A_WoodenDoorKnock2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock2.json | JSON Export |
+| A_WoodenDoorKnock3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock3.json | JSON Export |
+| A_WoodenDoorKnock4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock4.json | JSON Export |
+| A_WoodenDoorKnock5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\A_WoodenDoorKnock5.json | JSON Export |
+| A_WoodenDoorOpen1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorOpen1.json | JSON Export |
+| A_WoodenDoorOpen2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\A_WoodenDoorOpen2.json | JSON Export |
+| Dribble3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Dribble3.json | JSON Export |
+| Dribble4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Dribble4.json | JSON Export |
+| Effects | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\Effects.json | JSON Export |
+| FireworkMulti | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\FireworkMulti.json | JSON Export |
+| FireworkSingle | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\FireworkSingle.json | JSON Export |
+| MSS_Piano | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Music\MSS_Piano.json | JSON Export |
+| MS_Thunder | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\MS_Thunder.json | JSON Export |
+| Metal_smashing_into_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into_.json | JSON Export |
+| Metal_smashing_into___1_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into___1_.json | JSON Export |
+| Metal_smashing_into___2_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into___2_.json | JSON Export |
+| Metal_smashing_into___3_ | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\Metal_smashing_into___3_.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_1.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_10.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_11 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_11.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_12 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_12.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_13 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_13.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_14 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_14.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_15 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_15.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_2.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_3.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_4.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_5.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_6.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_7.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_8.json | JSON Export |
+| PM_BONE_BREAK_SINGLE_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\PM_BONE_BREAK_SINGLE_9.json | JSON Export |
+| SCC_BigDoor | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SCC_BigDoor.json | JSON Export |
+| SCO_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\SCO_Fire.json | JSON Export |
+| SCO_ThrownItem | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SCO_ThrownItem.json | JSON Export |
+| SC_AluminumCanImpact | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_AluminumCanImpact.json | JSON Export |
+| SC_AxeHitCutLog | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\SC_AxeHitCutLog.json | JSON Export |
+| SC_AxeHitHeavy | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\SC_AxeHitHeavy.json | JSON Export |
+| SC_Backboard | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_Backboard.json | JSON Export |
+| SC_BasketballDribble | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_BasketballDribble.json | JSON Export |
+| SC_BasketballNet | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_BasketballNet.json | JSON Export |
+| SC_BasketballPickup | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_BasketballPickup.json | JSON Export |
+| SC_Bite_Apple | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\Vegetable\SC_Bite_Apple.json | JSON Export |
+| SC_BodyImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Corpse\SC_BodyImpact.json | JSON Export |
+| SC_Boiling | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_Boiling.json | JSON Export |
+| SC_BoneBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\BoneBreaks\SC_BoneBreak.json | JSON Export |
+| SC_BoneBreakImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_BoneBreakImpact.json | JSON Export |
+| SC_BreakerSwitch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_BreakerSwitch.json | JSON Export |
+| SC_BulletInsert | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_BulletInsert.json | JSON Export |
+| SC_Bush | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Foliage\SC_Bush.json | JSON Export |
+| SC_ButtonClick | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_ButtonClick.json | JSON Export |
+| SC_ButtonHover | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_ButtonHover.json | JSON Export |
+| SC_CarKeyClick | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_CarKeyClick.json | JSON Export |
+| SC_CarRadioSwitch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_CarRadioSwitch.json | JSON Export |
+| SC_Cardboard | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Cardboard.json | JSON Export |
+| SC_CashRegister | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_CashRegister.json | JSON Export |
+| SC_CloseFridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_CloseFridge.json | JSON Export |
+| SC_ClothMove | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_ClothMove.json | JSON Export |
+| SC_ClothRip | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Destruction\SC_ClothRip.json | JSON Export |
+| SC_CodeLock_Deny | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_CodeLock_Deny.json | JSON Export |
+| SC_CodeLock_Success | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_CodeLock_Success.json | JSON Export |
+| SC_CraftCloth | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftCloth.json | JSON Export |
+| SC_CraftLoop1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftLoop1.json | JSON Export |
+| SC_CraftMetal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftMetal.json | JSON Export |
+| SC_CraftWood | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftWood.json | JSON Export |
+| SC_CraftWood | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftWood.json | JSON Export |
+| SC_CraftWood | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_CraftWood.json | JSON Export |
+| SC_Cupboard | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Cupboard.json | JSON Export |
+| SC_DoorAlarm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\SC_DoorAlarm.json | JSON Export |
+| SC_DoorClose1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorClose1.json | JSON Export |
+| SC_DoorClose2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorClose2.json | JSON Export |
+| SC_DoorLock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorLock.json | JSON Export |
+| SC_DoorMetalCloseBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorMetalCloseBig.json | JSON Export |
+| SC_DoorMetalRollingBig | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorMetalRollingBig.json | JSON Export |
+| SC_DoorOpen1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorOpen1.json | JSON Export |
+| SC_DoorOpen2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorOpen2.json | JSON Export |
+| SC_DoorUnlock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_DoorUnlock.json | JSON Export |
+| SC_Drawer | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Drawer.json | JSON Export |
+| SC_EBS | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Broadcasts\SC_EBS.json | JSON Export |
+| SC_EatPasta | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_EatPasta.json | JSON Export |
+| SC_ElectricZap1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_ElectricZap1.json | JSON Export |
+| SC_ElevatorDing | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorDing.json | JSON Export |
+| SC_ElevatorDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorDoor_Close.json | JSON Export |
+| SC_ElevatorDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorDoor_Open.json | JSON Export |
+| SC_ElevatorMovement | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_ElevatorMovement.json | JSON Export |
+| SC_EnterWater | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\SC_EnterWater.json | JSON Export |
+| SC_ExitWater | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\SC_ExitWater.json | JSON Export |
+| SC_ExplosionPrime | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Explosions\SC_ExplosionPrime.json | JSON Export |
+| SC_Explosion_Fast_Small | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Explosions\SC_Explosion_Fast_Small.json | JSON Export |
+| SC_Explosion_Slow_Small | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Explosions\SC_Explosion_Slow_Small.json | JSON Export |
+| SC_Fan | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_Fan.json | JSON Export |
+| SC_FireAlarm1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\SC_FireAlarm1.json | JSON Export |
+| SC_FireAlarm_Switch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_FireAlarm_Switch.json | JSON Export |
+| SC_Fire_General_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\SC_Fire_General_Loop.json | JSON Export |
+| SC_Fire_Large_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Fire\SC_Fire_Large_Loop.json | JSON Export |
+| SC_FireworkMulti | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\SC_FireworkMulti.json | JSON Export |
+| SC_FireworkSingle | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\SC_FireworkSingle.json | JSON Export |
+| SC_FishingHook_BiteLarge | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hunting\SC_FishingHook_BiteLarge.json | JSON Export |
+| SC_FishingHook_BiteSmall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hunting\SC_FishingHook_BiteSmall.json | JSON Export |
+| SC_FishingHook_Land | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hunting\SC_FishingHook_Land.json | JSON Export |
+| SC_Flashlight | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Flashlight\SC_Flashlight.json | JSON Export |
+| SC_FleshMeleeBlunt | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_FleshMeleeBlunt.json | JSON Export |
+| SC_FluorescentLightLoop | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Lights\SC_FluorescentLightLoop.json | JSON Export |
+| SC_Footsteps_Concrete | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Concrete.json | JSON Export |
+| SC_Footsteps_Concrete | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Concrete.json | JSON Export |
+| SC_Footsteps_Dirt | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Dirt.json | JSON Export |
+| SC_Footsteps_Glass | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Glass.json | JSON Export |
+| SC_Footsteps_Gravel | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Gravel.json | JSON Export |
+| SC_Footsteps_IceCrunch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_IceCrunch.json | JSON Export |
+| SC_Footsteps_Metal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Metal.json | JSON Export |
+| SC_Footsteps_Mud | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Mud.json | JSON Export |
+| SC_Footsteps_Sand | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Sand.json | JSON Export |
+| SC_Footsteps_Snow | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Snow.json | JSON Export |
+| SC_Footsteps_Water | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Water.json | JSON Export |
+| SC_Footsteps_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Footsteps\SC_Footsteps_Wood.json | JSON Export |
+| SC_Fridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_Fridge.json | JSON Export |
+| SC_Frying | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_Frying.json | JSON Export |
+| SC_Fuse | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Firework\SC_Fuse.json | JSON Export |
+| SC_GarageDoor | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_GarageDoor.json | JSON Export |
+| SC_GarbageCanLid | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_GarbageCanLid.json | JSON Export |
+| SC_GasLeakLoop1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_GasLeakLoop1.json | JSON Export |
+| SC_GasPump | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_GasPump.json | JSON Export |
+| SC_GeneratorLoop1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_GeneratorLoop1.json | JSON Export |
+| SC_GlassBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Glass\SC_GlassBreak.json | JSON Export |
+| SC_GlassCut | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Glass\SC_GlassCut.json | JSON Export |
+| SC_Glass_Clear | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Glass\SC_Glass_Clear.json | JSON Export |
+| SC_GloveBox | pakchunk17-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_GloveBox.json | JSON Export |
+| SC_GoreStab | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_GoreStab.json | JSON Export |
+| SC_HandDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_HandDryer.json | JSON Export |
+| SC_HandbrakeSwitch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_HandbrakeSwitch.json | JSON Export |
+| SC_HeavyRain | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\SC_HeavyRain.json | JSON Export |
+| SC_HeavySwitchMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_HeavySwitchMechanism.json | JSON Export |
+| SC_Hitmarker_Body | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hitmarkers\SC_Hitmarker_Body.json | JSON Export |
+| SC_Hitmarker_Head | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Hitmarkers\SC_Hitmarker_Head.json | JSON Export |
+| SC_HordeNotice | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_HordeNotice.json | JSON Export |
+| SC_IceMachine | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_IceMachine.json | JSON Export |
+| SC_IndustrialAlert1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_IndustrialAlert1.json | JSON Export |
+| SC_IndustrialElevator_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_IndustrialElevator_Loop.json | JSON Export |
+| SC_IndustrialElevator_Start | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_IndustrialElevator_Start.json | JSON Export |
+| SC_IndustrialElevator_Stop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\SC_IndustrialElevator_Stop.json | JSON Export |
+| SC_IndustrialFridge | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Machines\SC_IndustrialFridge.json | JSON Export |
+| SC_ItemGrab | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemGrab.json | JSON Export |
+| SC_ItemImpact_Can | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemImpact_Can.json | JSON Export |
+| SC_ItemImpact_Fleshy | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemImpact_Fleshy.json | JSON Export |
+| SC_ItemImpact_Glass | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_ItemImpact_Glass.json | JSON Export |
+| SC_LadderClimb | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Ladder\SC_LadderClimb.json | JSON Export |
+| SC_Land_Concrete | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Concrete.json | JSON Export |
+| SC_Land_Concrete | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Concrete.json | JSON Export |
+| SC_Land_Dirt | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Dirt.json | JSON Export |
+| SC_Land_Glass | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Glass.json | JSON Export |
+| SC_Land_Gravel | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Gravel.json | JSON Export |
+| SC_Land_IceCrunch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_IceCrunch.json | JSON Export |
+| SC_Land_Metal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Metal.json | JSON Export |
+| SC_Land_Mud | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Mud.json | JSON Export |
+| SC_Land_Snow | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Snow.json | JSON Export |
+| SC_Land_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Landing\SC_Land_Wood.json | JSON Export |
+| SC_LanternOff | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_LanternOff.json | JSON Export |
+| SC_LargeMetalDoorMove_Loop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LargeMetalDoorMove_Loop.json | JSON Export |
+| SC_LargeMetalDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LargeMetalDoor_Close.json | JSON Export |
+| SC_LargeMetalDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LargeMetalDoor_Open.json | JSON Export |
+| SC_LightRain | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\SC_LightRain.json | JSON Export |
+| SC_LightSwitch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_LightSwitch.json | JSON Export |
+| SC_Lighter | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_Lighter.json | JSON Export |
+| SC_LimbGore | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Gore\SC_LimbGore.json | JSON Export |
+| SC_LocationNotification | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_LocationNotification.json | JSON Export |
+| SC_LockpickSuccess | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_LockpickSuccess.json | JSON Export |
+| SC_Mailbox | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Mailbox.json | JSON Export |
+| SC_MetalBreak | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_MetalBreak.json | JSON Export |
+| SC_MetalBreak | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_MetalBreak.json | JSON Export |
+| SC_MetalDetector | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Alarms\SC_MetalDetector.json | JSON Export |
+| SC_MetalDoorClose | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoorClose.json | JSON Export |
+| SC_MetalDoorOpen | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoorOpen.json | JSON Export |
+| SC_MetalDoorOpen_UI | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoorOpen_UI.json | JSON Export |
+| SC_MetalDoor_Rolling | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_MetalDoor_Rolling.json | JSON Export |
+| SC_MetalLocker | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_MetalLocker.json | JSON Export |
+| SC_MetalOnMetal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Destruction\SC_MetalOnMetal.json | JSON Export |
+| SC_Notification1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_Notification1.json | JSON Export |
+| SC_OpenFridge | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_OpenFridge.json | JSON Export |
+| SC_PaperTear | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_PaperTear.json | JSON Export |
+| SC_PillBottleShake | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_PillBottleShake.json | JSON Export |
+| SC_PlasticContainer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_PlasticContainer.json | JSON Export |
+| SC_PlugCancel | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\SC_PlugCancel.json | JSON Export |
+| SC_PlugIn | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\SC_PlugIn.json | JSON Export |
+| SC_PlugStart | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\SC_PlugStart.json | JSON Export |
+| SC_PrisonDoor_Closed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_PrisonDoor_Closed.json | JSON Export |
+| SC_PrisonDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_PrisonDoor_Open.json | JSON Export |
+| SC_Punch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Punch\SC_Punch.json | JSON Export |
+| SC_PunchHit | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Punch\SC_PunchHit.json | JSON Export |
+| SC_Radiator | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_Radiator.json | JSON Export |
+| SC_Radio_End | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\SC_Radio_End.json | JSON Export |
+| SC_Radio_Start | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Radio\SC_Radio_Start.json | JSON Export |
+| SC_RefrigeratorInside | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_RefrigeratorInside.json | JSON Export |
+| SC_RockSearch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_RockSearch.json | JSON Export |
+| SC_SmallWindowDoor_Close | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_SmallWindowDoor_Close.json | JSON Export |
+| SC_SmallWindowDoor_Open | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_SmallWindowDoor_Open.json | JSON Export |
+| SC_SnowStorm | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weather\SC_SnowStorm.json | JSON Export |
+| SC_SprayCan | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\SprayCan\SC_SprayCan.json | JSON Export |
+| SC_StatNotification | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_StatNotification.json | JSON Export |
+| SC_Static | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Media\SC_Static.json | JSON Export |
+| SC_StoneBreak | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_StoneBreak.json | JSON Export |
+| SC_StoneBreak | pakchunk8-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_StoneBreak.json | JSON Export |
+| SC_StoneBreak_Large | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_StoneBreak_Large.json | JSON Export |
+| SC_SwitchMechanical | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_SwitchMechanical.json | JSON Export |
+| SC_SyringeInject | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Items\SC_SyringeInject.json | JSON Export |
+| SC_TVButton | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_TVButton.json | JSON Export |
+| SC_ToiletSeatDown | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_ToiletSeatDown.json | JSON Export |
+| SC_ToiletSeatUp | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_ToiletSeatUp.json | JSON Export |
+| SC_Toolbox | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Toolbox.json | JSON Export |
+| SC_TrackerSwitch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Switches\SC_TrackerSwitch.json | JSON Export |
+| SC_Trash | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Trash.json | JSON Export |
+| SC_TreeFall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\SC_TreeFall.json | JSON Export |
+| SC_TumbleDryer | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_TumbleDryer.json | JSON Export |
+| SC_VineBoom | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\SC_VineBoom.json | JSON Export |
+| SC_Vomit3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\SC_Vomit3.json | JSON Export |
+| SC_WaterFlowSmall | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Water\SC_WaterFlowSmall.json | JSON Export |
+| SC_WaterSprinkler | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Appliances\SC_WaterSprinkler.json | JSON Export |
+| SC_WaxBreak | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_WaxBreak.json | JSON Export |
+| SC_WindowOpen | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\UI\SC_WindowOpen.json | JSON Export |
+| SC_WoodBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_WoodBreak.json | JSON Export |
+| SC_WoodChop | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Tree\SC_WoodChop.json | JSON Export |
+| SC_WoodCrateSearch | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_WoodCrateSearch.json | JSON Export |
+| SC_WoodImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Crafting\SC_WoodImpact.json | JSON Export |
+| SC_WoodLogSearch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_WoodLogSearch.json | JSON Export |
+| SC_WoodenDoorBang | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\SC_WoodenDoorBang.json | JSON Export |
+| SC_WoodenDoorClose | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_WoodenDoorClose.json | JSON Export |
+| SC_WoodenDoorKnock | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\DoorKnock\SC_WoodenDoorKnock.json | JSON Export |
+| SC_WoodenDoorOpen | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Doors\SC_WoodenDoorOpen.json | JSON Export |
+| SC_Zipper | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Containers\SC_Zipper.json | JSON Export |
+| SC_ZombiePunch | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Zombies\SC_ZombiePunch.json | JSON Export |
+| SS_Effects | pakchunk0-Windows\Vein\Content\Vein\Audio\SoundClasses\SS_Effects.json | JSON Export |
+| S_LockRotate | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_LockRotate.json | JSON Export |
+| S_LockRotate_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_LockRotate_Cue.json | JSON Export |
+| S_Lockpick_Break | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Break.json | JSON Export |
+| S_Lockpick_Break_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Break_Cue.json | JSON Export |
+| S_Lockpick_Damage | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Damage.json | JSON Export |
+| S_Lockpick_Damage_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Damage_Cue.json | JSON Export |
+| S_Lockpick_Move | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Move.json | JSON Export |
+| S_Lockpick_Move_Cue | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Minigame\S_Lockpick_Move_Cue.json | JSON Export |
+| TinCan1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan1.json | JSON Export |
+| TinCan2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan2.json | JSON Export |
+| TinCan3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan3.json | JSON Export |
+| TinCan4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan4.json | JSON Export |
+| TinCan5 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Items\TinCan5.json | JSON Export |
+| Vein_Backboard_Sound_1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_1.json | JSON Export |
+| Vein_Backboard_Sound_2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_2.json | JSON Export |
+| Vein_Backboard_Sound_3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_3.json | JSON Export |
+| Vein_Backboard_Sound_4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Backboard_Sound_4.json | JSON Export |
+| Vein_Catch_Sound_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Catch_Sound_2.json | JSON Export |
+| Vein_Catch_Sound_3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Catch_Sound_3.json | JSON Export |
+| Vein_Catch_Sound_4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Catch_Sound_4.json | JSON Export |
+| Vein_Dribble_Sound_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Dribble_Sound_1.json | JSON Export |
+| Vein_Dribble_Sound_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Basketball\Vein_Dribble_Sound_2.json | JSON Export |
+| axe_hit_cut_log1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_cut_log1.json | JSON Export |
+| axe_hit_cut_log2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_cut_log2.json | JSON Export |
+| axe_hit_cut_log3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_cut_log3.json | JSON Export |
+| axe_hit_heavy1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy1.json | JSON Export |
+| axe_hit_heavy2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy2.json | JSON Export |
+| axe_hit_heavy3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy3.json | JSON Export |
+| axe_hit_heavy4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy4.json | JSON Export |
+| axe_hit_heavy5 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy5.json | JSON Export |
+| axe_hit_heavy6 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\WoodCutting\axe_hit_heavy6.json | JSON Export |
+| door_metal_draw_slide_close_01 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\door_metal_draw_slide_close_01.json | JSON Export |
+| door_metal_draw_slide_close_02 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\door_metal_draw_slide_close_02.json | JSON Export |
+| door_metal_draw_slide_open_01 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Elevator\door_metal_draw_slide_open_01.json | JSON Export |
 
 
 ## Audio Types

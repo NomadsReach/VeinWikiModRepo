@@ -13,555 +13,555 @@ VEIN's spawning system controls where and when items, creatures, and resources a
 
 | Spawner | Path | Source |
 |---------|------|--------|
-| ASC_ChamplainValley | pakchunk0-Windows\Vein\Content\Vein\Spawner\ASC_ChamplainValley.json | ExportedJson |
-| ASC_Farm | pakchunk0-Windows\Vein\Content\Vein\Spawner\ASC_Farm.json | ExportedJson |
-| BP_SandboxTotem | pakchunk0-Windows\Vein\Content\Vein\Spawner\BP_SandboxTotem.json | ExportedJson |
-| GS_ItemActorSpawnersRespawn | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_ItemActorSpawnersRespawn.json | ExportedJson |
+| ASC_ChamplainValley | pakchunk0-Windows\Vein\Content\Vein\Spawner\ASC_ChamplainValley.json | JSON Export |
+| ASC_Farm | pakchunk0-Windows\Vein\Content\Vein\Spawner\ASC_Farm.json | JSON Export |
+| BP_SandboxTotem | pakchunk0-Windows\Vein\Content\Vein\Spawner\BP_SandboxTotem.json | JSON Export |
+| GS_ItemActorSpawnersRespawn | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_ItemActorSpawnersRespawn.json | JSON Export |
 
 
 ## Spawnlists
 
 | Spawnlist | Path | Source |
 |-----------|------|--------|
-| ILC_AllClothes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllClothes.json | ExportedJson |
-| ILC_AllCraftingIng | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllCraftingIng.json | ExportedJson |
-| ILC_AllFirearms | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllFirearms.json | ExportedJson |
-| ILC_Aluminum_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Aluminum_Object_Tier1.json | ExportedJson |
-| ILC_AmmoBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_AmmoBox.json | ExportedJson |
-| ILC_AmmoBoxLarge | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_AmmoBoxLarge.json | ExportedJson |
-| ILC_AmmoBoxLarge_Bloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_AmmoBoxLarge_Bloodied.json | ExportedJson |
-| ILC_Ammo_Object | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Ammo_Object.json | ExportedJson |
-| ILC_ArcheryBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ArcheryBox.json | ExportedJson |
-| ILC_AutoPartsStore | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_AutoPartsStore.json | ExportedJson |
-| ILC_AutoPartsStore_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_AutoPartsStore_Large.json | ExportedJson |
-| ILC_BBQGrill | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BBQGrill.json | ExportedJson |
-| ILC_Bakery | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Bakery.json | ExportedJson |
-| ILC_BarberCounter | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_BarberCounter.json | ExportedJson |
-| ILC_BathroomCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BathroomCabinet.json | ExportedJson |
-| ILC_BedroomDresser | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BedroomDresser.json | ExportedJson |
-| ILC_BoatCrate | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BoatCrate.json | ExportedJson |
-| ILC_Cabinet_Office | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Cabinet_Office.json | ExportedJson |
-| ILC_Cabinet_PoliceStation | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Cabinet_PoliceStation.json | ExportedJson |
-| ILC_CardboardBox_Industrial | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_CardboardBox_Industrial.json | ExportedJson |
-| ILC_CardboardBox_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CardboardBox_Residential.json | ExportedJson |
-| ILC_Cardboard_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cardboard_Object_Tier1.json | ExportedJson |
-| ILC_Cardboard_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cardboard_Object_Tier2.json | ExportedJson |
-| ILC_Cardboard_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cardboard_Object_Tier3.json | ExportedJson |
-| ILC_CashRegister_CAD | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_CashRegister_CAD.json | ExportedJson |
-| ILC_CashRegister_US | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_CashRegister_US.json | ExportedJson |
-| ILC_Closet_Motel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Closet_Motel.json | ExportedJson |
-| ILC_Closet_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Closet_Residential.json | ExportedJson |
-| ILC_Closet_Residential_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Closet_Residential_Rich.json | ExportedJson |
-| ILC_Cloth_Object_MakeshiftBandageScrap | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_MakeshiftBandageScrap.json | ExportedJson |
-| ILC_Cloth_Object_Tier0 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier0.json | ExportedJson |
-| ILC_Cloth_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier1.json | ExportedJson |
-| ILC_Cloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier2.json | ExportedJson |
-| ILC_Cloth_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier3.json | ExportedJson |
-| ILC_CoffeeTable | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CoffeeTable.json | ExportedJson |
-| ILC_Concrete_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Concrete_Object_Tier3.json | ExportedJson |
-| ILC_Concrete_Object_Tier4 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Concrete_Object_Tier4.json | ExportedJson |
-| ILC_ConvienenceStoreBox01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox01.json | ExportedJson |
-| ILC_ConvienenceStoreBox02_Cigarettes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox02_Cigarettes.json | ExportedJson |
-| ILC_ConvienenceStoreBox03_Magazines | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox03_Magazines.json | ExportedJson |
-| ILC_ConvienenceStoreBox_Refridgerated | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox_Refridgerated.json | ExportedJson |
-| ILC_ConvienenceStore_JunkPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStore_JunkPile.json | ExportedJson |
-| ILC_CookieJar | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CookieJar.json | ExportedJson |
-| ILC_Cooler | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Cooler.json | ExportedJson |
-| ILC_CoolerAlcohol | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CoolerAlcohol.json | ExportedJson |
-| ILC_CounterStove_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_CounterStove_Object.json | ExportedJson |
-| ILC_CrashedJet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_CrashedJet.json | ExportedJson |
-| ILC_Crates | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_Crates.json | ExportedJson |
-| ILC_Denim_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Denim_Object_Tier1.json | ExportedJson |
-| ILC_DepositBoxes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_DepositBoxes.json | ExportedJson |
-| ILC_DepositBoxes_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_DepositBoxes_Large.json | ExportedJson |
-| ILC_Desk_Home | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Desk_Home.json | ExportedJson |
-| ILC_Desk_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Desk_Military.json | ExportedJson |
-| ILC_Desk_Office | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Desk_Office.json | ExportedJson |
-| ILC_Desk_PoliceStation | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Desk_PoliceStation.json | ExportedJson |
-| ILC_DollarStoreShelf | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_DollarStoreShelf.json | ExportedJson |
-| ILC_DollarStoreShelf_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_DollarStoreShelf_Large.json | ExportedJson |
-| ILC_DrugBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_DrugBox.json | ExportedJson |
-| ILC_DrugLab | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_DrugLab.json | ExportedJson |
-| ILC_Dufflebag_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Dufflebag_Military.json | ExportedJson |
-| ILC_Dufflebag_MilitaryBloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Dufflebag_MilitaryBloodied.json | ExportedJson |
-| ILC_Dufflebag_OutdoorGeneric01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Dufflebag_OutdoorGeneric01.json | ExportedJson |
-| ILC_Dufflebag_OutdoorGeneric02 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Dufflebag_OutdoorGeneric02.json | ExportedJson |
-| ILC_Dumpster | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Dumpster.json | ExportedJson |
-| ILC_ElectricStove_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_ElectricStove_Object.json | ExportedJson |
-| ILC_Electrical_Object_Radio | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Radio.json | ExportedJson |
-| ILC_Electrical_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Tier1.json | ExportedJson |
-| ILC_Electrical_Object_Tier2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Tier2.json | ExportedJson |
-| ILC_Electrical_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Tier3.json | ExportedJson |
-| ILC_Empty | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_Empty.json | ExportedJson |
-| ILC_ExplosivesBox_Dynamite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_ExplosivesBox_Dynamite.json | ExportedJson |
-| ILC_ExplosivesBox_Grenades | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_ExplosivesBox_Grenades.json | ExportedJson |
-| ILC_ExplosivesBox_GrenadesBloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_ExplosivesBox_GrenadesBloodied.json | ExportedJson |
-| ILC_Fan_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Fan_Object_Tier1.json | ExportedJson |
-| ILC_FarmTrough | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_FarmTrough.json | ExportedJson |
-| ILC_FelledTree | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_FelledTree.json | ExportedJson |
-| ILC_FileBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_FileBox.json | ExportedJson |
-| ILC_FilingCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_FilingCabinet.json | ExportedJson |
-| ILC_FirstAidKit_Clinic | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Clinic.json | ExportedJson |
-| ILC_FirstAidKit_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Military.json | ExportedJson |
-| ILC_FirstAidKit_Personal | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Personal.json | ExportedJson |
-| ILC_FirstAidKit_Survival | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Survival.json | ExportedJson |
-| ILC_FishingTools_Small | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_FishingTools_Small.json | ExportedJson |
-| ILC_Footlocker_Cabin | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Footlocker_Cabin.json | ExportedJson |
-| ILC_Footlocker_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Footlocker_Military.json | ExportedJson |
-| ILC_Footlocker_MilitaryBloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Footlocker_MilitaryBloodied.json | ExportedJson |
-| ILC_Freezer_IceCream | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Freezer_IceCream.json | ExportedJson |
-| ILC_Fridge_Bar | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Bar.json | ExportedJson |
-| ILC_Fridge_Commercial | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Commercial.json | ExportedJson |
-| ILC_Fridge_Commercial_RedHots | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Commercial_RedHots.json | ExportedJson |
-| ILC_Fridge_Convenience | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Convenience.json | ExportedJson |
-| ILC_Fridge_ConvenienceMini | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_ConvenienceMini.json | ExportedJson |
-| ILC_Fridge_FarmDairy | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_FarmDairy.json | ExportedJson |
-| ILC_Fridge_FishingBait | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_FishingBait.json | ExportedJson |
-| ILC_Fridge_Garage | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Garage.json | ExportedJson |
-| ILC_Fridge_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Fridge_Object.json | ExportedJson |
-| ILC_Fridge_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Residential.json | ExportedJson |
-| ILC_Fridge_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Rich.json | ExportedJson |
-| ILC_GasStove_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_GasStove_Object.json | ExportedJson |
-| ILC_GiftShop | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_GiftShop.json | ExportedJson |
-| ILC_GiftShop_Tall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_GiftShop_Tall.json | ExportedJson |
-| ILC_GlassBulb_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_GlassBulb_Object_Tier2.json | ExportedJson |
-| ILC_GlassPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_GlassPile.json | ExportedJson |
-| ILC_Glass_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Glass_Object_Tier1.json | ExportedJson |
-| ILC_Glass_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Glass_Object_Tier2.json | ExportedJson |
-| ILC_Glass_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Glass_Object_Tier3.json | ExportedJson |
-| ILC_Gravesite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_Gravesite.json | ExportedJson |
-| ILC_GroceryProps | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_GroceryProps.json | ExportedJson |
-| ILC_GunStoreShelf | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_GunStoreShelf.json | ExportedJson |
-| ILC_HeatingObject | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_HeatingObject.json | ExportedJson |
-| ILC_JanitorCloset | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_JanitorCloset.json | ExportedJson |
-| ILC_JunkPile_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_JunkPile_Residential.json | ExportedJson |
-| ILC_KitchenCommercial_LargeDrawers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_KitchenCommercial_LargeDrawers.json | ExportedJson |
-| ILC_KitchenCounter_Dishwasher | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_Dishwasher.json | ExportedJson |
-| ILC_KitchenCounter_LargeDrawers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_LargeDrawers.json | ExportedJson |
-| ILC_KitchenCounter_LargeDrawers_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_LargeDrawers_Rich.json | ExportedJson |
-| ILC_KitchenCounter_Oven | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_Oven.json | ExportedJson |
-| ILC_KitchenCounter_SmallDrawers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_SmallDrawers.json | ExportedJson |
-| ILC_KitchenCounter_UnderSink | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_UnderSink.json | ExportedJson |
-| ILC_LaundryBin | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_LaundryBin.json | ExportedJson |
-| ILC_Leather_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Leather_Object_Tier1.json | ExportedJson |
-| ILC_LibraryBooks | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_LibraryBooks.json | ExportedJson |
-| ILC_LimestoneBrickPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_LimestoneBrickPile.json | ExportedJson |
-| ILC_Limestone_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Limestone_Object_Tier1.json | ExportedJson |
-| ILC_Limestone_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Limestone_Object_Tier2.json | ExportedJson |
-| ILC_Limestone_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Limestone_Object_Tier3.json | ExportedJson |
-| ILC_LivingRoomCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_LivingRoomCabinet.json | ExportedJson |
-| ILC_Locker_Commisary | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Commisary.json | ExportedJson |
-| ILC_Locker_Contraband | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Contraband.json | ExportedJson |
-| ILC_Locker_FireDept | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_FireDept.json | ExportedJson |
-| ILC_Locker_FireDeptEquip | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_FireDeptEquip.json | ExportedJson |
-| ILC_Locker_Officer | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Officer.json | ExportedJson |
-| ILC_Locker_Police | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Police.json | ExportedJson |
-| ILC_Locker_Prison | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Prison.json | ExportedJson |
-| ILC_Locker_Riot | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Riot.json | ExportedJson |
-| ILC_Locker_SportsEquip | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_SportsEquip.json | ExportedJson |
-| ILC_Locker_Visitor | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Visitor.json | ExportedJson |
-| ILC_Lockers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Lockers.json | ExportedJson |
-| ILC_Log | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Log.json | ExportedJson |
-| ILC_Lunchbox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Lunchbox.json | ExportedJson |
-| ILC_MachineAluminum_Object_Tier2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MachineAluminum_Object_Tier2.json | ExportedJson |
-| ILC_MailLocker | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_MailLocker.json | ExportedJson |
-| ILC_Mailbox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Mailbox.json | ExportedJson |
-| ILC_MailboxLarge | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_MailboxLarge.json | ExportedJson |
-| ILC_MailboxLarge_Newspapers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_MailboxLarge_Newspapers.json | ExportedJson |
-| ILC_MaskBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_MaskBox.json | ExportedJson |
-| ILC_Meat_Object | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Meat_Object.json | ExportedJson |
-| ILC_MetalCloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalCloth_Object_Tier2.json | ExportedJson |
-| ILC_MetalDripStand_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalDripStand_Object_Tier2.json | ExportedJson |
-| ILC_MetalElectronics_Object_Tier5 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalElectronics_Object_Tier5.json | ExportedJson |
-| ILC_MetalGlassBulb_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalGlassBulb_Object_Tier1.json | ExportedJson |
-| ILC_MetalGlassBulb_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalGlassBulb_Object_Tier2.json | ExportedJson |
-| ILC_MetalGlassBulb_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalGlassBulb_Object_Tier3.json | ExportedJson |
-| ILC_MetalLimestone_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalLimestone_Object_Tier2.json | ExportedJson |
-| ILC_MetalPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_MetalPile.json | ExportedJson |
-| ILC_MetalTire_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalTire_Object_Tier3.json | ExportedJson |
-| ILC_Metal_Machinery_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Machinery_Large.json | ExportedJson |
-| ILC_Metal_Machinery_Small | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Machinery_Small.json | ExportedJson |
-| ILC_Metal_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier1.json | ExportedJson |
-| ILC_Metal_Object_Tier1_NoScrews | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier1_NoScrews.json | ExportedJson |
-| ILC_Metal_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier2.json | ExportedJson |
-| ILC_Metal_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier3.json | ExportedJson |
-| ILC_Metal_Object_Tier4 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier4.json | ExportedJson |
-| ILC_Metal_Object_Tier5 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier5.json | ExportedJson |
-| ILC_Metal_Object_Tier6 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier6.json | ExportedJson |
-| ILC_MilitaryCrate | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate.json | ExportedJson |
-| ILC_MilitaryCrate_Bloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate_Bloodied.json | ExportedJson |
-| ILC_MilitaryCrate_HiTier | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate_HiTier.json | ExportedJson |
-| ILC_MilitaryCrate_HiTier_Bloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate_HiTier_Bloodied.json | ExportedJson |
-| ILC_MineCrate | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_MineCrate.json | ExportedJson |
-| ILC_MineCrate_LyonMtn | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_MineCrate_LyonMtn.json | ExportedJson |
-| ILC_Nightstand | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Nightstand.json | ExportedJson |
-| ILC_Nightstand_Motel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Nightstand_Motel.json | ExportedJson |
-| ILC_Node_Bauxite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Bauxite.json | ExportedJson |
-| ILC_Node_BogIron | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_BogIron.json | ExportedJson |
-| ILC_Node_Chalcopyrite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Chalcopyrite.json | ExportedJson |
-| ILC_Node_Coal | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Coal.json | ExportedJson |
-| ILC_Node_Graphite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Graphite.json | ExportedJson |
-| ILC_Node_Hematite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Hematite.json | ExportedJson |
-| ILC_Node_Limestone | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Limestone.json | ExportedJson |
-| ILC_Node_SilicaSand | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_SilicaSand.json | ExportedJson |
-| ILC_OfficeKeyboard | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_OfficeKeyboard.json | ExportedJson |
-| ILC_OfficeLargeGoods | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_OfficeLargeGoods.json | ExportedJson |
-| ILC_Ores_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Ores_Tier1.json | ExportedJson |
-| ILC_Ores_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Ores_Tier2.json | ExportedJson |
-| ILC_OxygenTankBag | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_OxygenTankBag.json | ExportedJson |
-| ILC_Pantry | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Pantry.json | ExportedJson |
-| ILC_PantryRich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PantryRich.json | ExportedJson |
-| ILC_Pantry_Sugarworks | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Pantry_Sugarworks.json | ExportedJson |
-| ILC_Paper_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Paper_Object_Tier1.json | ExportedJson |
-| ILC_Paper_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Paper_Object_Tier2.json | ExportedJson |
-| ILC_ParamedicBag | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_ParamedicBag.json | ExportedJson |
-| ILC_Parcel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_Parcel.json | ExportedJson |
-| ILC_PetBowl | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PetBowl.json | ExportedJson |
-| ILC_PharmacyCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_PharmacyCabinet.json | ExportedJson |
-| ILC_PharmacyCabinet_Vet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_PharmacyCabinet_Vet.json | ExportedJson |
-| ILC_PicnicBasket | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PicnicBasket.json | ExportedJson |
-| ILC_PistolCase | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_PistolCase.json | ExportedJson |
-| ILC_PlasticBucket | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PlasticBucket.json | ExportedJson |
-| ILC_PlasticCanoe_Object_Tier4 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticCanoe_Object_Tier4.json | ExportedJson |
-| ILC_PlasticCloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticCloth_Object_Tier2.json | ExportedJson |
-| ILC_PlasticCloth_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticCloth_Object_Tier3.json | ExportedJson |
-| ILC_PlasticElectrical_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticElectrical_Object_Tier2.json | ExportedJson |
-| ILC_PlasticGlass_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticGlass_Object_Tier1.json | ExportedJson |
-| ILC_PlasticMetalGlassBulb_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticMetalGlassBulb_Object_Tier1.json | ExportedJson |
-| ILC_PlasticRope_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticRope_Object_Tier2.json | ExportedJson |
-| ILC_PlasticTire_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticTire_Object_Tier3.json | ExportedJson |
-| ILC_Plastic_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Plastic_Object_Tier1.json | ExportedJson |
-| ILC_Plastic_Object_Tier2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Plastic_Object_Tier2.json | ExportedJson |
-| ILC_Plastic_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Plastic_Object_Tier3.json | ExportedJson |
-| ILC_PoolTable | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_PoolTable.json | ExportedJson |
-| ILC_Portapotty | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_Portapotty.json | ExportedJson |
-| ILC_Prison_Belongings | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Prison_Belongings.json | ExportedJson |
-| ILC_PropaneTank | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_PropaneTank.json | ExportedJson |
-| ILC_PurePlastic_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PurePlastic_Object_Tier1.json | ExportedJson |
-| ILC_PureWood_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PureWood_Object_Tier1.json | ExportedJson |
-| ILC_PureWood_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PureWood_Object_Tier2.json | ExportedJson |
-| ILC_PureWood_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PureWood_Object_Tier3.json | ExportedJson |
-| ILC_SaleSign | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_SaleSign.json | ExportedJson |
-| ILC_School_Cabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Cabinet.json | ExportedJson |
-| ILC_School_Chemistry | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Chemistry.json | ExportedJson |
-| ILC_School_Desk | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Desk.json | ExportedJson |
-| ILC_School_Locker | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Locker.json | ExportedJson |
-| ILC_School_TVStand | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_TVStand.json | ExportedJson |
-| ILC_School_TarantulaTank | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_TarantulaTank.json | ExportedJson |
-| ILC_ScrapRubber_Object | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_ScrapRubber_Object.json | ExportedJson |
-| ILC_SeedShop | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_SeedShop.json | ExportedJson |
-| ILC_SeedShop_Boxes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_SeedShop_Boxes.json | ExportedJson |
-| ILC_ServerRack01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_ServerRack01.json | ExportedJson |
-| ILC_Shed | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Shed.json | ExportedJson |
-| ILC_Sidetable | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Sidetable.json | ExportedJson |
-| ILC_Sidetable_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Sidetable_Rich.json | ExportedJson |
-| ILC_SteelChair | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_SteelChair.json | ExportedJson |
-| ILC_StoreStorage_Utility | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_StoreStorage_Utility.json | ExportedJson |
-| ILC_Suitcase | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Suitcase.json | ExportedJson |
-| ILC_Tacklebox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Tacklebox.json | ExportedJson |
-| ILC_TelevisionOld_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_TelevisionOld_Object.json | ExportedJson |
-| ILC_TelevisionRich_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_TelevisionRich_Object.json | ExportedJson |
-| ILC_Television_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Television_Object.json | ExportedJson |
-| ILC_Tent | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_Tent.json | ExportedJson |
-| ILC_Tires | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_Tires.json | ExportedJson |
-| ILC_ToolBattery | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolBattery.json | ExportedJson |
-| ILC_ToolBox_SmallShelfs | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_ToolBox_SmallShelfs.json | ExportedJson |
-| ILC_ToolShelf_Garage | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_ToolShelf_Garage.json | ExportedJson |
-| ILC_ToolShelf_HiTier | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_HiTier.json | ExportedJson |
-| ILC_ToolShelf_HiTier_Small | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_HiTier_Small.json | ExportedJson |
-| ILC_ToolShelf_Industrial | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_Industrial.json | ExportedJson |
-| ILC_ToolShelf_Industrial_Small | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_Industrial_Small.json | ExportedJson |
-| ILC_TowelWarmer | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_TowelWarmer.json | ExportedJson |
-| ILC_TrashCan01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_TrashCan01.json | ExportedJson |
-| ILC_TrashCan02 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_TrashCan02.json | ExportedJson |
-| ILC_Trash_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Trash_Residential.json | ExportedJson |
-| ILC_WarehouseBox_Cleaning | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Cleaning.json | ExportedJson |
-| ILC_WarehouseBox_CleaningSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_CleaningSmall.json | ExportedJson |
-| ILC_WarehouseBox_Construction | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Construction.json | ExportedJson |
-| ILC_WarehouseBox_ConstructionSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_ConstructionSmall.json | ExportedJson |
-| ILC_WarehouseBox_CornFarm | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_CornFarm.json | ExportedJson |
-| ILC_WarehouseBox_CornFarmSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_CornFarmSmall.json | ExportedJson |
-| ILC_WarehouseBox_Electronics | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Electronics.json | ExportedJson |
-| ILC_WarehouseBox_ElectronicsSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_ElectronicsSmall.json | ExportedJson |
-| ILC_WarehouseBox_Farm | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Farm.json | ExportedJson |
-| ILC_WarehouseBox_FarmLarge | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_FarmLarge.json | ExportedJson |
-| ILC_WarehouseBox_Mechanic | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Mechanic.json | ExportedJson |
-| ILC_WarehouseBox_MechanicSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_MechanicSmall.json | ExportedJson |
-| ILC_WarehouseBox_PetGroomingSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_PetGroomingSmall.json | ExportedJson |
-| ILC_WarehouseBox_RestaurantSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_WarehouseBox_RestaurantSmall.json | ExportedJson |
-| ILC_WarehouseBox_Scrap | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Scrap.json | ExportedJson |
-| ILC_WarehouseBox_ScrapSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_ScrapSmall.json | ExportedJson |
-| ILC_Washer | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Washer.json | ExportedJson |
-| ILC_WasherPrison | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_WasherPrison.json | ExportedJson |
-| ILC_Wax_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wax_Object_Tier1.json | ExportedJson |
-| ILC_WeaponBox_Hunting | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Hunting.json | ExportedJson |
-| ILC_WeaponBox_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Tier1.json | ExportedJson |
-| ILC_WeaponBox_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Tier2.json | ExportedJson |
-| ILC_WeaponBox_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Tier3.json | ExportedJson |
-| ILC_Wire_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wire_Object_Tier2.json | ExportedJson |
-| ILC_Wire_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wire_Object_Tier3.json | ExportedJson |
-| ILC_WoodBarbed_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodBarbed_Object_Tier1.json | ExportedJson |
-| ILC_WoodCloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodCloth_Object_Tier2.json | ExportedJson |
-| ILC_WoodCloth_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodCloth_Object_Tier3.json | ExportedJson |
-| ILC_WoodGlass_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodGlass_Object_Tier1.json | ExportedJson |
-| ILC_WoodLimestoneMetalElectronics_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodLimestoneMetalElectronics_Object_Tier3.json | ExportedJson |
-| ILC_WoodLimestoneMetal_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodLimestoneMetal_Object_Tier3.json | ExportedJson |
-| ILC_WoodLimestone_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodLimestone_Object_Tier3.json | ExportedJson |
-| ILC_Wood_Machinery_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Machinery_Large.json | ExportedJson |
-| ILC_Wood_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Object_Tier1.json | ExportedJson |
-| ILC_Wood_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Object_Tier2.json | ExportedJson |
-| ILC_Wood_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Object_Tier3.json | ExportedJson |
-| ILC_WoodenBarrel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_WoodenBarrel.json | ExportedJson |
-| ILC_WoodenBarrel_LyonMtn | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_WoodenBarrel_LyonMtn.json | ExportedJson |
-| ILC_WoodenBarrel_Mine | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_WoodenBarrel_Mine.json | ExportedJson |
-| ILC_WoodenBox_Garage | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_WoodenBox_Garage.json | ExportedJson |
-| ILC_WoodfirePile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_WoodfirePile.json | ExportedJson |
-| IL_AdvancedTech | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_AdvancedTech.json | ExportedJson |
-| IL_Ammo_Special | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Special.json | ExportedJson |
-| IL_Ammo_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Tier1.json | ExportedJson |
-| IL_Ammo_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Tier2.json | ExportedJson |
-| IL_Ammo_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Tier3.json | ExportedJson |
-| IL_AnimalFeed | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_AnimalFeed.json | ExportedJson |
-| IL_Arrows | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Arrows.json | ExportedJson |
-| IL_BarbedWire | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BarbedWire.json | ExportedJson |
-| IL_BarberTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_BarberTools.json | ExportedJson |
-| IL_Baskets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_Baskets.json | ExportedJson |
-| IL_Battery | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Battery.json | ExportedJson |
-| IL_BitsnBobs_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BitsnBobs_Large.json | ExportedJson |
-| IL_BitsnBobs_Small | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BitsnBobs_Small.json | ExportedJson |
-| IL_BitsnBobs_SmallIndustrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BitsnBobs_SmallIndustrial.json | ExportedJson |
-| IL_Bones | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Bones.json | ExportedJson |
-| IL_Books | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Books.json | ExportedJson |
-| IL_Buckets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Buckets.json | ExportedJson |
-| IL_BucketsLarge | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_BucketsLarge.json | ExportedJson |
-| IL_CL_Armor_Military | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Armor_Military.json | ExportedJson |
-| IL_CL_Armor_MilitaryAirForce | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Armor_MilitaryAirForce.json | ExportedJson |
-| IL_CL_Back_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\08_Back\IL_CL_Back_Civ.json | ExportedJson |
-| IL_CL_Back_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\08_Back\IL_CL_Back_Outdoor.json | ExportedJson |
-| IL_CL_Bottoms_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05a_Lower\IL_CL_Bottoms_Civ.json | ExportedJson |
-| IL_CL_Bottoms_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05a_Lower\IL_CL_Bottoms_Outdoor.json | ExportedJson |
-| IL_CL_Chef | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Chef.json | ExportedJson |
-| IL_CL_CorrectionalOfficer | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_CorrectionalOfficer.json | ExportedJson |
-| IL_CL_Doctor | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Doctor.json | ExportedJson |
-| IL_CL_Face_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Civ.json | ExportedJson |
-| IL_CL_Face_Garage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Garage.json | ExportedJson |
-| IL_CL_Face_Industrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Industrial.json | ExportedJson |
-| IL_CL_Face_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Outdoor.json | ExportedJson |
-| IL_CL_FireFighter | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_FireFighter.json | ExportedJson |
-| IL_CL_Hands_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\07_Hands\IL_CL_Hands_Civ.json | ExportedJson |
-| IL_CL_Hands_Industrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\07_Hands\IL_CL_Hands_Industrial.json | ExportedJson |
-| IL_CL_Hazmat | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Hazmat.json | ExportedJson |
-| IL_CL_Head_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Civ.json | ExportedJson |
-| IL_CL_Head_Garage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Garage.json | ExportedJson |
-| IL_CL_Head_Industrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Industrial.json | ExportedJson |
-| IL_CL_Head_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Outdoor.json | ExportedJson |
-| IL_CL_Head_Sports | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Sports.json | ExportedJson |
-| IL_CL_Jacket_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\03_Jacket\IL_CL_Jacket_Civ.json | ExportedJson |
-| IL_CL_Jacket_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\03_Jacket\IL_CL_Jacket_Outdoor.json | ExportedJson |
-| IL_CL_KitchenCiv | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_KitchenCiv.json | ExportedJson |
-| IL_CL_LowerArmor_Garage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05b_LowerArmor\IL_CL_LowerArmor_Garage.json | ExportedJson |
-| IL_CL_LowerArmor_Sports | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05b_LowerArmor\IL_CL_LowerArmor_Sports.json | ExportedJson |
-| IL_CL_Maplemart | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Maplemart.json | ExportedJson |
-| IL_CL_MilitaryAssortment | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_MilitaryAssortment.json | ExportedJson |
-| IL_CL_MilitaryUniform | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_MilitaryUniform.json | ExportedJson |
-| IL_CL_PetGroomer | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_PetGroomer.json | ExportedJson |
-| IL_CL_PoliceOfficer | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_PoliceOfficer.json | ExportedJson |
-| IL_CL_Prisoner | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Prisoner.json | ExportedJson |
-| IL_CL_QuarantineTents | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\09_FullBody\IL_CL_QuarantineTents.json | ExportedJson |
-| IL_CL_Ranger | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Ranger.json | ExportedJson |
-| IL_CL_RiotPolice | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_RiotPolice.json | ExportedJson |
-| IL_CL_Sheriff | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Sheriff.json | ExportedJson |
-| IL_CL_Shoes_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\06_Feet\IL_CL_Shoes_Civ.json | ExportedJson |
-| IL_CL_Tops_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04a_Upper\IL_CL_Tops_Civ.json | ExportedJson |
-| IL_CL_Tops_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04a_Upper\IL_CL_Tops_Outdoor.json | ExportedJson |
-| IL_CL_UpperArmor_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04b_UpperArmor\IL_CL_UpperArmor_Civ.json | ExportedJson |
-| IL_CL_UpperArmor_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04b_UpperArmor\IL_CL_UpperArmor_Outdoor.json | ExportedJson |
-| IL_CL_UpperArmor_Sports | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04b_UpperArmor\IL_CL_UpperArmor_Sports.json | ExportedJson |
-| IL_CS_Casual1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual1.json | ExportedJson |
-| IL_CS_Casual2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual2.json | ExportedJson |
-| IL_CS_Casual3 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual3.json | ExportedJson |
-| IL_CS_Casual4 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual4.json | ExportedJson |
-| IL_CS_CasualSkirt | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_CasualSkirt.json | ExportedJson |
-| IL_Camping | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Outdoor\IL_Camping.json | ExportedJson |
-| IL_Candle | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Candle.json | ExportedJson |
-| IL_CarParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Car\IL_CarParts.json | ExportedJson |
-| IL_Ceramics | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_Ceramics.json | ExportedJson |
-| IL_Chemistry | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_Chemistry.json | ExportedJson |
-| IL_CleaningChemicals | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningChemicals.json | ExportedJson |
-| IL_CleaningChemicals_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningChemicals_Large.json | ExportedJson |
-| IL_CleaningSupplies | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningSupplies.json | ExportedJson |
-| IL_CleaningSupplies_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningSupplies_Large.json | ExportedJson |
-| IL_ClosetTrinkets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_ClosetTrinkets.json | ExportedJson |
-| IL_ClosetTrinkets_Rich | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_ClosetTrinkets_Rich.json | ExportedJson |
-| IL_CommercialCookware | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_CommercialCookware.json | ExportedJson |
-| IL_Concrete | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Concrete.json | ExportedJson |
-| IL_ConstructionSupplies | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ConstructionSupplies.json | ExportedJson |
-| IL_ConstructionSupplies_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ConstructionSupplies_Large.json | ExportedJson |
-| IL_Cookware | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_Cookware.json | ExportedJson |
-| IL_CornSeeds | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_CornSeeds.json | ExportedJson |
-| IL_Crafting_CarParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_CarParts.json | ExportedJson |
-| IL_Crafting_CarPartsLarge | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_CarPartsLarge.json | ExportedJson |
-| IL_Crafting_Components | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Components.json | ExportedJson |
-| IL_Crafting_Fan | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Fan.json | ExportedJson |
-| IL_Crafting_Grill | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Grill.json | ExportedJson |
-| IL_Crafting_Ingots_HiTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Ingots_HiTier.json | ExportedJson |
-| IL_Crafting_Logs | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Logs.json | ExportedJson |
-| IL_Crafting_Parts_HiTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Parts_HiTier.json | ExportedJson |
-| IL_Crafting_Scrap | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Scrap.json | ExportedJson |
-| IL_Crafting_Scrap_HiTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Scrap_HiTier.json | ExportedJson |
-| IL_Crafting_StructureComponents | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_StructureComponents.json | ExportedJson |
-| IL_Crystals | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Crystals.json | ExportedJson |
-| IL_CurrencyCADSide | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_CurrencyCADSide.json | ExportedJson |
-| IL_CurrencyUSSide | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_CurrencyUSSide.json | ExportedJson |
-| IL_DebitCard | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_DebitCard.json | ExportedJson |
-| IL_Dirt | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Dirt.json | ExportedJson |
-| IL_Discs_Residential | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Discs_Residential.json | ExportedJson |
-| IL_DrugTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Outdoor\IL_DrugTools.json | ExportedJson |
-| IL_Dynamite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Dynamite.json | ExportedJson |
-| IL_ElectronicsJunk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ElectronicsJunk.json | ExportedJson |
-| IL_ElectronicsJunk_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ElectronicsJunk_Large.json | ExportedJson |
-| IL_ElectronicsTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ElectronicsTools.json | ExportedJson |
-| IL_FelledTree | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Outdoor\IL_FelledTree.json | ExportedJson |
-| IL_Fertilizer | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Fertilizer.json | ExportedJson |
-| IL_Fireworks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Fireworks\IL_Fireworks.json | ExportedJson |
-| IL_FridgeParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_FridgeParts.json | ExportedJson |
-| IL_GardenTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_GardenTools.json | ExportedJson |
-| IL_GlassShards | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_GlassShards.json | ExportedJson |
-| IL_Grenade | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Grenade.json | ExportedJson |
-| IL_GroceryUtility | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Store\IL_GroceryUtility.json | ExportedJson |
-| IL_Gunpowder | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Gunpowder.json | ExportedJson |
-| IL_HalloweenPumpkin | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Holiday\IL_HalloweenPumpkin.json | ExportedJson |
-| IL_HeavyBolts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_HeavyBolts.json | ExportedJson |
-| IL_IDCard | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_IDCard.json | ExportedJson |
-| IL_Keyboard | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_Keyboard.json | ExportedJson |
-| IL_LargePrinter | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_LargePrinter.json | ExportedJson |
-| IL_LawnmowerBlade | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_LawnmowerBlade.json | ExportedJson |
-| IL_LightBulb | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_LightBulb.json | ExportedJson |
-| IL_LimestoneBrick | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_LimestoneBrick.json | ExportedJson |
-| IL_LivingRoomCleaning | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_LivingRoomCleaning.json | ExportedJson |
-| IL_LivingRoomGames | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_LivingRoomGames.json | ExportedJson |
-| IL_LivingRoomTrinkets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_LivingRoomTrinkets.json | ExportedJson |
-| IL_Mailbox | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Mailbox.json | ExportedJson |
-| IL_MaskBox | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\Packages\IL_MaskBox.json | ExportedJson |
-| IL_Melee_Cooking | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Cooking.json | ExportedJson |
-| IL_Melee_Firefighter | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Firefighter.json | ExportedJson |
-| IL_Melee_Janitor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Janitor.json | ExportedJson |
-| IL_Melee_Military | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Military.json | ExportedJson |
-| IL_Melee_Residential | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Residential.json | ExportedJson |
-| IL_Melee_Shed | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Shed.json | ExportedJson |
-| IL_Melee_Trash | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Trash.json | ExportedJson |
-| IL_MidTierBuildTierItems | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_MidTierBuildTierItems.json | ExportedJson |
-| IL_MilitaryJunk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Military\IL_MilitaryJunk.json | ExportedJson |
-| IL_ModelSun | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ModelSun.json | ExportedJson |
-| IL_Nails | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Nails.json | ExportedJson |
-| IL_Newspapers | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Newspapers.json | ExportedJson |
-| IL_Node_BogIron | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_BogIron.json | ExportedJson |
-| IL_Node_RawBauxite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawBauxite.json | ExportedJson |
-| IL_Node_RawChalcopyrite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawChalcopyrite.json | ExportedJson |
-| IL_Node_RawCoal | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawCoal.json | ExportedJson |
-| IL_Node_RawGraphite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawGraphite.json | ExportedJson |
-| IL_Node_RawHematite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawHematite.json | ExportedJson |
-| IL_Node_RawLimestone | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawLimestone.json | ExportedJson |
-| IL_Node_RawSilicaSand | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawSilicaSand.json | ExportedJson |
-| IL_OfficeCabinet | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeCabinet.json | ExportedJson |
-| IL_OfficeDesk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeDesk.json | ExportedJson |
-| IL_OfficeLargeGoods | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeLargeGoods.json | ExportedJson |
-| IL_OfficeStorage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeStorage.json | ExportedJson |
-| IL_OfficerTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Prison\IL_OfficerTools.json | ExportedJson |
-| IL_OldTelevisionParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_OldTelevisionParts.json | ExportedJson |
-| IL_PetSupplies_Generic | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_PetSupplies_Generic.json | ExportedJson |
-| IL_PetSupplies_Grooming | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_PetSupplies_Grooming.json | ExportedJson |
-| IL_Planks | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Planks.json | ExportedJson |
-| IL_PoolBalls | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_PoolBalls.json | ExportedJson |
-| IL_PoolTable_Tools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_PoolTable_Tools.json | ExportedJson |
-| IL_PrisonContraband | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Prison\IL_PrisonContraband.json | ExportedJson |
-| IL_PrisonerTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Prison\IL_PrisonerTools.json | ExportedJson |
-| IL_PropaneTank | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_PropaneTank.json | ExportedJson |
-| IL_RadioParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RadioParts.json | ExportedJson |
-| IL_Ranged_Bows | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Bows.json | ExportedJson |
-| IL_Ranged_Pistols_Special | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Special.json | ExportedJson |
-| IL_Ranged_Pistols_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Tier1.json | ExportedJson |
-| IL_Ranged_Pistols_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Tier2.json | ExportedJson |
-| IL_Ranged_Pistols_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Tier3.json | ExportedJson |
-| IL_Ranged_Rifles_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier1.json | ExportedJson |
-| IL_Ranged_Rifles_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier2.json | ExportedJson |
-| IL_Ranged_Rifles_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier3.json | ExportedJson |
-| IL_Ranged_Rifles_Tier4 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier4.json | ExportedJson |
-| IL_Ranged_Shotguns_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Shotguns_Tier1.json | ExportedJson |
-| IL_Ranged_Shotguns_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Shotguns_Tier2.json | ExportedJson |
-| IL_RawBauxite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawBauxite.json | ExportedJson |
-| IL_RawChalcopyrite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawChalcopyrite.json | ExportedJson |
-| IL_RawCoal | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawCoal.json | ExportedJson |
-| IL_RawGraphite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawGraphite.json | ExportedJson |
-| IL_RawHematite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawHematite.json | ExportedJson |
-| IL_RawLimestone | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawLimestone.json | ExportedJson |
-| IL_Rope | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Rope.json | ExportedJson |
-| IL_SaleSign | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_SaleSign.json | ExportedJson |
-| IL_Schematics | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_Schematics.json | ExportedJson |
-| IL_SchoolSnacks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SchoolSnacks.json | ExportedJson |
-| IL_SchoolSupplies | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SchoolSupplies.json | ExportedJson |
-| IL_ScrapAluminum | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapAluminum.json | ExportedJson |
-| IL_ScrapCardboard | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapCardboard.json | ExportedJson |
-| IL_ScrapCloth | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapCloth.json | ExportedJson |
-| IL_ScrapDenim | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapDenim.json | ExportedJson |
-| IL_ScrapElectronics | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapElectronics.json | ExportedJson |
-| IL_ScrapElectronics_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapElectronics_Large.json | ExportedJson |
-| IL_ScrapJewelry | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapJewelry.json | ExportedJson |
-| IL_ScrapLeather | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapLeather.json | ExportedJson |
-| IL_ScrapMakeshiftBandage | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapMakeshiftBandage.json | ExportedJson |
-| IL_ScrapMetals | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapMetals.json | ExportedJson |
-| IL_ScrapMetals_HighTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapMetals_HighTier.json | ExportedJson |
-| IL_ScrapPaper | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapPaper.json | ExportedJson |
-| IL_ScrapPlastic | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapPlastic.json | ExportedJson |
-| IL_ScrapRubber | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapRubber.json | ExportedJson |
-| IL_ScrapWood | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapWood.json | ExportedJson |
-| IL_Screws | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Screws.json | ExportedJson |
-| IL_Seeds_All | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Seeds_All.json | ExportedJson |
-| IL_Seeds_Legal | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Seeds_Legal.json | ExportedJson |
-| IL_SkillBooks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillBooks.json | ExportedJson |
-| IL_SkillBooks_School | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillBooks_School.json | ExportedJson |
-| IL_SkillMags | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillMags.json | ExportedJson |
-| IL_SkillMags_School | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillMags_School.json | ExportedJson |
-| IL_SportBalls | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SportBalls.json | ExportedJson |
-| IL_SportDrugs | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SportDrugs.json | ExportedJson |
-| IL_SportEquipment | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SportEquipment.json | ExportedJson |
-| IL_Springs | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Springs.json | ExportedJson |
-| IL_SteelChair | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_SteelChair.json | ExportedJson |
-| IL_StoveGasParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_StoveGasParts.json | ExportedJson |
-| IL_StoveParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_StoveParts.json | ExportedJson |
-| IL_TelevisionParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_TelevisionParts.json | ExportedJson |
-| IL_Thread | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Thread.json | ExportedJson |
-| IL_Tire | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Tire.json | ExportedJson |
-| IL_Toiletries | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Bathroom\IL_Toiletries.json | ExportedJson |
-| IL_ToiletriesPrison | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Bathroom\IL_ToiletriesPrison.json | ExportedJson |
-| IL_ToolJunk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ToolJunk.json | ExportedJson |
-| IL_ToolJunk_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ToolJunk_Large.json | ExportedJson |
-| IL_Tools_BasicLocks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_BasicLocks.json | ExportedJson |
-| IL_Tools_Boat | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Boat.json | ExportedJson |
-| IL_Tools_Fishing | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Fishing.json | ExportedJson |
-| IL_Tools_FishingBait | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_FishingBait.json | ExportedJson |
-| IL_Tools_Fishing_Small | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Fishing_Small.json | ExportedJson |
-| IL_Tools_Mines | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Mines.json | ExportedJson |
-| IL_Tools_Mines_LyonMtn | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Mines_LyonMtn.json | ExportedJson |
-| IL_Tools_Misc | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Misc.json | ExportedJson |
-| IL_Tools_Office | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Office.json | ExportedJson |
-| IL_Tools_Outdoors | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Outdoors.json | ExportedJson |
-| IL_Tools_Outdoors_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Outdoors_Large.json | ExportedJson |
-| IL_Tools_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier1.json | ExportedJson |
-| IL_Tools_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier2.json | ExportedJson |
-| IL_Tools_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier3.json | ExportedJson |
-| IL_Tools_Tier4 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier4.json | ExportedJson |
-| IL_Tools_Tier5 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier5.json | ExportedJson |
-| IL_Tools_Tier6 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier6.json | ExportedJson |
-| IL_Tools_ToolBattery | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_ToolBattery.json | ExportedJson |
-| IL_Tools_ToolBatteryHeavyDuty | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_ToolBatteryHeavyDuty.json | ExportedJson |
-| IL_TrashJunk_Residential | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Trash\IL_TrashJunk_Residential.json | ExportedJson |
-| IL_Utensils | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_Utensils.json | ExportedJson |
-| IL_UtensilsLarge | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_UtensilsLarge.json | ExportedJson |
-| IL_VideoTapes | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\IL_VideoTapes.json | ExportedJson |
-| IL_Wax | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Wax.json | ExportedJson |
-| IL_WeaponAttachments | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_WeaponAttachments.json | ExportedJson |
-| IL_Wire | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Wire.json | ExportedJson |
+| ILC_AllClothes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllClothes.json | JSON Export |
+| ILC_AllCraftingIng | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllCraftingIng.json | JSON Export |
+| ILC_AllFirearms | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllFirearms.json | JSON Export |
+| ILC_Aluminum_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Aluminum_Object_Tier1.json | JSON Export |
+| ILC_AmmoBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_AmmoBox.json | JSON Export |
+| ILC_AmmoBoxLarge | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_AmmoBoxLarge.json | JSON Export |
+| ILC_AmmoBoxLarge_Bloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_AmmoBoxLarge_Bloodied.json | JSON Export |
+| ILC_Ammo_Object | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Ammo_Object.json | JSON Export |
+| ILC_ArcheryBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ArcheryBox.json | JSON Export |
+| ILC_AutoPartsStore | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_AutoPartsStore.json | JSON Export |
+| ILC_AutoPartsStore_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_AutoPartsStore_Large.json | JSON Export |
+| ILC_BBQGrill | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BBQGrill.json | JSON Export |
+| ILC_Bakery | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Bakery.json | JSON Export |
+| ILC_BarberCounter | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_BarberCounter.json | JSON Export |
+| ILC_BathroomCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BathroomCabinet.json | JSON Export |
+| ILC_BedroomDresser | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BedroomDresser.json | JSON Export |
+| ILC_BoatCrate | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_BoatCrate.json | JSON Export |
+| ILC_Cabinet_Office | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Cabinet_Office.json | JSON Export |
+| ILC_Cabinet_PoliceStation | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Cabinet_PoliceStation.json | JSON Export |
+| ILC_CardboardBox_Industrial | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_CardboardBox_Industrial.json | JSON Export |
+| ILC_CardboardBox_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CardboardBox_Residential.json | JSON Export |
+| ILC_Cardboard_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cardboard_Object_Tier1.json | JSON Export |
+| ILC_Cardboard_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cardboard_Object_Tier2.json | JSON Export |
+| ILC_Cardboard_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cardboard_Object_Tier3.json | JSON Export |
+| ILC_CashRegister_CAD | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_CashRegister_CAD.json | JSON Export |
+| ILC_CashRegister_US | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_CashRegister_US.json | JSON Export |
+| ILC_Closet_Motel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Closet_Motel.json | JSON Export |
+| ILC_Closet_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Closet_Residential.json | JSON Export |
+| ILC_Closet_Residential_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Closet_Residential_Rich.json | JSON Export |
+| ILC_Cloth_Object_MakeshiftBandageScrap | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_MakeshiftBandageScrap.json | JSON Export |
+| ILC_Cloth_Object_Tier0 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier0.json | JSON Export |
+| ILC_Cloth_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier1.json | JSON Export |
+| ILC_Cloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier2.json | JSON Export |
+| ILC_Cloth_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Cloth_Object_Tier3.json | JSON Export |
+| ILC_CoffeeTable | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CoffeeTable.json | JSON Export |
+| ILC_Concrete_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Concrete_Object_Tier3.json | JSON Export |
+| ILC_Concrete_Object_Tier4 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Concrete_Object_Tier4.json | JSON Export |
+| ILC_ConvienenceStoreBox01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox01.json | JSON Export |
+| ILC_ConvienenceStoreBox02_Cigarettes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox02_Cigarettes.json | JSON Export |
+| ILC_ConvienenceStoreBox03_Magazines | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox03_Magazines.json | JSON Export |
+| ILC_ConvienenceStoreBox_Refridgerated | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStoreBox_Refridgerated.json | JSON Export |
+| ILC_ConvienenceStore_JunkPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_ConvienenceStore_JunkPile.json | JSON Export |
+| ILC_CookieJar | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CookieJar.json | JSON Export |
+| ILC_Cooler | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Cooler.json | JSON Export |
+| ILC_CoolerAlcohol | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_CoolerAlcohol.json | JSON Export |
+| ILC_CounterStove_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_CounterStove_Object.json | JSON Export |
+| ILC_CrashedJet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_CrashedJet.json | JSON Export |
+| ILC_Crates | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_Crates.json | JSON Export |
+| ILC_Denim_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Denim_Object_Tier1.json | JSON Export |
+| ILC_DepositBoxes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_DepositBoxes.json | JSON Export |
+| ILC_DepositBoxes_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_DepositBoxes_Large.json | JSON Export |
+| ILC_Desk_Home | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Desk_Home.json | JSON Export |
+| ILC_Desk_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Desk_Military.json | JSON Export |
+| ILC_Desk_Office | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Desk_Office.json | JSON Export |
+| ILC_Desk_PoliceStation | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Desk_PoliceStation.json | JSON Export |
+| ILC_DollarStoreShelf | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_DollarStoreShelf.json | JSON Export |
+| ILC_DollarStoreShelf_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_DollarStoreShelf_Large.json | JSON Export |
+| ILC_DrugBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_DrugBox.json | JSON Export |
+| ILC_DrugLab | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_DrugLab.json | JSON Export |
+| ILC_Dufflebag_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Dufflebag_Military.json | JSON Export |
+| ILC_Dufflebag_MilitaryBloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Dufflebag_MilitaryBloodied.json | JSON Export |
+| ILC_Dufflebag_OutdoorGeneric01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Dufflebag_OutdoorGeneric01.json | JSON Export |
+| ILC_Dufflebag_OutdoorGeneric02 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Dufflebag_OutdoorGeneric02.json | JSON Export |
+| ILC_Dumpster | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Dumpster.json | JSON Export |
+| ILC_ElectricStove_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_ElectricStove_Object.json | JSON Export |
+| ILC_Electrical_Object_Radio | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Radio.json | JSON Export |
+| ILC_Electrical_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Tier1.json | JSON Export |
+| ILC_Electrical_Object_Tier2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Tier2.json | JSON Export |
+| ILC_Electrical_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Electrical_Object_Tier3.json | JSON Export |
+| ILC_Empty | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_Empty.json | JSON Export |
+| ILC_ExplosivesBox_Dynamite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_ExplosivesBox_Dynamite.json | JSON Export |
+| ILC_ExplosivesBox_Grenades | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_ExplosivesBox_Grenades.json | JSON Export |
+| ILC_ExplosivesBox_GrenadesBloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_ExplosivesBox_GrenadesBloodied.json | JSON Export |
+| ILC_Fan_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Fan_Object_Tier1.json | JSON Export |
+| ILC_FarmTrough | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_FarmTrough.json | JSON Export |
+| ILC_FelledTree | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_FelledTree.json | JSON Export |
+| ILC_FileBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_FileBox.json | JSON Export |
+| ILC_FilingCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_FilingCabinet.json | JSON Export |
+| ILC_FirstAidKit_Clinic | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Clinic.json | JSON Export |
+| ILC_FirstAidKit_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Military.json | JSON Export |
+| ILC_FirstAidKit_Personal | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Personal.json | JSON Export |
+| ILC_FirstAidKit_Survival | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_FirstAidKit_Survival.json | JSON Export |
+| ILC_FishingTools_Small | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_FishingTools_Small.json | JSON Export |
+| ILC_Footlocker_Cabin | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Footlocker_Cabin.json | JSON Export |
+| ILC_Footlocker_Military | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Footlocker_Military.json | JSON Export |
+| ILC_Footlocker_MilitaryBloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_Footlocker_MilitaryBloodied.json | JSON Export |
+| ILC_Freezer_IceCream | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Freezer_IceCream.json | JSON Export |
+| ILC_Fridge_Bar | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Bar.json | JSON Export |
+| ILC_Fridge_Commercial | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Commercial.json | JSON Export |
+| ILC_Fridge_Commercial_RedHots | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Commercial_RedHots.json | JSON Export |
+| ILC_Fridge_Convenience | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Convenience.json | JSON Export |
+| ILC_Fridge_ConvenienceMini | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_ConvenienceMini.json | JSON Export |
+| ILC_Fridge_FarmDairy | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_FarmDairy.json | JSON Export |
+| ILC_Fridge_FishingBait | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_FishingBait.json | JSON Export |
+| ILC_Fridge_Garage | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Garage.json | JSON Export |
+| ILC_Fridge_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Fridge_Object.json | JSON Export |
+| ILC_Fridge_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Residential.json | JSON Export |
+| ILC_Fridge_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Fridge_Rich.json | JSON Export |
+| ILC_GasStove_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_GasStove_Object.json | JSON Export |
+| ILC_GiftShop | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_GiftShop.json | JSON Export |
+| ILC_GiftShop_Tall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_GiftShop_Tall.json | JSON Export |
+| ILC_GlassBulb_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_GlassBulb_Object_Tier2.json | JSON Export |
+| ILC_GlassPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_GlassPile.json | JSON Export |
+| ILC_Glass_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Glass_Object_Tier1.json | JSON Export |
+| ILC_Glass_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Glass_Object_Tier2.json | JSON Export |
+| ILC_Glass_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Glass_Object_Tier3.json | JSON Export |
+| ILC_Gravesite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_Gravesite.json | JSON Export |
+| ILC_GroceryProps | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_GroceryProps.json | JSON Export |
+| ILC_GunStoreShelf | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_GunStoreShelf.json | JSON Export |
+| ILC_HeatingObject | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_HeatingObject.json | JSON Export |
+| ILC_JanitorCloset | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_JanitorCloset.json | JSON Export |
+| ILC_JunkPile_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_JunkPile_Residential.json | JSON Export |
+| ILC_KitchenCommercial_LargeDrawers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_KitchenCommercial_LargeDrawers.json | JSON Export |
+| ILC_KitchenCounter_Dishwasher | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_Dishwasher.json | JSON Export |
+| ILC_KitchenCounter_LargeDrawers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_LargeDrawers.json | JSON Export |
+| ILC_KitchenCounter_LargeDrawers_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_LargeDrawers_Rich.json | JSON Export |
+| ILC_KitchenCounter_Oven | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_Oven.json | JSON Export |
+| ILC_KitchenCounter_SmallDrawers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_SmallDrawers.json | JSON Export |
+| ILC_KitchenCounter_UnderSink | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_KitchenCounter_UnderSink.json | JSON Export |
+| ILC_LaundryBin | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_LaundryBin.json | JSON Export |
+| ILC_Leather_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Leather_Object_Tier1.json | JSON Export |
+| ILC_LibraryBooks | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_LibraryBooks.json | JSON Export |
+| ILC_LimestoneBrickPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_LimestoneBrickPile.json | JSON Export |
+| ILC_Limestone_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Limestone_Object_Tier1.json | JSON Export |
+| ILC_Limestone_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Limestone_Object_Tier2.json | JSON Export |
+| ILC_Limestone_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Limestone_Object_Tier3.json | JSON Export |
+| ILC_LivingRoomCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_LivingRoomCabinet.json | JSON Export |
+| ILC_Locker_Commisary | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Commisary.json | JSON Export |
+| ILC_Locker_Contraband | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Contraband.json | JSON Export |
+| ILC_Locker_FireDept | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_FireDept.json | JSON Export |
+| ILC_Locker_FireDeptEquip | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_FireDeptEquip.json | JSON Export |
+| ILC_Locker_Officer | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Officer.json | JSON Export |
+| ILC_Locker_Police | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Police.json | JSON Export |
+| ILC_Locker_Prison | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Prison.json | JSON Export |
+| ILC_Locker_Riot | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Riot.json | JSON Export |
+| ILC_Locker_SportsEquip | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_SportsEquip.json | JSON Export |
+| ILC_Locker_Visitor | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Locker_Visitor.json | JSON Export |
+| ILC_Lockers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Lockers.json | JSON Export |
+| ILC_Log | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Log.json | JSON Export |
+| ILC_Lunchbox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_Lunchbox.json | JSON Export |
+| ILC_MachineAluminum_Object_Tier2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MachineAluminum_Object_Tier2.json | JSON Export |
+| ILC_MailLocker | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_MailLocker.json | JSON Export |
+| ILC_Mailbox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Mailbox.json | JSON Export |
+| ILC_MailboxLarge | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_MailboxLarge.json | JSON Export |
+| ILC_MailboxLarge_Newspapers | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_MailboxLarge_Newspapers.json | JSON Export |
+| ILC_MaskBox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_MaskBox.json | JSON Export |
+| ILC_Meat_Object | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Meat_Object.json | JSON Export |
+| ILC_MetalCloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalCloth_Object_Tier2.json | JSON Export |
+| ILC_MetalDripStand_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalDripStand_Object_Tier2.json | JSON Export |
+| ILC_MetalElectronics_Object_Tier5 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalElectronics_Object_Tier5.json | JSON Export |
+| ILC_MetalGlassBulb_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalGlassBulb_Object_Tier1.json | JSON Export |
+| ILC_MetalGlassBulb_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalGlassBulb_Object_Tier2.json | JSON Export |
+| ILC_MetalGlassBulb_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalGlassBulb_Object_Tier3.json | JSON Export |
+| ILC_MetalLimestone_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalLimestone_Object_Tier2.json | JSON Export |
+| ILC_MetalPile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_MetalPile.json | JSON Export |
+| ILC_MetalTire_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_MetalTire_Object_Tier3.json | JSON Export |
+| ILC_Metal_Machinery_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Machinery_Large.json | JSON Export |
+| ILC_Metal_Machinery_Small | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Machinery_Small.json | JSON Export |
+| ILC_Metal_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier1.json | JSON Export |
+| ILC_Metal_Object_Tier1_NoScrews | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier1_NoScrews.json | JSON Export |
+| ILC_Metal_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier2.json | JSON Export |
+| ILC_Metal_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier3.json | JSON Export |
+| ILC_Metal_Object_Tier4 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier4.json | JSON Export |
+| ILC_Metal_Object_Tier5 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier5.json | JSON Export |
+| ILC_Metal_Object_Tier6 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Metal_Object_Tier6.json | JSON Export |
+| ILC_MilitaryCrate | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate.json | JSON Export |
+| ILC_MilitaryCrate_Bloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate_Bloodied.json | JSON Export |
+| ILC_MilitaryCrate_HiTier | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate_HiTier.json | JSON Export |
+| ILC_MilitaryCrate_HiTier_Bloodied | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_MilitaryCrate_HiTier_Bloodied.json | JSON Export |
+| ILC_MineCrate | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_MineCrate.json | JSON Export |
+| ILC_MineCrate_LyonMtn | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_MineCrate_LyonMtn.json | JSON Export |
+| ILC_Nightstand | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Nightstand.json | JSON Export |
+| ILC_Nightstand_Motel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Nightstand_Motel.json | JSON Export |
+| ILC_Node_Bauxite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Bauxite.json | JSON Export |
+| ILC_Node_BogIron | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_BogIron.json | JSON Export |
+| ILC_Node_Chalcopyrite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Chalcopyrite.json | JSON Export |
+| ILC_Node_Coal | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Coal.json | JSON Export |
+| ILC_Node_Graphite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Graphite.json | JSON Export |
+| ILC_Node_Hematite | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Hematite.json | JSON Export |
+| ILC_Node_Limestone | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_Limestone.json | JSON Export |
+| ILC_Node_SilicaSand | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Hunks\ILC_Node_SilicaSand.json | JSON Export |
+| ILC_OfficeKeyboard | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_OfficeKeyboard.json | JSON Export |
+| ILC_OfficeLargeGoods | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_OfficeLargeGoods.json | JSON Export |
+| ILC_Ores_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Ores_Tier1.json | JSON Export |
+| ILC_Ores_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Ores_Tier2.json | JSON Export |
+| ILC_OxygenTankBag | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_OxygenTankBag.json | JSON Export |
+| ILC_Pantry | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Pantry.json | JSON Export |
+| ILC_PantryRich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PantryRich.json | JSON Export |
+| ILC_Pantry_Sugarworks | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Pantry_Sugarworks.json | JSON Export |
+| ILC_Paper_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Paper_Object_Tier1.json | JSON Export |
+| ILC_Paper_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Paper_Object_Tier2.json | JSON Export |
+| ILC_ParamedicBag | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_ParamedicBag.json | JSON Export |
+| ILC_Parcel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\Packages\ILC_Parcel.json | JSON Export |
+| ILC_PetBowl | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PetBowl.json | JSON Export |
+| ILC_PharmacyCabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_PharmacyCabinet.json | JSON Export |
+| ILC_PharmacyCabinet_Vet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_PharmacyCabinet_Vet.json | JSON Export |
+| ILC_PicnicBasket | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PicnicBasket.json | JSON Export |
+| ILC_PistolCase | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_PistolCase.json | JSON Export |
+| ILC_PlasticBucket | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_PlasticBucket.json | JSON Export |
+| ILC_PlasticCanoe_Object_Tier4 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticCanoe_Object_Tier4.json | JSON Export |
+| ILC_PlasticCloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticCloth_Object_Tier2.json | JSON Export |
+| ILC_PlasticCloth_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticCloth_Object_Tier3.json | JSON Export |
+| ILC_PlasticElectrical_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticElectrical_Object_Tier2.json | JSON Export |
+| ILC_PlasticGlass_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticGlass_Object_Tier1.json | JSON Export |
+| ILC_PlasticMetalGlassBulb_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticMetalGlassBulb_Object_Tier1.json | JSON Export |
+| ILC_PlasticRope_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticRope_Object_Tier2.json | JSON Export |
+| ILC_PlasticTire_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PlasticTire_Object_Tier3.json | JSON Export |
+| ILC_Plastic_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Plastic_Object_Tier1.json | JSON Export |
+| ILC_Plastic_Object_Tier2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Plastic_Object_Tier2.json | JSON Export |
+| ILC_Plastic_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Plastic_Object_Tier3.json | JSON Export |
+| ILC_PoolTable | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_PoolTable.json | JSON Export |
+| ILC_Portapotty | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_Portapotty.json | JSON Export |
+| ILC_Prison_Belongings | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_Prison_Belongings.json | JSON Export |
+| ILC_PropaneTank | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_PropaneTank.json | JSON Export |
+| ILC_PurePlastic_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PurePlastic_Object_Tier1.json | JSON Export |
+| ILC_PureWood_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PureWood_Object_Tier1.json | JSON Export |
+| ILC_PureWood_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PureWood_Object_Tier2.json | JSON Export |
+| ILC_PureWood_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_PureWood_Object_Tier3.json | JSON Export |
+| ILC_SaleSign | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_SaleSign.json | JSON Export |
+| ILC_School_Cabinet | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Cabinet.json | JSON Export |
+| ILC_School_Chemistry | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Chemistry.json | JSON Export |
+| ILC_School_Desk | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Desk.json | JSON Export |
+| ILC_School_Locker | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_Locker.json | JSON Export |
+| ILC_School_TVStand | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_TVStand.json | JSON Export |
+| ILC_School_TarantulaTank | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_School_TarantulaTank.json | JSON Export |
+| ILC_ScrapRubber_Object | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_ScrapRubber_Object.json | JSON Export |
+| ILC_SeedShop | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_SeedShop.json | JSON Export |
+| ILC_SeedShop_Boxes | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_SeedShop_Boxes.json | JSON Export |
+| ILC_ServerRack01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Civic\ILC_ServerRack01.json | JSON Export |
+| ILC_Shed | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Shed.json | JSON Export |
+| ILC_Sidetable | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Sidetable.json | JSON Export |
+| ILC_Sidetable_Rich | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Sidetable_Rich.json | JSON Export |
+| ILC_SteelChair | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_SteelChair.json | JSON Export |
+| ILC_StoreStorage_Utility | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_StoreStorage_Utility.json | JSON Export |
+| ILC_Suitcase | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Suitcase.json | JSON Export |
+| ILC_Tacklebox | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Tacklebox.json | JSON Export |
+| ILC_TelevisionOld_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_TelevisionOld_Object.json | JSON Export |
+| ILC_TelevisionRich_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_TelevisionRich_Object.json | JSON Export |
+| ILC_Television_Object | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Television_Object.json | JSON Export |
+| ILC_Tent | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_Tent.json | JSON Export |
+| ILC_Tires | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_Tires.json | JSON Export |
+| ILC_ToolBattery | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolBattery.json | JSON Export |
+| ILC_ToolBox_SmallShelfs | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_ToolBox_SmallShelfs.json | JSON Export |
+| ILC_ToolShelf_Garage | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_ToolShelf_Garage.json | JSON Export |
+| ILC_ToolShelf_HiTier | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_HiTier.json | JSON Export |
+| ILC_ToolShelf_HiTier_Small | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_HiTier_Small.json | JSON Export |
+| ILC_ToolShelf_Industrial | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_Industrial.json | JSON Export |
+| ILC_ToolShelf_Industrial_Small | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_ToolShelf_Industrial_Small.json | JSON Export |
+| ILC_TowelWarmer | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_TowelWarmer.json | JSON Export |
+| ILC_TrashCan01 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_TrashCan01.json | JSON Export |
+| ILC_TrashCan02 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_TrashCan02.json | JSON Export |
+| ILC_Trash_Residential | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Trash_Residential.json | JSON Export |
+| ILC_WarehouseBox_Cleaning | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Cleaning.json | JSON Export |
+| ILC_WarehouseBox_CleaningSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_CleaningSmall.json | JSON Export |
+| ILC_WarehouseBox_Construction | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Construction.json | JSON Export |
+| ILC_WarehouseBox_ConstructionSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_ConstructionSmall.json | JSON Export |
+| ILC_WarehouseBox_CornFarm | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_CornFarm.json | JSON Export |
+| ILC_WarehouseBox_CornFarmSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_CornFarmSmall.json | JSON Export |
+| ILC_WarehouseBox_Electronics | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Electronics.json | JSON Export |
+| ILC_WarehouseBox_ElectronicsSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_ElectronicsSmall.json | JSON Export |
+| ILC_WarehouseBox_Farm | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Farm.json | JSON Export |
+| ILC_WarehouseBox_FarmLarge | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_FarmLarge.json | JSON Export |
+| ILC_WarehouseBox_Mechanic | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Mechanic.json | JSON Export |
+| ILC_WarehouseBox_MechanicSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_MechanicSmall.json | JSON Export |
+| ILC_WarehouseBox_PetGroomingSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_PetGroomingSmall.json | JSON Export |
+| ILC_WarehouseBox_RestaurantSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Commercial\ILC_WarehouseBox_RestaurantSmall.json | JSON Export |
+| ILC_WarehouseBox_Scrap | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_Scrap.json | JSON Export |
+| ILC_WarehouseBox_ScrapSmall | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Industrial\ILC_WarehouseBox_ScrapSmall.json | JSON Export |
+| ILC_Washer | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_Washer.json | JSON Export |
+| ILC_WasherPrison | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_WasherPrison.json | JSON Export |
+| ILC_Wax_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wax_Object_Tier1.json | JSON Export |
+| ILC_WeaponBox_Hunting | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Hunting.json | JSON Export |
+| ILC_WeaponBox_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Tier1.json | JSON Export |
+| ILC_WeaponBox_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Tier2.json | JSON Export |
+| ILC_WeaponBox_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Military\ILC_WeaponBox_Tier3.json | JSON Export |
+| ILC_Wire_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wire_Object_Tier2.json | JSON Export |
+| ILC_Wire_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wire_Object_Tier3.json | JSON Export |
+| ILC_WoodBarbed_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodBarbed_Object_Tier1.json | JSON Export |
+| ILC_WoodCloth_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodCloth_Object_Tier2.json | JSON Export |
+| ILC_WoodCloth_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodCloth_Object_Tier3.json | JSON Export |
+| ILC_WoodGlass_Object_Tier1 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodGlass_Object_Tier1.json | JSON Export |
+| ILC_WoodLimestoneMetalElectronics_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodLimestoneMetalElectronics_Object_Tier3.json | JSON Export |
+| ILC_WoodLimestoneMetal_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodLimestoneMetal_Object_Tier3.json | JSON Export |
+| ILC_WoodLimestone_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_WoodLimestone_Object_Tier3.json | JSON Export |
+| ILC_Wood_Machinery_Large | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Machinery_Large.json | JSON Export |
+| ILC_Wood_Object_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Object_Tier1.json | JSON Export |
+| ILC_Wood_Object_Tier2 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Object_Tier2.json | JSON Export |
+| ILC_Wood_Object_Tier3 | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\02Dismantling\ILC_Wood_Object_Tier3.json | JSON Export |
+| ILC_WoodenBarrel | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_WoodenBarrel.json | JSON Export |
+| ILC_WoodenBarrel_LyonMtn | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_WoodenBarrel_LyonMtn.json | JSON Export |
+| ILC_WoodenBarrel_Mine | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Outdoor\ILC_WoodenBarrel_Mine.json | JSON Export |
+| ILC_WoodenBox_Garage | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_WoodenBox_Garage.json | JSON Export |
+| ILC_WoodfirePile | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\Residential\ILC_WoodfirePile.json | JSON Export |
+| IL_AdvancedTech | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_AdvancedTech.json | JSON Export |
+| IL_Ammo_Special | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Special.json | JSON Export |
+| IL_Ammo_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Tier1.json | JSON Export |
+| IL_Ammo_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Tier2.json | JSON Export |
+| IL_Ammo_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Ammo_Tier3.json | JSON Export |
+| IL_AnimalFeed | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_AnimalFeed.json | JSON Export |
+| IL_Arrows | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Arrows.json | JSON Export |
+| IL_BarbedWire | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BarbedWire.json | JSON Export |
+| IL_BarberTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_BarberTools.json | JSON Export |
+| IL_Baskets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_Baskets.json | JSON Export |
+| IL_Battery | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Battery.json | JSON Export |
+| IL_BitsnBobs_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BitsnBobs_Large.json | JSON Export |
+| IL_BitsnBobs_Small | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BitsnBobs_Small.json | JSON Export |
+| IL_BitsnBobs_SmallIndustrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_BitsnBobs_SmallIndustrial.json | JSON Export |
+| IL_Bones | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Bones.json | JSON Export |
+| IL_Books | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Books.json | JSON Export |
+| IL_Buckets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Buckets.json | JSON Export |
+| IL_BucketsLarge | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_BucketsLarge.json | JSON Export |
+| IL_CL_Armor_Military | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Armor_Military.json | JSON Export |
+| IL_CL_Armor_MilitaryAirForce | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Armor_MilitaryAirForce.json | JSON Export |
+| IL_CL_Back_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\08_Back\IL_CL_Back_Civ.json | JSON Export |
+| IL_CL_Back_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\08_Back\IL_CL_Back_Outdoor.json | JSON Export |
+| IL_CL_Bottoms_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05a_Lower\IL_CL_Bottoms_Civ.json | JSON Export |
+| IL_CL_Bottoms_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05a_Lower\IL_CL_Bottoms_Outdoor.json | JSON Export |
+| IL_CL_Chef | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Chef.json | JSON Export |
+| IL_CL_CorrectionalOfficer | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_CorrectionalOfficer.json | JSON Export |
+| IL_CL_Doctor | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Doctor.json | JSON Export |
+| IL_CL_Face_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Civ.json | JSON Export |
+| IL_CL_Face_Garage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Garage.json | JSON Export |
+| IL_CL_Face_Industrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Industrial.json | JSON Export |
+| IL_CL_Face_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\02_Face\IL_CL_Face_Outdoor.json | JSON Export |
+| IL_CL_FireFighter | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_FireFighter.json | JSON Export |
+| IL_CL_Hands_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\07_Hands\IL_CL_Hands_Civ.json | JSON Export |
+| IL_CL_Hands_Industrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\07_Hands\IL_CL_Hands_Industrial.json | JSON Export |
+| IL_CL_Hazmat | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Hazmat.json | JSON Export |
+| IL_CL_Head_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Civ.json | JSON Export |
+| IL_CL_Head_Garage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Garage.json | JSON Export |
+| IL_CL_Head_Industrial | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Industrial.json | JSON Export |
+| IL_CL_Head_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Outdoor.json | JSON Export |
+| IL_CL_Head_Sports | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\01_Head\IL_CL_Head_Sports.json | JSON Export |
+| IL_CL_Jacket_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\03_Jacket\IL_CL_Jacket_Civ.json | JSON Export |
+| IL_CL_Jacket_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\03_Jacket\IL_CL_Jacket_Outdoor.json | JSON Export |
+| IL_CL_KitchenCiv | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_KitchenCiv.json | JSON Export |
+| IL_CL_LowerArmor_Garage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05b_LowerArmor\IL_CL_LowerArmor_Garage.json | JSON Export |
+| IL_CL_LowerArmor_Sports | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\05b_LowerArmor\IL_CL_LowerArmor_Sports.json | JSON Export |
+| IL_CL_Maplemart | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Maplemart.json | JSON Export |
+| IL_CL_MilitaryAssortment | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_MilitaryAssortment.json | JSON Export |
+| IL_CL_MilitaryUniform | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_MilitaryUniform.json | JSON Export |
+| IL_CL_PetGroomer | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_PetGroomer.json | JSON Export |
+| IL_CL_PoliceOfficer | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_PoliceOfficer.json | JSON Export |
+| IL_CL_Prisoner | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Prisoner.json | JSON Export |
+| IL_CL_QuarantineTents | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\09_FullBody\IL_CL_QuarantineTents.json | JSON Export |
+| IL_CL_Ranger | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Ranger.json | JSON Export |
+| IL_CL_RiotPolice | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_RiotPolice.json | JSON Export |
+| IL_CL_Sheriff | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\IL_CL_Sheriff.json | JSON Export |
+| IL_CL_Shoes_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\06_Feet\IL_CL_Shoes_Civ.json | JSON Export |
+| IL_CL_Tops_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04a_Upper\IL_CL_Tops_Civ.json | JSON Export |
+| IL_CL_Tops_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04a_Upper\IL_CL_Tops_Outdoor.json | JSON Export |
+| IL_CL_UpperArmor_Civ | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04b_UpperArmor\IL_CL_UpperArmor_Civ.json | JSON Export |
+| IL_CL_UpperArmor_Outdoor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04b_UpperArmor\IL_CL_UpperArmor_Outdoor.json | JSON Export |
+| IL_CL_UpperArmor_Sports | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Clothing\04b_UpperArmor\IL_CL_UpperArmor_Sports.json | JSON Export |
+| IL_CS_Casual1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual1.json | JSON Export |
+| IL_CS_Casual2 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual2.json | JSON Export |
+| IL_CS_Casual3 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual3.json | JSON Export |
+| IL_CS_Casual4 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_Casual4.json | JSON Export |
+| IL_CS_CasualSkirt | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\ClothingSets\IL_CS_CasualSkirt.json | JSON Export |
+| IL_Camping | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Outdoor\IL_Camping.json | JSON Export |
+| IL_Candle | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Candle.json | JSON Export |
+| IL_CarParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Car\IL_CarParts.json | JSON Export |
+| IL_Ceramics | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_Ceramics.json | JSON Export |
+| IL_Chemistry | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_Chemistry.json | JSON Export |
+| IL_CleaningChemicals | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningChemicals.json | JSON Export |
+| IL_CleaningChemicals_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningChemicals_Large.json | JSON Export |
+| IL_CleaningSupplies | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningSupplies.json | JSON Export |
+| IL_CleaningSupplies_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_CleaningSupplies_Large.json | JSON Export |
+| IL_ClosetTrinkets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_ClosetTrinkets.json | JSON Export |
+| IL_ClosetTrinkets_Rich | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_ClosetTrinkets_Rich.json | JSON Export |
+| IL_CommercialCookware | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_CommercialCookware.json | JSON Export |
+| IL_Concrete | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Concrete.json | JSON Export |
+| IL_ConstructionSupplies | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ConstructionSupplies.json | JSON Export |
+| IL_ConstructionSupplies_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ConstructionSupplies_Large.json | JSON Export |
+| IL_Cookware | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_Cookware.json | JSON Export |
+| IL_CornSeeds | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_CornSeeds.json | JSON Export |
+| IL_Crafting_CarParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_CarParts.json | JSON Export |
+| IL_Crafting_CarPartsLarge | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_CarPartsLarge.json | JSON Export |
+| IL_Crafting_Components | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Components.json | JSON Export |
+| IL_Crafting_Fan | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Fan.json | JSON Export |
+| IL_Crafting_Grill | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Grill.json | JSON Export |
+| IL_Crafting_Ingots_HiTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Ingots_HiTier.json | JSON Export |
+| IL_Crafting_Logs | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Logs.json | JSON Export |
+| IL_Crafting_Parts_HiTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Parts_HiTier.json | JSON Export |
+| IL_Crafting_Scrap | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Scrap.json | JSON Export |
+| IL_Crafting_Scrap_HiTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_Scrap_HiTier.json | JSON Export |
+| IL_Crafting_StructureComponents | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Crafting\IL_Crafting_StructureComponents.json | JSON Export |
+| IL_Crystals | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Crystals.json | JSON Export |
+| IL_CurrencyCADSide | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_CurrencyCADSide.json | JSON Export |
+| IL_CurrencyUSSide | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_CurrencyUSSide.json | JSON Export |
+| IL_DebitCard | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_DebitCard.json | JSON Export |
+| IL_Dirt | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Dirt.json | JSON Export |
+| IL_Discs_Residential | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Discs_Residential.json | JSON Export |
+| IL_DrugTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Outdoor\IL_DrugTools.json | JSON Export |
+| IL_Dynamite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Dynamite.json | JSON Export |
+| IL_ElectronicsJunk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ElectronicsJunk.json | JSON Export |
+| IL_ElectronicsJunk_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ElectronicsJunk_Large.json | JSON Export |
+| IL_ElectronicsTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ElectronicsTools.json | JSON Export |
+| IL_FelledTree | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Outdoor\IL_FelledTree.json | JSON Export |
+| IL_Fertilizer | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Fertilizer.json | JSON Export |
+| IL_Fireworks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Fireworks\IL_Fireworks.json | JSON Export |
+| IL_FridgeParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_FridgeParts.json | JSON Export |
+| IL_GardenTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_GardenTools.json | JSON Export |
+| IL_GlassShards | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_GlassShards.json | JSON Export |
+| IL_Grenade | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_Grenade.json | JSON Export |
+| IL_GroceryUtility | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Store\IL_GroceryUtility.json | JSON Export |
+| IL_Gunpowder | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Gunpowder.json | JSON Export |
+| IL_HalloweenPumpkin | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Holiday\IL_HalloweenPumpkin.json | JSON Export |
+| IL_HeavyBolts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_HeavyBolts.json | JSON Export |
+| IL_IDCard | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\IL_IDCard.json | JSON Export |
+| IL_Keyboard | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_Keyboard.json | JSON Export |
+| IL_LargePrinter | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_LargePrinter.json | JSON Export |
+| IL_LawnmowerBlade | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_LawnmowerBlade.json | JSON Export |
+| IL_LightBulb | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_LightBulb.json | JSON Export |
+| IL_LimestoneBrick | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_LimestoneBrick.json | JSON Export |
+| IL_LivingRoomCleaning | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_LivingRoomCleaning.json | JSON Export |
+| IL_LivingRoomGames | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_LivingRoomGames.json | JSON Export |
+| IL_LivingRoomTrinkets | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_LivingRoomTrinkets.json | JSON Export |
+| IL_Mailbox | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Mailbox.json | JSON Export |
+| IL_MaskBox | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\Packages\IL_MaskBox.json | JSON Export |
+| IL_Melee_Cooking | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Cooking.json | JSON Export |
+| IL_Melee_Firefighter | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Firefighter.json | JSON Export |
+| IL_Melee_Janitor | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Janitor.json | JSON Export |
+| IL_Melee_Military | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Military.json | JSON Export |
+| IL_Melee_Residential | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Residential.json | JSON Export |
+| IL_Melee_Shed | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Shed.json | JSON Export |
+| IL_Melee_Trash | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Melee\IL_Melee_Trash.json | JSON Export |
+| IL_MidTierBuildTierItems | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_MidTierBuildTierItems.json | JSON Export |
+| IL_MilitaryJunk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Military\IL_MilitaryJunk.json | JSON Export |
+| IL_ModelSun | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ModelSun.json | JSON Export |
+| IL_Nails | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Nails.json | JSON Export |
+| IL_Newspapers | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_Newspapers.json | JSON Export |
+| IL_Node_BogIron | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_BogIron.json | JSON Export |
+| IL_Node_RawBauxite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawBauxite.json | JSON Export |
+| IL_Node_RawChalcopyrite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawChalcopyrite.json | JSON Export |
+| IL_Node_RawCoal | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawCoal.json | JSON Export |
+| IL_Node_RawGraphite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawGraphite.json | JSON Export |
+| IL_Node_RawHematite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawHematite.json | JSON Export |
+| IL_Node_RawLimestone | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawLimestone.json | JSON Export |
+| IL_Node_RawSilicaSand | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Node_RawSilicaSand.json | JSON Export |
+| IL_OfficeCabinet | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeCabinet.json | JSON Export |
+| IL_OfficeDesk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeDesk.json | JSON Export |
+| IL_OfficeLargeGoods | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeLargeGoods.json | JSON Export |
+| IL_OfficeStorage | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Office\IL_OfficeStorage.json | JSON Export |
+| IL_OfficerTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Prison\IL_OfficerTools.json | JSON Export |
+| IL_OldTelevisionParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_OldTelevisionParts.json | JSON Export |
+| IL_PetSupplies_Generic | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_PetSupplies_Generic.json | JSON Export |
+| IL_PetSupplies_Grooming | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_PetSupplies_Grooming.json | JSON Export |
+| IL_Planks | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Planks.json | JSON Export |
+| IL_PoolBalls | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_PoolBalls.json | JSON Export |
+| IL_PoolTable_Tools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_PoolTable_Tools.json | JSON Export |
+| IL_PrisonContraband | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Prison\IL_PrisonContraband.json | JSON Export |
+| IL_PrisonerTools | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Prison\IL_PrisonerTools.json | JSON Export |
+| IL_PropaneTank | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_PropaneTank.json | JSON Export |
+| IL_RadioParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RadioParts.json | JSON Export |
+| IL_Ranged_Bows | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Bows.json | JSON Export |
+| IL_Ranged_Pistols_Special | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Special.json | JSON Export |
+| IL_Ranged_Pistols_Tier1 | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Tier1.json | JSON Export |
+| IL_Ranged_Pistols_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Tier2.json | JSON Export |
+| IL_Ranged_Pistols_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Pistols_Tier3.json | JSON Export |
+| IL_Ranged_Rifles_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier1.json | JSON Export |
+| IL_Ranged_Rifles_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier2.json | JSON Export |
+| IL_Ranged_Rifles_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier3.json | JSON Export |
+| IL_Ranged_Rifles_Tier4 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Rifles_Tier4.json | JSON Export |
+| IL_Ranged_Shotguns_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Shotguns_Tier1.json | JSON Export |
+| IL_Ranged_Shotguns_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ranged\IL_Ranged_Shotguns_Tier2.json | JSON Export |
+| IL_RawBauxite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawBauxite.json | JSON Export |
+| IL_RawChalcopyrite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawChalcopyrite.json | JSON Export |
+| IL_RawCoal | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawCoal.json | JSON Export |
+| IL_RawGraphite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawGraphite.json | JSON Export |
+| IL_RawHematite | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawHematite.json | JSON Export |
+| IL_RawLimestone | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_RawLimestone.json | JSON Export |
+| IL_Rope | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Rope.json | JSON Export |
+| IL_SaleSign | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Commercial\IL_SaleSign.json | JSON Export |
+| IL_Schematics | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_Schematics.json | JSON Export |
+| IL_SchoolSnacks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SchoolSnacks.json | JSON Export |
+| IL_SchoolSupplies | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SchoolSupplies.json | JSON Export |
+| IL_ScrapAluminum | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapAluminum.json | JSON Export |
+| IL_ScrapCardboard | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapCardboard.json | JSON Export |
+| IL_ScrapCloth | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapCloth.json | JSON Export |
+| IL_ScrapDenim | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapDenim.json | JSON Export |
+| IL_ScrapElectronics | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapElectronics.json | JSON Export |
+| IL_ScrapElectronics_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapElectronics_Large.json | JSON Export |
+| IL_ScrapJewelry | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapJewelry.json | JSON Export |
+| IL_ScrapLeather | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapLeather.json | JSON Export |
+| IL_ScrapMakeshiftBandage | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapMakeshiftBandage.json | JSON Export |
+| IL_ScrapMetals | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapMetals.json | JSON Export |
+| IL_ScrapMetals_HighTier | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapMetals_HighTier.json | JSON Export |
+| IL_ScrapPaper | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapPaper.json | JSON Export |
+| IL_ScrapPlastic | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapPlastic.json | JSON Export |
+| IL_ScrapRubber | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapRubber.json | JSON Export |
+| IL_ScrapWood | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_ScrapWood.json | JSON Export |
+| IL_Screws | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Screws.json | JSON Export |
+| IL_Seeds_All | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Seeds_All.json | JSON Export |
+| IL_Seeds_Legal | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Farming\IL_Seeds_Legal.json | JSON Export |
+| IL_SkillBooks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillBooks.json | JSON Export |
+| IL_SkillBooks_School | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillBooks_School.json | JSON Export |
+| IL_SkillMags | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillMags.json | JSON Export |
+| IL_SkillMags_School | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\SkillMags\IL_SkillMags_School.json | JSON Export |
+| IL_SportBalls | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SportBalls.json | JSON Export |
+| IL_SportDrugs | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SportDrugs.json | JSON Export |
+| IL_SportEquipment | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\School\IL_SportEquipment.json | JSON Export |
+| IL_Springs | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Springs.json | JSON Export |
+| IL_SteelChair | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Residential\IL_SteelChair.json | JSON Export |
+| IL_StoveGasParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_StoveGasParts.json | JSON Export |
+| IL_StoveParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_StoveParts.json | JSON Export |
+| IL_TelevisionParts | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_TelevisionParts.json | JSON Export |
+| IL_Thread | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Thread.json | JSON Export |
+| IL_Tire | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Tire.json | JSON Export |
+| IL_Toiletries | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Bathroom\IL_Toiletries.json | JSON Export |
+| IL_ToiletriesPrison | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Bathroom\IL_ToiletriesPrison.json | JSON Export |
+| IL_ToolJunk | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ToolJunk.json | JSON Export |
+| IL_ToolJunk_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Industrial\IL_ToolJunk_Large.json | JSON Export |
+| IL_Tools_BasicLocks | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_BasicLocks.json | JSON Export |
+| IL_Tools_Boat | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Boat.json | JSON Export |
+| IL_Tools_Fishing | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Fishing.json | JSON Export |
+| IL_Tools_FishingBait | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_FishingBait.json | JSON Export |
+| IL_Tools_Fishing_Small | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Fishing_Small.json | JSON Export |
+| IL_Tools_Mines | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Mines.json | JSON Export |
+| IL_Tools_Mines_LyonMtn | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Mines_LyonMtn.json | JSON Export |
+| IL_Tools_Misc | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Misc.json | JSON Export |
+| IL_Tools_Office | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Office.json | JSON Export |
+| IL_Tools_Outdoors | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Outdoors.json | JSON Export |
+| IL_Tools_Outdoors_Large | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Outdoors_Large.json | JSON Export |
+| IL_Tools_Tier1 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier1.json | JSON Export |
+| IL_Tools_Tier2 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier2.json | JSON Export |
+| IL_Tools_Tier3 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier3.json | JSON Export |
+| IL_Tools_Tier4 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier4.json | JSON Export |
+| IL_Tools_Tier5 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier5.json | JSON Export |
+| IL_Tools_Tier6 | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_Tier6.json | JSON Export |
+| IL_Tools_ToolBattery | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_ToolBattery.json | JSON Export |
+| IL_Tools_ToolBatteryHeavyDuty | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Tools\IL_Tools_ToolBatteryHeavyDuty.json | JSON Export |
+| IL_TrashJunk_Residential | pakchunk0-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Trash\IL_TrashJunk_Residential.json | JSON Export |
+| IL_Utensils | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_Utensils.json | JSON Export |
+| IL_UtensilsLarge | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\Dining\IL_UtensilsLarge.json | JSON Export |
+| IL_VideoTapes | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Junk\IL_VideoTapes.json | JSON Export |
+| IL_Wax | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Wax.json | JSON Export |
+| IL_WeaponAttachments | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Armory\Ammo\IL_WeaponAttachments.json | JSON Export |
+| IL_Wire | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\02Dismantling\IL_Wire.json | JSON Export |
 
 
 ## Spawn System

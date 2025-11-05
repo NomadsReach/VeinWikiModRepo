@@ -12,620 +12,620 @@ VEIN uses visual effects for impacts, explosions, weather, and more.
 
 | Effect | Path | Source |
 |--------|------|--------|
-| 0_6_smoke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\0_6_smoke.json | ExportedJson |
-| 0_6_smoke_re_vg | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\0_6_smoke_re_vg.json | ExportedJson |
-| 0_NCandleFire_pt | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Reference\Candlefire\0_NCandleFire_pt.json | ExportedJson |
-| 1_6_smoke2_1 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\1_6_smoke2_1.json | ExportedJson |
-| 2_6_smoke3_vg | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\2_6_smoke3_vg.json | ExportedJson |
-| 3DCells_128 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\3D_Clouds\3DCells_128.json | ExportedJson |
-| 3D_Cells_32 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\3D_Clouds\3D_Cells_32.json | ExportedJson |
-| 3D_Cells_64 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\3D_Clouds\3D_Cells_64.json | ExportedJson |
-| 3_6_smoke4 | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4.json | ExportedJson |
-| 3_6_smoke4 | pakchunk17-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4.json | ExportedJson |
-| 3_6_smoke4 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4.json | ExportedJson |
-| 3_6_smoke4_vg | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4_vg.json | ExportedJson |
-| 3_6_smoke4_vg | pakchunk32-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4_vg.json | ExportedJson |
-| 3_Nblowingfire_fwd2_pt | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Reference\Fireloop\3_Nblowingfire_fwd2_pt.json | ExportedJson |
-| 4_6_smoke5_vg | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\4_6_smoke5_vg.json | ExportedJson |
-| 5_6_Nsmoke6_pt2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Reference\Smoke\5_6_Nsmoke6_pt2.json | ExportedJson |
-| 5_6_smoke6 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\5_6_smoke6.json | ExportedJson |
-| A_PlugIn | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\A_PlugIn.json | ExportedJson |
-| Arrow_Star | pakchunk1-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\Arrow_Star.json | ExportedJson |
-| BP_PowerPlantSmoke | pakchunk0-Windows\Vein\Content\Vein\Effects\Electric\BP_PowerPlantSmoke.json | ExportedJson |
-| CandleFire_D | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\CandleFire\CandleFire_D.json | ExportedJson |
-| Circle_normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\Circle_normal.json | ExportedJson |
-| Cloud_Profile | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\Volumetric_Clouds\Cloud_Profile.json | ExportedJson |
-| EmberNoise3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\EmberNoise3.json | ExportedJson |
-| Flame | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\Flame.json | ExportedJson |
-| IES_Cardboard_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Cardboard_Bladed.json | ExportedJson |
-| IES_Cardboard_Bladed | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Cardboard_Bladed.json | ExportedJson |
-| IES_Cardboard_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Cardboard_Blunt.json | ExportedJson |
-| IES_Concrete_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Concrete_Bladed.json | ExportedJson |
-| IES_Concrete_Bladed | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Concrete_Bladed.json | ExportedJson |
-| IES_Concrete_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Concrete_Bullet.json | ExportedJson |
-| IES_DefaultMelee | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_DefaultMelee.json | ExportedJson |
-| IES_Dirt_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Dirt_Bladed.json | ExportedJson |
-| IES_Dirt_Blunt | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Dirt_Blunt.json | ExportedJson |
-| IES_Dirt_Bullet | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Dirt_Bullet.json | ExportedJson |
-| IES_Flesh_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Bladed.json | ExportedJson |
-| IES_Flesh_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Blunt.json | ExportedJson |
-| IES_Flesh_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Bullet.json | ExportedJson |
-| IES_Flesh_Pan | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Pan.json | ExportedJson |
-| IES_Flesh_SmallBladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_SmallBladed.json | ExportedJson |
-| IES_Flesh_Sword | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Sword.json | ExportedJson |
-| IES_GlassSmall_Melee | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_GlassSmall_Melee.json | ExportedJson |
-| IES_Glass_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Glass_Bullet.json | ExportedJson |
-| IES_Glass_Melee | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Glass_Melee.json | ExportedJson |
-| IES_Gravel_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Gravel_Bladed.json | ExportedJson |
-| IES_Gravel_Bullet | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Gravel_Bullet.json | ExportedJson |
-| IES_Metal_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Bladed.json | ExportedJson |
-| IES_Metal_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Blunt.json | ExportedJson |
-| IES_Metal_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Bullet.json | ExportedJson |
-| IES_Metal_Sword | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Sword.json | ExportedJson |
-| IES_Paper_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Bladed.json | ExportedJson |
-| IES_Paper_Bladed | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Bladed.json | ExportedJson |
-| IES_Paper_Blunt | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Blunt.json | ExportedJson |
-| IES_Paper_Blunt | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Blunt.json | ExportedJson |
-| IES_Plaster_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plaster_Bladed.json | ExportedJson |
-| IES_Plaster_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plaster_Blunt.json | ExportedJson |
-| IES_Plastic_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Bladed.json | ExportedJson |
-| IES_Plastic_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Blunt.json | ExportedJson |
-| IES_Plastic_Blunt_Small | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Blunt_Small.json | ExportedJson |
-| IES_Plastic_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Bullet.json | ExportedJson |
-| IES_Rubber_Bullet | pakchunk17-Windows\Vein\Content\Vein\ImpactEffects\IES_Rubber_Bullet.json | ExportedJson |
-| IES_Snow_Bullet | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Snow_Bullet.json | ExportedJson |
-| IES_Wood_Arrow | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Arrow.json | ExportedJson |
-| IES_Wood_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Bladed.json | ExportedJson |
-| IES_Wood_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Blunt.json | ExportedJson |
-| IES_Wood_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Bullet.json | ExportedJson |
-| NET_ExploType | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NET_ExploType.json | ExportedJson |
-| NFire_00 | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_00.json | ExportedJson |
-| NFire_00_NoSmoke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_00_NoSmoke.json | ExportedJson |
-| NFire_00_OnlySmoke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_00_OnlySmoke.json | ExportedJson |
-| NFire_01 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_01.json | ExportedJson |
-| NFire_02 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_02.json | ExportedJson |
-| NFire_05 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_05.json | ExportedJson |
-| NFire_05_Modified | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_05_Modified.json | ExportedJson |
-| NFire_11 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_11.json | ExportedJson |
-| NFire_13 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_13.json | ExportedJson |
-| NFire_15 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_15.json | ExportedJson |
-| NPC_WindControls | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NPC_WindControls.json | ExportedJson |
-| NS_Candle | pakchunk0-Windows\Vein\Content\Vein\Effects\Items\NS_Candle.json | ExportedJson |
-| NS_Car_Ex | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_Car_Ex.json | ExportedJson |
-| NS_Chrysanthemum1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Chrysanthemum1.json | ExportedJson |
-| NS_Chrysanthemum2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Chrysanthemum2.json | ExportedJson |
-| NS_Cigarette | pakchunk1-Windows\Vein\Content\Vein\Effects\Items\NS_Cigarette.json | ExportedJson |
-| NS_Dismemberment_Gen9 | pakchunk0-Windows\Vein\Content\Vein\Effects\Damage\NS_Dismemberment_Gen9.json | ExportedJson |
-| NS_DoorBreach | pakchunk0-Windows\Vein\Content\Vein\Effects\Damage\NS_DoorBreach.json | ExportedJson |
-| NS_ElectricalSparks1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Electric\NS_ElectricalSparks1.json | ExportedJson |
-| NS_ElectricalSparks_Loop | pakchunk1-Windows\Vein\Content\Vein\Effects\Electric\NS_ElectricalSparks_Loop.json | ExportedJson |
-| NS_ForgeSmoke | pakchunk13-Windows\Vein\Content\Vein\Effects\Crafting\NS_ForgeSmoke.json | ExportedJson |
-| NS_General_M_Ex_01 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_General_M_Ex_01.json | ExportedJson |
-| NS_General_M_Ex_01 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_General_M_Ex_01.json | ExportedJson |
-| NS_General_S_Ex_01 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_General_S_Ex_01.json | ExportedJson |
-| NS_GeneratorSmoke1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Machines\NS_GeneratorSmoke1.json | ExportedJson |
-| NS_GlassShatter | pakchunk0-Windows\Vein\Content\Vein\Effects\Damage\NS_GlassShatter.json | ExportedJson |
-| NS_Ground_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Niagara\NS_Ground_2.json | ExportedJson |
-| NS_HD_Beheaded | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Wounds\NS_HD_Beheaded.json | ExportedJson |
-| NS_Horsetail1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Horsetail1.json | ExportedJson |
-| NS_Horsetail2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Horsetail2.json | ExportedJson |
-| NS_KilnSmoke | pakchunk13-Windows\Vein\Content\Vein\Effects\Crafting\NS_KilnSmoke.json | ExportedJson |
-| NS_LockpickBreak | pakchunk0-Windows\Vein\Content\Vein\Effects\Minigame\Lockpick\NS_LockpickBreak.json | ExportedJson |
-| NS_Palm1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Palm1.json | ExportedJson |
-| NS_Palm2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Palm2.json | ExportedJson |
-| NS_Peony1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Peony1.json | ExportedJson |
-| NS_Peony2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Peony2.json | ExportedJson |
-| NS_Rain | pakchunk0-Windows\Vein\Content\Vein\Effects\Weather\NS_Rain.json | ExportedJson |
-| NS_Ring1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Ring1.json | ExportedJson |
-| NS_Ring2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Ring2.json | ExportedJson |
-| NS_Snow | pakchunk0-Windows\Vein\Content\Vein\Effects\Weather\NS_Snow.json | ExportedJson |
-| NS_Willow1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Willow1.json | ExportedJson |
-| NS_Willow2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Willow2.json | ExportedJson |
-| NS_ZombieBloodPuke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bullet_Hit\One_Shot\NS_ZombieBloodPuke.json | ExportedJson |
-| OS_NS_HD_Blood_Burst_Head | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bursts\One_Shot\OS_NS_HD_Blood_Burst_Head.json | ExportedJson |
-| OS_NS_HD_Blood_Burst_Medium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bursts\One_Shot\OS_NS_HD_Blood_Burst_Medium.json | ExportedJson |
-| OS_NS_HD_Blood_Burst_Small | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bursts\One_Shot\OS_NS_HD_Blood_Burst_Small.json | ExportedJson |
-| OS_NS_HD_Bullet_Hit_Medium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bullet_Hit\One_Shot\OS_NS_HD_Bullet_Hit_Medium.json | ExportedJson |
-| OS_NS_HD_Bullet_Hit_Small | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bullet_Hit\One_Shot\OS_NS_HD_Bullet_Hit_Small.json | ExportedJson |
-| OS_NS_HD_Slash_Medium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Slashes\One_Shot\OS_NS_HD_Slash_Medium.json | ExportedJson |
-| PS_VentSmoke | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ModularPrison\Particles\PS_VentSmoke.json | ExportedJson |
-| P_Ambient_Dust | pakchunk0-Windows\Vein\Content\StarterContent\Particles\P_Ambient_Dust.json | ExportedJson |
-| P_Dust | pakchunk0-Windows\Vein\Content\Marketplace\Environments\LogCabin\Particles\P_Dust.json | ExportedJson |
-| P_Smoke_A | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Particles\Smoke\P_Smoke_A.json | ExportedJson |
-| ParticleClouds | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\Weather\ParticleClouds.json | ExportedJson |
-| Prime_Flare | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\LensFlares\Prime_Flare.json | ExportedJson |
-| SM_MetalSheetShard | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Meshes\SM_MetalSheetShard.json | ExportedJson |
-| SM_Ref_Sphere | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Mesh\SM_Ref_Sphere.json | ExportedJson |
-| SM_Rock_A | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Models\SM_Rock_A.json | ExportedJson |
-| SM_Rock_B | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Models\SM_Rock_B.json | ExportedJson |
-| SM_VFX_Gore_BrainPiece | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\GoreChunks\SM_VFX_Gore_BrainPiece.json | ExportedJson |
-| SM_VFX_Gore_FleshPiece | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\GoreChunks\SM_VFX_Gore_FleshPiece.json | ExportedJson |
-| SM_VFX_Gore_SkullPiece | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\GoreChunks\SM_VFX_Gore_SkullPiece.json | ExportedJson |
-| SM_VFX_VAT_DirSplatterLong | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_DirSplatterLong.json | ExportedJson |
-| SM_VFX_VAT_DirSplatterWide | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_DirSplatterWide.json | ExportedJson |
-| SM_VFX_VAT_NonDirSplatterMedium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_NonDirSplatterMedium.json | ExportedJson |
-| SM_VFX_VAT_NonDirSplatter_Small | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_NonDirSplatter_Small.json | ExportedJson |
-| SM_sphere | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Models\SM_sphere.json | ExportedJson |
-| Star_Burst4 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\Star_Burst4.json | ExportedJson |
-| Star_Burst7 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\Star_Burst7.json | ExportedJson |
-| Star_Flare | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\LensFlares\Star_Flare.json | ExportedJson |
-| StaticClouds_Alpha+Up | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\StaticClouds\StaticClouds_Alpha+Up.json | ExportedJson |
-| StaticClouds_XY | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\StaticClouds\StaticClouds_XY.json | ExportedJson |
-| T_Albedo_Arrow_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_Albedo_Arrow_003.json | ExportedJson |
-| T_Albedo_Crack_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_001.json | ExportedJson |
-| T_Albedo_Crack_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_002.json | ExportedJson |
-| T_Albedo_Crack_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_003.json | ExportedJson |
-| T_Albedo_Crack_004 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_004.json | ExportedJson |
-| T_Albedo_Crack_006 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_006.json | ExportedJson |
-| T_Albedo_Crack_007 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_007.json | ExportedJson |
-| T_Albedo_ManholeCover_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\ManholeCover\T_Albedo_ManholeCover_003.json | ExportedJson |
-| T_Albedo_StopSignal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_Albedo_StopSignal.json | ExportedJson |
-| T_Albedo_StreetStain_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Albedo_StreetStain_001.json | ExportedJson |
-| T_Albedo_StreetStain_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Albedo_StreetStain_002.json | ExportedJson |
-| T_Albedo_WhiteLine_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\WheelStains\T_Albedo_WhiteLine_002.json | ExportedJson |
-| T_BasicSprite | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\Textures\T_BasicSprite.json | ExportedJson |
-| T_Brick_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Brick\T_Brick_01_M.json | ExportedJson |
-| T_Brick_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Brick\T_Brick_01_N.json | ExportedJson |
-| T_Cloud_1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Cloud_1.json | ExportedJson |
-| T_Concrete_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_01_M.json | ExportedJson |
-| T_Concrete_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_01_N.json | ExportedJson |
-| T_Concrete_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_02_M.json | ExportedJson |
-| T_Concrete_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_02_N.json | ExportedJson |
-| T_Concrete_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_03_M.json | ExportedJson |
-| T_Concrete_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_03_N.json | ExportedJson |
-| T_Concrete_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_04_M.json | ExportedJson |
-| T_Concrete_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_04_N.json | ExportedJson |
-| T_Concrete_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_05_M.json | ExportedJson |
-| T_Concrete_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_05_N.json | ExportedJson |
-| T_Concrete_06_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_06_M.json | ExportedJson |
-| T_Concrete_06_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_06_N.json | ExportedJson |
-| T_Concrete_07_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_07_M.json | ExportedJson |
-| T_Concrete_07_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_07_N.json | ExportedJson |
-| T_Concrete_08_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_08_M.json | ExportedJson |
-| T_Concrete_08_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_08_N.json | ExportedJson |
-| T_Concrete_09_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_09_M.json | ExportedJson |
-| T_Concrete_09_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_09_N.json | ExportedJson |
-| T_Concrete_10_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_10_M.json | ExportedJson |
-| T_Concrete_10_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_10_N.json | ExportedJson |
-| T_Dirt_01_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_01_M.json | ExportedJson |
-| T_Dirt_01_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_01_N.json | ExportedJson |
-| T_Dirt_02_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_02_M.json | ExportedJson |
-| T_Dirt_02_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_02_N.json | ExportedJson |
-| T_Dirt_03_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_03_M.json | ExportedJson |
-| T_Dirt_03_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_03_N.json | ExportedJson |
-| T_Dirt_04_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_04_M.json | ExportedJson |
-| T_Dirt_04_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_04_N.json | ExportedJson |
-| T_Dirt_05_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_05_M.json | ExportedJson |
-| T_Dirt_05_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_05_N.json | ExportedJson |
-| T_Drips | pakchunk0-Windows\Vein\Content\Marketplace\Effects\VFX_Bundle_2\RainAndWater\Texture\T_Drips.json | ExportedJson |
-| T_Dust_01_BC | pakchunk0-Windows\Vein\Content\Marketplace\Environments\LogCabin\Textures\Particles\T_Dust_01_BC.json | ExportedJson |
-| T_Dust_02_Masks | pakchunk0-Windows\Vein\Content\Marketplace\Environments\LogCabin\Textures\Particles\T_Dust_02_Masks.json | ExportedJson |
-| T_Expl_Atom1_color | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Atom1_color.json | ExportedJson |
-| T_Expl_Atom1_packed | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Atom1_packed.json | ExportedJson |
-| T_Expl_Atom1_packed_motion_vectors1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Atom1_packed_motion_vectors1.json | ExportedJson |
-| T_Expl_Ground2_color | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Ground2_color.json | ExportedJson |
-| T_Expl_Ground2_ground_motion_vectors2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Ground2_ground_motion_vectors2.json | ExportedJson |
-| T_Expl_Ground2_packed | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Ground2_packed.json | ExportedJson |
-| T_Flare_1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Flare_1.json | ExportedJson |
-| T_Flare_5 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Flare_5.json | ExportedJson |
-| T_Flesh_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_01_M.json | ExportedJson |
-| T_Flesh_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_01_N.json | ExportedJson |
-| T_Flesh_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_02_M.json | ExportedJson |
-| T_Flesh_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_02_N.json | ExportedJson |
-| T_Flesh_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_03_M.json | ExportedJson |
-| T_Flesh_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_03_N.json | ExportedJson |
-| T_Flesh_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_04_M.json | ExportedJson |
-| T_Flesh_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_04_N.json | ExportedJson |
-| T_Flesh_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_05_M.json | ExportedJson |
-| T_Flesh_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_05_N.json | ExportedJson |
-| T_Flesh_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_BC.json | ExportedJson |
-| T_Flies | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Flies.json | ExportedJson |
-| T_Floor_Normal_OpenGL | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\T_Floor_Normal_OpenGL.json | ExportedJson |
-| T_Foot_12_a | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_a.json | ExportedJson |
-| T_Foot_12_a_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_a_n.json | ExportedJson |
-| T_Foot_12_b | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_b.json | ExportedJson |
-| T_Foot_12_b_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_b_n.json | ExportedJson |
-| T_Glass | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Glass.json | ExportedJson |
-| T_Glass_Bulletproof_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Bulletproof\T_Glass_Bulletproof_01_M.json | ExportedJson |
-| T_Glass_Bulletproof_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Bulletproof\T_Glass_Bulletproof_01_N.json | ExportedJson |
-| T_Glass_Common_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_01_M.json | ExportedJson |
-| T_Glass_Common_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_01_N.json | ExportedJson |
-| T_Glass_Common_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_02_M.json | ExportedJson |
-| T_Glass_Common_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_02_N.json | ExportedJson |
-| T_Glass_Common_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_03_M.json | ExportedJson |
-| T_Glass_Common_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_03_N.json | ExportedJson |
-| T_Glass_Common_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_04_M.json | ExportedJson |
-| T_Glass_Common_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_04_N.json | ExportedJson |
-| T_Glass_Common_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_05_M.json | ExportedJson |
-| T_Glass_Common_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_05_N.json | ExportedJson |
-| T_Ground_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Ground\T_Ground_01_M.json | ExportedJson |
-| T_Ground_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Ground\T_Ground_01_N.json | ExportedJson |
-| T_Ground_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Ground\T_Ground_BC.json | ExportedJson |
-| T_Ice_4k | pakchunk2-Windows\Vein\Content\Marketplace\Effects\DamageScreen\Textures\T_Ice_4k.json | ExportedJson |
-| T_Lush_HDRI_01 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\T_Lush_HDRI_01.json | ExportedJson |
-| T_MetalSheetShard_BaseColor | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_MetalSheetShard_BaseColor.json | ExportedJson |
-| T_MetalSheetShard_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_MetalSheetShard_Normal.json | ExportedJson |
-| T_MetalSheetShard_OcclusionRoughnessMetallic | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_MetalSheetShard_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_Metal_Solid_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_01_M.json | ExportedJson |
-| T_Metal_Solid_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_01_N.json | ExportedJson |
-| T_Metal_Solid_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_02_M.json | ExportedJson |
-| T_Metal_Solid_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_02_N.json | ExportedJson |
-| T_Metal_Solid_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_03_M.json | ExportedJson |
-| T_Metal_Solid_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_03_N.json | ExportedJson |
-| T_Metal_Solid_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_04_M.json | ExportedJson |
-| T_Metal_Solid_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_04_N.json | ExportedJson |
-| T_Metal_Solid_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_05_M.json | ExportedJson |
-| T_Metal_Solid_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_05_N.json | ExportedJson |
-| T_Metal_Solid_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_BC.json | ExportedJson |
-| T_Noise01a | pakchunk0-Windows\Vein\Content\Marketplace\Environments\UndergroundTunnel\Textures\Effects\T_Noise01a.json | ExportedJson |
-| T_NoiseNormal_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_NoiseNormal_2.json | ExportedJson |
-| T_Normal_BaseSign | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_Normal_BaseSign.json | ExportedJson |
-| T_Normal_Crack_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_001.json | ExportedJson |
-| T_Normal_Crack_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_002.json | ExportedJson |
-| T_Normal_Crack_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_003.json | ExportedJson |
-| T_Normal_Crack_004 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_004.json | ExportedJson |
-| T_Normal_Crack_006 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_006.json | ExportedJson |
-| T_Normal_Crack_007 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_007.json | ExportedJson |
-| T_Normal_ManholeCover_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\ManholeCover\T_Normal_ManholeCover_003.json | ExportedJson |
-| T_Normal_StreetStain_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Normal_StreetStain_001.json | ExportedJson |
-| T_Normal_StreetStain_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Normal_StreetStain_002.json | ExportedJson |
-| T_ORM_BaseSign | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_ORM_BaseSign.json | ExportedJson |
-| T_ORM_Crack_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_001.json | ExportedJson |
-| T_ORM_Crack_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_002.json | ExportedJson |
-| T_ORM_Crack_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_003.json | ExportedJson |
-| T_ORM_Crack_004 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_004.json | ExportedJson |
-| T_ORM_Crack_006 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_006.json | ExportedJson |
-| T_ORM_Crack_007 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_007.json | ExportedJson |
-| T_ORM_ManholeCover_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\ManholeCover\T_ORM_ManholeCover_003.json | ExportedJson |
-| T_ORM_StreetStain_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_ORM_StreetStain_001.json | ExportedJson |
-| T_ORM_StreetStain_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_ORM_StreetStain_002.json | ExportedJson |
-| T_Pentagram_1_d | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Pentagram_1_d.json | ExportedJson |
-| T_Pentagram_1_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Pentagram_1_n.json | ExportedJson |
-| T_Plastic_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_01_M.json | ExportedJson |
-| T_Plastic_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_01_N.json | ExportedJson |
-| T_Plastic_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_02_M.json | ExportedJson |
-| T_Plastic_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_02_N.json | ExportedJson |
-| T_Plastic_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_03_M.json | ExportedJson |
-| T_Plastic_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_03_N.json | ExportedJson |
-| T_Plastic_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_04_M.json | ExportedJson |
-| T_Plastic_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_04_N.json | ExportedJson |
-| T_Plastic_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_05_M.json | ExportedJson |
-| T_Plastic_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_05_N.json | ExportedJson |
-| T_Plastic_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_BC.json | ExportedJson |
-| T_RainDrop01a | pakchunk0-Windows\Vein\Content\Marketplace\Environments\UndergroundTunnel\Textures\Effects\T_RainDrop01a.json | ExportedJson |
-| T_Rock_A_C | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_A_C.json | ExportedJson |
-| T_Rock_A_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_A_N.json | ExportedJson |
-| T_Rock_B_C | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_B_C.json | ExportedJson |
-| T_Rock_B_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_B_N.json | ExportedJson |
-| T_Rocks | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Rocks.json | ExportedJson |
-| T_Rocks_NM | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Rocks_NM.json | ExportedJson |
-| T_Rubber_01_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_01_BC.json | ExportedJson |
-| T_Rubber_01_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_01_M.json | ExportedJson |
-| T_Rubber_01_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_01_N.json | ExportedJson |
-| T_Rubber_02_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_02_BC.json | ExportedJson |
-| T_Rubber_02_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_02_M.json | ExportedJson |
-| T_Rubber_02_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_02_N.json | ExportedJson |
-| T_Rubber_03_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_03_BC.json | ExportedJson |
-| T_Rubber_03_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_03_M.json | ExportedJson |
-| T_Rubber_03_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_03_N.json | ExportedJson |
-| T_Rubber_04_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_04_BC.json | ExportedJson |
-| T_Rubber_04_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_04_M.json | ExportedJson |
-| T_Rubber_04_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_04_N.json | ExportedJson |
-| T_Rubber_05_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_05_BC.json | ExportedJson |
-| T_Rubber_05_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_05_M.json | ExportedJson |
-| T_Rubber_05_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_05_N.json | ExportedJson |
-| T_Shockwave | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Shockwave.json | ExportedJson |
-| T_Smoke | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ModularPrison\Textures\Particles\T_Smoke.json | ExportedJson |
-| T_Smoke | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\Textures\T_Smoke.json | ExportedJson |
-| T_Smoke_02 | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ModularPrison\Textures\Particles\T_Smoke_02.json | ExportedJson |
-| T_Smoke_1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Smoke_1.json | ExportedJson |
-| T_Smoke_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Smoke_2.json | ExportedJson |
-| T_Smoke_A | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Smoke_A.json | ExportedJson |
-| T_Smoke_B | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Smoke_B.json | ExportedJson |
-| T_Smoke_Puff_color | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Smoke_Puff_color.json | ExportedJson |
-| T_Smoke_Puff_color | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Smoke_Puff_color.json | ExportedJson |
-| T_Spark_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Spark_2.json | ExportedJson |
-| T_Spark_A | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Spark_A.json | ExportedJson |
-| T_Splashes_small_4k | pakchunk0-Windows\Vein\Content\Marketplace\Effects\DamageScreen\Textures\T_Splashes_small_4k.json | ExportedJson |
-| T_Spot_26 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Spots\T_Spot_26.json | ExportedJson |
-| T_Spot_26_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Spots\T_Spot_26_n.json | ExportedJson |
-| T_VFX_Flip_DirPuff | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\Flipbooks\T_VFX_Flip_DirPuff.json | ExportedJson |
-| T_VFX_Flip_NonDirPuff | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\Flipbooks\T_VFX_Flip_NonDirPuff.json | ExportedJson |
-| T_VFX_GoreChunk_BrainPiece_Diffuse_Roughness | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_BrainPiece_Diffuse_Roughness.json | ExportedJson |
-| T_VFX_GoreChunk_FleshPiece_Diffuse_Roughness | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_FleshPiece_Diffuse_Roughness.json | ExportedJson |
-| T_VFX_GoreChunk_FleshPiece_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_FleshPiece_Normal.json | ExportedJson |
-| T_VFX_GoreChunk_SkullPiece_Diffuse_Roughness | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_SkullPiece_Diffuse_Roughness.json | ExportedJson |
-| T_VFX_GoreChunk_SkullPiece_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_SkullPiece_Normal.json | ExportedJson |
-| T_Water_D | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Water_D.json | ExportedJson |
-| T_Window_Drips | pakchunk0-Windows\Vein\Content\Marketplace\Effects\VFX_Bundle_2\RainAndWater\Texture\T_Window_Drips.json | ExportedJson |
-| T_WoodChip | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_WoodChip.json | ExportedJson |
-| T_WoodChip_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_WoodChip_Normal.json | ExportedJson |
-| T_Wood_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_01_M.json | ExportedJson |
-| T_Wood_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_01_N.json | ExportedJson |
-| T_Wood_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_02_M.json | ExportedJson |
-| T_Wood_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_02_N.json | ExportedJson |
-| T_Wood_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_03_M.json | ExportedJson |
-| T_Wood_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_03_N.json | ExportedJson |
-| T_Wood_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_04_M.json | ExportedJson |
-| T_Wood_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_04_N.json | ExportedJson |
-| T_Wood_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_05_M.json | ExportedJson |
-| T_Wood_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_05_N.json | ExportedJson |
-| T_Wood_06_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_06_M.json | ExportedJson |
-| T_Wood_06_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_06_N.json | ExportedJson |
-| T_Wood_07_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_07_M.json | ExportedJson |
-| T_Wood_07_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_07_N.json | ExportedJson |
-| T_Wood_08_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_08_M.json | ExportedJson |
-| T_Wood_08_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_08_N.json | ExportedJson |
-| T_Wood_09_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_09_M.json | ExportedJson |
-| T_Wood_09_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_09_N.json | ExportedJson |
-| T_Wood_10_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_10_M.json | ExportedJson |
-| T_Wood_10_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_10_N.json | ExportedJson |
-| T_Wood_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_BC.json | ExportedJson |
-| T__Graffiti_1 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GraffitiDecalPack\Textures\T__Graffiti_1.json | ExportedJson |
-| T__Graffiti_39 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GraffitiDecalPack\Textures\T__Graffiti_39.json | ExportedJson |
-| T__Graffiti_44 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GraffitiDecalPack\Textures\T__Graffiti_44.json | ExportedJson |
-| T_big_splash_8 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Big_Splash\T_big_splash_8.json | ExportedJson |
-| T_bloody_splatter_1 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_1.json | ExportedJson |
-| T_bloody_splatter_10 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_10.json | ExportedJson |
-| T_bloody_splatter_100 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_100.json | ExportedJson |
-| T_bloody_splatter_100_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_100_n.json | ExportedJson |
-| T_bloody_splatter_101 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_101.json | ExportedJson |
-| T_bloody_splatter_101_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_101_n.json | ExportedJson |
-| T_bloody_splatter_102 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_102.json | ExportedJson |
-| T_bloody_splatter_102_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_102_n.json | ExportedJson |
-| T_bloody_splatter_103 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_103.json | ExportedJson |
-| T_bloody_splatter_103_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_103_n.json | ExportedJson |
-| T_bloody_splatter_104 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_104.json | ExportedJson |
-| T_bloody_splatter_104_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_104_n.json | ExportedJson |
-| T_bloody_splatter_105 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_105.json | ExportedJson |
-| T_bloody_splatter_105_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_105_n.json | ExportedJson |
-| T_bloody_splatter_106 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_106.json | ExportedJson |
-| T_bloody_splatter_106_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_106_n.json | ExportedJson |
-| T_bloody_splatter_10_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_10_n.json | ExportedJson |
-| T_bloody_splatter_11 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_11.json | ExportedJson |
-| T_bloody_splatter_11_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_11_n.json | ExportedJson |
-| T_bloody_splatter_12 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_12.json | ExportedJson |
-| T_bloody_splatter_12_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_12_n.json | ExportedJson |
-| T_bloody_splatter_13 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_13.json | ExportedJson |
-| T_bloody_splatter_13_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_13_n.json | ExportedJson |
-| T_bloody_splatter_14 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_14.json | ExportedJson |
-| T_bloody_splatter_14_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_14_n.json | ExportedJson |
-| T_bloody_splatter_15 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_15.json | ExportedJson |
-| T_bloody_splatter_15_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_15_n.json | ExportedJson |
-| T_bloody_splatter_16 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_16.json | ExportedJson |
-| T_bloody_splatter_16_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_16_n.json | ExportedJson |
-| T_bloody_splatter_17 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_17.json | ExportedJson |
-| T_bloody_splatter_17_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_17_n.json | ExportedJson |
-| T_bloody_splatter_18 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_18.json | ExportedJson |
-| T_bloody_splatter_18_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_18_n.json | ExportedJson |
-| T_bloody_splatter_19 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_19.json | ExportedJson |
-| T_bloody_splatter_19_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_19_n.json | ExportedJson |
-| T_bloody_splatter_1_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_1_n.json | ExportedJson |
-| T_bloody_splatter_2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_2.json | ExportedJson |
-| T_bloody_splatter_20 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_20.json | ExportedJson |
-| T_bloody_splatter_20_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_20_n.json | ExportedJson |
-| T_bloody_splatter_21 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_21.json | ExportedJson |
-| T_bloody_splatter_21_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_21_n.json | ExportedJson |
-| T_bloody_splatter_22 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_22.json | ExportedJson |
-| T_bloody_splatter_22_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_22_n.json | ExportedJson |
-| T_bloody_splatter_23 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_23.json | ExportedJson |
-| T_bloody_splatter_23_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_23_n.json | ExportedJson |
-| T_bloody_splatter_24 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_24.json | ExportedJson |
-| T_bloody_splatter_24_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_24_n.json | ExportedJson |
-| T_bloody_splatter_25 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_25.json | ExportedJson |
-| T_bloody_splatter_25_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_25_n.json | ExportedJson |
-| T_bloody_splatter_26 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_26.json | ExportedJson |
-| T_bloody_splatter_26_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_26_n.json | ExportedJson |
-| T_bloody_splatter_27 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_27.json | ExportedJson |
-| T_bloody_splatter_27_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_27_n.json | ExportedJson |
-| T_bloody_splatter_28 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_28.json | ExportedJson |
-| T_bloody_splatter_28_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_28_n.json | ExportedJson |
-| T_bloody_splatter_29 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_29.json | ExportedJson |
-| T_bloody_splatter_29_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_29_n.json | ExportedJson |
-| T_bloody_splatter_2_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_2_n.json | ExportedJson |
-| T_bloody_splatter_3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_3.json | ExportedJson |
-| T_bloody_splatter_30 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_30.json | ExportedJson |
-| T_bloody_splatter_30_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_30_n.json | ExportedJson |
-| T_bloody_splatter_31 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_31.json | ExportedJson |
-| T_bloody_splatter_31_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_31_n.json | ExportedJson |
-| T_bloody_splatter_32 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_32.json | ExportedJson |
-| T_bloody_splatter_32_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_32_n.json | ExportedJson |
-| T_bloody_splatter_33 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_33.json | ExportedJson |
-| T_bloody_splatter_33_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_33_n.json | ExportedJson |
-| T_bloody_splatter_34 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_34.json | ExportedJson |
-| T_bloody_splatter_34_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_34_n.json | ExportedJson |
-| T_bloody_splatter_35 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_35.json | ExportedJson |
-| T_bloody_splatter_35_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_35_n.json | ExportedJson |
-| T_bloody_splatter_36 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_36.json | ExportedJson |
-| T_bloody_splatter_36_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_36_n.json | ExportedJson |
-| T_bloody_splatter_37 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_37.json | ExportedJson |
-| T_bloody_splatter_37_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_37_n.json | ExportedJson |
-| T_bloody_splatter_38 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_38.json | ExportedJson |
-| T_bloody_splatter_38_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_38_n.json | ExportedJson |
-| T_bloody_splatter_39 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_39.json | ExportedJson |
-| T_bloody_splatter_39_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_39_n.json | ExportedJson |
-| T_bloody_splatter_3_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_3_n.json | ExportedJson |
-| T_bloody_splatter_4 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_4.json | ExportedJson |
-| T_bloody_splatter_40 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_40.json | ExportedJson |
-| T_bloody_splatter_40_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_40_n.json | ExportedJson |
-| T_bloody_splatter_41 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_41.json | ExportedJson |
-| T_bloody_splatter_41_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_41_n.json | ExportedJson |
-| T_bloody_splatter_42 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_42.json | ExportedJson |
-| T_bloody_splatter_42_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_42_n.json | ExportedJson |
-| T_bloody_splatter_43 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_43.json | ExportedJson |
-| T_bloody_splatter_43_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_43_n.json | ExportedJson |
-| T_bloody_splatter_44 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_44.json | ExportedJson |
-| T_bloody_splatter_44_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_44_n.json | ExportedJson |
-| T_bloody_splatter_45 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_45.json | ExportedJson |
-| T_bloody_splatter_45_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_45_n.json | ExportedJson |
-| T_bloody_splatter_46 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_46.json | ExportedJson |
-| T_bloody_splatter_46_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_46_n.json | ExportedJson |
-| T_bloody_splatter_47 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_47.json | ExportedJson |
-| T_bloody_splatter_47_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_47_n.json | ExportedJson |
-| T_bloody_splatter_48 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_48.json | ExportedJson |
-| T_bloody_splatter_48_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_48_n.json | ExportedJson |
-| T_bloody_splatter_49 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_49.json | ExportedJson |
-| T_bloody_splatter_49_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_49_n.json | ExportedJson |
-| T_bloody_splatter_4_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_4_n.json | ExportedJson |
-| T_bloody_splatter_5 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_5.json | ExportedJson |
-| T_bloody_splatter_50 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_50.json | ExportedJson |
-| T_bloody_splatter_50_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_50_n.json | ExportedJson |
-| T_bloody_splatter_51 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_51.json | ExportedJson |
-| T_bloody_splatter_51_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_51_n.json | ExportedJson |
-| T_bloody_splatter_52 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_52.json | ExportedJson |
-| T_bloody_splatter_52_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_52_n.json | ExportedJson |
-| T_bloody_splatter_53 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_53.json | ExportedJson |
-| T_bloody_splatter_53_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_53_n.json | ExportedJson |
-| T_bloody_splatter_54 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_54.json | ExportedJson |
-| T_bloody_splatter_54_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_54_n.json | ExportedJson |
-| T_bloody_splatter_55 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_55.json | ExportedJson |
-| T_bloody_splatter_55_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_55_n.json | ExportedJson |
-| T_bloody_splatter_56 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_56.json | ExportedJson |
-| T_bloody_splatter_56_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_56_n.json | ExportedJson |
-| T_bloody_splatter_57 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_57.json | ExportedJson |
-| T_bloody_splatter_57_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_57_n.json | ExportedJson |
-| T_bloody_splatter_58 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_58.json | ExportedJson |
-| T_bloody_splatter_58_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_58_n.json | ExportedJson |
-| T_bloody_splatter_59 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_59.json | ExportedJson |
-| T_bloody_splatter_59_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_59_n.json | ExportedJson |
-| T_bloody_splatter_5_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_5_n.json | ExportedJson |
-| T_bloody_splatter_6 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_6.json | ExportedJson |
-| T_bloody_splatter_60 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_60.json | ExportedJson |
-| T_bloody_splatter_60_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_60_n.json | ExportedJson |
-| T_bloody_splatter_61 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_61.json | ExportedJson |
-| T_bloody_splatter_61_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_61_n.json | ExportedJson |
-| T_bloody_splatter_62 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_62.json | ExportedJson |
-| T_bloody_splatter_62_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_62_n.json | ExportedJson |
-| T_bloody_splatter_63 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_63.json | ExportedJson |
-| T_bloody_splatter_63_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_63_n.json | ExportedJson |
-| T_bloody_splatter_64 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_64.json | ExportedJson |
-| T_bloody_splatter_64_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_64_n.json | ExportedJson |
-| T_bloody_splatter_65 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_65.json | ExportedJson |
-| T_bloody_splatter_65_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_65_n.json | ExportedJson |
-| T_bloody_splatter_66 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_66.json | ExportedJson |
-| T_bloody_splatter_66_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_66_n.json | ExportedJson |
-| T_bloody_splatter_67 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_67.json | ExportedJson |
-| T_bloody_splatter_67_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_67_n.json | ExportedJson |
-| T_bloody_splatter_68 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_68.json | ExportedJson |
-| T_bloody_splatter_68_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_68_n.json | ExportedJson |
-| T_bloody_splatter_69 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_69.json | ExportedJson |
-| T_bloody_splatter_69_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_69_n.json | ExportedJson |
-| T_bloody_splatter_6_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_6_n.json | ExportedJson |
-| T_bloody_splatter_7 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_7.json | ExportedJson |
-| T_bloody_splatter_70 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_70.json | ExportedJson |
-| T_bloody_splatter_70_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_70_n.json | ExportedJson |
-| T_bloody_splatter_71 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_71.json | ExportedJson |
-| T_bloody_splatter_71_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_71_n.json | ExportedJson |
-| T_bloody_splatter_72 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_72.json | ExportedJson |
-| T_bloody_splatter_72_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_72_n.json | ExportedJson |
-| T_bloody_splatter_73 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_73.json | ExportedJson |
-| T_bloody_splatter_73_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_73_n.json | ExportedJson |
-| T_bloody_splatter_74 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_74.json | ExportedJson |
-| T_bloody_splatter_74_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_74_n.json | ExportedJson |
-| T_bloody_splatter_75 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_75.json | ExportedJson |
-| T_bloody_splatter_75_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_75_n.json | ExportedJson |
-| T_bloody_splatter_76 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_76.json | ExportedJson |
-| T_bloody_splatter_76_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_76_n.json | ExportedJson |
-| T_bloody_splatter_77 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_77.json | ExportedJson |
-| T_bloody_splatter_77_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_77_n.json | ExportedJson |
-| T_bloody_splatter_78 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_78.json | ExportedJson |
-| T_bloody_splatter_78_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_78_n.json | ExportedJson |
-| T_bloody_splatter_79 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_79.json | ExportedJson |
-| T_bloody_splatter_79_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_79_n.json | ExportedJson |
-| T_bloody_splatter_7_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_7_n.json | ExportedJson |
-| T_bloody_splatter_8 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_8.json | ExportedJson |
-| T_bloody_splatter_80 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_80.json | ExportedJson |
-| T_bloody_splatter_80_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_80_n.json | ExportedJson |
-| T_bloody_splatter_81 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_81.json | ExportedJson |
-| T_bloody_splatter_81_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_81_n.json | ExportedJson |
-| T_bloody_splatter_82 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_82.json | ExportedJson |
-| T_bloody_splatter_82_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_82_n.json | ExportedJson |
-| T_bloody_splatter_83 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_83.json | ExportedJson |
-| T_bloody_splatter_83_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_83_n.json | ExportedJson |
-| T_bloody_splatter_84 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_84.json | ExportedJson |
-| T_bloody_splatter_84_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_84_n.json | ExportedJson |
-| T_bloody_splatter_85 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_85.json | ExportedJson |
-| T_bloody_splatter_85_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_85_n.json | ExportedJson |
-| T_bloody_splatter_86 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_86.json | ExportedJson |
-| T_bloody_splatter_86_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_86_n.json | ExportedJson |
-| T_bloody_splatter_87 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_87.json | ExportedJson |
-| T_bloody_splatter_87_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_87_n.json | ExportedJson |
-| T_bloody_splatter_88 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_88.json | ExportedJson |
-| T_bloody_splatter_88_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_88_n.json | ExportedJson |
-| T_bloody_splatter_89 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_89.json | ExportedJson |
-| T_bloody_splatter_89_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_89_n.json | ExportedJson |
-| T_bloody_splatter_8_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_8_n.json | ExportedJson |
-| T_bloody_splatter_9 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_9.json | ExportedJson |
-| T_bloody_splatter_90 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_90.json | ExportedJson |
-| T_bloody_splatter_90_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_90_n.json | ExportedJson |
-| T_bloody_splatter_91 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_91.json | ExportedJson |
-| T_bloody_splatter_91_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_91_n.json | ExportedJson |
-| T_bloody_splatter_92 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_92.json | ExportedJson |
-| T_bloody_splatter_92_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_92_n.json | ExportedJson |
-| T_bloody_splatter_93 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_93.json | ExportedJson |
-| T_bloody_splatter_93_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_93_n.json | ExportedJson |
-| T_bloody_splatter_94 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_94.json | ExportedJson |
-| T_bloody_splatter_94_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_94_n.json | ExportedJson |
-| T_bloody_splatter_95 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_95.json | ExportedJson |
-| T_bloody_splatter_95_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_95_n.json | ExportedJson |
-| T_bloody_splatter_96 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_96.json | ExportedJson |
-| T_bloody_splatter_96_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_96_n.json | ExportedJson |
-| T_bloody_splatter_97 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_97.json | ExportedJson |
-| T_bloody_splatter_97_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_97_n.json | ExportedJson |
-| T_bloody_splatter_98 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_98.json | ExportedJson |
-| T_bloody_splatter_98_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_98_n.json | ExportedJson |
-| T_bloody_splatter_99 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_99.json | ExportedJson |
-| T_bloody_splatter_99_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_99_n.json | ExportedJson |
-| T_bloody_splatter_9_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_9_n.json | ExportedJson |
-| T_explo | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo.json | ExportedJson |
-| T_explo_03 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_03.json | ExportedJson |
-| T_explo_04 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_04.json | ExportedJson |
-| T_explo_06 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_06.json | ExportedJson |
-| T_explo_06 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_06.json | ExportedJson |
-| T_explo_09 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_09.json | ExportedJson |
-| T_explo_09 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_09.json | ExportedJson |
-| T_fire | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Fire\T_fire.json | ExportedJson |
-| T_number_0 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Words-Symbols\Numbers\Part_1\T_number_0.json | ExportedJson |
-| T_number_0_nrm | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Words-Symbols\Numbers\Part_1\T_number_0_nrm.json | ExportedJson |
-| T_riseup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_riseup.json | ExportedJson |
-| T_riseup_02 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_riseup_02.json | ExportedJson |
-| T_riseup_03 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_riseup_03.json | ExportedJson |
-| T_wind | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_wind.json | ExportedJson |
-| T_wind_02 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_wind_02.json | ExportedJson |
-| VAT_DirSplatter_Long_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterLong\VAT_DirSplatter_Long_lookup.json | ExportedJson |
-| VAT_DirSplatter_Long_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterLong\VAT_DirSplatter_Long_pos.json | ExportedJson |
-| VAT_DirSplatter_Long_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterLong\VAT_DirSplatter_Long_rot.json | ExportedJson |
-| VAT_DirSplatter_Wide_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterWide\VAT_DirSplatter_Wide_lookup.json | ExportedJson |
-| VAT_DirSplatter_Wide_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterWide\VAT_DirSplatter_Wide_pos.json | ExportedJson |
-| VAT_DirSplatter_Wide_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterWide\VAT_DirSplatter_Wide_rot.json | ExportedJson |
-| VAT_NonDirSplatter_Medium_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterMedium\VAT_NonDirSplatter_Medium_lookup.json | ExportedJson |
-| VAT_NonDirSplatter_Medium_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterMedium\VAT_NonDirSplatter_Medium_pos.json | ExportedJson |
-| VAT_NonDirSplatter_Medium_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterMedium\VAT_NonDirSplatter_Medium_rot.json | ExportedJson |
-| VAT_NonDirSplatter_Small_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterSmall\VAT_NonDirSplatter_Small_lookup.json | ExportedJson |
-| VAT_NonDirSplatter_Small_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterSmall\VAT_NonDirSplatter_Small_pos.json | ExportedJson |
-| VAT_NonDirSplatter_Small_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterSmall\VAT_NonDirSplatter_Small_rot.json | ExportedJson |
-| VAT_Slash_Large_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\SlashLarge\VAT_Slash_Large_lookup.json | ExportedJson |
-| VAT_Slash_Large_mesh | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\VAT_Slash_Large_mesh.json | ExportedJson |
-| VAT_Slash_Large_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\SlashLarge\VAT_Slash_Large_pos.json | ExportedJson |
-| VAT_Slash_Large_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\SlashLarge\VAT_Slash_Large_rot.json | ExportedJson |
-| XStar | pakchunk0-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\XStar.json | ExportedJson |
-| XStar2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\XStar2.json | ExportedJson |
-| bigfire2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bigfire2.json | ExportedJson |
-| bigfireB_fwd | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bigfireB_fwd.json | ExportedJson |
-| bigfire_VG | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bigfire_VG.json | ExportedJson |
-| bigfire_VG_smk | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bigfire_VG_smk.json | ExportedJson |
-| bigfire_fwd2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bigfire_fwd2.json | ExportedJson |
-| bigfire_fwd_rs | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bigfire_fwd_rs.json | ExportedJson |
-| bigfire_single | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\firesingle\bigfire_single.json | ExportedJson |
-| blowingFire_fwd | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\blowingFire_fwd.json | ExportedJson |
-| blowingFire_fwd2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\blowingFire_fwd2.json | ExportedJson |
-| bonefire | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bonefire.json | ExportedJson |
-| bonefire3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bonefire3.json | ExportedJson |
-| bonefire_fwd3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bonefire_fwd3.json | ExportedJson |
-| bonefire_fwd4 | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bonefire_fwd4.json | ExportedJson |
-| clouds_diverse | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\Clouds\clouds_diverse.json | ExportedJson |
-| disort_test2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\disort_test2.json | ExportedJson |
-| grdbasefire2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\grdbasefire2.json | ExportedJson |
+| 0_6_smoke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\0_6_smoke.json | JSON Export |
+| 0_6_smoke_re_vg | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\0_6_smoke_re_vg.json | JSON Export |
+| 0_NCandleFire_pt | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Reference\Candlefire\0_NCandleFire_pt.json | JSON Export |
+| 1_6_smoke2_1 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\1_6_smoke2_1.json | JSON Export |
+| 2_6_smoke3_vg | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\2_6_smoke3_vg.json | JSON Export |
+| 3DCells_128 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\3D_Clouds\3DCells_128.json | JSON Export |
+| 3D_Cells_32 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\3D_Clouds\3D_Cells_32.json | JSON Export |
+| 3D_Cells_64 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\3D_Clouds\3D_Cells_64.json | JSON Export |
+| 3_6_smoke4 | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4.json | JSON Export |
+| 3_6_smoke4 | pakchunk17-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4.json | JSON Export |
+| 3_6_smoke4 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4.json | JSON Export |
+| 3_6_smoke4_vg | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4_vg.json | JSON Export |
+| 3_6_smoke4_vg | pakchunk32-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\3_6_smoke4_vg.json | JSON Export |
+| 3_Nblowingfire_fwd2_pt | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Reference\Fireloop\3_Nblowingfire_fwd2_pt.json | JSON Export |
+| 4_6_smoke5_vg | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\4_6_smoke5_vg.json | JSON Export |
+| 5_6_Nsmoke6_pt2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Reference\Smoke\5_6_Nsmoke6_pt2.json | JSON Export |
+| 5_6_smoke6 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\smoke\5_6_smoke6.json | JSON Export |
+| A_PlugIn | pakchunk0-Windows\Vein\Content\Vein\Effects\Wiring\A_PlugIn.json | JSON Export |
+| Arrow_Star | pakchunk1-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\Arrow_Star.json | JSON Export |
+| BP_PowerPlantSmoke | pakchunk0-Windows\Vein\Content\Vein\Effects\Electric\BP_PowerPlantSmoke.json | JSON Export |
+| CandleFire_D | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\CandleFire\CandleFire_D.json | JSON Export |
+| Circle_normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\Circle_normal.json | JSON Export |
+| Cloud_Profile | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\Volumetric_Clouds\Cloud_Profile.json | JSON Export |
+| EmberNoise3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\EmberNoise3.json | JSON Export |
+| Flame | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\Flame.json | JSON Export |
+| IES_Cardboard_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Cardboard_Bladed.json | JSON Export |
+| IES_Cardboard_Bladed | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Cardboard_Bladed.json | JSON Export |
+| IES_Cardboard_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Cardboard_Blunt.json | JSON Export |
+| IES_Concrete_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Concrete_Bladed.json | JSON Export |
+| IES_Concrete_Bladed | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Concrete_Bladed.json | JSON Export |
+| IES_Concrete_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Concrete_Bullet.json | JSON Export |
+| IES_DefaultMelee | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_DefaultMelee.json | JSON Export |
+| IES_Dirt_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Dirt_Bladed.json | JSON Export |
+| IES_Dirt_Blunt | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Dirt_Blunt.json | JSON Export |
+| IES_Dirt_Bullet | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Dirt_Bullet.json | JSON Export |
+| IES_Flesh_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Bladed.json | JSON Export |
+| IES_Flesh_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Blunt.json | JSON Export |
+| IES_Flesh_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Bullet.json | JSON Export |
+| IES_Flesh_Pan | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Pan.json | JSON Export |
+| IES_Flesh_SmallBladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_SmallBladed.json | JSON Export |
+| IES_Flesh_Sword | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Flesh_Sword.json | JSON Export |
+| IES_GlassSmall_Melee | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_GlassSmall_Melee.json | JSON Export |
+| IES_Glass_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Glass_Bullet.json | JSON Export |
+| IES_Glass_Melee | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Glass_Melee.json | JSON Export |
+| IES_Gravel_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Gravel_Bladed.json | JSON Export |
+| IES_Gravel_Bullet | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Gravel_Bullet.json | JSON Export |
+| IES_Metal_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Bladed.json | JSON Export |
+| IES_Metal_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Blunt.json | JSON Export |
+| IES_Metal_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Bullet.json | JSON Export |
+| IES_Metal_Sword | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Metal_Sword.json | JSON Export |
+| IES_Paper_Bladed | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Bladed.json | JSON Export |
+| IES_Paper_Bladed | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Bladed.json | JSON Export |
+| IES_Paper_Blunt | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Blunt.json | JSON Export |
+| IES_Paper_Blunt | pakchunk13-Windows\Vein\Content\Vein\ImpactEffects\IES_Paper_Blunt.json | JSON Export |
+| IES_Plaster_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plaster_Bladed.json | JSON Export |
+| IES_Plaster_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plaster_Blunt.json | JSON Export |
+| IES_Plastic_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Bladed.json | JSON Export |
+| IES_Plastic_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Blunt.json | JSON Export |
+| IES_Plastic_Blunt_Small | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Blunt_Small.json | JSON Export |
+| IES_Plastic_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Plastic_Bullet.json | JSON Export |
+| IES_Rubber_Bullet | pakchunk17-Windows\Vein\Content\Vein\ImpactEffects\IES_Rubber_Bullet.json | JSON Export |
+| IES_Snow_Bullet | pakchunk1-Windows\Vein\Content\Vein\ImpactEffects\IES_Snow_Bullet.json | JSON Export |
+| IES_Wood_Arrow | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Arrow.json | JSON Export |
+| IES_Wood_Bladed | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Bladed.json | JSON Export |
+| IES_Wood_Blunt | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Blunt.json | JSON Export |
+| IES_Wood_Bullet | pakchunk0-Windows\Vein\Content\Vein\ImpactEffects\IES_Wood_Bullet.json | JSON Export |
+| NET_ExploType | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NET_ExploType.json | JSON Export |
+| NFire_00 | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_00.json | JSON Export |
+| NFire_00_NoSmoke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_00_NoSmoke.json | JSON Export |
+| NFire_00_OnlySmoke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_00_OnlySmoke.json | JSON Export |
+| NFire_01 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_01.json | JSON Export |
+| NFire_02 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_02.json | JSON Export |
+| NFire_05 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_05.json | JSON Export |
+| NFire_05_Modified | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_05_Modified.json | JSON Export |
+| NFire_11 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_11.json | JSON Export |
+| NFire_13 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_13.json | JSON Export |
+| NFire_15 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Niagara\Fire\NFire_15.json | JSON Export |
+| NPC_WindControls | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NPC_WindControls.json | JSON Export |
+| NS_Candle | pakchunk0-Windows\Vein\Content\Vein\Effects\Items\NS_Candle.json | JSON Export |
+| NS_Car_Ex | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_Car_Ex.json | JSON Export |
+| NS_Chrysanthemum1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Chrysanthemum1.json | JSON Export |
+| NS_Chrysanthemum2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Chrysanthemum2.json | JSON Export |
+| NS_Cigarette | pakchunk1-Windows\Vein\Content\Vein\Effects\Items\NS_Cigarette.json | JSON Export |
+| NS_Dismemberment_Gen9 | pakchunk0-Windows\Vein\Content\Vein\Effects\Damage\NS_Dismemberment_Gen9.json | JSON Export |
+| NS_DoorBreach | pakchunk0-Windows\Vein\Content\Vein\Effects\Damage\NS_DoorBreach.json | JSON Export |
+| NS_ElectricalSparks1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Electric\NS_ElectricalSparks1.json | JSON Export |
+| NS_ElectricalSparks_Loop | pakchunk1-Windows\Vein\Content\Vein\Effects\Electric\NS_ElectricalSparks_Loop.json | JSON Export |
+| NS_ForgeSmoke | pakchunk13-Windows\Vein\Content\Vein\Effects\Crafting\NS_ForgeSmoke.json | JSON Export |
+| NS_General_M_Ex_01 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_General_M_Ex_01.json | JSON Export |
+| NS_General_M_Ex_01 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_General_M_Ex_01.json | JSON Export |
+| NS_General_S_Ex_01 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Niagara_FX\Explosions\NS_General_S_Ex_01.json | JSON Export |
+| NS_GeneratorSmoke1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Machines\NS_GeneratorSmoke1.json | JSON Export |
+| NS_GlassShatter | pakchunk0-Windows\Vein\Content\Vein\Effects\Damage\NS_GlassShatter.json | JSON Export |
+| NS_Ground_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Niagara\NS_Ground_2.json | JSON Export |
+| NS_HD_Beheaded | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Wounds\NS_HD_Beheaded.json | JSON Export |
+| NS_Horsetail1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Horsetail1.json | JSON Export |
+| NS_Horsetail2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Horsetail2.json | JSON Export |
+| NS_KilnSmoke | pakchunk13-Windows\Vein\Content\Vein\Effects\Crafting\NS_KilnSmoke.json | JSON Export |
+| NS_LockpickBreak | pakchunk0-Windows\Vein\Content\Vein\Effects\Minigame\Lockpick\NS_LockpickBreak.json | JSON Export |
+| NS_Palm1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Palm1.json | JSON Export |
+| NS_Palm2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Palm2.json | JSON Export |
+| NS_Peony1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Peony1.json | JSON Export |
+| NS_Peony2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Peony2.json | JSON Export |
+| NS_Rain | pakchunk0-Windows\Vein\Content\Vein\Effects\Weather\NS_Rain.json | JSON Export |
+| NS_Ring1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Ring1.json | JSON Export |
+| NS_Ring2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Ring2.json | JSON Export |
+| NS_Snow | pakchunk0-Windows\Vein\Content\Vein\Effects\Weather\NS_Snow.json | JSON Export |
+| NS_Willow1 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Willow1.json | JSON Export |
+| NS_Willow2 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\FX\NS_Willow2.json | JSON Export |
+| NS_ZombieBloodPuke | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bullet_Hit\One_Shot\NS_ZombieBloodPuke.json | JSON Export |
+| OS_NS_HD_Blood_Burst_Head | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bursts\One_Shot\OS_NS_HD_Blood_Burst_Head.json | JSON Export |
+| OS_NS_HD_Blood_Burst_Medium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bursts\One_Shot\OS_NS_HD_Blood_Burst_Medium.json | JSON Export |
+| OS_NS_HD_Blood_Burst_Small | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bursts\One_Shot\OS_NS_HD_Blood_Burst_Small.json | JSON Export |
+| OS_NS_HD_Bullet_Hit_Medium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bullet_Hit\One_Shot\OS_NS_HD_Bullet_Hit_Medium.json | JSON Export |
+| OS_NS_HD_Bullet_Hit_Small | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Bullet_Hit\One_Shot\OS_NS_HD_Bullet_Hit_Small.json | JSON Export |
+| OS_NS_HD_Slash_Medium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\VFX\VAT_Versions\Slashes\One_Shot\OS_NS_HD_Slash_Medium.json | JSON Export |
+| PS_VentSmoke | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ModularPrison\Particles\PS_VentSmoke.json | JSON Export |
+| P_Ambient_Dust | pakchunk0-Windows\Vein\Content\StarterContent\Particles\P_Ambient_Dust.json | JSON Export |
+| P_Dust | pakchunk0-Windows\Vein\Content\Marketplace\Environments\LogCabin\Particles\P_Dust.json | JSON Export |
+| P_Smoke_A | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Particles\Smoke\P_Smoke_A.json | JSON Export |
+| ParticleClouds | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\Weather\ParticleClouds.json | JSON Export |
+| Prime_Flare | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\LensFlares\Prime_Flare.json | JSON Export |
+| SM_MetalSheetShard | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Meshes\SM_MetalSheetShard.json | JSON Export |
+| SM_Ref_Sphere | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Mesh\SM_Ref_Sphere.json | JSON Export |
+| SM_Rock_A | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Models\SM_Rock_A.json | JSON Export |
+| SM_Rock_B | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Models\SM_Rock_B.json | JSON Export |
+| SM_VFX_Gore_BrainPiece | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\GoreChunks\SM_VFX_Gore_BrainPiece.json | JSON Export |
+| SM_VFX_Gore_FleshPiece | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\GoreChunks\SM_VFX_Gore_FleshPiece.json | JSON Export |
+| SM_VFX_Gore_SkullPiece | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\GoreChunks\SM_VFX_Gore_SkullPiece.json | JSON Export |
+| SM_VFX_VAT_DirSplatterLong | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_DirSplatterLong.json | JSON Export |
+| SM_VFX_VAT_DirSplatterWide | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_DirSplatterWide.json | JSON Export |
+| SM_VFX_VAT_NonDirSplatterMedium | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_NonDirSplatterMedium.json | JSON Export |
+| SM_VFX_VAT_NonDirSplatter_Small | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\SM_VFX_VAT_NonDirSplatter_Small.json | JSON Export |
+| SM_sphere | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Models\SM_sphere.json | JSON Export |
+| Star_Burst4 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\Star_Burst4.json | JSON Export |
+| Star_Burst7 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\Star_Burst7.json | JSON Export |
+| Star_Flare | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\LensFlares\Star_Flare.json | JSON Export |
+| StaticClouds_Alpha+Up | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\StaticClouds\StaticClouds_Alpha+Up.json | JSON Export |
+| StaticClouds_XY | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\StaticClouds\StaticClouds_XY.json | JSON Export |
+| T_Albedo_Arrow_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_Albedo_Arrow_003.json | JSON Export |
+| T_Albedo_Crack_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_001.json | JSON Export |
+| T_Albedo_Crack_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_002.json | JSON Export |
+| T_Albedo_Crack_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_003.json | JSON Export |
+| T_Albedo_Crack_004 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_004.json | JSON Export |
+| T_Albedo_Crack_006 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_006.json | JSON Export |
+| T_Albedo_Crack_007 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Albedo_Crack_007.json | JSON Export |
+| T_Albedo_ManholeCover_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\ManholeCover\T_Albedo_ManholeCover_003.json | JSON Export |
+| T_Albedo_StopSignal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_Albedo_StopSignal.json | JSON Export |
+| T_Albedo_StreetStain_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Albedo_StreetStain_001.json | JSON Export |
+| T_Albedo_StreetStain_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Albedo_StreetStain_002.json | JSON Export |
+| T_Albedo_WhiteLine_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\WheelStains\T_Albedo_WhiteLine_002.json | JSON Export |
+| T_BasicSprite | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\Textures\T_BasicSprite.json | JSON Export |
+| T_Brick_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Brick\T_Brick_01_M.json | JSON Export |
+| T_Brick_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Brick\T_Brick_01_N.json | JSON Export |
+| T_Cloud_1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Cloud_1.json | JSON Export |
+| T_Concrete_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_01_M.json | JSON Export |
+| T_Concrete_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_01_N.json | JSON Export |
+| T_Concrete_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_02_M.json | JSON Export |
+| T_Concrete_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_02_N.json | JSON Export |
+| T_Concrete_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_03_M.json | JSON Export |
+| T_Concrete_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_03_N.json | JSON Export |
+| T_Concrete_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_04_M.json | JSON Export |
+| T_Concrete_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_04_N.json | JSON Export |
+| T_Concrete_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_05_M.json | JSON Export |
+| T_Concrete_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_05_N.json | JSON Export |
+| T_Concrete_06_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_06_M.json | JSON Export |
+| T_Concrete_06_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_06_N.json | JSON Export |
+| T_Concrete_07_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_07_M.json | JSON Export |
+| T_Concrete_07_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_07_N.json | JSON Export |
+| T_Concrete_08_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_08_M.json | JSON Export |
+| T_Concrete_08_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_08_N.json | JSON Export |
+| T_Concrete_09_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_09_M.json | JSON Export |
+| T_Concrete_09_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_09_N.json | JSON Export |
+| T_Concrete_10_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_10_M.json | JSON Export |
+| T_Concrete_10_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Concrete\T_Concrete_10_N.json | JSON Export |
+| T_Dirt_01_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_01_M.json | JSON Export |
+| T_Dirt_01_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_01_N.json | JSON Export |
+| T_Dirt_02_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_02_M.json | JSON Export |
+| T_Dirt_02_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_02_N.json | JSON Export |
+| T_Dirt_03_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_03_M.json | JSON Export |
+| T_Dirt_03_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_03_N.json | JSON Export |
+| T_Dirt_04_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_04_M.json | JSON Export |
+| T_Dirt_04_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_04_N.json | JSON Export |
+| T_Dirt_05_M | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_05_M.json | JSON Export |
+| T_Dirt_05_N | pakchunk1-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Dirt\T_Dirt_05_N.json | JSON Export |
+| T_Drips | pakchunk0-Windows\Vein\Content\Marketplace\Effects\VFX_Bundle_2\RainAndWater\Texture\T_Drips.json | JSON Export |
+| T_Dust_01_BC | pakchunk0-Windows\Vein\Content\Marketplace\Environments\LogCabin\Textures\Particles\T_Dust_01_BC.json | JSON Export |
+| T_Dust_02_Masks | pakchunk0-Windows\Vein\Content\Marketplace\Environments\LogCabin\Textures\Particles\T_Dust_02_Masks.json | JSON Export |
+| T_Expl_Atom1_color | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Atom1_color.json | JSON Export |
+| T_Expl_Atom1_packed | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Atom1_packed.json | JSON Export |
+| T_Expl_Atom1_packed_motion_vectors1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Atom1_packed_motion_vectors1.json | JSON Export |
+| T_Expl_Ground2_color | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Ground2_color.json | JSON Export |
+| T_Expl_Ground2_ground_motion_vectors2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Ground2_ground_motion_vectors2.json | JSON Export |
+| T_Expl_Ground2_packed | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Expl_Ground2_packed.json | JSON Export |
+| T_Flare_1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Flare_1.json | JSON Export |
+| T_Flare_5 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Flare_5.json | JSON Export |
+| T_Flesh_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_01_M.json | JSON Export |
+| T_Flesh_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_01_N.json | JSON Export |
+| T_Flesh_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_02_M.json | JSON Export |
+| T_Flesh_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_02_N.json | JSON Export |
+| T_Flesh_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_03_M.json | JSON Export |
+| T_Flesh_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_03_N.json | JSON Export |
+| T_Flesh_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_04_M.json | JSON Export |
+| T_Flesh_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_04_N.json | JSON Export |
+| T_Flesh_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_05_M.json | JSON Export |
+| T_Flesh_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_05_N.json | JSON Export |
+| T_Flesh_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Flesh\T_Flesh_BC.json | JSON Export |
+| T_Flies | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Flies.json | JSON Export |
+| T_Floor_Normal_OpenGL | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\T_Floor_Normal_OpenGL.json | JSON Export |
+| T_Foot_12_a | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_a.json | JSON Export |
+| T_Foot_12_a_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_a_n.json | JSON Export |
+| T_Foot_12_b | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_b.json | JSON Export |
+| T_Foot_12_b_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Foot_12_b_n.json | JSON Export |
+| T_Glass | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Glass.json | JSON Export |
+| T_Glass_Bulletproof_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Bulletproof\T_Glass_Bulletproof_01_M.json | JSON Export |
+| T_Glass_Bulletproof_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Bulletproof\T_Glass_Bulletproof_01_N.json | JSON Export |
+| T_Glass_Common_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_01_M.json | JSON Export |
+| T_Glass_Common_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_01_N.json | JSON Export |
+| T_Glass_Common_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_02_M.json | JSON Export |
+| T_Glass_Common_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_02_N.json | JSON Export |
+| T_Glass_Common_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_03_M.json | JSON Export |
+| T_Glass_Common_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_03_N.json | JSON Export |
+| T_Glass_Common_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_04_M.json | JSON Export |
+| T_Glass_Common_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_04_N.json | JSON Export |
+| T_Glass_Common_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_05_M.json | JSON Export |
+| T_Glass_Common_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Glass_Common\T_Glass_Common_05_N.json | JSON Export |
+| T_Ground_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Ground\T_Ground_01_M.json | JSON Export |
+| T_Ground_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Ground\T_Ground_01_N.json | JSON Export |
+| T_Ground_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Ground\T_Ground_BC.json | JSON Export |
+| T_Ice_4k | pakchunk2-Windows\Vein\Content\Marketplace\Effects\DamageScreen\Textures\T_Ice_4k.json | JSON Export |
+| T_Lush_HDRI_01 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\T_Lush_HDRI_01.json | JSON Export |
+| T_MetalSheetShard_BaseColor | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_MetalSheetShard_BaseColor.json | JSON Export |
+| T_MetalSheetShard_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_MetalSheetShard_Normal.json | JSON Export |
+| T_MetalSheetShard_OcclusionRoughnessMetallic | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_MetalSheetShard_OcclusionRoughnessMetallic.json | JSON Export |
+| T_Metal_Solid_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_01_M.json | JSON Export |
+| T_Metal_Solid_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_01_N.json | JSON Export |
+| T_Metal_Solid_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_02_M.json | JSON Export |
+| T_Metal_Solid_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_02_N.json | JSON Export |
+| T_Metal_Solid_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_03_M.json | JSON Export |
+| T_Metal_Solid_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_03_N.json | JSON Export |
+| T_Metal_Solid_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_04_M.json | JSON Export |
+| T_Metal_Solid_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_04_N.json | JSON Export |
+| T_Metal_Solid_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_05_M.json | JSON Export |
+| T_Metal_Solid_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_05_N.json | JSON Export |
+| T_Metal_Solid_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Metal_Solid\T_Metal_Solid_BC.json | JSON Export |
+| T_Noise01a | pakchunk0-Windows\Vein\Content\Marketplace\Environments\UndergroundTunnel\Textures\Effects\T_Noise01a.json | JSON Export |
+| T_NoiseNormal_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_NoiseNormal_2.json | JSON Export |
+| T_Normal_BaseSign | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_Normal_BaseSign.json | JSON Export |
+| T_Normal_Crack_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_001.json | JSON Export |
+| T_Normal_Crack_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_002.json | JSON Export |
+| T_Normal_Crack_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_003.json | JSON Export |
+| T_Normal_Crack_004 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_004.json | JSON Export |
+| T_Normal_Crack_006 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_006.json | JSON Export |
+| T_Normal_Crack_007 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_Normal_Crack_007.json | JSON Export |
+| T_Normal_ManholeCover_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\ManholeCover\T_Normal_ManholeCover_003.json | JSON Export |
+| T_Normal_StreetStain_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Normal_StreetStain_001.json | JSON Export |
+| T_Normal_StreetStain_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_Normal_StreetStain_002.json | JSON Export |
+| T_ORM_BaseSign | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\StreetSigns\T_ORM_BaseSign.json | JSON Export |
+| T_ORM_Crack_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_001.json | JSON Export |
+| T_ORM_Crack_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_002.json | JSON Export |
+| T_ORM_Crack_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_003.json | JSON Export |
+| T_ORM_Crack_004 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_004.json | JSON Export |
+| T_ORM_Crack_006 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_006.json | JSON Export |
+| T_ORM_Crack_007 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Cracks\T_ORM_Crack_007.json | JSON Export |
+| T_ORM_ManholeCover_003 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\ManholeCover\T_ORM_ManholeCover_003.json | JSON Export |
+| T_ORM_StreetStain_001 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_ORM_StreetStain_001.json | JSON Export |
+| T_ORM_StreetStain_002 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\StreetDecals_Vol_2\Textures\Stains\T_ORM_StreetStain_002.json | JSON Export |
+| T_Pentagram_1_d | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Pentagram_1_d.json | JSON Export |
+| T_Pentagram_1_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Misc\T_Pentagram_1_n.json | JSON Export |
+| T_Plastic_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_01_M.json | JSON Export |
+| T_Plastic_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_01_N.json | JSON Export |
+| T_Plastic_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_02_M.json | JSON Export |
+| T_Plastic_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_02_N.json | JSON Export |
+| T_Plastic_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_03_M.json | JSON Export |
+| T_Plastic_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_03_N.json | JSON Export |
+| T_Plastic_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_04_M.json | JSON Export |
+| T_Plastic_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_04_N.json | JSON Export |
+| T_Plastic_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_05_M.json | JSON Export |
+| T_Plastic_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_05_N.json | JSON Export |
+| T_Plastic_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Plastic\T_Plastic_BC.json | JSON Export |
+| T_RainDrop01a | pakchunk0-Windows\Vein\Content\Marketplace\Environments\UndergroundTunnel\Textures\Effects\T_RainDrop01a.json | JSON Export |
+| T_Rock_A_C | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_A_C.json | JSON Export |
+| T_Rock_A_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_A_N.json | JSON Export |
+| T_Rock_B_C | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_B_C.json | JSON Export |
+| T_Rock_B_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Debris\T_Rock_B_N.json | JSON Export |
+| T_Rocks | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Rocks.json | JSON Export |
+| T_Rocks_NM | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Rocks_NM.json | JSON Export |
+| T_Rubber_01_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_01_BC.json | JSON Export |
+| T_Rubber_01_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_01_M.json | JSON Export |
+| T_Rubber_01_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_01_N.json | JSON Export |
+| T_Rubber_02_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_02_BC.json | JSON Export |
+| T_Rubber_02_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_02_M.json | JSON Export |
+| T_Rubber_02_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_02_N.json | JSON Export |
+| T_Rubber_03_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_03_BC.json | JSON Export |
+| T_Rubber_03_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_03_M.json | JSON Export |
+| T_Rubber_03_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_03_N.json | JSON Export |
+| T_Rubber_04_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_04_BC.json | JSON Export |
+| T_Rubber_04_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_04_M.json | JSON Export |
+| T_Rubber_04_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_04_N.json | JSON Export |
+| T_Rubber_05_BC | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_05_BC.json | JSON Export |
+| T_Rubber_05_M | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_05_M.json | JSON Export |
+| T_Rubber_05_N | pakchunk17-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Rubber\T_Rubber_05_N.json | JSON Export |
+| T_Shockwave | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Shockwave.json | JSON Export |
+| T_Smoke | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ModularPrison\Textures\Particles\T_Smoke.json | JSON Export |
+| T_Smoke | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Fireworks\Textures\T_Smoke.json | JSON Export |
+| T_Smoke_02 | pakchunk0-Windows\Vein\Content\Marketplace\Environments\ModularPrison\Textures\Particles\T_Smoke_02.json | JSON Export |
+| T_Smoke_1 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Smoke_1.json | JSON Export |
+| T_Smoke_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Smoke_2.json | JSON Export |
+| T_Smoke_A | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Smoke_A.json | JSON Export |
+| T_Smoke_B | pakchunk1-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Smoke_B.json | JSON Export |
+| T_Smoke_Puff_color | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Smoke_Puff_color.json | JSON Export |
+| T_Smoke_Puff_color | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Smoke_Puff_color.json | JSON Export |
+| T_Spark_2 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\BigExplosions\Textures\T_Spark_2.json | JSON Export |
+| T_Spark_A | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Spark_A.json | JSON Export |
+| T_Splashes_small_4k | pakchunk0-Windows\Vein\Content\Marketplace\Effects\DamageScreen\Textures\T_Splashes_small_4k.json | JSON Export |
+| T_Spot_26 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Spots\T_Spot_26.json | JSON Export |
+| T_Spot_26_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Spots\T_Spot_26_n.json | JSON Export |
+| T_VFX_Flip_DirPuff | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\Flipbooks\T_VFX_Flip_DirPuff.json | JSON Export |
+| T_VFX_Flip_NonDirPuff | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\Flipbooks\T_VFX_Flip_NonDirPuff.json | JSON Export |
+| T_VFX_GoreChunk_BrainPiece_Diffuse_Roughness | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_BrainPiece_Diffuse_Roughness.json | JSON Export |
+| T_VFX_GoreChunk_FleshPiece_Diffuse_Roughness | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_FleshPiece_Diffuse_Roughness.json | JSON Export |
+| T_VFX_GoreChunk_FleshPiece_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_FleshPiece_Normal.json | JSON Export |
+| T_VFX_GoreChunk_SkullPiece_Diffuse_Roughness | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_SkullPiece_Diffuse_Roughness.json | JSON Export |
+| T_VFX_GoreChunk_SkullPiece_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\GoreChunks\T_VFX_GoreChunk_SkullPiece_Normal.json | JSON Export |
+| T_Water_D | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Realistic_Starter_VFX_Pack_Vol2\Textures\T_Water_D.json | JSON Export |
+| T_Window_Drips | pakchunk0-Windows\Vein\Content\Marketplace\Effects\VFX_Bundle_2\RainAndWater\Texture\T_Window_Drips.json | JSON Export |
+| T_WoodChip | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_WoodChip.json | JSON Export |
+| T_WoodChip_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Bullet_ImpactFX\Textures\T_WoodChip_Normal.json | JSON Export |
+| T_Wood_01_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_01_M.json | JSON Export |
+| T_Wood_01_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_01_N.json | JSON Export |
+| T_Wood_02_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_02_M.json | JSON Export |
+| T_Wood_02_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_02_N.json | JSON Export |
+| T_Wood_03_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_03_M.json | JSON Export |
+| T_Wood_03_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_03_N.json | JSON Export |
+| T_Wood_04_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_04_M.json | JSON Export |
+| T_Wood_04_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_04_N.json | JSON Export |
+| T_Wood_05_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_05_M.json | JSON Export |
+| T_Wood_05_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_05_N.json | JSON Export |
+| T_Wood_06_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_06_M.json | JSON Export |
+| T_Wood_06_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_06_N.json | JSON Export |
+| T_Wood_07_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_07_M.json | JSON Export |
+| T_Wood_07_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_07_N.json | JSON Export |
+| T_Wood_08_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_08_M.json | JSON Export |
+| T_Wood_08_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_08_N.json | JSON Export |
+| T_Wood_09_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_09_M.json | JSON Export |
+| T_Wood_09_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_09_N.json | JSON Export |
+| T_Wood_10_M | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_10_M.json | JSON Export |
+| T_Wood_10_N | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_10_N.json | JSON Export |
+| T_Wood_BC | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UWC_Bullet_Holes\Textures\Decals\Wood\T_Wood_BC.json | JSON Export |
+| T__Graffiti_1 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GraffitiDecalPack\Textures\T__Graffiti_1.json | JSON Export |
+| T__Graffiti_39 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GraffitiDecalPack\Textures\T__Graffiti_39.json | JSON Export |
+| T__Graffiti_44 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GraffitiDecalPack\Textures\T__Graffiti_44.json | JSON Export |
+| T_big_splash_8 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Big_Splash\T_big_splash_8.json | JSON Export |
+| T_bloody_splatter_1 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_1.json | JSON Export |
+| T_bloody_splatter_10 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_10.json | JSON Export |
+| T_bloody_splatter_100 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_100.json | JSON Export |
+| T_bloody_splatter_100_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_100_n.json | JSON Export |
+| T_bloody_splatter_101 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_101.json | JSON Export |
+| T_bloody_splatter_101_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_101_n.json | JSON Export |
+| T_bloody_splatter_102 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_102.json | JSON Export |
+| T_bloody_splatter_102_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_102_n.json | JSON Export |
+| T_bloody_splatter_103 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_103.json | JSON Export |
+| T_bloody_splatter_103_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_103_n.json | JSON Export |
+| T_bloody_splatter_104 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_104.json | JSON Export |
+| T_bloody_splatter_104_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_104_n.json | JSON Export |
+| T_bloody_splatter_105 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_105.json | JSON Export |
+| T_bloody_splatter_105_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_105_n.json | JSON Export |
+| T_bloody_splatter_106 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_106.json | JSON Export |
+| T_bloody_splatter_106_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_106_n.json | JSON Export |
+| T_bloody_splatter_10_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_10_n.json | JSON Export |
+| T_bloody_splatter_11 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_11.json | JSON Export |
+| T_bloody_splatter_11_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_11_n.json | JSON Export |
+| T_bloody_splatter_12 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_12.json | JSON Export |
+| T_bloody_splatter_12_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_12_n.json | JSON Export |
+| T_bloody_splatter_13 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_13.json | JSON Export |
+| T_bloody_splatter_13_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_13_n.json | JSON Export |
+| T_bloody_splatter_14 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_14.json | JSON Export |
+| T_bloody_splatter_14_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_14_n.json | JSON Export |
+| T_bloody_splatter_15 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_15.json | JSON Export |
+| T_bloody_splatter_15_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_15_n.json | JSON Export |
+| T_bloody_splatter_16 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_16.json | JSON Export |
+| T_bloody_splatter_16_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_16_n.json | JSON Export |
+| T_bloody_splatter_17 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_17.json | JSON Export |
+| T_bloody_splatter_17_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_17_n.json | JSON Export |
+| T_bloody_splatter_18 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_18.json | JSON Export |
+| T_bloody_splatter_18_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_18_n.json | JSON Export |
+| T_bloody_splatter_19 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_19.json | JSON Export |
+| T_bloody_splatter_19_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_19_n.json | JSON Export |
+| T_bloody_splatter_1_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_1_n.json | JSON Export |
+| T_bloody_splatter_2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_2.json | JSON Export |
+| T_bloody_splatter_20 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_20.json | JSON Export |
+| T_bloody_splatter_20_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_20_n.json | JSON Export |
+| T_bloody_splatter_21 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_21.json | JSON Export |
+| T_bloody_splatter_21_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_21_n.json | JSON Export |
+| T_bloody_splatter_22 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_22.json | JSON Export |
+| T_bloody_splatter_22_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_22_n.json | JSON Export |
+| T_bloody_splatter_23 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_23.json | JSON Export |
+| T_bloody_splatter_23_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_23_n.json | JSON Export |
+| T_bloody_splatter_24 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_24.json | JSON Export |
+| T_bloody_splatter_24_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_24_n.json | JSON Export |
+| T_bloody_splatter_25 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_25.json | JSON Export |
+| T_bloody_splatter_25_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_25_n.json | JSON Export |
+| T_bloody_splatter_26 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_26.json | JSON Export |
+| T_bloody_splatter_26_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_26_n.json | JSON Export |
+| T_bloody_splatter_27 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_27.json | JSON Export |
+| T_bloody_splatter_27_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_27_n.json | JSON Export |
+| T_bloody_splatter_28 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_28.json | JSON Export |
+| T_bloody_splatter_28_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_28_n.json | JSON Export |
+| T_bloody_splatter_29 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_29.json | JSON Export |
+| T_bloody_splatter_29_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_29_n.json | JSON Export |
+| T_bloody_splatter_2_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_2_n.json | JSON Export |
+| T_bloody_splatter_3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_3.json | JSON Export |
+| T_bloody_splatter_30 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_30.json | JSON Export |
+| T_bloody_splatter_30_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_30_n.json | JSON Export |
+| T_bloody_splatter_31 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_31.json | JSON Export |
+| T_bloody_splatter_31_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_31_n.json | JSON Export |
+| T_bloody_splatter_32 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_32.json | JSON Export |
+| T_bloody_splatter_32_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_32_n.json | JSON Export |
+| T_bloody_splatter_33 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_33.json | JSON Export |
+| T_bloody_splatter_33_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_33_n.json | JSON Export |
+| T_bloody_splatter_34 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_34.json | JSON Export |
+| T_bloody_splatter_34_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_34_n.json | JSON Export |
+| T_bloody_splatter_35 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_35.json | JSON Export |
+| T_bloody_splatter_35_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_35_n.json | JSON Export |
+| T_bloody_splatter_36 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_36.json | JSON Export |
+| T_bloody_splatter_36_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_36_n.json | JSON Export |
+| T_bloody_splatter_37 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_37.json | JSON Export |
+| T_bloody_splatter_37_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_37_n.json | JSON Export |
+| T_bloody_splatter_38 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_38.json | JSON Export |
+| T_bloody_splatter_38_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_38_n.json | JSON Export |
+| T_bloody_splatter_39 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_39.json | JSON Export |
+| T_bloody_splatter_39_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_39_n.json | JSON Export |
+| T_bloody_splatter_3_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_3_n.json | JSON Export |
+| T_bloody_splatter_4 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_4.json | JSON Export |
+| T_bloody_splatter_40 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_40.json | JSON Export |
+| T_bloody_splatter_40_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_40_n.json | JSON Export |
+| T_bloody_splatter_41 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_41.json | JSON Export |
+| T_bloody_splatter_41_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_41_n.json | JSON Export |
+| T_bloody_splatter_42 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_42.json | JSON Export |
+| T_bloody_splatter_42_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_42_n.json | JSON Export |
+| T_bloody_splatter_43 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_43.json | JSON Export |
+| T_bloody_splatter_43_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_43_n.json | JSON Export |
+| T_bloody_splatter_44 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_44.json | JSON Export |
+| T_bloody_splatter_44_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_44_n.json | JSON Export |
+| T_bloody_splatter_45 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_45.json | JSON Export |
+| T_bloody_splatter_45_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_45_n.json | JSON Export |
+| T_bloody_splatter_46 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_46.json | JSON Export |
+| T_bloody_splatter_46_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_46_n.json | JSON Export |
+| T_bloody_splatter_47 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_47.json | JSON Export |
+| T_bloody_splatter_47_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_47_n.json | JSON Export |
+| T_bloody_splatter_48 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_48.json | JSON Export |
+| T_bloody_splatter_48_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_48_n.json | JSON Export |
+| T_bloody_splatter_49 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_49.json | JSON Export |
+| T_bloody_splatter_49_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_49_n.json | JSON Export |
+| T_bloody_splatter_4_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_4_n.json | JSON Export |
+| T_bloody_splatter_5 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_5.json | JSON Export |
+| T_bloody_splatter_50 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_50.json | JSON Export |
+| T_bloody_splatter_50_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_50_n.json | JSON Export |
+| T_bloody_splatter_51 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_51.json | JSON Export |
+| T_bloody_splatter_51_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_51_n.json | JSON Export |
+| T_bloody_splatter_52 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_52.json | JSON Export |
+| T_bloody_splatter_52_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_52_n.json | JSON Export |
+| T_bloody_splatter_53 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_53.json | JSON Export |
+| T_bloody_splatter_53_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_53_n.json | JSON Export |
+| T_bloody_splatter_54 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_54.json | JSON Export |
+| T_bloody_splatter_54_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_54_n.json | JSON Export |
+| T_bloody_splatter_55 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_55.json | JSON Export |
+| T_bloody_splatter_55_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_55_n.json | JSON Export |
+| T_bloody_splatter_56 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_56.json | JSON Export |
+| T_bloody_splatter_56_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_56_n.json | JSON Export |
+| T_bloody_splatter_57 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_57.json | JSON Export |
+| T_bloody_splatter_57_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_57_n.json | JSON Export |
+| T_bloody_splatter_58 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_58.json | JSON Export |
+| T_bloody_splatter_58_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_58_n.json | JSON Export |
+| T_bloody_splatter_59 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_59.json | JSON Export |
+| T_bloody_splatter_59_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_59_n.json | JSON Export |
+| T_bloody_splatter_5_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_5_n.json | JSON Export |
+| T_bloody_splatter_6 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_6.json | JSON Export |
+| T_bloody_splatter_60 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_60.json | JSON Export |
+| T_bloody_splatter_60_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_60_n.json | JSON Export |
+| T_bloody_splatter_61 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_61.json | JSON Export |
+| T_bloody_splatter_61_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_61_n.json | JSON Export |
+| T_bloody_splatter_62 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_62.json | JSON Export |
+| T_bloody_splatter_62_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_62_n.json | JSON Export |
+| T_bloody_splatter_63 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_63.json | JSON Export |
+| T_bloody_splatter_63_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_63_n.json | JSON Export |
+| T_bloody_splatter_64 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_64.json | JSON Export |
+| T_bloody_splatter_64_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_64_n.json | JSON Export |
+| T_bloody_splatter_65 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_65.json | JSON Export |
+| T_bloody_splatter_65_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_65_n.json | JSON Export |
+| T_bloody_splatter_66 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_66.json | JSON Export |
+| T_bloody_splatter_66_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_66_n.json | JSON Export |
+| T_bloody_splatter_67 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_67.json | JSON Export |
+| T_bloody_splatter_67_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_67_n.json | JSON Export |
+| T_bloody_splatter_68 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_68.json | JSON Export |
+| T_bloody_splatter_68_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_68_n.json | JSON Export |
+| T_bloody_splatter_69 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_69.json | JSON Export |
+| T_bloody_splatter_69_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_69_n.json | JSON Export |
+| T_bloody_splatter_6_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_6_n.json | JSON Export |
+| T_bloody_splatter_7 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_7.json | JSON Export |
+| T_bloody_splatter_70 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_70.json | JSON Export |
+| T_bloody_splatter_70_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_70_n.json | JSON Export |
+| T_bloody_splatter_71 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_71.json | JSON Export |
+| T_bloody_splatter_71_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_71_n.json | JSON Export |
+| T_bloody_splatter_72 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_72.json | JSON Export |
+| T_bloody_splatter_72_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_72_n.json | JSON Export |
+| T_bloody_splatter_73 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_73.json | JSON Export |
+| T_bloody_splatter_73_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_73_n.json | JSON Export |
+| T_bloody_splatter_74 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_74.json | JSON Export |
+| T_bloody_splatter_74_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_74_n.json | JSON Export |
+| T_bloody_splatter_75 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_75.json | JSON Export |
+| T_bloody_splatter_75_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_75_n.json | JSON Export |
+| T_bloody_splatter_76 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_76.json | JSON Export |
+| T_bloody_splatter_76_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_76_n.json | JSON Export |
+| T_bloody_splatter_77 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_77.json | JSON Export |
+| T_bloody_splatter_77_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_77_n.json | JSON Export |
+| T_bloody_splatter_78 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_78.json | JSON Export |
+| T_bloody_splatter_78_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_78_n.json | JSON Export |
+| T_bloody_splatter_79 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_79.json | JSON Export |
+| T_bloody_splatter_79_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_79_n.json | JSON Export |
+| T_bloody_splatter_7_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_7_n.json | JSON Export |
+| T_bloody_splatter_8 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_8.json | JSON Export |
+| T_bloody_splatter_80 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_80.json | JSON Export |
+| T_bloody_splatter_80_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_80_n.json | JSON Export |
+| T_bloody_splatter_81 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_81.json | JSON Export |
+| T_bloody_splatter_81_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_81_n.json | JSON Export |
+| T_bloody_splatter_82 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_82.json | JSON Export |
+| T_bloody_splatter_82_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_82_n.json | JSON Export |
+| T_bloody_splatter_83 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_83.json | JSON Export |
+| T_bloody_splatter_83_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_83_n.json | JSON Export |
+| T_bloody_splatter_84 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_84.json | JSON Export |
+| T_bloody_splatter_84_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_84_n.json | JSON Export |
+| T_bloody_splatter_85 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_85.json | JSON Export |
+| T_bloody_splatter_85_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_85_n.json | JSON Export |
+| T_bloody_splatter_86 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_86.json | JSON Export |
+| T_bloody_splatter_86_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_86_n.json | JSON Export |
+| T_bloody_splatter_87 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_87.json | JSON Export |
+| T_bloody_splatter_87_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_87_n.json | JSON Export |
+| T_bloody_splatter_88 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_88.json | JSON Export |
+| T_bloody_splatter_88_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_88_n.json | JSON Export |
+| T_bloody_splatter_89 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_89.json | JSON Export |
+| T_bloody_splatter_89_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_89_n.json | JSON Export |
+| T_bloody_splatter_8_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_8_n.json | JSON Export |
+| T_bloody_splatter_9 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_9.json | JSON Export |
+| T_bloody_splatter_90 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_90.json | JSON Export |
+| T_bloody_splatter_90_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_90_n.json | JSON Export |
+| T_bloody_splatter_91 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_91.json | JSON Export |
+| T_bloody_splatter_91_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_91_n.json | JSON Export |
+| T_bloody_splatter_92 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_92.json | JSON Export |
+| T_bloody_splatter_92_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_92_n.json | JSON Export |
+| T_bloody_splatter_93 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_93.json | JSON Export |
+| T_bloody_splatter_93_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_93_n.json | JSON Export |
+| T_bloody_splatter_94 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_94.json | JSON Export |
+| T_bloody_splatter_94_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_94_n.json | JSON Export |
+| T_bloody_splatter_95 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_95.json | JSON Export |
+| T_bloody_splatter_95_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_95_n.json | JSON Export |
+| T_bloody_splatter_96 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_96.json | JSON Export |
+| T_bloody_splatter_96_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_96_n.json | JSON Export |
+| T_bloody_splatter_97 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_97.json | JSON Export |
+| T_bloody_splatter_97_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_97_n.json | JSON Export |
+| T_bloody_splatter_98 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_98.json | JSON Export |
+| T_bloody_splatter_98_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_98_n.json | JSON Export |
+| T_bloody_splatter_99 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_99.json | JSON Export |
+| T_bloody_splatter_99_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_99_n.json | JSON Export |
+| T_bloody_splatter_9_n | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Splatters\T_bloody_splatter_9_n.json | JSON Export |
+| T_explo | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo.json | JSON Export |
+| T_explo_03 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_03.json | JSON Export |
+| T_explo_04 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_04.json | JSON Export |
+| T_explo_06 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_06.json | JSON Export |
+| T_explo_06 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_06.json | JSON Export |
+| T_explo_09 | pakchunk1-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_09.json | JSON Export |
+| T_explo_09 | pakchunk32-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_explo_09.json | JSON Export |
+| T_fire | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\Fire\T_fire.json | JSON Export |
+| T_number_0 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Words-Symbols\Numbers\Part_1\T_number_0.json | JSON Export |
+| T_number_0_nrm | pakchunk0-Windows\Vein\Content\Marketplace\Effects\GHC-Blood\Textures\Original-Sizes\Words-Symbols\Numbers\Part_1\T_number_0_nrm.json | JSON Export |
+| T_riseup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_riseup.json | JSON Export |
+| T_riseup_02 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_riseup_02.json | JSON Export |
+| T_riseup_03 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_riseup_03.json | JSON Export |
+| T_wind | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_wind.json | JSON Export |
+| T_wind_02 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\PyroVFX\Texture\explosion\T_wind_02.json | JSON Export |
+| VAT_DirSplatter_Long_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterLong\VAT_DirSplatter_Long_lookup.json | JSON Export |
+| VAT_DirSplatter_Long_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterLong\VAT_DirSplatter_Long_pos.json | JSON Export |
+| VAT_DirSplatter_Long_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterLong\VAT_DirSplatter_Long_rot.json | JSON Export |
+| VAT_DirSplatter_Wide_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterWide\VAT_DirSplatter_Wide_lookup.json | JSON Export |
+| VAT_DirSplatter_Wide_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterWide\VAT_DirSplatter_Wide_pos.json | JSON Export |
+| VAT_DirSplatter_Wide_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\DirSplatterWide\VAT_DirSplatter_Wide_rot.json | JSON Export |
+| VAT_NonDirSplatter_Medium_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterMedium\VAT_NonDirSplatter_Medium_lookup.json | JSON Export |
+| VAT_NonDirSplatter_Medium_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterMedium\VAT_NonDirSplatter_Medium_pos.json | JSON Export |
+| VAT_NonDirSplatter_Medium_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterMedium\VAT_NonDirSplatter_Medium_rot.json | JSON Export |
+| VAT_NonDirSplatter_Small_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterSmall\VAT_NonDirSplatter_Small_lookup.json | JSON Export |
+| VAT_NonDirSplatter_Small_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterSmall\VAT_NonDirSplatter_Small_pos.json | JSON Export |
+| VAT_NonDirSplatter_Small_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\NonDirSplatterSmall\VAT_NonDirSplatter_Small_rot.json | JSON Export |
+| VAT_Slash_Large_lookup | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\SlashLarge\VAT_Slash_Large_lookup.json | JSON Export |
+| VAT_Slash_Large_mesh | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\StaticMeshes\VATs\VAT_Slash_Large_mesh.json | JSON Export |
+| VAT_Slash_Large_pos | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\SlashLarge\VAT_Slash_Large_pos.json | JSON Export |
+| VAT_Slash_Large_rot | pakchunk0-Windows\Vein\Content\Marketplace\Effects\Vefects\Blood_VFX\Shared\Textures\VATs\SlashLarge\VAT_Slash_Large_rot.json | JSON Export |
+| XStar | pakchunk0-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\XStar.json | JSON Export |
+| XStar2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\LightProfilePack\Lighting\Profiles\XStar2.json | JSON Export |
+| bigfire2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bigfire2.json | JSON Export |
+| bigfireB_fwd | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bigfireB_fwd.json | JSON Export |
+| bigfire_VG | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bigfire_VG.json | JSON Export |
+| bigfire_VG_smk | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bigfire_VG_smk.json | JSON Export |
+| bigfire_fwd2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bigfire_fwd2.json | JSON Export |
+| bigfire_fwd_rs | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bigfire_fwd_rs.json | JSON Export |
+| bigfire_single | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\firesingle\bigfire_single.json | JSON Export |
+| blowingFire_fwd | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\blowingFire_fwd.json | JSON Export |
+| blowingFire_fwd2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\blowingFire_fwd2.json | JSON Export |
+| bonefire | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bonefire.json | JSON Export |
+| bonefire3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\bonefire3.json | JSON Export |
+| bonefire_fwd3 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bonefire_fwd3.json | JSON Export |
+| bonefire_fwd4 | pakchunk13-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fire\bonefire_fwd4.json | JSON Export |
+| clouds_diverse | pakchunk0-Windows\Vein\Content\Marketplace\Effects\UltraDynamicSky\Textures\Clouds\clouds_diverse.json | JSON Export |
+| disort_test2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Flow\disort_test2.json | JSON Export |
+| grdbasefire2 | pakchunk0-Windows\Vein\Content\Marketplace\Effects\M5VFXVOL2\Textures\Fireloop\grdbasefire2.json | JSON Export |
 
 
 ## Effect Types

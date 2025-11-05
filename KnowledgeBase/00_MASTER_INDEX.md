@@ -4,12 +4,12 @@ Generated: 2025-11-04T22:35:48.064706
 
 ## Overview
 
-This comprehensive knowledge base documents all VEIN game assets extracted from 31 pakchunks, covering both ExportedJson and OutputPaks directories.
+This comprehensive knowledge base documents all VEIN game assets extracted from 31 pakchunks, covering nearly 30,000 files.
 
 ## Statistics
 
 - Total Files Analyzed: 28451
-- ExportedJson Files: 28451
+- JSON Exports: 28451
 - Pakchunks Scanned: 31
 
 ## Chapter Navigation

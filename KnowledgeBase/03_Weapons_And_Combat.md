@@ -15,846 +15,846 @@ VEIN features a comprehensive combat system with diverse weapon types and damage
 
 | Weapon Name | Path | Source |
 |-------------|------|--------|
-| 12ga_auto_shot_mix_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\12ga_auto_shot_mix_1.json | ExportedJson |
-| 45_gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\45_gunshot_mix_1.json | ExportedJson |
-| 45_loaded_mag_load__1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__1.json | ExportedJson |
-| 45_loaded_mag_load__2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__2.json | ExportedJson |
-| 45_loaded_mag_load__3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__3.json | ExportedJson |
-| 45_loaded_mag_load__4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__4.json | ExportedJson |
-| 45_loaded_mag_unload__1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_unload__1.json | ExportedJson |
-| 45_loaded_mag_unload__2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_unload__2.json | ExportedJson |
-| 45_loaded_mag_unload__3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_unload__3.json | ExportedJson |
-| 9mm_gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\9mm_gunshot_mix_1.json | ExportedJson |
-| 9mm_loaded_mag_load_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_load_2.json | ExportedJson |
-| 9mm_loaded_mag_load_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_load_3.json | ExportedJson |
-| 9mm_loaded_mag_unload_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_unload_1.json | ExportedJson |
-| 9mm_loaded_mag_unload_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_unload_2.json | ExportedJson |
-| 9mm_loaded_mag_unload_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_unload_3.json | ExportedJson |
-| ABP_AK | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_AK.json | ExportedJson |
-| ABP_AP15 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_AP15.json | ExportedJson |
-| ABP_MP5 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_MP5.json | ExportedJson |
-| ABP_MosinNagant | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_MosinNagant.json | ExportedJson |
-| ABP_N1903 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_N1903.json | ExportedJson |
-| ABP_PumpShotgun | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_PumpShotgun.json | ExportedJson |
-| AM_RU74_Reload_Montage | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\AM_RU74_Reload_Montage.json | ExportedJson |
-| AR-15_Mag_insert_and_smack | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\Gun_Mechanisms\AR-15_Mag_insert_and_smack.json | ExportedJson |
-| AR-15_bolt_carrier_release_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\Gun_Mechanisms\AR-15_bolt_carrier_release_1.json | ExportedJson |
-| AR-15_bolt_carrier_release_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\Gun_Mechanisms\AR-15_bolt_carrier_release_2.json | ExportedJson |
-| AR-15_gunshot_mix_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\AR-15_gunshot_mix_1.json | ExportedJson |
-| ATT_BulletImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\ATT_BulletImpact.json | ExportedJson |
-| ATT_GunMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\ATT_GunMechanism.json | ExportedJson |
-| ATT_Gunshot | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\ATT_Gunshot.json | ExportedJson |
-| ATT_GunshotSuppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\ATT_GunshotSuppressed.json | ExportedJson |
-| A_AT4_Launch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AT4\A_AT4_Launch.json | ExportedJson |
-| A_A_Arms_PAS12_Reload_End | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\ArmAnimations\A_A_Arms_PAS12_Reload_End.json | ExportedJson |
-| A_A_Arms_PAS12_Reload_Loop | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\ArmAnimations\A_A_Arms_PAS12_Reload_Loop.json | ExportedJson |
-| A_A_Arms_PAS12_Reload_Start | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\ArmAnimations\A_A_Arms_PAS12_Reload_Start.json | ExportedJson |
-| A_A_Arms_RU74_Idle01 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_A_Arms_RU74_Idle01.json | ExportedJson |
-| A_A_Arms_RU74_Reload | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_A_Arms_RU74_Reload.json | ExportedJson |
-| A_A_Arms_RU74_Shoot01 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_A_Arms_RU74_Shoot01.json | ExportedJson |
-| A_A_Arms_Rifle_Equip | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Equip.json | ExportedJson |
-| A_A_Arms_Rifle_Holster | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Holster.json | ExportedJson |
-| A_A_Arms_Rifle_Idle01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Idle01.json | ExportedJson |
-| A_A_Arms_Rifle_Reload | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Reload.json | ExportedJson |
-| A_A_Arms_Rifle_Shoot01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Shoot01.json | ExportedJson |
-| A_A_Arms_Rifle_Sprint_FWD | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Sprint_FWD.json | ExportedJson |
-| A_Arms_RU74_Sprint_FWD | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_Arms_RU74_Sprint_FWD.json | ExportedJson |
-| A_PAS12_Idle | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\GunAnimations\A_PAS12_Idle.json | ExportedJson |
-| A_PumpShotgun_Idle | pakchunk1-Windows\Vein\Content\Vein\Animation\Weapons\A_PumpShotgun_Idle.json | ExportedJson |
-| A_RU74_Reload | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\RU74\A_RU74_Reload.json | ExportedJson |
-| A_TaserHit | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\A_TaserHit.json | ExportedJson |
-| A_TaserZap | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\A_TaserZap.json | ExportedJson |
-| BP_AT4_Projectile | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_AT4_Projectile.json | ExportedJson |
-| BP_FiredArrow_Iron | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_FiredArrow_Iron.json | ExportedJson |
-| BP_Flare | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_Flare.json | ExportedJson |
-| BP_Grenade_Dynamite | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_Dynamite.json | ExportedJson |
-| BP_Grenade_DynamitePack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_DynamitePack.json | ExportedJson |
-| BP_Grenade_Frag | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_Frag.json | ExportedJson |
-| BP_Grenade_Hand | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_Hand.json | ExportedJson |
-| BP_LaserGun_Orb | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_LaserGun_Orb.json | ExportedJson |
-| BaseballBat_Spiked | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\BaseballBat_Spiked.json | ExportedJson |
-| Bolt_trigger_click | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Bolt_Action\Bolt_trigger_click.json | ExportedJson |
-| CR_Arrow_Iron | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_Arrow_Iron.json | ExportedJson |
-| CR_Bow | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_Bow.json | ExportedJson |
-| CR_BrokenBottle | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_BrokenBottle.json | ExportedJson |
-| CR_CombatShovel | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_CombatShovel.json | ExportedJson |
-| CR_HandGrenade | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_HandGrenade.json | ExportedJson |
-| CR_MakeshiftSword1 | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_MakeshiftSword1.json | ExportedJson |
-| CR_MorningStar | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_MorningStar.json | ExportedJson |
-| CR_SpikedBaseballBat | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_SpikedBaseballBat.json | ExportedJson |
-| CR_SpikedPlank | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_SpikedPlank.json | ExportedJson |
-| CR_SpikedWoodenOar | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_SpikedWoodenOar.json | ExportedJson |
-| CR_WoodenSpear | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpear.json | ExportedJson |
-| CR_WoodenSpearButterKnife | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearButterKnife.json | ExportedJson |
-| CR_WoodenSpearCombatKnife | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearCombatKnife.json | ExportedJson |
-| CR_WoodenSpearFork | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearFork.json | ExportedJson |
-| CR_WoodenSpearKnife | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearKnife.json | ExportedJson |
-| CR_WoodenSpearMachete | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearMachete.json | ExportedJson |
-| CR_WoodenSpearScissors | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearScissors.json | ExportedJson |
-| CR_WoodenSpearScrewdriver | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearScrewdriver.json | ExportedJson |
-| CR_WoodenSpearSpoon | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearSpoon.json | ExportedJson |
-| CR_WoodenSpearThumbtack | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearThumbtack.json | ExportedJson |
-| CS_Explosion_1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\CS_Explosion_1.json | ExportedJson |
-| IL_MedicalWeapons | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Medical\IL_MedicalWeapons.json | ExportedJson |
-| IT_Weapons | pakchunk0-Windows\Vein\Content\Vein\ItemTypes\IT_Weapons.json | ExportedJson |
-| MAS_AK | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_AK.json | ExportedJson |
-| MAS_BowAndArrow | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_BowAndArrow.json | ExportedJson |
-| MAS_MosinNagant | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_MosinNagant.json | ExportedJson |
-| MAS_N16 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_N16.json | ExportedJson |
-| MAS_N1903 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_N1903.json | ExportedJson |
-| MAS_Pistol | pakchunk0-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_Pistol.json | ExportedJson |
-| MAS_Shotgun | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_Shotgun.json | ExportedJson |
-| MI_ArrowFeather1_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather1_Inst.json | ExportedJson |
-| MI_ArrowFeather2_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather2_Inst.json | ExportedJson |
-| MI_ArrowFeather3_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather3_Inst.json | ExportedJson |
-| MI_ArrowFeather_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather_Inst.json | ExportedJson |
-| MI_ArrowShaftt | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\MI_ArrowShaftt.json | ExportedJson |
-| MI_BoltViper | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Materials\MI_BoltViper.json | ExportedJson |
-| MI_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\MI_BowAndArrow3.json | ExportedJson |
-| MI_BowAndArrow3_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\MI_BowAndArrow3_1.json | ExportedJson |
-| MI_IronArrow1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\MI_IronArrow1.json | ExportedJson |
-| MI_M67 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Material_Instances\MI_M67.json | ExportedJson |
-| MI_Minigun | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Materials\MI_Minigun.json | ExportedJson |
-| MI_Mosin | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Material\MI_Mosin.json | ExportedJson |
-| MI_Mosin_Bullet | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Material\MI_Mosin_Bullet.json | ExportedJson |
-| MI_Ogre9_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Materials\MI_Ogre9_01a.json | ExportedJson |
-| MI_RU74_Body | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Materials\RU74\MI_RU74_Body.json | ExportedJson |
-| MI_RU74_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Materials\RU74\MI_RU74_Mag.json | ExportedJson |
-| MI_RU74_Stock | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Materials\RU74\MI_RU74_Stock.json | ExportedJson |
-| MI_Shovel_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Materials\Instances\MI_Shovel_01a.json | ExportedJson |
-| ML_UVTransform_Func | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\MasterMaterial\ML_UVTransform_Func.json | ExportedJson |
-| MM_Master_Material_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Materials\MM_Master_Material_01a.json | ExportedJson |
-| MM_Master_Material_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Materials\Masters\MM_Master_Material_01a.json | ExportedJson |
-| M_ArrowFeather1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather1.json | ExportedJson |
-| M_ArrowFeather2 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather2.json | ExportedJson |
-| M_ArrowFeather3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather3.json | ExportedJson |
-| M_ArrowFeather4 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather4.json | ExportedJson |
-| M_ArrowShaftt | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\M_ArrowShaftt.json | ExportedJson |
-| M_Base | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Materials\M_Base.json | ExportedJson |
-| M_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\M_BowAndArrow3.json | ExportedJson |
-| M_BowAndArrow3_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\M_BowAndArrow3_1.json | ExportedJson |
-| M_Dynamite_Stick_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Materials\M_Dynamite_Stick_1.json | ExportedJson |
-| M_Dynamite_Sticks_3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Materials\M_Dynamite_Sticks_3.json | ExportedJson |
-| M_Emmisive_mat | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\Master\M_Emmisive_mat.json | ExportedJson |
-| M_Generic_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\Master\M_Generic_Mat.json | ExportedJson |
-| M_Generic_Mat | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\Master\M_Generic_Mat.json | ExportedJson |
-| M_IronArrow1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\M_IronArrow1.json | ExportedJson |
-| M_M4_Mag_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_M4_Mag_Mat.json | ExportedJson |
-| M_M4_Mat_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_M4_Mat_Inst.json | ExportedJson |
-| M_PX_70_ExtMag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_PX_70_ExtMag.json | ExportedJson |
-| M_PX_70_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_PX_70_Mag.json | ExportedJson |
-| M_RedDot_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_RedDot_Mat.json | ExportedJson |
-| M_ShowcasePanel_Mat | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_ShowcasePanel_Mat.json | ExportedJson |
-| M_Sight_RedDot | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_Sight_RedDot.json | ExportedJson |
-| M_VerticalTypeA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_VerticalTypeA.json | ExportedJson |
-| M_Warm_mat_Inst_Off | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_Warm_mat_Inst_Off.json | ExportedJson |
-| M_WeaponMaster_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\MasterMaterial\M_WeaponMaster_Mat.json | ExportedJson |
-| M_WorkBench_Mat_Inst | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_WorkBench_Mat_Inst.json | ExportedJson |
-| NS_BulletImpact_Cardboard | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Cardboard.json | ExportedJson |
-| NS_BulletImpact_Concrete | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Concrete.json | ExportedJson |
-| NS_BulletImpact_Dirt | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Dirt.json | ExportedJson |
-| NS_BulletImpact_Glass | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Glass.json | ExportedJson |
-| NS_BulletImpact_Snow | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Snow.json | ExportedJson |
-| NS_BulletImpact_Sparks | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Sparks.json | ExportedJson |
-| NS_BulletImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Wood.json | ExportedJson |
-| NS_Flare | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_Flare.json | ExportedJson |
-| NS_LaserGun_Bullet | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_LaserGun_Bullet.json | ExportedJson |
-| NS_MuzzleFlash_Underwater | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_MuzzleFlash_Underwater.json | ExportedJson |
-| NS_MuzzleSmoke | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_MuzzleSmoke.json | ExportedJson |
-| NS_Muzzleflash1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_Muzzleflash1.json | ExportedJson |
-| NS_Muzzleflash2 | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_Muzzleflash2.json | ExportedJson |
-| NS_ShellEjection1 | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_ShellEjection1.json | ExportedJson |
-| NS_ShellEjection2 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_ShellEjection2.json | ExportedJson |
-| NS_Tracer1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_Tracer1.json | ExportedJson |
-| PA_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\PA_Modern_Weapons_Minigun_01.json | ExportedJson |
-| PA_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\PA_Modern_Weapons_Revolver_01.json | ExportedJson |
-| Plank_Spiked | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\Plank_Spiked.json | ExportedJson |
-| RT_Weapons | pakchunk8-Windows\Vein\Content\Vein\RecipeTypes\RT_Weapons.json | ExportedJson |
-| Revolver_Empty_Trigger_Click_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_Empty_Trigger_Click_1.json | ExportedJson |
-| Revolver_Empty_Trigger_Click_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_Empty_Trigger_Click_2.json | ExportedJson |
-| Revolver_Empty_Trigger_Click_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_Empty_Trigger_Click_3.json | ExportedJson |
-| Revolver_shot_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_shot_1.json | ExportedJson |
-| SCO_Gunshot | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SCO_Gunshot.json | ExportedJson |
-| SC_1911_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_Fire.json | ExportedJson |
-| SC_1911_Fire_Suppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_Fire_Suppressed.json | ExportedJson |
-| SC_1911_MagIn | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_MagIn.json | ExportedJson |
-| SC_1911_MagOut | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_MagOut.json | ExportedJson |
-| SC_38Special | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\38Special\SC_38Special.json | ExportedJson |
-| SC_870_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\SC_870_Fire.json | ExportedJson |
-| SC_870_ShellInsert | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\SC_870_ShellInsert.json | ExportedJson |
-| SC_AK_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_Fire.json | ExportedJson |
-| SC_AK_FireEmpty | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_FireEmpty.json | ExportedJson |
-| SC_AK_MagIn | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_MagIn.json | ExportedJson |
-| SC_AK_MagOut | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_MagOut.json | ExportedJson |
-| SC_AR_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_Fire.json | ExportedJson |
-| SC_AR_Fire_Suppressed | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_Fire_Suppressed.json | ExportedJson |
-| SC_AR_MagIn | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_MagIn.json | ExportedJson |
-| SC_AR_MagOut | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_MagOut.json | ExportedJson |
-| SC_AT4_Launch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AT4\SC_AT4_Launch.json | ExportedJson |
-| SC_ArrowBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_ArrowBreak.json | ExportedJson |
-| SC_Arrow_Dirt | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_Arrow_Dirt.json | ExportedJson |
-| SC_Bow_StringBack | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_Bow_StringBack.json | ExportedJson |
-| SC_Bow_StringRelease | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_Bow_StringRelease.json | ExportedJson |
-| SC_BrokenTriggerPull | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_BrokenTriggerPull.json | ExportedJson |
-| SC_BulletImpact_Concrete | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Concrete.json | ExportedJson |
-| SC_BulletImpact_Dirt | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Dirt.json | ExportedJson |
-| SC_BulletImpact_Flesh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Flesh.json | ExportedJson |
-| SC_BulletImpact_Glass | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Glass.json | ExportedJson |
-| SC_BulletImpact_Metal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Metal.json | ExportedJson |
-| SC_BulletImpact_Snow | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Snow.json | ExportedJson |
-| SC_BulletImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Wood.json | ExportedJson |
-| SC_FiftySeven_Fire_Suppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_FiftySeven_Fire_Suppressed.json | ExportedJson |
-| SC_FiveSeven | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\FiveSeven\SC_FiveSeven.json | ExportedJson |
-| SC_FlareGun | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_FlareGun.json | ExportedJson |
-| SC_Flock17_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_Fire.json | ExportedJson |
-| SC_Flock17_Fire_Suppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_Fire_Suppressed.json | ExportedJson |
-| SC_Flock17_MagIn | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_MagIn.json | ExportedJson |
-| SC_Flock17_MagOut | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_MagOut.json | ExportedJson |
-| SC_GCRummage | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\SC_GCRummage.json | ExportedJson |
-| SC_GrenadePin | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\SC_GrenadePin.json | ExportedJson |
-| SC_LaserGun | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_LaserGun.json | ExportedJson |
-| SC_LaserGun_Reload | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\LaserGun\SC_LaserGun_Reload.json | ExportedJson |
-| SC_Minigun1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Minigun1.json | ExportedJson |
-| SC_PistolDraw | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_PistolDraw.json | ExportedJson |
-| SC_PistolMagIn | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_PistolMagIn.json | ExportedJson |
-| SC_PistolMagOut | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_PistolMagOut.json | ExportedJson |
-| SC_Pistol_FireEmpty | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Bolt_Action\SC_Pistol_FireEmpty.json | ExportedJson |
-| SC_RevolverReload | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\38Special\SC_RevolverReload.json | ExportedJson |
-| SC_Revolver_Empty | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\SC_Revolver_Empty.json | ExportedJson |
-| SC_Revolver_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\SC_Revolver_Fire.json | ExportedJson |
-| SC_Rifle3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Rifle3.json | ExportedJson |
-| SC_Rifle3_Suppressed | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Rifle3_Suppressed.json | ExportedJson |
-| SC_Rifle4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Rifle4.json | ExportedJson |
-| SC_SMG1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMG1.json | ExportedJson |
-| SC_SMG1_Suppressed | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMG1_Suppressed.json | ExportedJson |
-| SC_SMG2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMG2.json | ExportedJson |
-| SC_SMGDraw | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMGDraw.json | ExportedJson |
-| SC_SRG_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SRG\SC_SRG_Fire.json | ExportedJson |
-| SC_Shotgun_DB | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Shotgun_DB.json | ExportedJson |
-| SC_Shotgun_Empty | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\SC_Shotgun_Empty.json | ExportedJson |
-| SC_TaserHit | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\SC_TaserHit.json | ExportedJson |
-| SC_TaserZap | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\SC_TaserZap.json | ExportedJson |
-| SC_WeaponAttachment_Generic | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\SC_WeaponAttachment_Generic.json | ExportedJson |
-| SKM_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\SKM_Modern_Weapons_Minigun_01.json | ExportedJson |
-| SKM_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\SKM_Modern_Weapons_Revolver_01.json | ExportedJson |
-| SK_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\SK_BowAndArrow3.json | ExportedJson |
-| SK_BowAndArrow3_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\SK_BowAndArrow3_1.json | ExportedJson |
-| SK_M4_Assault_Xaxis | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SK_M4_Assault_Xaxis.json | ExportedJson |
-| SK_M4_Assault_Xaxis_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SK_M4_Assault_Xaxis_Skeleton.json | ExportedJson |
-| SK_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\SK_Modern_Weapons_Minigun_01.json | ExportedJson |
-| SK_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\SK_Modern_Weapons_Revolver_01.json | ExportedJson |
-| SK_Modern_Weapons_SMG_02 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\SMGs\02\SK_Modern_Weapons_SMG_02.json | ExportedJson |
-| SK_Mosin_Nagant | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Skeletal\SK_Mosin_Nagant.json | ExportedJson |
-| SK_Mosin_Nagant_PhysicsAsset | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Skeletal\SK_Mosin_Nagant_PhysicsAsset.json | ExportedJson |
-| SK_Mosin_Nagant_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Skeletal\SK_Mosin_Nagant_Skeleton.json | ExportedJson |
-| SK_PAS12_Demo | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\SK_PAS12_Demo.json | ExportedJson |
-| SK_RU74_NoAddons | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\RU74\SK_RU74_NoAddons.json | ExportedJson |
-| SK_RU74_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\RU74\SK_RU74_Skeleton.json | ExportedJson |
-| SK_Rifle_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\Rifle\SK_Rifle_Skeleton.json | ExportedJson |
-| SM_Arrow_Iron | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\SM_Arrow_Iron.json | ExportedJson |
-| SM_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\SM_BowAndArrow3.json | ExportedJson |
-| SM_Dynamite_Stick | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Meshes\Dynamite\SM_Dynamite_Stick.json | ExportedJson |
-| SM_Dynamite_Sticks_3x | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Meshes\Dynamite\SM_Dynamite_Sticks_3x.json | ExportedJson |
-| SM_M4_Assault | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SM_M4_Assault.json | ExportedJson |
-| SM_M4_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SM_M4_Mag.json | ExportedJson |
-| SM_M67 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Meshes\SM_M67.json | ExportedJson |
-| SM_MarshmallowStick | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\SM_MarshmallowStick.json | ExportedJson |
-| SM_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\SM_Modern_Weapons_Minigun_01.json | ExportedJson |
-| SM_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\SM_Modern_Weapons_Revolver_01.json | ExportedJson |
-| SM_Mosin_Nagant | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Mesh\SM_Mosin_Nagant.json | ExportedJson |
-| SM_Ogre9_01i | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Meshes\SM_Ogre9_01i.json | ExportedJson |
-| SM_PX-70_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Mesh\Weapon\SMG\SM_PX-70_Mag.json | ExportedJson |
-| SM_PX-70_MagExt | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Mesh\Weapon\SMG\SM_PX-70_MagExt.json | ExportedJson |
-| SM_RU74_NoAddons | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\RU74\SM_RU74_NoAddons.json | ExportedJson |
-| SM_RedDotSight_Scope | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Attachment\SM_RedDotSight_Scope.json | ExportedJson |
-| SM_SM_HandGrenade | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\SM_SM_HandGrenade.json | ExportedJson |
-| SM_Shiv | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\SM_Shiv.json | ExportedJson |
-| SM_Shovel_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Meshes\SM_Shovel_01a.json | ExportedJson |
-| SM_VerticleTypeAGrip | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Attachment\SM_VerticleTypeAGrip.json | ExportedJson |
-| Semi_auto_shotgun_reload_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_1.json | ExportedJson |
-| Semi_auto_shotgun_reload_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_2.json | ExportedJson |
-| Semi_auto_shotgun_reload_3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_3.json | ExportedJson |
-| Semi_auto_shotgun_reload_4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_4.json | ExportedJson |
-| Shoot_root_Shoot | pakchunk1-Windows\Vein\Content\Vein\Animation\Weapons\Shoot_root_Shoot.json | ExportedJson |
-| Shoot_root_Shoot_Montage | pakchunk1-Windows\Vein\Content\Vein\Animation\Weapons\Shoot_root_Shoot_Montage.json | ExportedJson |
-| Shotgun_empty_trigger_click_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Shotgun_empty_trigger_click_1.json | ExportedJson |
-| Shotgun_empty_trigger_click_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Shotgun_empty_trigger_click_2.json | ExportedJson |
-| Shotgun_empty_trigger_click_3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Shotgun_empty_trigger_click_3.json | ExportedJson |
-| Suppressed_45_gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Suppressed_45_gunshot_mix_1.json | ExportedJson |
-| Suppressed_9mm_Gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Suppressed_9mm_Gunshot_mix_1.json | ExportedJson |
-| TX_Fill_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Fill_01a_ALB.json | ExportedJson |
-| TX_Fill_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Utility\TX_Fill_01a_ALB.json | ExportedJson |
-| TX_Fill_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Fill_01a_NRM.json | ExportedJson |
-| TX_Fill_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Utility\TX_Fill_01a_NRM.json | ExportedJson |
-| TX_Fill_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Fill_01a_RMA.json | ExportedJson |
-| TX_Fill_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Utility\TX_Fill_01a_RMA.json | ExportedJson |
-| TX_Ogre9_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Ogre9_01a_ALB.json | ExportedJson |
-| TX_Ogre9_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Ogre9_01a_NRM.json | ExportedJson |
-| TX_Ogre9_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Ogre9_01a_RMA.json | ExportedJson |
-| TX_Shovel_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Unique\TX_Shovel_01a_ALB.json | ExportedJson |
-| TX_Shovel_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Unique\TX_Shovel_01a_NRM.json | ExportedJson |
-| TX_Shovel_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Unique\TX_Shovel_01a_RMA.json | ExportedJson |
-| T_AK-110_Assault_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_BaseColor.json | ExportedJson |
-| T_AK-110_Assault_Mask | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_Mask.json | ExportedJson |
-| T_AK-110_Assault_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_Normal.json | ExportedJson |
-| T_AK-110_Assault_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_ArrowFeather_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\T_ArrowFeather_BaseColor.json | ExportedJson |
-| T_ArrowFeather_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\T_ArrowFeather_Normal.json | ExportedJson |
-| T_ArrowFeather_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\T_ArrowFeather_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_ArrowShaftt_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\T_ArrowShaftt_BaseColor.json | ExportedJson |
-| T_ArrowShaftt_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\T_ArrowShaftt_Normal.json | ExportedJson |
-| T_ArrowShafttn_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\T_ArrowShafttn_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_BowAndArrow3_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_BaseColor.json | ExportedJson |
-| T_BowAndArrow3_BaseColor_2 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_BaseColor_2.json | ExportedJson |
-| T_BowAndArrow3_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_Normal.json | ExportedJson |
-| T_BowAndArrow3_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_Bullet_AORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Bullet_AORM.json | ExportedJson |
-| T_Bullet_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Bullet_BaseColor.json | ExportedJson |
-| T_Bullet_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Bullet_Normal.json | ExportedJson |
-| T_Cloud2Mask | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinTexture\T_Cloud2Mask.json | ExportedJson |
-| T_Cluster_Grenade_AO_R_MT | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_Cluster_Grenade_AO_R_MT.json | ExportedJson |
-| T_Cluster_Grenade_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_Cluster_Grenade_BC.json | ExportedJson |
-| T_Cluster_Grenade_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_Cluster_Grenade_N.json | ExportedJson |
-| T_Distortion | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinTexture\T_Distortion.json | ExportedJson |
-| T_Dynamite_Stick_1_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Stick_1_BaseColor.json | ExportedJson |
-| T_Dynamite_Stick_1_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Stick_1_Normal.json | ExportedJson |
-| T_Dynamite_Stick_1_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Stick_1_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_Dynamite_Sticks_3_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Sticks_3_BaseColor.json | ExportedJson |
-| T_Dynamite_Sticks_3_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Sticks_3_Normal.json | ExportedJson |
-| T_Dynamite_Sticks_3_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Sticks_3_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_InsulationFoil_Skin_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_InsulationFoil_Skin_BaseColor.json | ExportedJson |
-| T_InsulationFoil_Skin_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_InsulationFoil_Skin_Normal.json | ExportedJson |
-| T_InsulationFoil_Skin_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_InsulationFoil_Skin_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_IronArrow1_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\T_IronArrow1_BaseColor.json | ExportedJson |
-| T_IronArrow1_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\T_IronArrow1_Normal.json | ExportedJson |
-| T_IronArrow1_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\T_IronArrow1_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_Karos_Handgun_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_BaseColor.json | ExportedJson |
-| T_Karos_Handgun_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_BaseColor.json | ExportedJson |
-| T_Karos_Handgun_Emissive | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Emissive.json | ExportedJson |
-| T_Karos_Handgun_Emissive | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Emissive.json | ExportedJson |
-| T_Karos_Handgun_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Normal.json | ExportedJson |
-| T_Karos_Handgun_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Normal.json | ExportedJson |
-| T_Karos_Handgun_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_Karos_Handgun_OcclusionRoughnessMetallic | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_M4_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_BaseColor.json | ExportedJson |
-| T_M4_Mag_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Mag_BaseColor.json | ExportedJson |
-| T_M4_Mag_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Mag_Normal.json | ExportedJson |
-| T_M4_Mag_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Mag_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_M4_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Normal.json | ExportedJson |
-| T_M4_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_M67_AO_R_MT | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_M67_AO_R_MT.json | ExportedJson |
-| T_M67_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_M67_BC.json | ExportedJson |
-| T_M67_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_M67_N.json | ExportedJson |
-| T_Marble_Skin_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_Marble_Skin_BaseColor.json | ExportedJson |
-| T_Modern_Weapons_Minigun_01_D | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Textures\T_Modern_Weapons_Minigun_01_D.json | ExportedJson |
-| T_Modern_Weapons_Minigun_01_M | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Textures\T_Modern_Weapons_Minigun_01_M.json | ExportedJson |
-| T_Modern_Weapons_Minigun_01_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Textures\T_Modern_Weapons_Minigun_01_N.json | ExportedJson |
-| T_Modern_Weapons_Revolver_01_D | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Textures\T_Modern_Weapons_Revolver_01_D.json | ExportedJson |
-| T_Modern_Weapons_Revolver_01_M | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Textures\T_Modern_Weapons_Revolver_01_M.json | ExportedJson |
-| T_Modern_Weapons_Revolver_01_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Textures\T_Modern_Weapons_Revolver_01_N.json | ExportedJson |
-| T_Mosin_AORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Mosin_AORM.json | ExportedJson |
-| T_Mosin_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Mosin_BaseColor.json | ExportedJson |
-| T_Mosin_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Mosin_Normal.json | ExportedJson |
-| T_Muzzleflash_01_ALB | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Particles\Textures\T_Muzzleflash_01_ALB.json | ExportedJson |
-| T_PX_70_MagExt_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_MagExt_BaseColor.json | ExportedJson |
-| T_PX_70_MagExt_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_MagExt_Normal.json | ExportedJson |
-| T_PX_70_MagExt_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_MagExt_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_PX_70_Mag_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_Mag_BaseColor.json | ExportedJson |
-| T_PX_70_Mag_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_Mag_Normal.json | ExportedJson |
-| T_PX_70_Mag_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_Mag_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_RU74_Body_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Body_ALB.json | ExportedJson |
-| T_RU74_Body_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Body_NRM.json | ExportedJson |
-| T_RU74_Body_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Body_ORM.json | ExportedJson |
-| T_RU74_Mag_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Mag_ALB.json | ExportedJson |
-| T_RU74_Mag_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Mag_NRM.json | ExportedJson |
-| T_RU74_Mag_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Mag_ORM.json | ExportedJson |
-| T_RU74_Stock_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Stock_ALB.json | ExportedJson |
-| T_RU74_Stock_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Stock_NRM.json | ExportedJson |
-| T_RU74_Stock_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Stock_ORM.json | ExportedJson |
-| T_RedDotSight_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_RedDotSight_BaseColor.json | ExportedJson |
-| T_RedDotSight_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_RedDotSight_Normal.json | ExportedJson |
-| T_RedDotSight_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_RedDotSight_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_ShowcasePanel_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_BaseColor.json | ExportedJson |
-| T_ShowcasePanel_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_Normal.json | ExportedJson |
-| T_ShowcasePanel_OcclusionRoughnessMetallic | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_ShowcasePanel_Opacity | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_Opacity.json | ExportedJson |
-| T_Sight_RedDot_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_Sight_RedDot_BaseColor.json | ExportedJson |
-| T_Sight_RedDot_Emissive | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_Sight_RedDot_Emissive.json | ExportedJson |
-| T_Sight_RedDot_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_Sight_RedDot_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_Thumb_BP_Grenade_DynamitePack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_DynamitePack_0.json | ExportedJson |
-| T_Thumb_BP_Grenade_Dynamite_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_Dynamite_0.json | ExportedJson |
-| T_Thumb_BP_Grenade_Frag_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_Frag_0.json | ExportedJson |
-| T_Thumb_BP_Grenade_Hand_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_Hand_0.json | ExportedJson |
-| T_Tiger_Skin | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinTexture\T_Tiger_Skin.json | ExportedJson |
-| T_VerticalTypeA_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_VerticalTypeA_BaseColor.json | ExportedJson |
-| T_VerticalTypeA_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_VerticalTypeA_Normal.json | ExportedJson |
-| T_VerticalTypeA_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_VerticalTypeA_OcclusionRoughnessMetallic.json | ExportedJson |
-| T_WorkBench_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_WorkBench_BaseColor.json | ExportedJson |
-| T_WorkBench_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_WorkBench_Normal.json | ExportedJson |
-| T_WorkBench_OcclusionRoughnessMetallic | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_WorkBench_OcclusionRoughnessMetallic.json | ExportedJson |
-| WoodenOar_Spiked | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenOar_Spiked.json | ExportedJson |
-| WoodenSpear_ButterKnife01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_ButterKnife01.json | ExportedJson |
-| WoodenSpear_CombatKnife01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_CombatKnife01.json | ExportedJson |
-| WoodenSpear_Fork01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Fork01.json | ExportedJson |
-| WoodenSpear_Knife01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Knife01.json | ExportedJson |
-| WoodenSpear_Machete01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Machete01.json | ExportedJson |
-| WoodenSpear_Scissors01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Scissors01.json | ExportedJson |
-| WoodenSpear_Screwdriver01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Screwdriver01.json | ExportedJson |
-| WoodenSpear_Spoon01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Spoon01.json | ExportedJson |
-| WoodenSpear_Thumbtack01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Thumbtack01.json | ExportedJson |
-| ak47_empty | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\Gun_Mechanisms\ak47_empty.json | ExportedJson |
-| ak47_magin | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\Gun_Mechanisms\ak47_magin.json | ExportedJson |
-| ak47_magout | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\Gun_Mechanisms\ak47_magout.json | ExportedJson |
-| ak_gunshot_mix_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\ak_gunshot_mix_1.json | ExportedJson |
-| arms_AO | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_AO.json | ExportedJson |
-| arms_Mesh | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\arms_Mesh.json | ExportedJson |
-| arms_Mesh__PhysicsAsset | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\arms_Mesh__PhysicsAsset.json | ExportedJson |
-| arms_dif | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_dif.json | ExportedJson |
-| arms_mat | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Mats\arms_mat.json | ExportedJson |
-| arms_mat | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_mat.json | ExportedJson |
-| arms_norm | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_norm.json | ExportedJson |
-| grenadepin | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\grenadepin.json | ExportedJson |
-| gun_cleaning_kit_latches_close1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_close1.json | ExportedJson |
-| gun_cleaning_kit_latches_close2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_close2.json | ExportedJson |
-| gun_cleaning_kit_latches_close3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_close3.json | ExportedJson |
-| gun_cleaning_kit_latches_open1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open1.json | ExportedJson |
-| gun_cleaning_kit_latches_open2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open2.json | ExportedJson |
-| gun_cleaning_kit_latches_open3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open3.json | ExportedJson |
-| gun_cleaning_kit_latches_open4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open4.json | ExportedJson |
-| gun_cleaning_kit_rummage1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage1.json | ExportedJson |
-| gun_cleaning_kit_rummage2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage2.json | ExportedJson |
-| gun_cleaning_kit_rummage3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage3.json | ExportedJson |
-| gun_cleaning_kit_rummage4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage4.json | ExportedJson |
+| 12ga_auto_shot_mix_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\12ga_auto_shot_mix_1.json | JSON Export |
+| 45_gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\45_gunshot_mix_1.json | JSON Export |
+| 45_loaded_mag_load__1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__1.json | JSON Export |
+| 45_loaded_mag_load__2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__2.json | JSON Export |
+| 45_loaded_mag_load__3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__3.json | JSON Export |
+| 45_loaded_mag_load__4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_load__4.json | JSON Export |
+| 45_loaded_mag_unload__1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_unload__1.json | JSON Export |
+| 45_loaded_mag_unload__2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_unload__2.json | JSON Export |
+| 45_loaded_mag_unload__3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Gun_Mechanics\45_loaded_mag_unload__3.json | JSON Export |
+| 9mm_gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\9mm_gunshot_mix_1.json | JSON Export |
+| 9mm_loaded_mag_load_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_load_2.json | JSON Export |
+| 9mm_loaded_mag_load_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_load_3.json | JSON Export |
+| 9mm_loaded_mag_unload_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_unload_1.json | JSON Export |
+| 9mm_loaded_mag_unload_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_unload_2.json | JSON Export |
+| 9mm_loaded_mag_unload_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Gun_Mechanics\9mm_loaded_mag_unload_3.json | JSON Export |
+| ABP_AK | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_AK.json | JSON Export |
+| ABP_AP15 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_AP15.json | JSON Export |
+| ABP_MP5 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_MP5.json | JSON Export |
+| ABP_MosinNagant | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_MosinNagant.json | JSON Export |
+| ABP_N1903 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_N1903.json | JSON Export |
+| ABP_PumpShotgun | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\ABP_PumpShotgun.json | JSON Export |
+| AM_RU74_Reload_Montage | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\AM_RU74_Reload_Montage.json | JSON Export |
+| AR-15_Mag_insert_and_smack | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\Gun_Mechanisms\AR-15_Mag_insert_and_smack.json | JSON Export |
+| AR-15_bolt_carrier_release_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\Gun_Mechanisms\AR-15_bolt_carrier_release_1.json | JSON Export |
+| AR-15_bolt_carrier_release_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\Gun_Mechanisms\AR-15_bolt_carrier_release_2.json | JSON Export |
+| AR-15_gunshot_mix_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\AR-15_gunshot_mix_1.json | JSON Export |
+| ATT_BulletImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\ATT_BulletImpact.json | JSON Export |
+| ATT_GunMechanism | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\ATT_GunMechanism.json | JSON Export |
+| ATT_Gunshot | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\ATT_Gunshot.json | JSON Export |
+| ATT_GunshotSuppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\ATT_GunshotSuppressed.json | JSON Export |
+| A_AT4_Launch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AT4\A_AT4_Launch.json | JSON Export |
+| A_A_Arms_PAS12_Reload_End | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\ArmAnimations\A_A_Arms_PAS12_Reload_End.json | JSON Export |
+| A_A_Arms_PAS12_Reload_Loop | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\ArmAnimations\A_A_Arms_PAS12_Reload_Loop.json | JSON Export |
+| A_A_Arms_PAS12_Reload_Start | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\ArmAnimations\A_A_Arms_PAS12_Reload_Start.json | JSON Export |
+| A_A_Arms_RU74_Idle01 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_A_Arms_RU74_Idle01.json | JSON Export |
+| A_A_Arms_RU74_Reload | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_A_Arms_RU74_Reload.json | JSON Export |
+| A_A_Arms_RU74_Shoot01 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_A_Arms_RU74_Shoot01.json | JSON Export |
+| A_A_Arms_Rifle_Equip | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Equip.json | JSON Export |
+| A_A_Arms_Rifle_Holster | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Holster.json | JSON Export |
+| A_A_Arms_Rifle_Idle01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Idle01.json | JSON Export |
+| A_A_Arms_Rifle_Reload | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Reload.json | JSON Export |
+| A_A_Arms_Rifle_Shoot01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Shoot01.json | JSON Export |
+| A_A_Arms_Rifle_Sprint_FWD | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\Rifle\A_A_Arms_Rifle_Sprint_FWD.json | JSON Export |
+| A_Arms_RU74_Sprint_FWD | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\A_Arms_RU74_Sprint_FWD.json | JSON Export |
+| A_PAS12_Idle | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\Animations\GunAnimations\A_PAS12_Idle.json | JSON Export |
+| A_PumpShotgun_Idle | pakchunk1-Windows\Vein\Content\Vein\Animation\Weapons\A_PumpShotgun_Idle.json | JSON Export |
+| A_RU74_Reload | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Animations\RU74\A_RU74_Reload.json | JSON Export |
+| A_TaserHit | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\A_TaserHit.json | JSON Export |
+| A_TaserZap | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\A_TaserZap.json | JSON Export |
+| BP_AT4_Projectile | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_AT4_Projectile.json | JSON Export |
+| BP_FiredArrow_Iron | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_FiredArrow_Iron.json | JSON Export |
+| BP_Flare | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_Flare.json | JSON Export |
+| BP_Grenade_Dynamite | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_Dynamite.json | JSON Export |
+| BP_Grenade_DynamitePack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_DynamitePack.json | JSON Export |
+| BP_Grenade_Frag | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_Frag.json | JSON Export |
+| BP_Grenade_Hand | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\BP_Grenade_Hand.json | JSON Export |
+| BP_LaserGun_Orb | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\BP_LaserGun_Orb.json | JSON Export |
+| BaseballBat_Spiked | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\BaseballBat_Spiked.json | JSON Export |
+| Bolt_trigger_click | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Bolt_Action\Bolt_trigger_click.json | JSON Export |
+| CR_Arrow_Iron | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_Arrow_Iron.json | JSON Export |
+| CR_Bow | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_Bow.json | JSON Export |
+| CR_BrokenBottle | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_BrokenBottle.json | JSON Export |
+| CR_CombatShovel | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_CombatShovel.json | JSON Export |
+| CR_HandGrenade | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_HandGrenade.json | JSON Export |
+| CR_MakeshiftSword1 | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_MakeshiftSword1.json | JSON Export |
+| CR_MorningStar | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_MorningStar.json | JSON Export |
+| CR_SpikedBaseballBat | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_SpikedBaseballBat.json | JSON Export |
+| CR_SpikedPlank | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_SpikedPlank.json | JSON Export |
+| CR_SpikedWoodenOar | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_SpikedWoodenOar.json | JSON Export |
+| CR_WoodenSpear | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpear.json | JSON Export |
+| CR_WoodenSpearButterKnife | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearButterKnife.json | JSON Export |
+| CR_WoodenSpearCombatKnife | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearCombatKnife.json | JSON Export |
+| CR_WoodenSpearFork | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearFork.json | JSON Export |
+| CR_WoodenSpearKnife | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearKnife.json | JSON Export |
+| CR_WoodenSpearMachete | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearMachete.json | JSON Export |
+| CR_WoodenSpearScissors | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearScissors.json | JSON Export |
+| CR_WoodenSpearScrewdriver | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearScrewdriver.json | JSON Export |
+| CR_WoodenSpearSpoon | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearSpoon.json | JSON Export |
+| CR_WoodenSpearThumbtack | pakchunk8-Windows\Vein\Content\Vein\Recipes\Crafting\Weapons\CR_WoodenSpearThumbtack.json | JSON Export |
+| CS_Explosion_1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\CS_Explosion_1.json | JSON Export |
+| IL_MedicalWeapons | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\Medical\IL_MedicalWeapons.json | JSON Export |
+| IT_Weapons | pakchunk0-Windows\Vein\Content\Vein\ItemTypes\IT_Weapons.json | JSON Export |
+| MAS_AK | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_AK.json | JSON Export |
+| MAS_BowAndArrow | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_BowAndArrow.json | JSON Export |
+| MAS_MosinNagant | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_MosinNagant.json | JSON Export |
+| MAS_N16 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_N16.json | JSON Export |
+| MAS_N1903 | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_N1903.json | JSON Export |
+| MAS_Pistol | pakchunk0-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_Pistol.json | JSON Export |
+| MAS_Shotgun | pakchunk1-Windows\Vein\Content\Vein\Animation\Equipment\Weapons\MAS_Shotgun.json | JSON Export |
+| MI_ArrowFeather1_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather1_Inst.json | JSON Export |
+| MI_ArrowFeather2_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather2_Inst.json | JSON Export |
+| MI_ArrowFeather3_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather3_Inst.json | JSON Export |
+| MI_ArrowFeather_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\MI_ArrowFeather_Inst.json | JSON Export |
+| MI_ArrowShaftt | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\MI_ArrowShaftt.json | JSON Export |
+| MI_BoltViper | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Materials\MI_BoltViper.json | JSON Export |
+| MI_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\MI_BowAndArrow3.json | JSON Export |
+| MI_BowAndArrow3_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\MI_BowAndArrow3_1.json | JSON Export |
+| MI_IronArrow1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\MI_IronArrow1.json | JSON Export |
+| MI_M67 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Material_Instances\MI_M67.json | JSON Export |
+| MI_Minigun | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Materials\MI_Minigun.json | JSON Export |
+| MI_Mosin | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Material\MI_Mosin.json | JSON Export |
+| MI_Mosin_Bullet | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Material\MI_Mosin_Bullet.json | JSON Export |
+| MI_Ogre9_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Materials\MI_Ogre9_01a.json | JSON Export |
+| MI_RU74_Body | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Materials\RU74\MI_RU74_Body.json | JSON Export |
+| MI_RU74_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Materials\RU74\MI_RU74_Mag.json | JSON Export |
+| MI_RU74_Stock | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Materials\RU74\MI_RU74_Stock.json | JSON Export |
+| MI_Shovel_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Materials\Instances\MI_Shovel_01a.json | JSON Export |
+| ML_UVTransform_Func | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\MasterMaterial\ML_UVTransform_Func.json | JSON Export |
+| MM_Master_Material_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Materials\MM_Master_Material_01a.json | JSON Export |
+| MM_Master_Material_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Materials\Masters\MM_Master_Material_01a.json | JSON Export |
+| M_ArrowFeather1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather1.json | JSON Export |
+| M_ArrowFeather2 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather2.json | JSON Export |
+| M_ArrowFeather3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather3.json | JSON Export |
+| M_ArrowFeather4 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\M_ArrowFeather4.json | JSON Export |
+| M_ArrowShaftt | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\M_ArrowShaftt.json | JSON Export |
+| M_Base | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Materials\M_Base.json | JSON Export |
+| M_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\M_BowAndArrow3.json | JSON Export |
+| M_BowAndArrow3_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\M_BowAndArrow3_1.json | JSON Export |
+| M_Dynamite_Stick_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Materials\M_Dynamite_Stick_1.json | JSON Export |
+| M_Dynamite_Sticks_3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Materials\M_Dynamite_Sticks_3.json | JSON Export |
+| M_Emmisive_mat | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\Master\M_Emmisive_mat.json | JSON Export |
+| M_Generic_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\Master\M_Generic_Mat.json | JSON Export |
+| M_Generic_Mat | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\Master\M_Generic_Mat.json | JSON Export |
+| M_IronArrow1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\M_IronArrow1.json | JSON Export |
+| M_M4_Mag_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_M4_Mag_Mat.json | JSON Export |
+| M_M4_Mat_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_M4_Mat_Inst.json | JSON Export |
+| M_PX_70_ExtMag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_PX_70_ExtMag.json | JSON Export |
+| M_PX_70_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_PX_70_Mag.json | JSON Export |
+| M_RedDot_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_RedDot_Mat.json | JSON Export |
+| M_ShowcasePanel_Mat | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_ShowcasePanel_Mat.json | JSON Export |
+| M_Sight_RedDot | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_Sight_RedDot.json | JSON Export |
+| M_VerticalTypeA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\M_VerticalTypeA.json | JSON Export |
+| M_Warm_mat_Inst_Off | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_Warm_mat_Inst_Off.json | JSON Export |
+| M_WeaponMaster_Mat | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Material\MasterMaterial\M_WeaponMaster_Mat.json | JSON Export |
+| M_WorkBench_Mat_Inst | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Material\M_WorkBench_Mat_Inst.json | JSON Export |
+| NS_BulletImpact_Cardboard | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Cardboard.json | JSON Export |
+| NS_BulletImpact_Concrete | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Concrete.json | JSON Export |
+| NS_BulletImpact_Dirt | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Dirt.json | JSON Export |
+| NS_BulletImpact_Glass | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Glass.json | JSON Export |
+| NS_BulletImpact_Snow | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Snow.json | JSON Export |
+| NS_BulletImpact_Sparks | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Sparks.json | JSON Export |
+| NS_BulletImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_BulletImpact_Wood.json | JSON Export |
+| NS_Flare | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_Flare.json | JSON Export |
+| NS_LaserGun_Bullet | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_LaserGun_Bullet.json | JSON Export |
+| NS_MuzzleFlash_Underwater | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_MuzzleFlash_Underwater.json | JSON Export |
+| NS_MuzzleSmoke | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_MuzzleSmoke.json | JSON Export |
+| NS_Muzzleflash1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_Muzzleflash1.json | JSON Export |
+| NS_Muzzleflash2 | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_Muzzleflash2.json | JSON Export |
+| NS_ShellEjection1 | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\NS_ShellEjection1.json | JSON Export |
+| NS_ShellEjection2 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_ShellEjection2.json | JSON Export |
+| NS_Tracer1 | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\NS_Tracer1.json | JSON Export |
+| PA_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\PA_Modern_Weapons_Minigun_01.json | JSON Export |
+| PA_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\PA_Modern_Weapons_Revolver_01.json | JSON Export |
+| Plank_Spiked | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\Plank_Spiked.json | JSON Export |
+| RT_Weapons | pakchunk8-Windows\Vein\Content\Vein\RecipeTypes\RT_Weapons.json | JSON Export |
+| Revolver_Empty_Trigger_Click_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_Empty_Trigger_Click_1.json | JSON Export |
+| Revolver_Empty_Trigger_Click_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_Empty_Trigger_Click_2.json | JSON Export |
+| Revolver_Empty_Trigger_Click_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_Empty_Trigger_Click_3.json | JSON Export |
+| Revolver_shot_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\Revolver_shot_1.json | JSON Export |
+| SCO_Gunshot | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SCO_Gunshot.json | JSON Export |
+| SC_1911_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_Fire.json | JSON Export |
+| SC_1911_Fire_Suppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_Fire_Suppressed.json | JSON Export |
+| SC_1911_MagIn | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_MagIn.json | JSON Export |
+| SC_1911_MagOut | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\SC_1911_MagOut.json | JSON Export |
+| SC_38Special | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\38Special\SC_38Special.json | JSON Export |
+| SC_870_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\SC_870_Fire.json | JSON Export |
+| SC_870_ShellInsert | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\SC_870_ShellInsert.json | JSON Export |
+| SC_AK_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_Fire.json | JSON Export |
+| SC_AK_FireEmpty | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_FireEmpty.json | JSON Export |
+| SC_AK_MagIn | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_MagIn.json | JSON Export |
+| SC_AK_MagOut | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\SC_AK_MagOut.json | JSON Export |
+| SC_AR_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_Fire.json | JSON Export |
+| SC_AR_Fire_Suppressed | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_Fire_Suppressed.json | JSON Export |
+| SC_AR_MagIn | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_MagIn.json | JSON Export |
+| SC_AR_MagOut | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AR\SC_AR_MagOut.json | JSON Export |
+| SC_AT4_Launch | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AT4\SC_AT4_Launch.json | JSON Export |
+| SC_ArrowBreak | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_ArrowBreak.json | JSON Export |
+| SC_Arrow_Dirt | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_Arrow_Dirt.json | JSON Export |
+| SC_Bow_StringBack | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_Bow_StringBack.json | JSON Export |
+| SC_Bow_StringRelease | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bow\SC_Bow_StringRelease.json | JSON Export |
+| SC_BrokenTriggerPull | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_BrokenTriggerPull.json | JSON Export |
+| SC_BulletImpact_Concrete | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Concrete.json | JSON Export |
+| SC_BulletImpact_Dirt | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Dirt.json | JSON Export |
+| SC_BulletImpact_Flesh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Flesh.json | JSON Export |
+| SC_BulletImpact_Glass | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Glass.json | JSON Export |
+| SC_BulletImpact_Metal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Metal.json | JSON Export |
+| SC_BulletImpact_Snow | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Snow.json | JSON Export |
+| SC_BulletImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Bullets\SC_BulletImpact_Wood.json | JSON Export |
+| SC_FiftySeven_Fire_Suppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_FiftySeven_Fire_Suppressed.json | JSON Export |
+| SC_FiveSeven | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\FiveSeven\SC_FiveSeven.json | JSON Export |
+| SC_FlareGun | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_FlareGun.json | JSON Export |
+| SC_Flock17_Fire | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_Fire.json | JSON Export |
+| SC_Flock17_Fire_Suppressed | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_Fire_Suppressed.json | JSON Export |
+| SC_Flock17_MagIn | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_MagIn.json | JSON Export |
+| SC_Flock17_MagOut | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\SC_Flock17_MagOut.json | JSON Export |
+| SC_GCRummage | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\SC_GCRummage.json | JSON Export |
+| SC_GrenadePin | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\SC_GrenadePin.json | JSON Export |
+| SC_LaserGun | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_LaserGun.json | JSON Export |
+| SC_LaserGun_Reload | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\LaserGun\SC_LaserGun_Reload.json | JSON Export |
+| SC_Minigun1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Minigun1.json | JSON Export |
+| SC_PistolDraw | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_PistolDraw.json | JSON Export |
+| SC_PistolMagIn | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_PistolMagIn.json | JSON Export |
+| SC_PistolMagOut | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_PistolMagOut.json | JSON Export |
+| SC_Pistol_FireEmpty | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Bolt_Action\SC_Pistol_FireEmpty.json | JSON Export |
+| SC_RevolverReload | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\38Special\SC_RevolverReload.json | JSON Export |
+| SC_Revolver_Empty | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\SC_Revolver_Empty.json | JSON Export |
+| SC_Revolver_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Revolver\SC_Revolver_Fire.json | JSON Export |
+| SC_Rifle3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Rifle3.json | JSON Export |
+| SC_Rifle3_Suppressed | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Rifle3_Suppressed.json | JSON Export |
+| SC_Rifle4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Rifle4.json | JSON Export |
+| SC_SMG1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMG1.json | JSON Export |
+| SC_SMG1_Suppressed | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMG1_Suppressed.json | JSON Export |
+| SC_SMG2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMG2.json | JSON Export |
+| SC_SMGDraw | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_SMGDraw.json | JSON Export |
+| SC_SRG_Fire | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SRG\SC_SRG_Fire.json | JSON Export |
+| SC_Shotgun_DB | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\SC_Shotgun_DB.json | JSON Export |
+| SC_Shotgun_Empty | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\SC_Shotgun_Empty.json | JSON Export |
+| SC_TaserHit | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\SC_TaserHit.json | JSON Export |
+| SC_TaserZap | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Taser\SC_TaserZap.json | JSON Export |
+| SC_WeaponAttachment_Generic | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\SC_WeaponAttachment_Generic.json | JSON Export |
+| SKM_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\SKM_Modern_Weapons_Minigun_01.json | JSON Export |
+| SKM_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\SKM_Modern_Weapons_Revolver_01.json | JSON Export |
+| SK_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\SK_BowAndArrow3.json | JSON Export |
+| SK_BowAndArrow3_1 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\SK_BowAndArrow3_1.json | JSON Export |
+| SK_M4_Assault_Xaxis | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SK_M4_Assault_Xaxis.json | JSON Export |
+| SK_M4_Assault_Xaxis_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SK_M4_Assault_Xaxis_Skeleton.json | JSON Export |
+| SK_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\SK_Modern_Weapons_Minigun_01.json | JSON Export |
+| SK_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\SK_Modern_Weapons_Revolver_01.json | JSON Export |
+| SK_Modern_Weapons_SMG_02 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\SMGs\02\SK_Modern_Weapons_SMG_02.json | JSON Export |
+| SK_Mosin_Nagant | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Skeletal\SK_Mosin_Nagant.json | JSON Export |
+| SK_Mosin_Nagant_PhysicsAsset | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Skeletal\SK_Mosin_Nagant_PhysicsAsset.json | JSON Export |
+| SK_Mosin_Nagant_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Skeletal\SK_Mosin_Nagant_Skeleton.json | JSON Export |
+| SK_PAS12_Demo | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PAS12\SK_PAS12_Demo.json | JSON Export |
+| SK_RU74_NoAddons | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\RU74\SK_RU74_NoAddons.json | JSON Export |
+| SK_RU74_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\RU74\SK_RU74_Skeleton.json | JSON Export |
+| SK_Rifle_Skeleton | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\Rifle\SK_Rifle_Skeleton.json | JSON Export |
+| SM_Arrow_Iron | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\SM_Arrow_Iron.json | JSON Export |
+| SM_BowAndArrow3 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\SM_BowAndArrow3.json | JSON Export |
+| SM_Dynamite_Stick | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Meshes\Dynamite\SM_Dynamite_Stick.json | JSON Export |
+| SM_Dynamite_Sticks_3x | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Meshes\Dynamite\SM_Dynamite_Sticks_3x.json | JSON Export |
+| SM_M4_Assault | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SM_M4_Assault.json | JSON Export |
+| SM_M4_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Assault\SM_M4_Mag.json | JSON Export |
+| SM_M67 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Meshes\SM_M67.json | JSON Export |
+| SM_MarshmallowStick | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\SM_MarshmallowStick.json | JSON Export |
+| SM_Modern_Weapons_Minigun_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\SM_Modern_Weapons_Minigun_01.json | JSON Export |
+| SM_Modern_Weapons_Revolver_01 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\SM_Modern_Weapons_Revolver_01.json | JSON Export |
+| SM_Mosin_Nagant | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Mesh\SM_Mosin_Nagant.json | JSON Export |
+| SM_Ogre9_01i | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Meshes\SM_Ogre9_01i.json | JSON Export |
+| SM_PX-70_Mag | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Mesh\Weapon\SMG\SM_PX-70_Mag.json | JSON Export |
+| SM_PX-70_MagExt | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Mesh\Weapon\SMG\SM_PX-70_MagExt.json | JSON Export |
+| SM_RU74_NoAddons | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Meshes\RU74\SM_RU74_NoAddons.json | JSON Export |
+| SM_RedDotSight_Scope | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Attachment\SM_RedDotSight_Scope.json | JSON Export |
+| SM_SM_HandGrenade | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\SM_SM_HandGrenade.json | JSON Export |
+| SM_Shiv | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\SM_Shiv.json | JSON Export |
+| SM_Shovel_01a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Meshes\SM_Shovel_01a.json | JSON Export |
+| SM_VerticleTypeAGrip | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Mesh\Attachment\SM_VerticleTypeAGrip.json | JSON Export |
+| Semi_auto_shotgun_reload_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_1.json | JSON Export |
+| Semi_auto_shotgun_reload_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_2.json | JSON Export |
+| Semi_auto_shotgun_reload_3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_3.json | JSON Export |
+| Semi_auto_shotgun_reload_4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Semi_auto_shotgun_reload_4.json | JSON Export |
+| Shoot_root_Shoot | pakchunk1-Windows\Vein\Content\Vein\Animation\Weapons\Shoot_root_Shoot.json | JSON Export |
+| Shoot_root_Shoot_Montage | pakchunk1-Windows\Vein\Content\Vein\Animation\Weapons\Shoot_root_Shoot_Montage.json | JSON Export |
+| Shotgun_empty_trigger_click_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Shotgun_empty_trigger_click_1.json | JSON Export |
+| Shotgun_empty_trigger_click_2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Shotgun_empty_trigger_click_2.json | JSON Export |
+| Shotgun_empty_trigger_click_3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\N870\Gun_Mechanisms\Shotgun_empty_trigger_click_3.json | JSON Export |
+| Suppressed_45_gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\1911\Suppressed_45_gunshot_mix_1.json | JSON Export |
+| Suppressed_9mm_Gunshot_mix_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\Flock17\Suppressed_9mm_Gunshot_mix_1.json | JSON Export |
+| TX_Fill_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Fill_01a_ALB.json | JSON Export |
+| TX_Fill_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Utility\TX_Fill_01a_ALB.json | JSON Export |
+| TX_Fill_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Fill_01a_NRM.json | JSON Export |
+| TX_Fill_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Utility\TX_Fill_01a_NRM.json | JSON Export |
+| TX_Fill_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Fill_01a_RMA.json | JSON Export |
+| TX_Fill_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Utility\TX_Fill_01a_RMA.json | JSON Export |
+| TX_Ogre9_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Ogre9_01a_ALB.json | JSON Export |
+| TX_Ogre9_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Ogre9_01a_NRM.json | JSON Export |
+| TX_Ogre9_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPSHandguns_VOL2\Textures\TX_Ogre9_01a_RMA.json | JSON Export |
+| TX_Shovel_01a_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Unique\TX_Shovel_01a_ALB.json | JSON Export |
+| TX_Shovel_01a_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Unique\TX_Shovel_01a_NRM.json | JSON Export |
+| TX_Shovel_01a_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PA_Handheld_Vol3\Textures\Unique\TX_Shovel_01a_RMA.json | JSON Export |
+| T_AK-110_Assault_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_BaseColor.json | JSON Export |
+| T_AK-110_Assault_Mask | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_Mask.json | JSON Export |
+| T_AK-110_Assault_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_Normal.json | JSON Export |
+| T_AK-110_Assault_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_AK-110_Assault_OcclusionRoughnessMetallic.json | JSON Export |
+| T_ArrowFeather_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\T_ArrowFeather_BaseColor.json | JSON Export |
+| T_ArrowFeather_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\T_ArrowFeather_Normal.json | JSON Export |
+| T_ArrowFeather_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowFeather\T_ArrowFeather_OcclusionRoughnessMetallic.json | JSON Export |
+| T_ArrowShaftt_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\T_ArrowShaftt_BaseColor.json | JSON Export |
+| T_ArrowShaftt_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\T_ArrowShaftt_Normal.json | JSON Export |
+| T_ArrowShafttn_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\ArrowShaft\T_ArrowShafttn_OcclusionRoughnessMetallic.json | JSON Export |
+| T_BowAndArrow3_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_BaseColor.json | JSON Export |
+| T_BowAndArrow3_BaseColor_2 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_BaseColor_2.json | JSON Export |
+| T_BowAndArrow3_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_Normal.json | JSON Export |
+| T_BowAndArrow3_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\BowAndArrow\BowAndArrow3\T_BowAndArrow3_OcclusionRoughnessMetallic.json | JSON Export |
+| T_Bullet_AORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Bullet_AORM.json | JSON Export |
+| T_Bullet_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Bullet_BaseColor.json | JSON Export |
+| T_Bullet_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Bullet_Normal.json | JSON Export |
+| T_Cloud2Mask | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinTexture\T_Cloud2Mask.json | JSON Export |
+| T_Cluster_Grenade_AO_R_MT | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_Cluster_Grenade_AO_R_MT.json | JSON Export |
+| T_Cluster_Grenade_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_Cluster_Grenade_BC.json | JSON Export |
+| T_Cluster_Grenade_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_Cluster_Grenade_N.json | JSON Export |
+| T_Distortion | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinTexture\T_Distortion.json | JSON Export |
+| T_Dynamite_Stick_1_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Stick_1_BaseColor.json | JSON Export |
+| T_Dynamite_Stick_1_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Stick_1_Normal.json | JSON Export |
+| T_Dynamite_Stick_1_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Stick_1_OcclusionRoughnessMetallic.json | JSON Export |
+| T_Dynamite_Sticks_3_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Sticks_3_BaseColor.json | JSON Export |
+| T_Dynamite_Sticks_3_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Sticks_3_Normal.json | JSON Export |
+| T_Dynamite_Sticks_3_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Explosives_Pack\Textures\T_Dynamite_Sticks_3_OcclusionRoughnessMetallic.json | JSON Export |
+| T_InsulationFoil_Skin_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_InsulationFoil_Skin_BaseColor.json | JSON Export |
+| T_InsulationFoil_Skin_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_InsulationFoil_Skin_Normal.json | JSON Export |
+| T_InsulationFoil_Skin_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_InsulationFoil_Skin_OcclusionRoughnessMetallic.json | JSON Export |
+| T_IronArrow1_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\T_IronArrow1_BaseColor.json | JSON Export |
+| T_IronArrow1_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\T_IronArrow1_Normal.json | JSON Export |
+| T_IronArrow1_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Arrows\IronArrow\T_IronArrow1_OcclusionRoughnessMetallic.json | JSON Export |
+| T_Karos_Handgun_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_BaseColor.json | JSON Export |
+| T_Karos_Handgun_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_BaseColor.json | JSON Export |
+| T_Karos_Handgun_Emissive | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Emissive.json | JSON Export |
+| T_Karos_Handgun_Emissive | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Emissive.json | JSON Export |
+| T_Karos_Handgun_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Normal.json | JSON Export |
+| T_Karos_Handgun_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_Normal.json | JSON Export |
+| T_Karos_Handgun_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_OcclusionRoughnessMetallic.json | JSON Export |
+| T_Karos_Handgun_OcclusionRoughnessMetallic | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_Karos_Handgun_OcclusionRoughnessMetallic.json | JSON Export |
+| T_M4_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_BaseColor.json | JSON Export |
+| T_M4_Mag_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Mag_BaseColor.json | JSON Export |
+| T_M4_Mag_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Mag_Normal.json | JSON Export |
+| T_M4_Mag_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Mag_OcclusionRoughnessMetallic.json | JSON Export |
+| T_M4_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_Normal.json | JSON Export |
+| T_M4_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_M4_OcclusionRoughnessMetallic.json | JSON Export |
+| T_M67_AO_R_MT | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_M67_AO_R_MT.json | JSON Export |
+| T_M67_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_M67_BC.json | JSON Export |
+| T_M67_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Grenades\Textures\T_M67_N.json | JSON Export |
+| T_Marble_Skin_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinMaterial\T_Marble_Skin_BaseColor.json | JSON Export |
+| T_Modern_Weapons_Minigun_01_D | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Textures\T_Modern_Weapons_Minigun_01_D.json | JSON Export |
+| T_Modern_Weapons_Minigun_01_M | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Textures\T_Modern_Weapons_Minigun_01_M.json | JSON Export |
+| T_Modern_Weapons_Minigun_01_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Miniguns\01\Textures\T_Modern_Weapons_Minigun_01_N.json | JSON Export |
+| T_Modern_Weapons_Revolver_01_D | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Textures\T_Modern_Weapons_Revolver_01_D.json | JSON Export |
+| T_Modern_Weapons_Revolver_01_M | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Textures\T_Modern_Weapons_Revolver_01_M.json | JSON Export |
+| T_Modern_Weapons_Revolver_01_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MarketplaceBlockout\Modern\Weapons\Assets\Revolvers\01\Textures\T_Modern_Weapons_Revolver_01_N.json | JSON Export |
+| T_Mosin_AORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Mosin_AORM.json | JSON Export |
+| T_Mosin_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Mosin_BaseColor.json | JSON Export |
+| T_Mosin_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\MosinNagant\Textures\MosinNagant\T_Mosin_Normal.json | JSON Export |
+| T_Muzzleflash_01_ALB | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Particles\Textures\T_Muzzleflash_01_ALB.json | JSON Export |
+| T_PX_70_MagExt_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_MagExt_BaseColor.json | JSON Export |
+| T_PX_70_MagExt_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_MagExt_Normal.json | JSON Export |
+| T_PX_70_MagExt_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_MagExt_OcclusionRoughnessMetallic.json | JSON Export |
+| T_PX_70_Mag_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_Mag_BaseColor.json | JSON Export |
+| T_PX_70_Mag_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_Mag_Normal.json | JSON Export |
+| T_PX_70_Mag_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_PX_70_Mag_OcclusionRoughnessMetallic.json | JSON Export |
+| T_RU74_Body_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Body_ALB.json | JSON Export |
+| T_RU74_Body_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Body_NRM.json | JSON Export |
+| T_RU74_Body_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Body_ORM.json | JSON Export |
+| T_RU74_Mag_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Mag_ALB.json | JSON Export |
+| T_RU74_Mag_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Mag_NRM.json | JSON Export |
+| T_RU74_Mag_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Mag_ORM.json | JSON Export |
+| T_RU74_Stock_ALB | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Stock_ALB.json | JSON Export |
+| T_RU74_Stock_NRM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Stock_NRM.json | JSON Export |
+| T_RU74_Stock_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\FPS_Assault_Pack\Textures\RU74\T_RU74_Stock_ORM.json | JSON Export |
+| T_RedDotSight_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_RedDotSight_BaseColor.json | JSON Export |
+| T_RedDotSight_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_RedDotSight_Normal.json | JSON Export |
+| T_RedDotSight_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_RedDotSight_OcclusionRoughnessMetallic.json | JSON Export |
+| T_ShowcasePanel_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_BaseColor.json | JSON Export |
+| T_ShowcasePanel_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_Normal.json | JSON Export |
+| T_ShowcasePanel_OcclusionRoughnessMetallic | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_OcclusionRoughnessMetallic.json | JSON Export |
+| T_ShowcasePanel_Opacity | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_ShowcasePanel_Opacity.json | JSON Export |
+| T_Sight_RedDot_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_Sight_RedDot_BaseColor.json | JSON Export |
+| T_Sight_RedDot_Emissive | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_Sight_RedDot_Emissive.json | JSON Export |
+| T_Sight_RedDot_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_Sight_RedDot_OcclusionRoughnessMetallic.json | JSON Export |
+| T_Thumb_BP_Grenade_DynamitePack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_DynamitePack_0.json | JSON Export |
+| T_Thumb_BP_Grenade_Dynamite_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_Dynamite_0.json | JSON Export |
+| T_Thumb_BP_Grenade_Frag_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_Frag_0.json | JSON Export |
+| T_Thumb_BP_Grenade_Hand_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Grenades\T_Thumb_BP_Grenade_Hand_0.json | JSON Export |
+| T_Tiger_Skin | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\SkinTexture\T_Tiger_Skin.json | JSON Export |
+| T_VerticalTypeA_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_VerticalTypeA_BaseColor.json | JSON Export |
+| T_VerticalTypeA_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_VerticalTypeA_Normal.json | JSON Export |
+| T_VerticalTypeA_OcclusionRoughnessMetallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\CustomWeaponsPack\Textures\T_VerticalTypeA_OcclusionRoughnessMetallic.json | JSON Export |
+| T_WorkBench_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_WorkBench_BaseColor.json | JSON Export |
+| T_WorkBench_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_WorkBench_Normal.json | JSON Export |
+| T_WorkBench_OcclusionRoughnessMetallic | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\AdvanceWeaponPack\Texture\T_WorkBench_OcclusionRoughnessMetallic.json | JSON Export |
+| WoodenOar_Spiked | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenOar_Spiked.json | JSON Export |
+| WoodenSpear_ButterKnife01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_ButterKnife01.json | JSON Export |
+| WoodenSpear_CombatKnife01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_CombatKnife01.json | JSON Export |
+| WoodenSpear_Fork01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Fork01.json | JSON Export |
+| WoodenSpear_Knife01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Knife01.json | JSON Export |
+| WoodenSpear_Machete01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Machete01.json | JSON Export |
+| WoodenSpear_Scissors01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Scissors01.json | JSON Export |
+| WoodenSpear_Screwdriver01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Screwdriver01.json | JSON Export |
+| WoodenSpear_Spoon01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Spoon01.json | JSON Export |
+| WoodenSpear_Thumbtack01 | pakchunk1-Windows\Vein\Content\Vein\Meshes\Weapons\WoodenSpear_Thumbtack01.json | JSON Export |
+| ak47_empty | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\Gun_Mechanisms\ak47_empty.json | JSON Export |
+| ak47_magin | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\Gun_Mechanisms\ak47_magin.json | JSON Export |
+| ak47_magout | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\Gun_Mechanisms\ak47_magout.json | JSON Export |
+| ak_gunshot_mix_1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Firearms\AK\ak_gunshot_mix_1.json | JSON Export |
+| arms_AO | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_AO.json | JSON Export |
+| arms_Mesh | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\arms_Mesh.json | JSON Export |
+| arms_Mesh__PhysicsAsset | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\arms_Mesh__PhysicsAsset.json | JSON Export |
+| arms_dif | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_dif.json | JSON Export |
+| arms_mat | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Mats\arms_mat.json | JSON Export |
+| arms_mat | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_mat.json | JSON Export |
+| arms_norm | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\PistolAnimationsFPS\Meshes\Arms_Mesh\Textures\arms_norm.json | JSON Export |
+| grenadepin | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\grenadepin.json | JSON Export |
+| gun_cleaning_kit_latches_close1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_close1.json | JSON Export |
+| gun_cleaning_kit_latches_close2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_close2.json | JSON Export |
+| gun_cleaning_kit_latches_close3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_close3.json | JSON Export |
+| gun_cleaning_kit_latches_open1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open1.json | JSON Export |
+| gun_cleaning_kit_latches_open2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open2.json | JSON Export |
+| gun_cleaning_kit_latches_open3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open3.json | JSON Export |
+| gun_cleaning_kit_latches_open4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Cameron\Latches\gun_cleaning_kit_latches_open4.json | JSON Export |
+| gun_cleaning_kit_rummage1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage1.json | JSON Export |
+| gun_cleaning_kit_rummage2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage2.json | JSON Export |
+| gun_cleaning_kit_rummage3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage3.json | JSON Export |
+| gun_cleaning_kit_rummage4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\GunCleaning\gun_cleaning_kit_rummage4.json | JSON Export |
 
 ### Weapons Melee (354 items)
 
 | Weapon Name | Path | Source |
 |-------------|------|--------|
-| ATT_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\ATT_Melee.json | ExportedJson |
-| A_BladeFlesh_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_1.json | ExportedJson |
-| A_BladeFlesh_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_10.json | ExportedJson |
-| A_BladeFlesh_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_2.json | ExportedJson |
-| A_BladeFlesh_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_4.json | ExportedJson |
-| A_BladeFlesh_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_5.json | ExportedJson |
-| A_BladeFlesh_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_6.json | ExportedJson |
-| A_BladeFlesh_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_7.json | ExportedJson |
-| A_BladeFlesh_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_8.json | ExportedJson |
-| A_BladeFlesh_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_9.json | ExportedJson |
-| A_BladeImpact_Wood_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_1.json | ExportedJson |
-| A_BladeImpact_Wood_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_2.json | ExportedJson |
-| A_BladeImpact_Wood_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_3.json | ExportedJson |
-| A_BladeImpact_Wood_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_4.json | ExportedJson |
-| A_BluntImpact_Metal_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_1.json | ExportedJson |
-| A_BluntImpact_Metal_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_2.json | ExportedJson |
-| A_BluntImpact_Metal_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_3.json | ExportedJson |
-| A_BluntImpact_Metal_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_4.json | ExportedJson |
-| A_BluntImpact_Metal_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_5.json | ExportedJson |
-| A_BluntImpact_Metal_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_6.json | ExportedJson |
-| A_BluntImpact_Metal_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_7.json | ExportedJson |
-| A_BluntImpact_Wood_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_1.json | ExportedJson |
-| A_BluntImpact_Wood_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_2.json | ExportedJson |
-| A_BluntImpact_Wood_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_3.json | ExportedJson |
-| A_BluntImpact_Wood_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_4.json | ExportedJson |
-| A_BluntImpact_Wood_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_5.json | ExportedJson |
-| A_BluntImpact_Wood_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_6.json | ExportedJson |
-| A_Cardboard_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_1.json | ExportedJson |
-| A_Cardboard_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_2.json | ExportedJson |
-| A_Cardboard_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_3.json | ExportedJson |
-| A_Cardboard_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_4.json | ExportedJson |
-| A_Cardboard_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_5.json | ExportedJson |
-| A_Cardboard_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_6.json | ExportedJson |
-| A_Cardboard_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_7.json | ExportedJson |
-| A_Cardboard_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_8.json | ExportedJson |
-| A_IronPanImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Pan\A_IronPanImpact.json | ExportedJson |
-| A_Plaster_Melee_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_1.json | ExportedJson |
-| A_Plaster_Melee_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_2.json | ExportedJson |
-| A_Plaster_Melee_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_3.json | ExportedJson |
-| A_Plaster_Melee_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_4.json | ExportedJson |
-| A_PlasticHard_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_1.json | ExportedJson |
-| A_PlasticHard_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_2.json | ExportedJson |
-| A_PlasticHard_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_3.json | ExportedJson |
-| A_PlasticHard_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_4.json | ExportedJson |
-| A_Plastic_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_1.json | ExportedJson |
-| A_Plastic_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_2.json | ExportedJson |
-| A_Plastic_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_3.json | ExportedJson |
-| A_Plastic_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_4.json | ExportedJson |
-| A_PorcelainSmall_Melee_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_1.json | ExportedJson |
-| A_PorcelainSmall_Melee_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_2.json | ExportedJson |
-| A_PorcelainSmall_Melee_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_3.json | ExportedJson |
-| A_PorcelainSmall_Melee_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_4.json | ExportedJson |
-| A_Porcelain_Melee_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_1.json | ExportedJson |
-| A_Porcelain_Melee_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_2.json | ExportedJson |
-| A_Porcelain_Melee_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_3.json | ExportedJson |
-| A_Porcelain_Melee_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_4.json | ExportedJson |
-| Axe | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Axe.json | ExportedJson |
-| Axe_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_BaseColor.json | ExportedJson |
-| Axe_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_BaseColor.json | ExportedJson |
-| Axe_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Axe_Inst.json | ExportedJson |
-| Axe_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_Normal.json | ExportedJson |
-| Axe_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_Normal.json | ExportedJson |
-| Axe_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_RMA.json | ExportedJson |
-| Axe_RMA | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_RMA.json | ExportedJson |
-| BP_BondageWhip | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_BondageWhip.json | ExportedJson |
-| BP_MeleeChest_TheFarm | pakchunk0-Windows\Vein\Content\Vein\Containers\01Dev\BP_MeleeChest_TheFarm.json | ExportedJson |
-| BP_Melee_AxeFire | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_AxeFire.json | ExportedJson |
-| BP_Melee_AxeWood | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_AxeWood.json | ExportedJson |
-| BP_Melee_BadmintonRacket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_BadmintonRacket.json | ExportedJson |
-| BP_Melee_BarClamp | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_BarClamp.json | ExportedJson |
-| BP_Melee_BaseballBat | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_BaseballBat.json | ExportedJson |
-| BP_Melee_BaseballBatSpiked | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_BaseballBatSpiked.json | ExportedJson |
-| BP_Melee_BoltCutters | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_BoltCutters.json | ExportedJson |
-| BP_Melee_BoneMallet | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_BoneMallet.json | ExportedJson |
-| BP_Melee_BrokenBottle | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_BrokenBottle.json | ExportedJson |
-| BP_Melee_CastIronPan | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CastIronPan.json | ExportedJson |
-| BP_Melee_ClawHammer | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_ClawHammer.json | ExportedJson |
-| BP_Melee_ClawSword | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_ClawSword.json | ExportedJson |
-| BP_Melee_Cleaver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Cleaver.json | ExportedJson |
-| BP_Melee_CombatKnife | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CombatKnife.json | ExportedJson |
-| BP_Melee_CombatShovel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CombatShovel.json | ExportedJson |
-| BP_Melee_CrossHeadScrewdriver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CrossHeadScrewdriver.json | ExportedJson |
-| BP_Melee_Crowbar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Crowbar.json | ExportedJson |
-| BP_Melee_FiberglassPaddle | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_FiberglassPaddle.json | ExportedJson |
-| BP_Melee_FireHookPike | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_FireHookPike.json | ExportedJson |
-| BP_Melee_FlatHeadScrewdriver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_FlatHeadScrewdriver.json | ExportedJson |
-| BP_Melee_FoamSword | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_FoamSword.json | ExportedJson |
-| BP_Melee_Fork | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Fork.json | ExportedJson |
-| BP_Melee_FryerBasket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_FryerBasket.json | ExportedJson |
-| BP_Melee_GardenHoe | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_GardenHoe.json | ExportedJson |
-| BP_Melee_GolfClub | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_GolfClub.json | ExportedJson |
-| BP_Melee_Guitar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\BP_Melee_Guitar.json | ExportedJson |
-| BP_Melee_HockeyStick | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_HockeyStick.json | ExportedJson |
-| BP_Melee_Keyboard | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Keyboard.json | ExportedJson |
-| BP_Melee_KnifeBread | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_KnifeBread.json | ExportedJson |
-| BP_Melee_KnifeButter | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_KnifeButter.json | ExportedJson |
-| BP_Melee_LawnmowerBlade | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_LawnmowerBlade.json | ExportedJson |
-| BP_Melee_Leveler | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Leveler.json | ExportedJson |
-| BP_Melee_Machete | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Machete.json | ExportedJson |
-| BP_Melee_MarshmallowStick | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_MarshmallowStick.json | ExportedJson |
-| BP_Melee_Mop | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Mop.json | ExportedJson |
-| BP_Melee_MorningStar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_MorningStar.json | ExportedJson |
-| BP_Melee_OxygenCylinder | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_OxygenCylinder.json | ExportedJson |
-| BP_Melee_PaintBrush | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PaintBrush.json | ExportedJson |
-| BP_Melee_PaintRoller | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PaintRoller.json | ExportedJson |
-| BP_Melee_PalletJack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PalletJack.json | ExportedJson |
-| BP_Melee_Pickaxe | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Pickaxe.json | ExportedJson |
-| BP_Melee_PickaxeImproved | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PickaxeImproved.json | ExportedJson |
-| BP_Melee_PingPongRacket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_PingPongRacket.json | ExportedJson |
-| BP_Melee_Pipe | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Pipe.json | ExportedJson |
-| BP_Melee_PipeWrench | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PipeWrench.json | ExportedJson |
-| BP_Melee_PizzaPeel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PizzaPeel.json | ExportedJson |
-| BP_Melee_Plank | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\BP_Melee_Plank.json | ExportedJson |
-| BP_Melee_PlankReinforced | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\BP_Melee_PlankReinforced.json | ExportedJson |
-| BP_Melee_PlankSpiked | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_PlankSpiked.json | ExportedJson |
-| BP_Melee_PliersCombination | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PliersCombination.json | ExportedJson |
-| BP_Melee_PliersLocking | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PliersLocking.json | ExportedJson |
-| BP_Melee_PliersTongueAndGroove | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PliersTongueAndGroove.json | ExportedJson |
-| BP_Melee_Plunger | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Plunger.json | ExportedJson |
-| BP_Melee_PoliceBaton | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PoliceBaton.json | ExportedJson |
-| BP_Melee_PoolCue | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_PoolCue.json | ExportedJson |
-| BP_Melee_PropaneTank | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PropaneTank.json | ExportedJson |
-| BP_Melee_RakeMetal | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_RakeMetal.json | ExportedJson |
-| BP_Melee_RakePlastic | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_RakePlastic.json | ExportedJson |
-| BP_Melee_SaleSign | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_SaleSign.json | ExportedJson |
-| BP_Melee_SaucePot | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SaucePot.json | ExportedJson |
-| BP_Melee_SawCrosscut | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SawCrosscut.json | ExportedJson |
-| BP_Melee_SawHack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SawHack.json | ExportedJson |
-| BP_Melee_Scalpel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Scalpel.json | ExportedJson |
-| BP_Melee_Scissors | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Scissors.json | ExportedJson |
-| BP_Melee_Shiv | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_Shiv.json | ExportedJson |
-| BP_Melee_Shovel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Shovel.json | ExportedJson |
-| BP_Melee_SledgeHammer | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SledgeHammer.json | ExportedJson |
-| BP_Melee_SledgehammerMini | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SledgehammerMini.json | ExportedJson |
-| BP_Melee_Spatula | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Spatula.json | ExportedJson |
-| BP_Melee_Spoon | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Spoon.json | ExportedJson |
-| BP_Melee_SteelChair | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_SteelChair.json | ExportedJson |
-| BP_Melee_StraightRazor | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_StraightRazor.json | ExportedJson |
-| BP_Melee_Strainer | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Strainer.json | ExportedJson |
-| BP_Melee_TennisRacket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_TennisRacket.json | ExportedJson |
-| BP_Melee_Thumbtack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Thumbtack.json | ExportedJson |
-| BP_Melee_Tomahawk | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Tomahawk.json | ExportedJson |
-| BP_Melee_Trumpet | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\BP_Melee_Trumpet.json | ExportedJson |
-| BP_Melee_Violin | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\BP_Melee_Violin.json | ExportedJson |
-| BP_Melee_WetFloorSign | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_WetFloorSign.json | ExportedJson |
-| BP_Melee_Whisk | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Whisk.json | ExportedJson |
-| BP_Melee_WoodenOar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_WoodenOar.json | ExportedJson |
-| BP_Melee_WoodenOarSpiked | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenOarSpiked.json | ExportedJson |
-| BP_Melee_WoodenSpear | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpear.json | ExportedJson |
-| BP_Melee_WoodenSpearButterKnife | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearButterKnife.json | ExportedJson |
-| BP_Melee_WoodenSpearCombatKnife | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearCombatKnife.json | ExportedJson |
-| BP_Melee_WoodenSpearFork | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearFork.json | ExportedJson |
-| BP_Melee_WoodenSpearKnife | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearKnife.json | ExportedJson |
-| BP_Melee_WoodenSpearMachete | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearMachete.json | ExportedJson |
-| BP_Melee_WoodenSpearScissors | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearScissors.json | ExportedJson |
-| BP_Melee_WoodenSpearScrewdriver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearScrewdriver.json | ExportedJson |
-| BP_Melee_WoodenSpearSpoon | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearSpoon.json | ExportedJson |
-| BP_Melee_WoodenSpearThumbtack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearThumbtack.json | ExportedJson |
-| BP_Melee_WoodenSpoon | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_WoodenSpoon.json | ExportedJson |
-| BP_Melee_Wrench | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Wrench.json | ExportedJson |
-| ClawHammer | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\ClawHammer.json | ExportedJson |
-| ClawHammer_BaseColor | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\ClawHammer_BaseColor.json | ExportedJson |
-| ClawHammer_Inst | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\ClawHammer_Inst.json | ExportedJson |
-| ClawHammer_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\ClawHammer_Normal.json | ExportedJson |
-| ClawHammer_RMA | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\ClawHammer_RMA.json | ExportedJson |
-| Cleaver | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Cleaver.json | ExportedJson |
-| Cleaver_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Cleaver_BaseColor.json | ExportedJson |
-| Cleaver_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Cleaver_Inst.json | ExportedJson |
-| Cleaver_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Cleaver_Normal.json | ExportedJson |
-| Cleaver_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Cleaver_RMA.json | ExportedJson |
-| FulcrumBayonet | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\FulcrumBayonet.json | ExportedJson |
-| FulcrumBayonet_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\FulcrumBayonet_BaseColor.json | ExportedJson |
-| FulcrumBayonet_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\FulcrumBayonet_Inst.json | ExportedJson |
-| FulcrumBayonet_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\FulcrumBayonet_Normal.json | ExportedJson |
-| FulcrumBayonet_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\FulcrumBayonet_RMA.json | ExportedJson |
-| GC_Axe | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\GC_Axe.json | ExportedJson |
-| GC_Cleaver | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\GC_Cleaver.json | ExportedJson |
-| GC_hammerC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\GC_hammerC.json | ExportedJson |
-| ILC_AllMeleeWeapons | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllMeleeWeapons.json | ExportedJson |
-| IL_AllMeleeWeapons | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\01Dev\IL_AllMeleeWeapons.json | ExportedJson |
-| MI_sword_04 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\materials\MI_sword_04.json | ExportedJson |
-| MI_sword_05 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\materials\MI_sword_05.json | ExportedJson |
-| M_Props | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\materials\M_Props.json | ExportedJson |
-| Machete | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Machete.json | ExportedJson |
-| Machete_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Machete_BaseColor.json | ExportedJson |
-| Machete_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Machete_Inst.json | ExportedJson |
-| Machete_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Machete_Normal.json | ExportedJson |
-| Machete_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Machete_RMA.json | ExportedJson |
-| Master_Material | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Master_Material.json | ExportedJson |
-| Master_Material | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Master_Material.json | ExportedJson |
-| MeleeHit1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit1.json | ExportedJson |
-| MeleeHit1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit1.json | ExportedJson |
-| MeleeHit2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit2.json | ExportedJson |
-| MeleeHit2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit2.json | ExportedJson |
-| MeleeHit3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit3.json | ExportedJson |
-| MeleeHit3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit3.json | ExportedJson |
-| MeleeHit4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit4.json | ExportedJson |
-| MeleeHit4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit4.json | ExportedJson |
-| Pipe | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Pipe.json | ExportedJson |
-| PipeWrench | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\PipeWrench.json | ExportedJson |
-| PipeWrench_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\PipeWrench_BaseColor.json | ExportedJson |
-| PipeWrench_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\PipeWrench_Inst.json | ExportedJson |
-| PipeWrench_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\PipeWrench_Normal.json | ExportedJson |
-| PipeWrench_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\PipeWrench_RMA.json | ExportedJson |
-| Pipe_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_BaseColor.json | ExportedJson |
-| Pipe_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_BaseColor.json | ExportedJson |
-| Pipe_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Pipe_Inst.json | ExportedJson |
-| Pipe_Inst | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Pipe_Inst.json | ExportedJson |
-| Pipe_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_Normal.json | ExportedJson |
-| Pipe_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_Normal.json | ExportedJson |
-| Pipe_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_RMA.json | ExportedJson |
-| Pipe_RMA | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_RMA.json | ExportedJson |
-| SC_BladeFlesh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\SC_BladeFlesh.json | ExportedJson |
-| SC_BladeImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_BladeImpact_Wood.json | ExportedJson |
-| SC_BluntImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_BluntImpact_Wood.json | ExportedJson |
-| SC_Cardboard_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\SC_Cardboard_Melee.json | ExportedJson |
-| SC_IronPanImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Pan\SC_IronPanImpact.json | ExportedJson |
-| SC_MeleeHit1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\SC_MeleeHit1.json | ExportedJson |
-| SC_MeleeHit1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\SC_MeleeHit1.json | ExportedJson |
-| SC_MeleeSwing | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_MeleeSwing.json | ExportedJson |
-| SC_MetalBlunt | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_MetalBlunt.json | ExportedJson |
-| SC_MineRock | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Mining\SC_MineRock.json | ExportedJson |
-| SC_Plaster_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\SC_Plaster_Melee.json | ExportedJson |
-| SC_PlasticHard_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\SC_PlasticHard_Melee.json | ExportedJson |
-| SC_Plastic_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\SC_Plastic_Melee.json | ExportedJson |
-| SC_PorcelainSmall_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\SC_PorcelainSmall_Melee.json | ExportedJson |
-| SC_Porcelain_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\SC_Porcelain_Melee.json | ExportedJson |
-| SC_SmallBladed_Impact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\SmallBlunt\SC_SmallBladed_Impact.json | ExportedJson |
-| SC_SwordHitFlesh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Sword\SC_SwordHitFlesh.json | ExportedJson |
-| SC_SwordHitMetal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Sword\SC_SwordHitMetal.json | ExportedJson |
-| SC_SwordWhoosh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Sword\SC_SwordWhoosh.json | ExportedJson |
-| SM_pa_sword_30 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\meshes\Swords\SM_pa_sword_30.json | ExportedJson |
-| Shovel | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Shovel.json | ExportedJson |
-| Shovel_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Shovel_BaseColor.json | ExportedJson |
-| Shovel_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Shovel_Inst.json | ExportedJson |
-| Shovel_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Shovel_Normal.json | ExportedJson |
-| Shovel_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Shovel_RMA.json | ExportedJson |
-| T_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\dummy\T_BC.json | ExportedJson |
-| T_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\dummy\T_N.json | ExportedJson |
-| T_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\dummy\T_ORM.json | ExportedJson |
-| T_Thumb_BP_BondageWhip_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_BondageWhip_0.json | ExportedJson |
-| T_Thumb_BP_Melee_AxeFire_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_AxeFire_0.json | ExportedJson |
-| T_Thumb_BP_Melee_AxeWood_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_AxeWood_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BadmintonRacket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_BadmintonRacket_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BarClamp_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_BarClamp_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BaseballBatSpiked_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_BaseballBatSpiked_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BaseballBat_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_BaseballBat_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BoltCutters_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_BoltCutters_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BoneMallet_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_BoneMallet_0.json | ExportedJson |
-| T_Thumb_BP_Melee_BrokenBottle_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_BrokenBottle_0.json | ExportedJson |
-| T_Thumb_BP_Melee_CastIronPan_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CastIronPan_0.json | ExportedJson |
-| T_Thumb_BP_Melee_ClawHammer_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_ClawHammer_0.json | ExportedJson |
-| T_Thumb_BP_Melee_ClawSword_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_ClawSword_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Cleaver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Cleaver_0.json | ExportedJson |
-| T_Thumb_BP_Melee_CombatKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CombatKnife_0.json | ExportedJson |
-| T_Thumb_BP_Melee_CombatShovel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CombatShovel_0.json | ExportedJson |
-| T_Thumb_BP_Melee_CrossHeadScrewdriver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CrossHeadScrewdriver_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Crowbar_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Crowbar_0.json | ExportedJson |
-| T_Thumb_BP_Melee_FiberglassPaddle_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_FiberglassPaddle_0.json | ExportedJson |
-| T_Thumb_BP_Melee_FireHookPike_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_FireHookPike_0.json | ExportedJson |
-| T_Thumb_BP_Melee_FlatHeadScrewdriver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_FlatHeadScrewdriver_0.json | ExportedJson |
-| T_Thumb_BP_Melee_FoamSword_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_FoamSword_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Fork_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Fork_0.json | ExportedJson |
-| T_Thumb_BP_Melee_FryerBasket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_FryerBasket_0.json | ExportedJson |
-| T_Thumb_BP_Melee_GardenHoe_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_GardenHoe_0.json | ExportedJson |
-| T_Thumb_BP_Melee_GolfClub_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_GolfClub_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Guitar_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\T_Thumb_BP_Melee_Guitar_0.json | ExportedJson |
-| T_Thumb_BP_Melee_HockeyStick_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_HockeyStick_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Keyboard_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Keyboard_0.json | ExportedJson |
-| T_Thumb_BP_Melee_KnifeBread_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_KnifeBread_0.json | ExportedJson |
-| T_Thumb_BP_Melee_KnifeButter_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_KnifeButter_0.json | ExportedJson |
-| T_Thumb_BP_Melee_LawnmowerBlade_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_LawnmowerBlade_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Leveler_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Leveler_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Machete_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Machete_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Mop_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Mop_0.json | ExportedJson |
-| T_Thumb_BP_Melee_OxygenCylinder_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_OxygenCylinder_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PaintBrush_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PaintBrush_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PaintRoller_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PaintRoller_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PalletJack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PalletJack_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Pickaxe_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Pickaxe_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PingPongRacket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_PingPongRacket_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PipeWrench_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PipeWrench_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Pipe_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Pipe_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PlankReinforced_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\T_Thumb_BP_Melee_PlankReinforced_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PlankSpiked_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_PlankSpiked_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Plank_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\T_Thumb_BP_Melee_Plank_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PliersCombination_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PliersCombination_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PliersLocking_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PliersLocking_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PliersTongueAndGroove_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PliersTongueAndGroove_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Plunger_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Plunger_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PoliceBaton_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PoliceBaton_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PoolCue_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_PoolCue_0.json | ExportedJson |
-| T_Thumb_BP_Melee_PropaneTank_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PropaneTank_0.json | ExportedJson |
-| T_Thumb_BP_Melee_RakeMetal_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_RakeMetal_0.json | ExportedJson |
-| T_Thumb_BP_Melee_RakePlastic_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_RakePlastic_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SaleSign_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_SaleSign_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SaucePot_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SaucePot_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SawCrosscut_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SawCrosscut_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SawHack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SawHack_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Scalpel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Scalpel_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Scissors_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Scissors_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Shovel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Shovel_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SledgeHammer_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SledgeHammer_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SledgehammerMini_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SledgehammerMini_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Spatula_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Spatula_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Spoon_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Spoon_0.json | ExportedJson |
-| T_Thumb_BP_Melee_SteelChair_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_SteelChair_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Strainer_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Strainer_0.json | ExportedJson |
-| T_Thumb_BP_Melee_TennisRacket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_TennisRacket_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Thumbtack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Thumbtack_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Tomahawk_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Tomahawk_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Trumpet_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\T_Thumb_BP_Melee_Trumpet_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Violin_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\T_Thumb_BP_Melee_Violin_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WetFloorSign_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_WetFloorSign_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Whisk_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Whisk_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenOarSpiked_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenOarSpiked_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenOar_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_WoodenOar_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearButterKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearButterKnife_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearCombatKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearCombatKnife_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearFork_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearFork_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearKnife_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearMachete_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearMachete_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearScissors_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearScissors_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearScrewdriver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearScrewdriver_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearSpoon_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearSpoon_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpearThumbtack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearThumbtack_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpear_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpear_0.json | ExportedJson |
-| T_Thumb_BP_Melee_WoodenSpoon_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_WoodenSpoon_0.json | ExportedJson |
-| T_Thumb_BP_Melee_Wrench_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Wrench_0.json | ExportedJson |
-| T_pa_sword_04_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_04\T_pa_sword_04_BC.json | ExportedJson |
-| T_pa_sword_04_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_04\T_pa_sword_04_N.json | ExportedJson |
-| T_pa_sword_04_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_04\T_pa_sword_04_ORM.json | ExportedJson |
-| T_pa_sword_05_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_05\T_pa_sword_05_BC.json | ExportedJson |
-| T_pa_sword_05_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_05\T_pa_sword_05_N.json | ExportedJson |
-| T_pa_sword_05_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_05\T_pa_sword_05_ORM.json | ExportedJson |
-| TomaHawk_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\TomaHawk_BaseColor.json | ExportedJson |
-| TomaHawk_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\TomaHawk_Inst.json | ExportedJson |
-| TomaHawk_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\TomaHawk_Normal.json | ExportedJson |
-| TomaHawk_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\TomaHawk_RMA.json | ExportedJson |
-| Tomahawk | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Tomahawk.json | ExportedJson |
-| axeA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\axeA.json | ExportedJson |
-| crowbarA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\crowbarA.json | ExportedJson |
-| hammerC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\hammerC.json | ExportedJson |
-| hammers_tool_a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Materials\hammers_tool_a.json | ExportedJson |
-| hammers_tool_a_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_BaseColor.json | ExportedJson |
-| hammers_tool_a_Metallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_Metallic.json | ExportedJson |
-| hammers_tool_a_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_Normal.json | ExportedJson |
-| hammers_tool_a_Roughness | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_Roughness.json | ExportedJson |
-| toolsA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Materials\toolsA.json | ExportedJson |
-| tools_a_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_BaseColor.json | ExportedJson |
-| tools_a_Metallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_Metallic.json | ExportedJson |
-| tools_a_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_Normal.json | ExportedJson |
-| tools_a_Roughness | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_Roughness.json | ExportedJson |
-| viperaA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\viperaA.json | ExportedJson |
+| ATT_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\ATT_Melee.json | JSON Export |
+| A_BladeFlesh_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_1.json | JSON Export |
+| A_BladeFlesh_10 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_10.json | JSON Export |
+| A_BladeFlesh_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_2.json | JSON Export |
+| A_BladeFlesh_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_4.json | JSON Export |
+| A_BladeFlesh_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_5.json | JSON Export |
+| A_BladeFlesh_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_6.json | JSON Export |
+| A_BladeFlesh_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_7.json | JSON Export |
+| A_BladeFlesh_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_8.json | JSON Export |
+| A_BladeFlesh_9 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\A_BladeFlesh_9.json | JSON Export |
+| A_BladeImpact_Wood_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_1.json | JSON Export |
+| A_BladeImpact_Wood_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_2.json | JSON Export |
+| A_BladeImpact_Wood_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_3.json | JSON Export |
+| A_BladeImpact_Wood_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BladeImpact_Wood_4.json | JSON Export |
+| A_BluntImpact_Metal_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_1.json | JSON Export |
+| A_BluntImpact_Metal_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_2.json | JSON Export |
+| A_BluntImpact_Metal_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_3.json | JSON Export |
+| A_BluntImpact_Metal_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_4.json | JSON Export |
+| A_BluntImpact_Metal_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_5.json | JSON Export |
+| A_BluntImpact_Metal_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_6.json | JSON Export |
+| A_BluntImpact_Metal_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Metal_7.json | JSON Export |
+| A_BluntImpact_Wood_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_1.json | JSON Export |
+| A_BluntImpact_Wood_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_2.json | JSON Export |
+| A_BluntImpact_Wood_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_3.json | JSON Export |
+| A_BluntImpact_Wood_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_4.json | JSON Export |
+| A_BluntImpact_Wood_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_5.json | JSON Export |
+| A_BluntImpact_Wood_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\A_BluntImpact_Wood_6.json | JSON Export |
+| A_Cardboard_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_1.json | JSON Export |
+| A_Cardboard_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_2.json | JSON Export |
+| A_Cardboard_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_3.json | JSON Export |
+| A_Cardboard_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_4.json | JSON Export |
+| A_Cardboard_5 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_5.json | JSON Export |
+| A_Cardboard_6 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_6.json | JSON Export |
+| A_Cardboard_7 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_7.json | JSON Export |
+| A_Cardboard_8 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\A_Cardboard_8.json | JSON Export |
+| A_IronPanImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Pan\A_IronPanImpact.json | JSON Export |
+| A_Plaster_Melee_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_1.json | JSON Export |
+| A_Plaster_Melee_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_2.json | JSON Export |
+| A_Plaster_Melee_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_3.json | JSON Export |
+| A_Plaster_Melee_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\A_Plaster_Melee_4.json | JSON Export |
+| A_PlasticHard_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_1.json | JSON Export |
+| A_PlasticHard_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_2.json | JSON Export |
+| A_PlasticHard_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_3.json | JSON Export |
+| A_PlasticHard_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_PlasticHard_4.json | JSON Export |
+| A_Plastic_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_1.json | JSON Export |
+| A_Plastic_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_2.json | JSON Export |
+| A_Plastic_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_3.json | JSON Export |
+| A_Plastic_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\A_Plastic_4.json | JSON Export |
+| A_PorcelainSmall_Melee_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_1.json | JSON Export |
+| A_PorcelainSmall_Melee_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_2.json | JSON Export |
+| A_PorcelainSmall_Melee_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_3.json | JSON Export |
+| A_PorcelainSmall_Melee_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_PorcelainSmall_Melee_4.json | JSON Export |
+| A_Porcelain_Melee_1 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_1.json | JSON Export |
+| A_Porcelain_Melee_2 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_2.json | JSON Export |
+| A_Porcelain_Melee_3 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_3.json | JSON Export |
+| A_Porcelain_Melee_4 | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\A_Porcelain_Melee_4.json | JSON Export |
+| Axe | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Axe.json | JSON Export |
+| Axe_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_BaseColor.json | JSON Export |
+| Axe_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_BaseColor.json | JSON Export |
+| Axe_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Axe_Inst.json | JSON Export |
+| Axe_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_Normal.json | JSON Export |
+| Axe_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_Normal.json | JSON Export |
+| Axe_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_RMA.json | JSON Export |
+| Axe_RMA | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Axe_RMA.json | JSON Export |
+| BP_BondageWhip | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_BondageWhip.json | JSON Export |
+| BP_MeleeChest_TheFarm | pakchunk0-Windows\Vein\Content\Vein\Containers\01Dev\BP_MeleeChest_TheFarm.json | JSON Export |
+| BP_Melee_AxeFire | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_AxeFire.json | JSON Export |
+| BP_Melee_AxeWood | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_AxeWood.json | JSON Export |
+| BP_Melee_BadmintonRacket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_BadmintonRacket.json | JSON Export |
+| BP_Melee_BarClamp | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_BarClamp.json | JSON Export |
+| BP_Melee_BaseballBat | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_BaseballBat.json | JSON Export |
+| BP_Melee_BaseballBatSpiked | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_BaseballBatSpiked.json | JSON Export |
+| BP_Melee_BoltCutters | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_BoltCutters.json | JSON Export |
+| BP_Melee_BoneMallet | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_BoneMallet.json | JSON Export |
+| BP_Melee_BrokenBottle | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_BrokenBottle.json | JSON Export |
+| BP_Melee_CastIronPan | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CastIronPan.json | JSON Export |
+| BP_Melee_ClawHammer | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_ClawHammer.json | JSON Export |
+| BP_Melee_ClawSword | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_ClawSword.json | JSON Export |
+| BP_Melee_Cleaver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Cleaver.json | JSON Export |
+| BP_Melee_CombatKnife | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CombatKnife.json | JSON Export |
+| BP_Melee_CombatShovel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CombatShovel.json | JSON Export |
+| BP_Melee_CrossHeadScrewdriver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_CrossHeadScrewdriver.json | JSON Export |
+| BP_Melee_Crowbar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Crowbar.json | JSON Export |
+| BP_Melee_FiberglassPaddle | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_FiberglassPaddle.json | JSON Export |
+| BP_Melee_FireHookPike | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_FireHookPike.json | JSON Export |
+| BP_Melee_FlatHeadScrewdriver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_FlatHeadScrewdriver.json | JSON Export |
+| BP_Melee_FoamSword | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_FoamSword.json | JSON Export |
+| BP_Melee_Fork | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Fork.json | JSON Export |
+| BP_Melee_FryerBasket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_FryerBasket.json | JSON Export |
+| BP_Melee_GardenHoe | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_GardenHoe.json | JSON Export |
+| BP_Melee_GolfClub | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_GolfClub.json | JSON Export |
+| BP_Melee_Guitar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\BP_Melee_Guitar.json | JSON Export |
+| BP_Melee_HockeyStick | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_HockeyStick.json | JSON Export |
+| BP_Melee_Keyboard | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Keyboard.json | JSON Export |
+| BP_Melee_KnifeBread | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_KnifeBread.json | JSON Export |
+| BP_Melee_KnifeButter | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_KnifeButter.json | JSON Export |
+| BP_Melee_LawnmowerBlade | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_LawnmowerBlade.json | JSON Export |
+| BP_Melee_Leveler | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Leveler.json | JSON Export |
+| BP_Melee_Machete | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Machete.json | JSON Export |
+| BP_Melee_MarshmallowStick | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_MarshmallowStick.json | JSON Export |
+| BP_Melee_Mop | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Mop.json | JSON Export |
+| BP_Melee_MorningStar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_MorningStar.json | JSON Export |
+| BP_Melee_OxygenCylinder | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_OxygenCylinder.json | JSON Export |
+| BP_Melee_PaintBrush | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PaintBrush.json | JSON Export |
+| BP_Melee_PaintRoller | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PaintRoller.json | JSON Export |
+| BP_Melee_PalletJack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PalletJack.json | JSON Export |
+| BP_Melee_Pickaxe | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Pickaxe.json | JSON Export |
+| BP_Melee_PickaxeImproved | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PickaxeImproved.json | JSON Export |
+| BP_Melee_PingPongRacket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_PingPongRacket.json | JSON Export |
+| BP_Melee_Pipe | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Pipe.json | JSON Export |
+| BP_Melee_PipeWrench | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PipeWrench.json | JSON Export |
+| BP_Melee_PizzaPeel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PizzaPeel.json | JSON Export |
+| BP_Melee_Plank | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\BP_Melee_Plank.json | JSON Export |
+| BP_Melee_PlankReinforced | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\BP_Melee_PlankReinforced.json | JSON Export |
+| BP_Melee_PlankSpiked | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_PlankSpiked.json | JSON Export |
+| BP_Melee_PliersCombination | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PliersCombination.json | JSON Export |
+| BP_Melee_PliersLocking | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PliersLocking.json | JSON Export |
+| BP_Melee_PliersTongueAndGroove | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_PliersTongueAndGroove.json | JSON Export |
+| BP_Melee_Plunger | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Plunger.json | JSON Export |
+| BP_Melee_PoliceBaton | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PoliceBaton.json | JSON Export |
+| BP_Melee_PoolCue | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_PoolCue.json | JSON Export |
+| BP_Melee_PropaneTank | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_PropaneTank.json | JSON Export |
+| BP_Melee_RakeMetal | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_RakeMetal.json | JSON Export |
+| BP_Melee_RakePlastic | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_RakePlastic.json | JSON Export |
+| BP_Melee_SaleSign | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_SaleSign.json | JSON Export |
+| BP_Melee_SaucePot | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SaucePot.json | JSON Export |
+| BP_Melee_SawCrosscut | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SawCrosscut.json | JSON Export |
+| BP_Melee_SawHack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SawHack.json | JSON Export |
+| BP_Melee_Scalpel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Scalpel.json | JSON Export |
+| BP_Melee_Scissors | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Scissors.json | JSON Export |
+| BP_Melee_Shiv | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_Shiv.json | JSON Export |
+| BP_Melee_Shovel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Shovel.json | JSON Export |
+| BP_Melee_SledgeHammer | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SledgeHammer.json | JSON Export |
+| BP_Melee_SledgehammerMini | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_SledgehammerMini.json | JSON Export |
+| BP_Melee_Spatula | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Spatula.json | JSON Export |
+| BP_Melee_Spoon | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Spoon.json | JSON Export |
+| BP_Melee_SteelChair | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_SteelChair.json | JSON Export |
+| BP_Melee_StraightRazor | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_StraightRazor.json | JSON Export |
+| BP_Melee_Strainer | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Strainer.json | JSON Export |
+| BP_Melee_TennisRacket | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_TennisRacket.json | JSON Export |
+| BP_Melee_Thumbtack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Thumbtack.json | JSON Export |
+| BP_Melee_Tomahawk | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Tomahawk.json | JSON Export |
+| BP_Melee_Trumpet | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\BP_Melee_Trumpet.json | JSON Export |
+| BP_Melee_Violin | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\BP_Melee_Violin.json | JSON Export |
+| BP_Melee_WetFloorSign | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_WetFloorSign.json | JSON Export |
+| BP_Melee_Whisk | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_Whisk.json | JSON Export |
+| BP_Melee_WoodenOar | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\BP_Melee_WoodenOar.json | JSON Export |
+| BP_Melee_WoodenOarSpiked | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenOarSpiked.json | JSON Export |
+| BP_Melee_WoodenSpear | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpear.json | JSON Export |
+| BP_Melee_WoodenSpearButterKnife | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearButterKnife.json | JSON Export |
+| BP_Melee_WoodenSpearCombatKnife | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearCombatKnife.json | JSON Export |
+| BP_Melee_WoodenSpearFork | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearFork.json | JSON Export |
+| BP_Melee_WoodenSpearKnife | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearKnife.json | JSON Export |
+| BP_Melee_WoodenSpearMachete | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearMachete.json | JSON Export |
+| BP_Melee_WoodenSpearScissors | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearScissors.json | JSON Export |
+| BP_Melee_WoodenSpearScrewdriver | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearScrewdriver.json | JSON Export |
+| BP_Melee_WoodenSpearSpoon | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearSpoon.json | JSON Export |
+| BP_Melee_WoodenSpearThumbtack | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\BP_Melee_WoodenSpearThumbtack.json | JSON Export |
+| BP_Melee_WoodenSpoon | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\BP_Melee_WoodenSpoon.json | JSON Export |
+| BP_Melee_Wrench | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\BP_Melee_Wrench.json | JSON Export |
+| ClawHammer | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\ClawHammer.json | JSON Export |
+| ClawHammer_BaseColor | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\ClawHammer_BaseColor.json | JSON Export |
+| ClawHammer_Inst | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\ClawHammer_Inst.json | JSON Export |
+| ClawHammer_Normal | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\ClawHammer_Normal.json | JSON Export |
+| ClawHammer_RMA | pakchunk0-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\ClawHammer_RMA.json | JSON Export |
+| Cleaver | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Cleaver.json | JSON Export |
+| Cleaver_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Cleaver_BaseColor.json | JSON Export |
+| Cleaver_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Cleaver_Inst.json | JSON Export |
+| Cleaver_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Cleaver_Normal.json | JSON Export |
+| Cleaver_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Cleaver_RMA.json | JSON Export |
+| FulcrumBayonet | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\FulcrumBayonet.json | JSON Export |
+| FulcrumBayonet_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\FulcrumBayonet_BaseColor.json | JSON Export |
+| FulcrumBayonet_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\FulcrumBayonet_Inst.json | JSON Export |
+| FulcrumBayonet_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\FulcrumBayonet_Normal.json | JSON Export |
+| FulcrumBayonet_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\FulcrumBayonet_RMA.json | JSON Export |
+| GC_Axe | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\GC_Axe.json | JSON Export |
+| GC_Cleaver | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\GC_Cleaver.json | JSON Export |
+| GC_hammerC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\GC_hammerC.json | JSON Export |
+| ILC_AllMeleeWeapons | pakchunk10-Windows\Vein\Content\Vein\Spawnlists\ItemListCollections\01Dev\ILC_AllMeleeWeapons.json | JSON Export |
+| IL_AllMeleeWeapons | pakchunk9-Windows\Vein\Content\Vein\Spawnlists\ItemLists\01Dev\IL_AllMeleeWeapons.json | JSON Export |
+| MI_sword_04 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\materials\MI_sword_04.json | JSON Export |
+| MI_sword_05 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\materials\MI_sword_05.json | JSON Export |
+| M_Props | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\materials\M_Props.json | JSON Export |
+| Machete | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Machete.json | JSON Export |
+| Machete_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Machete_BaseColor.json | JSON Export |
+| Machete_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Machete_Inst.json | JSON Export |
+| Machete_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Machete_Normal.json | JSON Export |
+| Machete_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Machete_RMA.json | JSON Export |
+| Master_Material | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Master_Material.json | JSON Export |
+| Master_Material | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Master_Material.json | JSON Export |
+| MeleeHit1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit1.json | JSON Export |
+| MeleeHit1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit1.json | JSON Export |
+| MeleeHit2 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit2.json | JSON Export |
+| MeleeHit2 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit2.json | JSON Export |
+| MeleeHit3 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit3.json | JSON Export |
+| MeleeHit3 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit3.json | JSON Export |
+| MeleeHit4 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit4.json | JSON Export |
+| MeleeHit4 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\MeleeHit4.json | JSON Export |
+| Pipe | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Pipe.json | JSON Export |
+| PipeWrench | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\PipeWrench.json | JSON Export |
+| PipeWrench_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\PipeWrench_BaseColor.json | JSON Export |
+| PipeWrench_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\PipeWrench_Inst.json | JSON Export |
+| PipeWrench_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\PipeWrench_Normal.json | JSON Export |
+| PipeWrench_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\PipeWrench_RMA.json | JSON Export |
+| Pipe_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_BaseColor.json | JSON Export |
+| Pipe_BaseColor | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_BaseColor.json | JSON Export |
+| Pipe_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Pipe_Inst.json | JSON Export |
+| Pipe_Inst | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Pipe_Inst.json | JSON Export |
+| Pipe_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_Normal.json | JSON Export |
+| Pipe_Normal | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_Normal.json | JSON Export |
+| Pipe_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_RMA.json | JSON Export |
+| Pipe_RMA | pakchunk13-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Pipe_RMA.json | JSON Export |
+| SC_BladeFlesh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Blade\SC_BladeFlesh.json | JSON Export |
+| SC_BladeImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_BladeImpact_Wood.json | JSON Export |
+| SC_BluntImpact_Wood | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_BluntImpact_Wood.json | JSON Export |
+| SC_Cardboard_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Cardboard\SC_Cardboard_Melee.json | JSON Export |
+| SC_IronPanImpact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Pan\SC_IronPanImpact.json | JSON Export |
+| SC_MeleeHit1 | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\SC_MeleeHit1.json | JSON Export |
+| SC_MeleeHit1 | pakchunk13-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\Original\SC_MeleeHit1.json | JSON Export |
+| SC_MeleeSwing | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_MeleeSwing.json | JSON Export |
+| SC_MetalBlunt | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\General\SC_MetalBlunt.json | JSON Export |
+| SC_MineRock | pakchunk1-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Mining\SC_MineRock.json | JSON Export |
+| SC_Plaster_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plaster\SC_Plaster_Melee.json | JSON Export |
+| SC_PlasticHard_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\SC_PlasticHard_Melee.json | JSON Export |
+| SC_Plastic_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Plastic\SC_Plastic_Melee.json | JSON Export |
+| SC_PorcelainSmall_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\SC_PorcelainSmall_Melee.json | JSON Export |
+| SC_Porcelain_Melee | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Porcelain\SC_Porcelain_Melee.json | JSON Export |
+| SC_SmallBladed_Impact | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\SmallBlunt\SC_SmallBladed_Impact.json | JSON Export |
+| SC_SwordHitFlesh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Sword\SC_SwordHitFlesh.json | JSON Export |
+| SC_SwordHitMetal | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Sword\SC_SwordHitMetal.json | JSON Export |
+| SC_SwordWhoosh | pakchunk0-Windows\Vein\Content\Vein\Audio\Effects\Weapons\Melee\Sword\SC_SwordWhoosh.json | JSON Export |
+| SM_pa_sword_30 | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\meshes\Swords\SM_pa_sword_30.json | JSON Export |
+| Shovel | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Shovel.json | JSON Export |
+| Shovel_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Shovel_BaseColor.json | JSON Export |
+| Shovel_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\Shovel_Inst.json | JSON Export |
+| Shovel_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Shovel_Normal.json | JSON Export |
+| Shovel_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\Shovel_RMA.json | JSON Export |
+| T_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\dummy\T_BC.json | JSON Export |
+| T_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\dummy\T_N.json | JSON Export |
+| T_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\dummy\T_ORM.json | JSON Export |
+| T_Thumb_BP_BondageWhip_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_BondageWhip_0.json | JSON Export |
+| T_Thumb_BP_Melee_AxeFire_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_AxeFire_0.json | JSON Export |
+| T_Thumb_BP_Melee_AxeWood_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_AxeWood_0.json | JSON Export |
+| T_Thumb_BP_Melee_BadmintonRacket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_BadmintonRacket_0.json | JSON Export |
+| T_Thumb_BP_Melee_BarClamp_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_BarClamp_0.json | JSON Export |
+| T_Thumb_BP_Melee_BaseballBatSpiked_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_BaseballBatSpiked_0.json | JSON Export |
+| T_Thumb_BP_Melee_BaseballBat_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_BaseballBat_0.json | JSON Export |
+| T_Thumb_BP_Melee_BoltCutters_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_BoltCutters_0.json | JSON Export |
+| T_Thumb_BP_Melee_BoneMallet_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_BoneMallet_0.json | JSON Export |
+| T_Thumb_BP_Melee_BrokenBottle_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_BrokenBottle_0.json | JSON Export |
+| T_Thumb_BP_Melee_CastIronPan_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CastIronPan_0.json | JSON Export |
+| T_Thumb_BP_Melee_ClawHammer_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_ClawHammer_0.json | JSON Export |
+| T_Thumb_BP_Melee_ClawSword_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_ClawSword_0.json | JSON Export |
+| T_Thumb_BP_Melee_Cleaver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Cleaver_0.json | JSON Export |
+| T_Thumb_BP_Melee_CombatKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CombatKnife_0.json | JSON Export |
+| T_Thumb_BP_Melee_CombatShovel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CombatShovel_0.json | JSON Export |
+| T_Thumb_BP_Melee_CrossHeadScrewdriver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_CrossHeadScrewdriver_0.json | JSON Export |
+| T_Thumb_BP_Melee_Crowbar_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Crowbar_0.json | JSON Export |
+| T_Thumb_BP_Melee_FiberglassPaddle_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_FiberglassPaddle_0.json | JSON Export |
+| T_Thumb_BP_Melee_FireHookPike_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_FireHookPike_0.json | JSON Export |
+| T_Thumb_BP_Melee_FlatHeadScrewdriver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_FlatHeadScrewdriver_0.json | JSON Export |
+| T_Thumb_BP_Melee_FoamSword_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_FoamSword_0.json | JSON Export |
+| T_Thumb_BP_Melee_Fork_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Fork_0.json | JSON Export |
+| T_Thumb_BP_Melee_FryerBasket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_FryerBasket_0.json | JSON Export |
+| T_Thumb_BP_Melee_GardenHoe_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_GardenHoe_0.json | JSON Export |
+| T_Thumb_BP_Melee_GolfClub_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_GolfClub_0.json | JSON Export |
+| T_Thumb_BP_Melee_Guitar_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\T_Thumb_BP_Melee_Guitar_0.json | JSON Export |
+| T_Thumb_BP_Melee_HockeyStick_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_HockeyStick_0.json | JSON Export |
+| T_Thumb_BP_Melee_Keyboard_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Keyboard_0.json | JSON Export |
+| T_Thumb_BP_Melee_KnifeBread_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_KnifeBread_0.json | JSON Export |
+| T_Thumb_BP_Melee_KnifeButter_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_KnifeButter_0.json | JSON Export |
+| T_Thumb_BP_Melee_LawnmowerBlade_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_LawnmowerBlade_0.json | JSON Export |
+| T_Thumb_BP_Melee_Leveler_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Leveler_0.json | JSON Export |
+| T_Thumb_BP_Melee_Machete_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Machete_0.json | JSON Export |
+| T_Thumb_BP_Melee_Mop_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Mop_0.json | JSON Export |
+| T_Thumb_BP_Melee_OxygenCylinder_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_OxygenCylinder_0.json | JSON Export |
+| T_Thumb_BP_Melee_PaintBrush_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PaintBrush_0.json | JSON Export |
+| T_Thumb_BP_Melee_PaintRoller_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PaintRoller_0.json | JSON Export |
+| T_Thumb_BP_Melee_PalletJack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PalletJack_0.json | JSON Export |
+| T_Thumb_BP_Melee_Pickaxe_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Pickaxe_0.json | JSON Export |
+| T_Thumb_BP_Melee_PingPongRacket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_PingPongRacket_0.json | JSON Export |
+| T_Thumb_BP_Melee_PipeWrench_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PipeWrench_0.json | JSON Export |
+| T_Thumb_BP_Melee_Pipe_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Pipe_0.json | JSON Export |
+| T_Thumb_BP_Melee_PlankReinforced_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\T_Thumb_BP_Melee_PlankReinforced_0.json | JSON Export |
+| T_Thumb_BP_Melee_PlankSpiked_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_PlankSpiked_0.json | JSON Export |
+| T_Thumb_BP_Melee_Plank_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafting\T_Thumb_BP_Melee_Plank_0.json | JSON Export |
+| T_Thumb_BP_Melee_PliersCombination_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PliersCombination_0.json | JSON Export |
+| T_Thumb_BP_Melee_PliersLocking_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PliersLocking_0.json | JSON Export |
+| T_Thumb_BP_Melee_PliersTongueAndGroove_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_PliersTongueAndGroove_0.json | JSON Export |
+| T_Thumb_BP_Melee_Plunger_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Plunger_0.json | JSON Export |
+| T_Thumb_BP_Melee_PoliceBaton_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PoliceBaton_0.json | JSON Export |
+| T_Thumb_BP_Melee_PoolCue_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_PoolCue_0.json | JSON Export |
+| T_Thumb_BP_Melee_PropaneTank_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_PropaneTank_0.json | JSON Export |
+| T_Thumb_BP_Melee_RakeMetal_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_RakeMetal_0.json | JSON Export |
+| T_Thumb_BP_Melee_RakePlastic_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_RakePlastic_0.json | JSON Export |
+| T_Thumb_BP_Melee_SaleSign_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_SaleSign_0.json | JSON Export |
+| T_Thumb_BP_Melee_SaucePot_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SaucePot_0.json | JSON Export |
+| T_Thumb_BP_Melee_SawCrosscut_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SawCrosscut_0.json | JSON Export |
+| T_Thumb_BP_Melee_SawHack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SawHack_0.json | JSON Export |
+| T_Thumb_BP_Melee_Scalpel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Scalpel_0.json | JSON Export |
+| T_Thumb_BP_Melee_Scissors_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Scissors_0.json | JSON Export |
+| T_Thumb_BP_Melee_Shovel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Shovel_0.json | JSON Export |
+| T_Thumb_BP_Melee_SledgeHammer_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SledgeHammer_0.json | JSON Export |
+| T_Thumb_BP_Melee_SledgehammerMini_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_SledgehammerMini_0.json | JSON Export |
+| T_Thumb_BP_Melee_Spatula_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Spatula_0.json | JSON Export |
+| T_Thumb_BP_Melee_Spoon_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Spoon_0.json | JSON Export |
+| T_Thumb_BP_Melee_SteelChair_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_SteelChair_0.json | JSON Export |
+| T_Thumb_BP_Melee_Strainer_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Strainer_0.json | JSON Export |
+| T_Thumb_BP_Melee_TennisRacket_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_TennisRacket_0.json | JSON Export |
+| T_Thumb_BP_Melee_Thumbtack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Thumbtack_0.json | JSON Export |
+| T_Thumb_BP_Melee_Tomahawk_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Tomahawk_0.json | JSON Export |
+| T_Thumb_BP_Melee_Trumpet_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\T_Thumb_BP_Melee_Trumpet_0.json | JSON Export |
+| T_Thumb_BP_Melee_Violin_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Instruments\T_Thumb_BP_Melee_Violin_0.json | JSON Export |
+| T_Thumb_BP_Melee_WetFloorSign_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_WetFloorSign_0.json | JSON Export |
+| T_Thumb_BP_Melee_Whisk_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_Whisk_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenOarSpiked_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenOarSpiked_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenOar_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Sports\T_Thumb_BP_Melee_WoodenOar_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearButterKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearButterKnife_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearCombatKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearCombatKnife_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearFork_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearFork_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearKnife_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearKnife_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearMachete_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearMachete_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearScissors_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearScissors_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearScrewdriver_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearScrewdriver_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearSpoon_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearSpoon_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpearThumbtack_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpearThumbtack_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpear_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\Crafted\T_Thumb_BP_Melee_WoodenSpear_0.json | JSON Export |
+| T_Thumb_BP_Melee_WoodenSpoon_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\T_Thumb_BP_Melee_WoodenSpoon_0.json | JSON Export |
+| T_Thumb_BP_Melee_Wrench_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Melee\MeleeTools\T_Thumb_BP_Melee_Wrench_0.json | JSON Export |
+| T_pa_sword_04_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_04\T_pa_sword_04_BC.json | JSON Export |
+| T_pa_sword_04_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_04\T_pa_sword_04_N.json | JSON Export |
+| T_pa_sword_04_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_04\T_pa_sword_04_ORM.json | JSON Export |
+| T_pa_sword_05_BC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_05\T_pa_sword_05_BC.json | JSON Export |
+| T_pa_sword_05_N | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_05\T_pa_sword_05_N.json | JSON Export |
+| T_pa_sword_05_ORM | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\PostApoc_Melee_Weapons\textures\sword_05\T_pa_sword_05_ORM.json | JSON Export |
+| TomaHawk_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\TomaHawk_BaseColor.json | JSON Export |
+| TomaHawk_Inst | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Materials\TomaHawk_Inst.json | JSON Export |
+| TomaHawk_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\TomaHawk_Normal.json | JSON Export |
+| TomaHawk_RMA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Textures\TomaHawk_RMA.json | JSON Export |
+| Tomahawk | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\Survival_Melee_Pack\Mesh\Tomahawk.json | JSON Export |
+| axeA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\axeA.json | JSON Export |
+| crowbarA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\crowbarA.json | JSON Export |
+| hammerC | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\hammerC.json | JSON Export |
+| hammers_tool_a | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Materials\hammers_tool_a.json | JSON Export |
+| hammers_tool_a_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_BaseColor.json | JSON Export |
+| hammers_tool_a_Metallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_Metallic.json | JSON Export |
+| hammers_tool_a_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_Normal.json | JSON Export |
+| hammers_tool_a_Roughness | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\hammers_tool_a_Roughness.json | JSON Export |
+| toolsA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Materials\toolsA.json | JSON Export |
+| tools_a_BaseColor | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_BaseColor.json | JSON Export |
+| tools_a_Metallic | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_Metallic.json | JSON Export |
+| tools_a_Normal | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_Normal.json | JSON Export |
+| tools_a_Roughness | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Textures\tools_a_Roughness.json | JSON Export |
+| viperaA | pakchunk1-Windows\Vein\Content\Marketplace\Weapons\meleeWeaponsA\Mesh\viperaA.json | JSON Export |
 
 ### Weapons Ranged (50 items)
 
 | Weapon Name | Path | Source |
 |-------------|------|--------|
-| BP_Arrow_Iron | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\BP_Arrow_Iron.json | ExportedJson |
-| BP_Bow | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\BP_Bow.json | ExportedJson |
-| BP_FirearmChest_TheFarm | pakchunk0-Windows\Vein\Content\Vein\Containers\01Dev\BP_FirearmChest_TheFarm.json | ExportedJson |
-| BP_Firearm_AK | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_AK.json | ExportedJson |
-| BP_Firearm_AT4 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_AT4.json | ExportedJson |
-| BP_Firearm_Bolt1911 | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Bolt1911.json | ExportedJson |
-| BP_Firearm_BoltViper | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_BoltViper.json | ExportedJson |
-| BP_Firearm_DoubleBarrel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_DoubleBarrel.json | ExportedJson |
-| BP_Firearm_DoubleBarrel_BIG | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_DoubleBarrel_BIG.json | ExportedJson |
-| BP_Firearm_FiftySeven | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_FiftySeven.json | ExportedJson |
-| BP_Firearm_FlareGun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_FlareGun.json | ExportedJson |
-| BP_Firearm_Flock17 | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Flock17.json | ExportedJson |
-| BP_Firearm_LaserGun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_LaserGun.json | ExportedJson |
-| BP_Firearm_LoneStar38 | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_LoneStar38.json | ExportedJson |
-| BP_Firearm_MP5 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_MP5.json | ExportedJson |
-| BP_Firearm_Minigun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Minigun.json | ExportedJson |
-| BP_Firearm_MosinNagant | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_MosinNagant.json | ExportedJson |
-| BP_Firearm_N16 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_N16.json | ExportedJson |
-| BP_Firearm_N1903 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_N1903.json | ExportedJson |
-| BP_Firearm_P9 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_P9.json | ExportedJson |
-| BP_Firearm_PumpShotgun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_PumpShotgun.json | ExportedJson |
-| BP_Firearm_SRG | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_SRG.json | ExportedJson |
-| BP_Firearm_Taser | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Taser.json | ExportedJson |
-| CS_Firearm_Admin | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_Admin.json | ExportedJson |
-| CS_Firearm_Pistol | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_Pistol.json | ExportedJson |
-| CS_Firearm_PistolLarge | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_PistolLarge.json | ExportedJson |
-| CS_Firearm_Shotgun | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_Shotgun.json | ExportedJson |
-| T_Thumb_BP_Arrow_Iron_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\T_Thumb_BP_Arrow_Iron_0.json | ExportedJson |
-| T_Thumb_BP_Bow_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\T_Thumb_BP_Bow_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_AK_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_AK_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_AT4_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_AT4_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_Bolt1911_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Bolt1911_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_BoltViper_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_BoltViper_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_DoubleBarrel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_DoubleBarrel_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_DoubleBarrel_BIG_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_DoubleBarrel_BIG_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_FiftySeven_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_FiftySeven_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_FiftySeven_1 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_FiftySeven_1.json | ExportedJson |
-| T_Thumb_BP_Firearm_FlareGun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_FlareGun_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_Flock17_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Flock17_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_LaserGun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_LaserGun_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_LoneStar38_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_LoneStar38_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_MP5_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_MP5_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_Minigun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Minigun_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_MosinNagant_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_MosinNagant_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_N16_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_N16_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_N1903_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_N1903_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_P9_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_P9_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_PumpShotgun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_PumpShotgun_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_SRG_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_SRG_0.json | ExportedJson |
-| T_Thumb_BP_Firearm_Taser_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Taser_0.json | ExportedJson |
+| BP_Arrow_Iron | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\BP_Arrow_Iron.json | JSON Export |
+| BP_Bow | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\BP_Bow.json | JSON Export |
+| BP_FirearmChest_TheFarm | pakchunk0-Windows\Vein\Content\Vein\Containers\01Dev\BP_FirearmChest_TheFarm.json | JSON Export |
+| BP_Firearm_AK | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_AK.json | JSON Export |
+| BP_Firearm_AT4 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_AT4.json | JSON Export |
+| BP_Firearm_Bolt1911 | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Bolt1911.json | JSON Export |
+| BP_Firearm_BoltViper | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_BoltViper.json | JSON Export |
+| BP_Firearm_DoubleBarrel | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_DoubleBarrel.json | JSON Export |
+| BP_Firearm_DoubleBarrel_BIG | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_DoubleBarrel_BIG.json | JSON Export |
+| BP_Firearm_FiftySeven | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_FiftySeven.json | JSON Export |
+| BP_Firearm_FlareGun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_FlareGun.json | JSON Export |
+| BP_Firearm_Flock17 | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Flock17.json | JSON Export |
+| BP_Firearm_LaserGun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_LaserGun.json | JSON Export |
+| BP_Firearm_LoneStar38 | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_LoneStar38.json | JSON Export |
+| BP_Firearm_MP5 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_MP5.json | JSON Export |
+| BP_Firearm_Minigun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Minigun.json | JSON Export |
+| BP_Firearm_MosinNagant | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_MosinNagant.json | JSON Export |
+| BP_Firearm_N16 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_N16.json | JSON Export |
+| BP_Firearm_N1903 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_N1903.json | JSON Export |
+| BP_Firearm_P9 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_P9.json | JSON Export |
+| BP_Firearm_PumpShotgun | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_PumpShotgun.json | JSON Export |
+| BP_Firearm_SRG | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_SRG.json | JSON Export |
+| BP_Firearm_Taser | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BP_Firearm_Taser.json | JSON Export |
+| CS_Firearm_Admin | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_Admin.json | JSON Export |
+| CS_Firearm_Pistol | pakchunk0-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_Pistol.json | JSON Export |
+| CS_Firearm_PistolLarge | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_PistolLarge.json | JSON Export |
+| CS_Firearm_Shotgun | pakchunk1-Windows\Vein\Content\Vein\Effects\Weapons\CS_Firearm_Shotgun.json | JSON Export |
+| T_Thumb_BP_Arrow_Iron_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\T_Thumb_BP_Arrow_Iron_0.json | JSON Export |
+| T_Thumb_BP_Bow_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\BowAndArrow\T_Thumb_BP_Bow_0.json | JSON Export |
+| T_Thumb_BP_Firearm_AK_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_AK_0.json | JSON Export |
+| T_Thumb_BP_Firearm_AT4_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_AT4_0.json | JSON Export |
+| T_Thumb_BP_Firearm_Bolt1911_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Bolt1911_0.json | JSON Export |
+| T_Thumb_BP_Firearm_BoltViper_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_BoltViper_0.json | JSON Export |
+| T_Thumb_BP_Firearm_DoubleBarrel_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_DoubleBarrel_0.json | JSON Export |
+| T_Thumb_BP_Firearm_DoubleBarrel_BIG_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_DoubleBarrel_BIG_0.json | JSON Export |
+| T_Thumb_BP_Firearm_FiftySeven_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_FiftySeven_0.json | JSON Export |
+| T_Thumb_BP_Firearm_FiftySeven_1 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_FiftySeven_1.json | JSON Export |
+| T_Thumb_BP_Firearm_FlareGun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_FlareGun_0.json | JSON Export |
+| T_Thumb_BP_Firearm_Flock17_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Flock17_0.json | JSON Export |
+| T_Thumb_BP_Firearm_LaserGun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_LaserGun_0.json | JSON Export |
+| T_Thumb_BP_Firearm_LoneStar38_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_LoneStar38_0.json | JSON Export |
+| T_Thumb_BP_Firearm_MP5_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_MP5_0.json | JSON Export |
+| T_Thumb_BP_Firearm_Minigun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Minigun_0.json | JSON Export |
+| T_Thumb_BP_Firearm_MosinNagant_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_MosinNagant_0.json | JSON Export |
+| T_Thumb_BP_Firearm_N16_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_N16_0.json | JSON Export |
+| T_Thumb_BP_Firearm_N1903_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_N1903_0.json | JSON Export |
+| T_Thumb_BP_Firearm_P9_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_P9_0.json | JSON Export |
+| T_Thumb_BP_Firearm_PumpShotgun_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_PumpShotgun_0.json | JSON Export |
+| T_Thumb_BP_Firearm_SRG_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_SRG_0.json | JSON Export |
+| T_Thumb_BP_Firearm_Taser_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Ranged\T_Thumb_BP_Firearm_Taser_0.json | JSON Export |
 
 ### Weapons Attachments (11 items)
 
 | Weapon Name | Path | Source |
 |-------------|------|--------|
-| BP_RedDotSight | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_RedDotSight.json | ExportedJson |
-| BP_Suppressor_Pistol | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_Suppressor_Pistol.json | ExportedJson |
-| BP_Suppressor_Rifle | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_Suppressor_Rifle.json | ExportedJson |
-| BP_VerticalGrip | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_VerticalGrip.json | ExportedJson |
-| EAS_Grip | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\EAS_Grip.json | ExportedJson |
-| EAS_Sight | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\EAS_Sight.json | ExportedJson |
-| EAS_Suppressor | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Attachments\EAS_Suppressor.json | ExportedJson |
-| T_Thumb_BP_RedDotSight_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_RedDotSight_0.json | ExportedJson |
-| T_Thumb_BP_Suppressor_Pistol_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_Suppressor_Pistol_0.json | ExportedJson |
-| T_Thumb_BP_Suppressor_Rifle_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_Suppressor_Rifle_0.json | ExportedJson |
-| T_Thumb_BP_VerticalGrip_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_VerticalGrip_0.json | ExportedJson |
+| BP_RedDotSight | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_RedDotSight.json | JSON Export |
+| BP_Suppressor_Pistol | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_Suppressor_Pistol.json | JSON Export |
+| BP_Suppressor_Rifle | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_Suppressor_Rifle.json | JSON Export |
+| BP_VerticalGrip | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\BP_VerticalGrip.json | JSON Export |
+| EAS_Grip | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\EAS_Grip.json | JSON Export |
+| EAS_Sight | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\EAS_Sight.json | JSON Export |
+| EAS_Suppressor | pakchunk0-Windows\Vein\Content\Vein\Items\Weapons\Attachments\EAS_Suppressor.json | JSON Export |
+| T_Thumb_BP_RedDotSight_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_RedDotSight_0.json | JSON Export |
+| T_Thumb_BP_Suppressor_Pistol_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_Suppressor_Pistol_0.json | JSON Export |
+| T_Thumb_BP_Suppressor_Rifle_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_Suppressor_Rifle_0.json | JSON Export |
+| T_Thumb_BP_VerticalGrip_0 | pakchunk1-Windows\Vein\Content\Vein\Items\Weapons\Attachments\T_Thumb_BP_VerticalGrip_0.json | JSON Export |
 
 
 ## Damage Types
@@ -863,78 +863,78 @@ Damage types define how attacks affect targets:
 
 | Damage Type | Path | Source |
 |-------------|------|--------|
-| DT_AnimalBite | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_AnimalBite.json | ExportedJson |
-| DT_Arrow | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Arrow.json | ExportedJson |
-| DT_BarbedWire | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_BarbedWire.json | ExportedJson |
-| DT_BiteMetalCan | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_BiteMetalCan.json | ExportedJson |
-| DT_Condition_AlcoholPoisoning | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_AlcoholPoisoning.json | ExportedJson |
-| DT_Condition_Asphyxiating | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Asphyxiating.json | ExportedJson |
-| DT_Condition_Base | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Base.json | ExportedJson |
-| DT_Condition_BloodSugar | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_BloodSugar.json | ExportedJson |
-| DT_Condition_Drowning | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Drowning.json | ExportedJson |
-| DT_Condition_Hunger | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Hunger.json | ExportedJson |
-| DT_Condition_Injury | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Injury.json | ExportedJson |
-| DT_Condition_InjuryNoFlinch | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_InjuryNoFlinch.json | ExportedJson |
-| DT_Condition_Overdrinking | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Overdrinking.json | ExportedJson |
-| DT_Condition_Overeating | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Overeating.json | ExportedJson |
-| DT_Condition_Poison | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Poison.json | ExportedJson |
-| DT_Condition_Thirst | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Thirst.json | ExportedJson |
-| DT_Condition_Viagara | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Viagara.json | ExportedJson |
-| DT_Crushed | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Crushed.json | ExportedJson |
-| DT_DoorBlast | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_DoorBlast.json | ExportedJson |
-| DT_Electrical | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Electrical.json | ExportedJson |
-| DT_ExitFastVehicle | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_ExitFastVehicle.json | ExportedJson |
-| DT_Explosion | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Explosion.json | ExportedJson |
-| DT_Explosion_High | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Explosion_High.json | ExportedJson |
-| DT_Explosion_Zombie | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Explosion_Zombie.json | ExportedJson |
-| DT_Fall | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Fall.json | ExportedJson |
-| DT_FallLanding | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_FallLanding.json | ExportedJson |
-| DT_Fire | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Fire.json | ExportedJson |
-| DT_Firearm_Bullet | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Firearm_Bullet.json | ExportedJson |
-| DT_Firearm_Shotgun | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Firearm_Shotgun.json | ExportedJson |
-| DT_Firearm_Shotgun | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_Firearm_Shotgun.json | ExportedJson |
-| DT_FireworkExplosion | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_FireworkExplosion.json | ExportedJson |
-| DT_Flare | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Flare.json | ExportedJson |
-| DT_Flare | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_Flare.json | ExportedJson |
-| DT_LaserGun | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_LaserGun.json | ExportedJson |
-| DT_Melee_Axe | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Axe.json | ExportedJson |
-| DT_Melee_Ballin | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Ballin.json | ExportedJson |
-| DT_Melee_Bladed | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Bladed.json | ExportedJson |
-| DT_Melee_Bladed_Small | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Bladed_Small.json | ExportedJson |
-| DT_Melee_Blunt | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt.json | ExportedJson |
-| DT_Melee_BluntHeavy | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_BluntHeavy.json | ExportedJson |
-| DT_Melee_BluntWound | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_BluntWound.json | ExportedJson |
-| DT_Melee_Blunt_Punch | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Punch.json | ExportedJson |
-| DT_Melee_Blunt_Shove | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Shove.json | ExportedJson |
-| DT_Melee_Blunt_Small | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Small.json | ExportedJson |
-| DT_Melee_Blunt_Small_BDSM | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Small_BDSM.json | ExportedJson |
-| DT_Melee_Blunt_Small_Disgusting | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Small_Disgusting.json | ExportedJson |
-| DT_Melee_Digging | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Digging.json | ExportedJson |
-| DT_Melee_LargeBlade | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_LargeBlade.json | ExportedJson |
-| DT_Melee_Mining | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Mining.json | ExportedJson |
-| DT_Melee_Mining | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Mining.json | ExportedJson |
-| DT_Melee_Saw | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Saw.json | ExportedJson |
-| DT_Suicide | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Suicide.json | ExportedJson |
-| DT_TakingBlood | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_TakingBlood.json | ExportedJson |
-| DT_VehicleImpact | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact.json | ExportedJson |
-| DT_VehicleImpact_Fast | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact_Fast.json | ExportedJson |
-| DT_VehicleImpact_Passengers | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact_Passengers.json | ExportedJson |
-| DT_VehicleImpact_Train | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact_Train.json | ExportedJson |
-| DT_VelocityImpact | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VelocityImpact.json | ExportedJson |
-| DT_Zombie_Bite | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Zombie_Bite.json | ExportedJson |
-| DT_Zombie_Blunt_Punch | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Zombie_Blunt_Punch.json | ExportedJson |
-| DmgTypeBP_Environmental | pakchunk0-Windows\Engine\Content\EngineDamageTypes\DmgTypeBP_Environmental.json | ExportedJson |
-| GS_BaseDamage | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_BaseDamage.json | ExportedJson |
-| GS_HeadshotDamageMultiplier | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_HeadshotDamageMultiplier.json | ExportedJson |
-| GS_VehicleOutgoingPlayerDamage | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_VehicleOutgoingPlayerDamage.json | ExportedJson |
-| GS_ZombieDamageMultiplier | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_ZombieDamageMultiplier.json | ExportedJson |
-| T_ConcreteDamaged_01a_D | pakchunk0-Windows\Vein\Content\Marketplace\Environments\IndustrialPark_Meshingun\Environment\Asset\Texture\Brick_Texture\T_ConcreteDamaged_01a_D.json | ExportedJson |
-| T_Plastic_Damaged_AO_R_MT | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Big_Letters\Plastic_Damaged\T_Plastic_Damaged_AO_R_MT.json | ExportedJson |
-| T_Plastic_Damaged_AO_R_MT | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Numbers_and_Signs\Plastic_Damaged\T_Plastic_Damaged_AO_R_MT.json | ExportedJson |
-| T_Plastic_Damaged_BC | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Big_Letters\Plastic_Damaged\T_Plastic_Damaged_BC.json | ExportedJson |
-| T_Plastic_Damaged_BC | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Numbers_and_Signs\Plastic_Damaged\T_Plastic_Damaged_BC.json | ExportedJson |
-| T_Plastic_Damaged_N | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Big_Letters\Plastic_Damaged\T_Plastic_Damaged_N.json | ExportedJson |
-| T_Plastic_Damaged_N | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Numbers_and_Signs\Plastic_Damaged\T_Plastic_Damaged_N.json | ExportedJson |
+| DT_AnimalBite | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_AnimalBite.json | JSON Export |
+| DT_Arrow | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Arrow.json | JSON Export |
+| DT_BarbedWire | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_BarbedWire.json | JSON Export |
+| DT_BiteMetalCan | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_BiteMetalCan.json | JSON Export |
+| DT_Condition_AlcoholPoisoning | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_AlcoholPoisoning.json | JSON Export |
+| DT_Condition_Asphyxiating | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Asphyxiating.json | JSON Export |
+| DT_Condition_Base | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Base.json | JSON Export |
+| DT_Condition_BloodSugar | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_BloodSugar.json | JSON Export |
+| DT_Condition_Drowning | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Drowning.json | JSON Export |
+| DT_Condition_Hunger | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Hunger.json | JSON Export |
+| DT_Condition_Injury | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Injury.json | JSON Export |
+| DT_Condition_InjuryNoFlinch | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_InjuryNoFlinch.json | JSON Export |
+| DT_Condition_Overdrinking | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Overdrinking.json | JSON Export |
+| DT_Condition_Overeating | pakchunk2-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Overeating.json | JSON Export |
+| DT_Condition_Poison | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Poison.json | JSON Export |
+| DT_Condition_Thirst | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Thirst.json | JSON Export |
+| DT_Condition_Viagara | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Condition_Viagara.json | JSON Export |
+| DT_Crushed | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Crushed.json | JSON Export |
+| DT_DoorBlast | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_DoorBlast.json | JSON Export |
+| DT_Electrical | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Electrical.json | JSON Export |
+| DT_ExitFastVehicle | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_ExitFastVehicle.json | JSON Export |
+| DT_Explosion | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Explosion.json | JSON Export |
+| DT_Explosion_High | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Explosion_High.json | JSON Export |
+| DT_Explosion_Zombie | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Explosion_Zombie.json | JSON Export |
+| DT_Fall | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Fall.json | JSON Export |
+| DT_FallLanding | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_FallLanding.json | JSON Export |
+| DT_Fire | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Fire.json | JSON Export |
+| DT_Firearm_Bullet | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Firearm_Bullet.json | JSON Export |
+| DT_Firearm_Shotgun | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Firearm_Shotgun.json | JSON Export |
+| DT_Firearm_Shotgun | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_Firearm_Shotgun.json | JSON Export |
+| DT_FireworkExplosion | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_FireworkExplosion.json | JSON Export |
+| DT_Flare | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Flare.json | JSON Export |
+| DT_Flare | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_Flare.json | JSON Export |
+| DT_LaserGun | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_LaserGun.json | JSON Export |
+| DT_Melee_Axe | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Axe.json | JSON Export |
+| DT_Melee_Ballin | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Ballin.json | JSON Export |
+| DT_Melee_Bladed | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Bladed.json | JSON Export |
+| DT_Melee_Bladed_Small | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Bladed_Small.json | JSON Export |
+| DT_Melee_Blunt | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt.json | JSON Export |
+| DT_Melee_BluntHeavy | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_BluntHeavy.json | JSON Export |
+| DT_Melee_BluntWound | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_BluntWound.json | JSON Export |
+| DT_Melee_Blunt_Punch | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Punch.json | JSON Export |
+| DT_Melee_Blunt_Shove | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Shove.json | JSON Export |
+| DT_Melee_Blunt_Small | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Small.json | JSON Export |
+| DT_Melee_Blunt_Small_BDSM | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Small_BDSM.json | JSON Export |
+| DT_Melee_Blunt_Small_Disgusting | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Blunt_Small_Disgusting.json | JSON Export |
+| DT_Melee_Digging | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Digging.json | JSON Export |
+| DT_Melee_LargeBlade | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_LargeBlade.json | JSON Export |
+| DT_Melee_Mining | pakchunk1-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Mining.json | JSON Export |
+| DT_Melee_Mining | pakchunk13-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Mining.json | JSON Export |
+| DT_Melee_Saw | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Melee_Saw.json | JSON Export |
+| DT_Suicide | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Suicide.json | JSON Export |
+| DT_TakingBlood | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_TakingBlood.json | JSON Export |
+| DT_VehicleImpact | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact.json | JSON Export |
+| DT_VehicleImpact_Fast | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact_Fast.json | JSON Export |
+| DT_VehicleImpact_Passengers | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact_Passengers.json | JSON Export |
+| DT_VehicleImpact_Train | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VehicleImpact_Train.json | JSON Export |
+| DT_VelocityImpact | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_VelocityImpact.json | JSON Export |
+| DT_Zombie_Bite | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Zombie_Bite.json | JSON Export |
+| DT_Zombie_Blunt_Punch | pakchunk0-Windows\Vein\Content\Vein\DamageTypes\DT_Zombie_Blunt_Punch.json | JSON Export |
+| DmgTypeBP_Environmental | pakchunk0-Windows\Engine\Content\EngineDamageTypes\DmgTypeBP_Environmental.json | JSON Export |
+| GS_BaseDamage | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_BaseDamage.json | JSON Export |
+| GS_HeadshotDamageMultiplier | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_HeadshotDamageMultiplier.json | JSON Export |
+| GS_VehicleOutgoingPlayerDamage | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_VehicleOutgoingPlayerDamage.json | JSON Export |
+| GS_ZombieDamageMultiplier | pakchunk25-Windows\Vein\Content\Vein\Settings\GS_ZombieDamageMultiplier.json | JSON Export |
+| T_ConcreteDamaged_01a_D | pakchunk0-Windows\Vein\Content\Marketplace\Environments\IndustrialPark_Meshingun\Environment\Asset\Texture\Brick_Texture\T_ConcreteDamaged_01a_D.json | JSON Export |
+| T_Plastic_Damaged_AO_R_MT | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Big_Letters\Plastic_Damaged\T_Plastic_Damaged_AO_R_MT.json | JSON Export |
+| T_Plastic_Damaged_AO_R_MT | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Numbers_and_Signs\Plastic_Damaged\T_Plastic_Damaged_AO_R_MT.json | JSON Export |
+| T_Plastic_Damaged_BC | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Big_Letters\Plastic_Damaged\T_Plastic_Damaged_BC.json | JSON Export |
+| T_Plastic_Damaged_BC | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Numbers_and_Signs\Plastic_Damaged\T_Plastic_Damaged_BC.json | JSON Export |
+| T_Plastic_Damaged_N | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Big_Letters\Plastic_Damaged\T_Plastic_Damaged_N.json | JSON Export |
+| T_Plastic_Damaged_N | pakchunk0-Windows\Vein\Content\Marketplace\Props\Alphabet_Letters\Textures\Numbers_and_Signs\Plastic_Damaged\T_Plastic_Damaged_N.json | JSON Export |
 
 
 ## Weapon Properties
