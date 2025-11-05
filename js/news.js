@@ -4,6 +4,7 @@
 let newsCache = null;
 let newsCacheTime = 0;
 const CACHE_DURATION = 3600000;
+let carouselInterval = null;
 
 /**
  * Escapes HTML special characters to prevent XSS attacks
@@ -22,6 +23,31 @@ function escapeHTML(str) {
             default: return match;
         }
     });
+}
+
+/**
+ * Validates and sanitizes image URL to prevent XSS
+ * @param {string} url - Image URL to validate
+ * @returns {string} - Sanitized URL or empty string
+ */
+function sanitizeImageUrl(url) {
+    if (!url || typeof url !== 'string') return '';
+    // Basic URL validation - must start with http:// or https://
+    const trimmed = url.trim();
+    if (!/^https?:\/\//i.test(trimmed)) return '';
+    // Escape HTML in URL to prevent injection
+    return escapeHTML(trimmed);
+}
+
+/**
+ * Cleanup function to clear carousel interval
+ * Should be called when navigating away from home page
+ */
+export function cleanupNewsCarousel() {
+    if (carouselInterval) {
+        clearInterval(carouselInterval);
+        carouselInterval = null;
+    }
 }
 
 async function fetchNews() {
@@ -83,54 +109,108 @@ function truncateText(text, maxLength = 150) {
 export async function renderNewsCarousel(container) {
     if (!container) return;
     
+    // Clear any existing carousel interval
+    cleanupNewsCarousel();
+    
     const posts = await fetchNews();
     if (posts.length === 0) {
-        container.innerHTML = '<p>Unable to load news. Please visit <a href="https://news.vein.gg/" target="_blank">news.vein.gg</a> for the latest updates.</p>';
+        container.textContent = '';
+        const p = document.createElement('p');
+        p.innerHTML = 'Unable to load news. Please visit <a href="https://news.vein.gg/" target="_blank">news.vein.gg</a> for the latest updates.';
+        container.appendChild(p);
         return;
     }
 
-    const slides = posts.slice(0, 5).map((post, index) => {
+    // Build carousel structure using DOM methods instead of innerHTML for better XSS protection
+    const carouselDiv = document.createElement('div');
+    carouselDiv.className = 'news-carousel';
+    
+    const slidesContainer = document.createElement('div');
+    slidesContainer.className = 'news-slides-container';
+    
+    posts.slice(0, 5).forEach((post, index) => {
         const excerpt = truncateText(post.excerpt, 120);
-        const escapedTitle = escapeHTML(post.title);
-        const escapedExcerpt = escapeHTML(excerpt);
-        const escapedUrl = escapeHTML(post.url);
-        const escapedImage = post.image ? escapeHTML(post.image) : '';
+        const slideDiv = document.createElement('div');
+        slideDiv.className = `news-slide ${index === 0 ? 'active' : ''}`;
+        slideDiv.dataset.index = index;
         
-        return `
-            <div class="news-slide ${index === 0 ? 'active' : ''}" data-index="${index}">
-                ${post.image ? `<img src="${escapedImage}" alt="${escapedTitle}" class="news-slide-image">` : ''}
-                <div class="news-slide-content">
-                    <h3 class="news-slide-title">${escapedTitle}</h3>
-                    <p class="news-slide-excerpt">${escapedExcerpt}</p>
-                    <div class="news-slide-meta">
-                        <span class="news-date">${formatDate(post.published_at)}</span>
-                        <a href="${escapedUrl}" target="_blank" class="news-read-more">
-                            Read More <i class="fas fa-arrow-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        `;
-    }).join('');
-
-    const indicators = posts.slice(0, 5).map((_, index) => 
-        `<button class="news-indicator ${index === 0 ? 'active' : ''}" data-slide="${index}" aria-label="Go to slide ${index + 1}"></button>`
-    ).join('');
-
-    container.innerHTML = `
-        <div class="news-carousel">
-            <div class="news-slides-container">${slides}</div>
-            <div class="news-controls">
-                <button class="news-arrow news-arrow-prev" aria-label="Previous slide">
-                    <i class="fas fa-chevron-left"></i>
-                </button>
-                <div class="news-indicators">${indicators}</div>
-                <button class="news-arrow news-arrow-next" aria-label="Next slide">
-                    <i class="fas fa-chevron-right"></i>
-                </button>
-            </div>
-        </div>
-    `;
+        if (post.image) {
+            const img = document.createElement('img');
+            const sanitizedUrl = sanitizeImageUrl(post.image);
+            if (sanitizedUrl) {
+                img.src = sanitizedUrl;
+                img.alt = escapeHTML(post.title);
+                img.className = 'news-slide-image';
+                slideDiv.appendChild(img);
+            }
+        }
+        
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'news-slide-content';
+        
+        const title = document.createElement('h3');
+        title.className = 'news-slide-title';
+        title.textContent = post.title || '';
+        contentDiv.appendChild(title);
+        
+        const excerptP = document.createElement('p');
+        excerptP.className = 'news-slide-excerpt';
+        excerptP.textContent = excerpt;
+        contentDiv.appendChild(excerptP);
+        
+        const metaDiv = document.createElement('div');
+        metaDiv.className = 'news-slide-meta';
+        
+        const dateSpan = document.createElement('span');
+        dateSpan.className = 'news-date';
+        dateSpan.textContent = formatDate(post.published_at);
+        metaDiv.appendChild(dateSpan);
+        
+        const readMoreLink = document.createElement('a');
+        readMoreLink.href = escapeHTML(post.url || '#');
+        readMoreLink.target = '_blank';
+        readMoreLink.className = 'news-read-more';
+        readMoreLink.innerHTML = 'Read More <i class="fas fa-arrow-right"></i>';
+        metaDiv.appendChild(readMoreLink);
+        
+        contentDiv.appendChild(metaDiv);
+        slideDiv.appendChild(contentDiv);
+        slidesContainer.appendChild(slideDiv);
+    });
+    
+    carouselDiv.appendChild(slidesContainer);
+    
+    const controlsDiv = document.createElement('div');
+    controlsDiv.className = 'news-controls';
+    
+    const prevButton = document.createElement('button');
+    prevButton.className = 'news-arrow news-arrow-prev';
+    prevButton.setAttribute('aria-label', 'Previous slide');
+    prevButton.innerHTML = '<i class="fas fa-chevron-left"></i>';
+    controlsDiv.appendChild(prevButton);
+    
+    const indicatorsDiv = document.createElement('div');
+    indicatorsDiv.className = 'news-indicators';
+    posts.slice(0, 5).forEach((_, index) => {
+        const indicator = document.createElement('button');
+        indicator.className = `news-indicator ${index === 0 ? 'active' : ''}`;
+        indicator.dataset.slide = index;
+        indicator.setAttribute('aria-label', `Go to slide ${index + 1}`);
+        indicatorsDiv.appendChild(indicator);
+    });
+    controlsDiv.appendChild(indicatorsDiv);
+    
+    const nextButton = document.createElement('button');
+    nextButton.className = 'news-arrow news-arrow-next';
+    nextButton.setAttribute('aria-label', 'Next slide');
+    nextButton.innerHTML = '<i class="fas fa-chevron-right"></i>';
+    controlsDiv.appendChild(nextButton);
+    
+    carouselDiv.appendChild(controlsDiv);
+    
+    // Clear container and append new carousel
+    container.innerHTML = '';
+    container.appendChild(carouselDiv);
 
     let currentSlide = 0;
     const totalSlides = posts.slice(0, 5).length;
@@ -164,7 +244,7 @@ export async function renderNewsCarousel(container) {
         indicator.addEventListener('click', () => showSlide(index));
     });
 
-    setInterval(nextSlide, 10000);
+    carouselInterval = setInterval(nextSlide, 10000);
 }
 
 export async function renderNewsPage() {
@@ -185,7 +265,7 @@ export async function renderNewsPage() {
     const featuredTitle = escapeHTML(featuredPost.title);
     const featuredExcerptEscaped = escapeHTML(featuredExcerpt);
     const featuredUrl = escapeHTML(featuredPost.url);
-    const featuredImage = featuredPost.image ? escapeHTML(featuredPost.image) : '';
+    const featuredImage = featuredPost.image ? sanitizeImageUrl(featuredPost.image) : '';
     const featuredDate = formatDate(featuredPost.published_at);
 
     // Regular articles (Skip first post)
@@ -195,7 +275,7 @@ export async function renderNewsPage() {
         const escapedTitle = escapeHTML(post.title);
         const escapedExcerpt = escapeHTML(excerpt);
         const escapedUrl = escapeHTML(post.url);
-        const escapedImage = post.image ? escapeHTML(post.image) : '';
+        const escapedImage = post.image ? sanitizeImageUrl(post.image) : '';
         const postDate = formatDate(post.published_at);
         
         return `

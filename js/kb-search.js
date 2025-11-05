@@ -5,6 +5,9 @@ import { getKnowledgeBaseFiles, initKnowledgeBase, loadKnowledgeBaseFile, extrac
 
 let kbIndex = null;
 let kbSearchData = {};
+let kbSearchClickHandler = null;
+let kbSearchElements = null; // Track current search elements to avoid multiple handlers
+let kbSearchAbortController = null; // Use AbortController for clean event listener management
 
 /**
  * Build search index for Knowledge Base only
@@ -90,45 +93,93 @@ export async function initKBSearch() {
 }
 
 /**
+ * Single global click handler for all KB search instances
+ * Uses event delegation to work with dynamically created elements
+ */
+function handleGlobalKBClick(e) {
+    // Only handle if KB search elements exist
+    if (!kbSearchElements || !kbSearchElements.searchBox || !kbSearchElements.resultsEl) {
+        return;
+    }
+    
+    const { searchBox, resultsEl } = kbSearchElements;
+    
+    // Hide results if click is outside search box and results
+    if (!resultsEl.contains(e.target) && e.target !== searchBox) {
+        resultsEl.hidden = true;
+    }
+}
+
+/**
  * Initialize Knowledge Base search UI
  */
 export function initKBSearchUI() {
     const searchBox = document.getElementById('kbSearchBox');
     const resultsEl = document.getElementById('kbSearchResults');
     
-    if (!searchBox || !resultsEl) return;
+    if (!searchBox || !resultsEl) {
+        // Clear tracked elements if search UI doesn't exist
+        kbSearchElements = null;
+        return;
+    }
     
-    // Clear previous event listeners by cloning
-    const newSearchBox = searchBox.cloneNode(true);
-    searchBox.parentNode.replaceChild(newSearchBox, searchBox);
+    // Abort any existing event listeners from previous initialization
+    if (kbSearchAbortController) {
+        kbSearchAbortController.abort();
+    }
     
-    const newResultsEl = resultsEl.cloneNode(true);
-    resultsEl.parentNode.replaceChild(newResultsEl, resultsEl);
+    // Create new AbortController for this initialization
+    kbSearchAbortController = new AbortController();
+    const signal = kbSearchAbortController.signal;
     
-    newSearchBox.addEventListener('input', (e) => {
-        performKBSearchUI(e.target.value, newResultsEl);
-    });
+    // Track current search elements
+    kbSearchElements = { searchBox, resultsEl };
     
-    newSearchBox.addEventListener('focus', () => {
-        if (newSearchBox.value) {
-            newResultsEl.hidden = false;
+    // Set up global click handler only once
+    if (!kbSearchClickHandler) {
+        kbSearchClickHandler = handleGlobalKBClick;
+        document.addEventListener('click', kbSearchClickHandler, true); // Use capture phase
+    }
+    
+    // Add event listeners with abort signal for clean removal
+    searchBox.addEventListener('input', (e) => {
+        performKBSearchUI(e.target.value, resultsEl);
+    }, { signal });
+    
+    searchBox.addEventListener('focus', () => {
+        if (searchBox.value) {
+            resultsEl.hidden = false;
         }
-    });
+    }, { signal });
     
-    document.addEventListener('click', (e) => {
-        if (!newResultsEl.contains(e.target) && e.target !== newSearchBox) {
-            newResultsEl.hidden = true;
-        }
-    });
-    
-    newResultsEl.addEventListener('click', (e) => {
+    resultsEl.addEventListener('click', (e) => {
         const item = e.target.closest('.kb-search-item');
         if (item && item.dataset.filename) {
             location.hash = '#KnowledgeBase/' + item.dataset.filename;
-            newResultsEl.hidden = true;
-            newSearchBox.value = '';
+            resultsEl.hidden = true;
+            searchBox.value = '';
         }
-    });
+    }, { signal });
+}
+
+/**
+ * Cleanup function to remove global event listener
+ * Should be called when KB search is no longer needed
+ */
+export function cleanupKBSearchUI() {
+    // Abort all event listeners tied to the current search UI
+    if (kbSearchAbortController) {
+        kbSearchAbortController.abort();
+        kbSearchAbortController = null;
+    }
+    
+    // Remove global click handler
+    if (kbSearchClickHandler) {
+        document.removeEventListener('click', kbSearchClickHandler, true);
+        kbSearchClickHandler = null;
+    }
+    
+    kbSearchElements = null;
 }
 
 /**

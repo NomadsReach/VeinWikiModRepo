@@ -3,16 +3,35 @@
 
 import { setActiveLink } from './navigation.js';
 import { addCopyButtons } from './ui.js';
-import { renderNewsCarousel, renderNewsPage } from './news.js';
+import { renderNewsCarousel, renderNewsPage, cleanupNewsCarousel } from './news.js';
 import { renderKnowledgeBaseIndex, renderKnowledgeBaseArticle, initKnowledgeBase } from './knowledge-base.js';
 
 const contentEl = document.getElementById('content');
 let currentBase = 'Pages/';
+let currentPath = '';
 
 async function loadPage(path) {
     try {
-        // Initialize knowledge base on first load
-        await initKnowledgeBase();
+        // Cleanup previous page resources
+        const previousPath = currentPath;
+        currentPath = path;
+        
+        // Clean up news carousel if navigating away from home page
+        if (previousPath === 'Pages/home.html' && path !== 'Pages/home.html') {
+            cleanupNewsCarousel();
+        }
+        
+        // Clean up KB search if navigating away from KB pages
+        if (previousPath.startsWith('KnowledgeBase/') && !path.startsWith('KnowledgeBase/')) {
+            try {
+                const kbSearchModule = await import('./kb-search.js');
+                if (kbSearchModule.cleanupKBSearchUI) {
+                    kbSearchModule.cleanupKBSearchUI();
+                }
+            } catch (err) {
+                // Ignore errors if module not loaded
+            }
+        }
         
         if (path === 'Pages/mod-showcase.html') {
             window.location.href = 'https://www.nexusmods.com/games/vein/mods?timeRange=7&sort=endorsements';
@@ -21,6 +40,15 @@ async function loadPage(path) {
         
         // Handle Knowledge Base routes
         if (path.startsWith('KnowledgeBase/')) {
+            try {
+                // Initialize knowledge base only when needed
+                await initKnowledgeBase();
+            } catch (err) {
+                console.error('Error initializing knowledge base:', err);
+                contentEl.innerHTML = `<div class="callout warning"><p><strong>Error:</strong> Failed to initialize Knowledge Base. Please refresh the page.</p></div>`;
+                return;
+            }
+            
             const layout = document.querySelector('.layout');
             layout.classList.remove('hide-sidebar');
             document.body.classList.remove('is-home-page');
@@ -30,35 +58,36 @@ async function loadPage(path) {
             // Update sidebar visibility
             setActiveLink();
             
-            if (path === 'KnowledgeBase/index.html' || path === 'KnowledgeBase/') {
-                const content = await renderKnowledgeBaseIndex();
-                contentEl.innerHTML = content;
-                // Initialize KB search after rendering
-                const kbSearchModule = await import('./kb-search.js');
-                await kbSearchModule.initKBSearch();
-                kbSearchModule.initKBSearchUI();
-            } else {
-                // Extract filename from path (e.g., "KnowledgeBase/01_Items_System.md")
-                const filename = path.replace('KnowledgeBase/', '');
-                const result = await renderKnowledgeBaseArticle(filename);
-                contentEl.innerHTML = result.html;
-                // Update page title if possible
-                if (result.title && document.querySelector('title')) {
-                    document.querySelector('title').textContent = `${result.title} - VEIN Modding`;
+            try {
+                if (path === 'KnowledgeBase/index.html' || path === 'KnowledgeBase/') {
+                    const content = await renderKnowledgeBaseIndex();
+                    contentEl.innerHTML = content;
+                    // Initialize KB search after rendering
+                    const kbSearchModule = await import('./kb-search.js');
+                    await kbSearchModule.initKBSearch();
+                    kbSearchModule.initKBSearchUI();
+                } else {
+                    // Extract filename from path (e.g., "KnowledgeBase/01_Items_System.md")
+                    const filename = path.replace('KnowledgeBase/', '');
+                    const result = await renderKnowledgeBaseArticle(filename);
+                    contentEl.innerHTML = result.html;
+                    // Update page title if possible
+                    if (result.title && document.querySelector('title')) {
+                        document.querySelector('title').textContent = `${result.title} - VEIN Modding`;
+                    }
+                    // Initialize KB search after rendering
+                    const kbSearchModule = await import('./kb-search.js');
+                    await kbSearchModule.initKBSearch();
+                    kbSearchModule.initKBSearchUI();
                 }
-                // Initialize KB search after rendering
-                const kbSearchModule = await import('./kb-search.js');
-                await kbSearchModule.initKBSearch();
-                kbSearchModule.initKBSearchUI();
-            }
-            
-            addCopyButtons();
-            if (window.hljs) {
-                window.hljs.highlightAll();
-            }
-            // setActiveLink is already called above for KB pages
-            if (!path.startsWith('KnowledgeBase/')) {
-                setActiveLink();
+                
+                addCopyButtons();
+                if (window.hljs) {
+                    window.hljs.highlightAll();
+                }
+            } catch (err) {
+                console.error('Error rendering Knowledge Base content:', err);
+                contentEl.innerHTML = `<div class="callout warning"><p><strong>Error:</strong> Could not load Knowledge Base page. ${err.message || 'Please try again.'}</p></div>`;
             }
             return;
         }
@@ -146,9 +175,11 @@ async function loadPage(path) {
             window.hljs.highlightAll();
         }
         
+        setActiveLink();
+        
     } catch (err) {
-        contentEl.innerHTML = `<p>Could not load page.</p>`;
-        console.error(err);
+        console.error('Error loading page:', err);
+        contentEl.innerHTML = `<div class="callout warning"><p><strong>Error:</strong> Could not load page. ${err.message || 'Please try again or refresh the page.'}</p></div>`;
     }
 }
 
@@ -164,19 +195,7 @@ function onHashChange() {
     setActiveLink();
 }
 
-function interceptLinks() {
-    document.addEventListener('click', (e) => {
-        const link = e.target.closest('a');
-        if (link && link.getAttribute('href')?.startsWith('#')) {
-            const targetHash = link.getAttribute('href');
-            if (location.hash !== targetHash) {
-            }
-        }
-    });
-}
-
 export function initLoader() {
-    interceptLinks();
     window.addEventListener('hashchange', onHashChange);
     onHashChange();
 }

@@ -13,23 +13,10 @@ let knowledgeBaseFiles = [];
  * Get list of all markdown files in KnowledgeBase
  */
 export async function getKnowledgeBaseFiles() {
-    if (knowledgeBaseFiles.length > 0) {
-        return knowledgeBaseFiles;
+    // Ensure knowledge base is initialized
+    if (knowledgeBaseFiles.length === 0) {
+        await initKnowledgeBase();
     }
-    
-    try {
-        // Try to fetch a manifest file first, or scan the directory
-        const response = await fetch('./KnowledgeBase/manifest.json');
-        if (response.ok) {
-            const manifest = await response.json();
-            knowledgeBaseFiles = manifest.files || [];
-            return knowledgeBaseFiles;
-        }
-    } catch (err) {
-        console.warn('Could not load manifest, will use default list');
-    }
-    
-    // Default list - will be generated from actual files
     return knowledgeBaseFiles;
 }
 
@@ -171,8 +158,26 @@ export async function renderKnowledgeBaseArticle(filename) {
  * Initialize knowledge base by fetching file list
  */
 export async function initKnowledgeBase() {
-    // This can be expanded to fetch actual file list from a manifest or API
-    // For now, we'll use a static list that matches the files found
+    // If already initialized, return early
+    if (knowledgeBaseFiles.length > 0) {
+        return knowledgeBaseFiles;
+    }
+    
+    try {
+        // Try to fetch a manifest file first, or scan the directory
+        const response = await fetch('./KnowledgeBase/manifest.json');
+        if (response.ok) {
+            const manifest = await response.json();
+            knowledgeBaseFiles = manifest.files || [];
+            if (knowledgeBaseFiles.length > 0) {
+                return knowledgeBaseFiles;
+            }
+        }
+    } catch (err) {
+        console.warn('Could not load manifest, will use default list');
+    }
+    
+    // Default list - will be generated from actual files
     knowledgeBaseFiles = [
         '00_MASTER_INDEX.md',
         '01_Items_System.md',
@@ -192,4 +197,6 @@ export async function initKnowledgeBase() {
         '15_Technical_Reference.md',
         '16_Pakchunk_Structure.md'
     ];
+    
+    return knowledgeBaseFiles;
 }

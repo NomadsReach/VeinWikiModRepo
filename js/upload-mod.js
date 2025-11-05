@@ -1,28 +1,19 @@
 /* jshint esversion: 11 */
 /* globals console */
 
-const BACKBLAZE_B2_CONFIG = {
-	bucketName: 'VeinModdingHosting',
-	bucketId: 'ebf94d8a2cf64b7b95a60516',
-	endpoint: 's3.us-east-005.backblazeb2.com',
-	cdnEndpoint: 'febf94d8a2cf64b7b95a60516.backblazeb2.com',
-	uploadEndpoint: (() => {
-		const PRODUCTION_API_URL = null;
-		
-		if (PRODUCTION_API_URL) {
-			return PRODUCTION_API_URL;
-		}
-		
-		const currentHost = window.location.hostname;
-		const isLocalhost = currentHost === 'localhost' || currentHost === '127.0.0.1';
-		
-		if (isLocalhost) {
-			return '/api/submit-mod';
-		}
-		
-		return '/api/submit-mod';
-	})()
-};
+/**
+ * API endpoint for mod submission
+ * 
+ * SECURITY NOTE: This endpoint should be a secure server-side proxy that:
+ * - Validates and sanitizes all input
+ * - Handles authentication and authorization
+ * - Manages secure storage provider credentials (keys, tokens, etc.)
+ * - Never exposes storage provider secrets to the client
+ * 
+ * Client-side validation is provided for UX only and can be bypassed.
+ * All actual security must be enforced server-side.
+ */
+const API_ENDPOINT = '/api/submit-mod';
 
 const MAX_FILE_SIZE = 100 * 1024 * 1024;
 const MAX_SCREENSHOT_SIZE = 5 * 1024 * 1024;
@@ -320,11 +311,7 @@ async function handleFormSubmit(e) {
 			formData.append('screenshots', file, file.name);
 		});
 		
-		formData.append('storageProvider', 'backblaze-b2');
-		formData.append('bucketName', BACKBLAZE_B2_CONFIG.bucketName);
-		formData.append('bucketId', BACKBLAZE_B2_CONFIG.bucketId);
-		
-		const response = await fetch(BACKBLAZE_B2_CONFIG.uploadEndpoint, {
+		const response = await fetch(API_ENDPOINT, {
 			method: 'POST',
 			body: formData
 		});
@@ -333,14 +320,6 @@ async function handleFormSubmit(e) {
 		
 		if (response.ok) {
 			const successMessage = result.message || 'Mod submitted successfully! It will now be reviewed.';
-			
-			if (result.fileUrl && typeof window !== 'undefined' && window.location.hostname === 'localhost') {
-				console.log('Mod file uploaded to Backblaze B2:', result.fileUrl);
-				if (result.screenshotUrls) {
-					console.log('Screenshots uploaded:', result.screenshotUrls);
-				}
-			}
-			
 			showSuccess(successMessage);
 			form.reset();
 			document.getElementById('fileInfo').style.display = 'none';
