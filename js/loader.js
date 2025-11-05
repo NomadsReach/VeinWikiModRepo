@@ -4,14 +4,62 @@
 import { setActiveLink } from './navigation.js';
 import { addCopyButtons } from './ui.js';
 import { renderNewsCarousel, renderNewsPage } from './news.js';
+import { renderKnowledgeBaseIndex, renderKnowledgeBaseArticle, initKnowledgeBase } from './knowledge-base.js';
 
 const contentEl = document.getElementById('content');
 let currentBase = 'Pages/';
 
 async function loadPage(path) {
     try {
+        // Initialize knowledge base on first load
+        await initKnowledgeBase();
+        
         if (path === 'Pages/mod-showcase.html') {
             window.location.href = 'https://www.nexusmods.com/games/vein/mods?timeRange=7&sort=endorsements';
+            return;
+        }
+        
+        // Handle Knowledge Base routes
+        if (path.startsWith('KnowledgeBase/')) {
+            const layout = document.querySelector('.layout');
+            layout.classList.remove('hide-sidebar');
+            document.body.classList.remove('is-home-page');
+            document.body.classList.remove('is-news-page');
+            document.body.classList.remove('is-upload-mod-page');
+            
+            // Update sidebar visibility
+            setActiveLink();
+            
+            if (path === 'KnowledgeBase/index.html' || path === 'KnowledgeBase/') {
+                const content = await renderKnowledgeBaseIndex();
+                contentEl.innerHTML = content;
+                // Initialize KB search after rendering
+                const kbSearchModule = await import('./kb-search.js');
+                await kbSearchModule.initKBSearch();
+                kbSearchModule.initKBSearchUI();
+            } else {
+                // Extract filename from path (e.g., "KnowledgeBase/01_Items_System.md")
+                const filename = path.replace('KnowledgeBase/', '');
+                const result = await renderKnowledgeBaseArticle(filename);
+                contentEl.innerHTML = result.html;
+                // Update page title if possible
+                if (result.title && document.querySelector('title')) {
+                    document.querySelector('title').textContent = `${result.title} - VEIN Modding`;
+                }
+                // Initialize KB search after rendering
+                const kbSearchModule = await import('./kb-search.js');
+                await kbSearchModule.initKBSearch();
+                kbSearchModule.initKBSearchUI();
+            }
+            
+            addCopyButtons();
+            if (window.hljs) {
+                window.hljs.highlightAll();
+            }
+            // setActiveLink is already called above for KB pages
+            if (!path.startsWith('KnowledgeBase/')) {
+                setActiveLink();
+            }
             return;
         }
         

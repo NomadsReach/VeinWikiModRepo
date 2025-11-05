@@ -178,3 +178,187 @@
 	display:block;
 }
 
+/* Knowledge Base Search Styles */
+.kb-search-container {
+    margin: 30px 0;
+    padding: 0;
+}
+
+.kb-search-wrapper {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.kb-search-icon {
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    pointer-events: none;
+}
+
+.kb-search-input {
+    width: 100%;
+    padding: 12px 16px 12px 48px;
+    background: var(--panel);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    font-size: 16px;
+    transition: all 0.2s ease;
+}
+
+.kb-search-input:focus {
+    outline: none;
+    border-color: var(--accent);
+    background: var(--panel-2);
+}
+
+.kb-search-input::placeholder {
+    color: var(--muted);
+}
+
+.kb-search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-top: 8px;
+    background: var(--panel);
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    max-height: 400px;
+    overflow-y: auto;
+    z-index: 1000;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+}
+
+.kb-search-item {
+    padding: 12px 16px;
+    color: var(--text);
+    cursor: pointer;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.2s ease;
+}
+
+.kb-search-item:last-child {
+    border-bottom: none;
+}
+
+.kb-search-item:hover {
+    background: var(--panel-2);
+    color: var(--accent);
+}
+
+.kb-search-item:first-child {
+    border-radius: 8px 8px 0 0;
+}
+
+.kb-search-item:last-child {
+    border-radius: 0 0 8px 8px;
+}
+
+.knowledge-base-header {
+    margin-bottom: 30px;
+}
+
+/* Knowledge Base Styles */
+.knowledge-base-master-index {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.knowledge-base-categories {
+    margin: 40px 0;
+}
+
+.knowledge-base-category {
+    margin-bottom: 40px;
+}
+
+.knowledge-base-category h2 {
+    font-size: 1.5em;
+    margin: 0 0 16px 0;
+    color: var(--text);
+    border-left: 4px solid var(--accent);
+    padding-left: 16px;
+}
+
+.knowledge-base-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.knowledge-base-list li {
+    margin: 8px 0;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.knowledge-base-list li:last-child {
+    border-bottom: none;
+}
+
+.knowledge-base-list a {
+    color: var(--text);
+    text-decoration: none;
+    display: block;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.knowledge-base-list a:hover {
+    background: var(--panel-2);
+    color: var(--accent);
+    padding-left: 16px;
+}
+
+.knowledge-base-article {
+    max-width: 100%;
+}
+
+.knowledge-base-article h1 {
+    font-size: 2.5em;
+    margin: 0 0 24px 0;
+    border-bottom: 3px solid var(--accent);
+    padding-bottom: 16px;
+}
+
+.knowledge-base-article h2 {
+    margin-top: 48px;
+    margin-bottom: 16px;
+}
+
+.knowledge-base-article h3 {
+    margin-top: 32px;
+    margin-bottom: 12px;
+}
+
+/* Ensure code blocks in knowledge base are styled correctly */
+.knowledge-base-article pre {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    overflow-x: auto;
+}
+
+.knowledge-base-article code {
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-family: 'Consolas', 'Monaco', monospace;
+    font-size: 0.9em;
+}
+
+.knowledge-base-article pre code {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
