@@ -9,23 +9,31 @@ import {
     initDiscordWidget, 
     initOrientationBanner, 
     initCollapsibleSections,
-    initEasterEgg
+    initEasterEgg,
+    initKBDropdown
 } from './js/ui.js';
 import { renderNewsCarousel, renderNewsPage } from './js/news.js';
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        await buildSidebar();
+    } catch (err) {
+        console.error('Error building sidebar:', err);
+    }
     
-    buildSidebar();
-    initMobileMenu();
-    initSearch();
-
-    initEmailModal();
+    try {
+        initMobileMenu();
+        initSearch();
+            initEmailModal();
     initDiscordWidget();
     initOrientationBanner();
     initCollapsibleSections();
     initEasterEgg();
-
+    await initKBDropdown();
     initLoader();
+    } catch (err) {
+        console.error('Error initializing components:', err);
+    }
 
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.getRegistrations().then(function(registrations) {
@@ -34,6 +42,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }).catch(function(err) {
             console.log('Service Worker unregistration failed: ', err);
-});
+        });
     }
 });

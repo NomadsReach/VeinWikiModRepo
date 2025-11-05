@@ -1,6 +1,8 @@
 /* jshint esversion: 11 */
 /* globals lunr, console */
 
+import { getKnowledgeBaseFiles, initKnowledgeBase, loadKnowledgeBaseFile, extractTitle } from './knowledge-base.js';
+
 const PAGES = [
     'Pages/home.html', 'Pages/start-here.html',
     'Pages/Introduction/index.html', 'Pages/Introduction/1_KeyInfo.html', 'Pages/Introduction/2_Downloads.html', 'Pages/Introduction/3_ToolConfiguration.html', 'Pages/Introduction/4_AssetEditing.html', 'Pages/Introduction/5_Packaging.html', 'Pages/Introduction/6_UEProjectSetup.html', 'Pages/Introduction/7_FontMod.html', 'Pages/Introduction/8_LogicMods.html', 'Pages/Introduction/9_FinalNotes.html',
@@ -29,14 +31,34 @@ async function buildIndex() {
         return;
     }
     
+    // Initialize knowledge base and get files
+    await initKnowledgeBase();
+    const kbFiles = await getKnowledgeBaseFiles();
+    const kbPaths = kbFiles.map(file => `KnowledgeBase/${file}`);
+    
+    // Combine regular pages with knowledge base files
+    const allPages = [...PAGES, 'KnowledgeBase/index.html', ...kbPaths];
+    
     const responses = await Promise.all(
-        PAGES.map(page => 
-            fetch('./' + page)
-                .catch(err => {
-                    console.warn(`Failed to fetch ${page}:`, err);
-                    return null;
-                })
-        )
+        allPages.map(page => {
+            if (page.startsWith('KnowledgeBase/') && page !== 'KnowledgeBase/index.html') {
+                // Handle markdown files
+                const filename = page.replace('KnowledgeBase/', '');
+                return loadKnowledgeBaseFile(filename)
+                    .then(text => ({ ok: true, text: () => Promise.resolve(text), isMarkdown: true }))
+                    .catch(err => {
+                        console.warn(`Failed to fetch ${page}:`, err);
+                        return null;
+                    });
+            } else {
+                // Handle HTML files
+                return fetch('./' + page)
+                    .catch(err => {
+                        console.warn(`Failed to fetch ${page}:`, err);
+                        return null;
+                    });
+            }
+        })
     );
     
     const texts = await Promise.all(
@@ -45,9 +67,10 @@ async function buildIndex() {
                 return null;
             }
             try {
-                return await res.text();
+                const text = await res.text();
+                return { text, isMarkdown: res.isMarkdown || false };
             } catch (err) {
-                console.warn(`Failed to parse ${PAGES[index]}:`, err);
+                console.warn(`Failed to parse ${allPages[index]}:`, err);
                 return null;
             }
         })
@@ -58,13 +81,23 @@ async function buildIndex() {
         this.field('title');
         this.field('body');
         
-        texts.forEach((text, i) => {
-            if (!text) return;
+        texts.forEach((item, i) => {
+            if (!item) return;
             
-            const path = PAGES[i];
-            const doc = new DOMParser().parseFromString(text, 'text/html');
-            const title = doc.querySelector('title')?.textContent || path.split('/').pop().replace('.html', '');
-            const body = doc.body?.textContent || '';
+            const path = allPages[i];
+            let title, body;
+            
+            if (item.isMarkdown) {
+                // Extract from markdown
+                title = extractTitle(item.text);
+                // Remove markdown syntax for body text
+                body = item.text.replace(/^#+\s+/gm, '').replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1').replace(/`([^`]+)`/g, '$1');
+            } else {
+                // Extract from HTML
+                const doc = new DOMParser().parseFromString(item.text, 'text/html');
+                title = doc.querySelector('title')?.textContent || path.split('/').pop().replace(/\.(html|md)$/, '');
+                body = doc.body?.textContent || '';
+            }
             
             this.add({ path, title, body });
             searchData[path] = { title };

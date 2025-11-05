@@ -164,3 +164,31 @@
 	display:block;
 }
 
+/* Knowledge Base Section Collapsible */
+.kb-section-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+
+.kb-section-header:hover {
+    opacity: 0.8;
+}
+
+.kb-collapse-icon {
+    font-size: 0.7em;
+    color: var(--muted);
+    transition: transform 0.3s ease;
+    transform: rotate(180deg); /* Default to expanded (pointing down) */
+}
+
+.kb-section-header.collapsed .kb-collapse-icon {
+    transform: rotate(0deg); /* Collapsed (pointing right) */
+}
+
+.kb-section-content {
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
