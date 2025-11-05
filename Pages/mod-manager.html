@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VEIN Mod Manager</title>
+</head>
+<body>
+
+<div class="mod-manager-hero">
+    <div class="mod-manager-hero-content">
+        <div class="mod-manager-intro">
+            <h1>VEIN Mod Manager</h1>
+            <p class="mod-manager-subtitle">Manage your VEIN mods with a straightforward interface.</p>
+            <a href="https://www.nexusmods.com/vein/mods/25?tab=description" target="_blank" class="mod-manager-download-btn">
+                <i class="fas fa-download"></i>
+                <span>Download on Nexus Mods</span>
+            </a>
+        </div>
+        <div class="mod-manager-image">
+            <img src="Media/MMHome.png" alt="VEIN Mod Manager" loading="lazy">
+        </div>
+    </div>
+</div>
+
+<div class="mod-manager-features-section">
+    <h2>Features</h2>
+    <ul class="mod-manager-features-list">
+        <li>Drag & drop or browse to install mods</li>
+        <li>Extracts ZIP, 7Z, and RAR files automatically</li>
+        <li>Scans for mod conflicts</li>
+        <li>Protects base game files</li>
+        <li>Remembers your game installation path</li>
+        <li>Dark theme interface</li>
+    </ul>
+</div>
+
+<style>
+/* Mod Manager Page Styles */
+.mod-manager-hero {
+    background: transparent;
+    padding: 40px 20px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mod-manager-hero-content {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.mod-manager-image {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    background: transparent;
+}
+
+.mod-manager-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    min-height: 60vh;
+    object-fit: contain;
+}
+
+.mod-manager-intro {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.mod-manager-intro h1 {
+    margin: 0 0 20px 0;
+    color: var(--text);
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.mod-manager-subtitle {
+    margin: 0 0 32px 0;
+    color: var(--muted);
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.mod-manager-download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--accent);
+    color: white !important;
+    padding: 16px 32px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    width: fit-content;
+    margin: 0 auto;
+    box-shadow: 0 4px 20px rgba(198, 61, 61, 0.3);
+}
+
+.mod-manager-download-btn:hover {
+    background: #d94545;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 32px rgba(198, 61, 61, 0.4);
+}
+
+.mod-manager-download-btn i {
+    font-size: 18px;
+}
+
+.mod-manager-features-section {
+    margin: 60px auto;
+    max-width: 1200px;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mod-manager-features-section h2 {
+    text-align: center;
+    margin: 0 0 40px 0;
+    color: var(--text);
+    font-size: 36px;
+    font-weight: 700;
+    border-left: none !important;
+    padding-left: 0 !important;
+}
+
+.mod-manager-features-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 600px;
+    text-align: left;
+}
+
+.mod-manager-features-list li {
+    padding: 12px 0;
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.6;
+    border-bottom: 1px solid var(--border);
+}
+
+.mod-manager-features-list li:last-child {
+    border-bottom: none;
+}
+
+.mod-manager-features-list li::before {
+    content: "•";
+    color: var(--accent);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-right: 8px;
+}
+
+@media (max-width: 768px) {
+    .mod-manager-hero-content {
+        gap: 30px;
+    }
+    
+    .mod-manager-image img {
+        min-height: 40vh;
+    }
+    
+    .mod-manager-intro h1 {
+        font-size: 32px;
+    }
+    
+
+}
+</style>
+
+</body>
+</html>
